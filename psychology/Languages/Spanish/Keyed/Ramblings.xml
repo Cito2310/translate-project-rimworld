@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ParanoidRambling1>¡Malditos idiotas! Estamos condenados</ParanoidRambling1>
+	<ParanoidRambling2>¡Ellos vienen! ¡Nos destruirán!</ParanoidRambling2>
+	<ParanoidRambling3>!Este lugar esta maldito!</ParanoidRambling3>
+	<ParanoidRambling4>!Todos vamos a morir!</ParanoidRambling4>
+	<ParanoidRambling5>!Maldito lugar!</ParanoidRambling5>
+	<ParanoidRambling6>!Nuestra vieja vida se ido. Somos sombras de los muertos!</ParanoidRambling6>
+	<ParanoidRambling7>!Este miserable lugar sera nuestra tumba!</ParanoidRambling7>
+	<ParanoidRambling8>!Cuando antes nos muramos, antes terminara el sufrimiento!</ParanoidRambling8>
+	<ParanoidRambling9>¡Tontos! ¡Sois marionetas con hilos!</ParanoidRambling9>
+	<ParanoidRambling10>¿No puedes ver? ¡Somos meros juguetes!</ParanoidRambling10>
+	<ParanoidRambling11>¡Se ríen de nuestro tormento! ¡Se ríen!</ParanoidRambling11>
+	<ParanoidRambling12>¿Eres feliz ahora? ¡Todos vamos a morir!</ParanoidRambling12>
+	<ParanoidRambling13>You stand a stone's throw from oblivion!</ParanoidRambling13>
+	<ParanoidRambling14>¡Lo peor está por venir! ¡No estamos preparados!</ParanoidRambling14>
+	<ParanoidRambling15>¡Todo es inútil! ¡Estamos perdiendo el tiempo!</ParanoidRambling15>
+	<ParanoidRambling16>¿Por qué estamos aquí? ¿Solo para sufrir?</ParanoidRambling16>
+	<ParanoidRambling17>¡Nuestras mentes no son nuestras!</ParanoidRambling17>
+	<ParanoidRambling18>¡Tu estupidez nos ha condenado a todos!</ParanoidRambling18>
+	<ParanoidRambling19>¡Corre mientras puedas!</ParanoidRambling19>
+	<ParanoidRambling20>¡Este maldito infierno será nuestra tumba!</ParanoidRambling20>
+	<ParanoidRambling21>¡Somos meros peones en manos del destino!</ParanoidRambling21>
+	<ParanoidRambling22>Estoy perdiendo mi tiempo. ¡Estáis todos ciegos y sordos!</ParanoidRambling22>
+	<ParanoidRambling23>¡Nunca mejorará! ¡Nunca seremos salvos!</ParanoidRambling23>
+	<ParanoidRambling24>¡Nunca hemos estado más solos e indeseado!</ParanoidRambling24>
+	<ParanoidRambling25>Trabajamos, enfermamos, morimos, ¿para qué?</ParanoidRambling25>
+	<ParanoidRambling26>¡Cualquiera de ustedes podría morir en cualquier momento!</ParanoidRambling26>
+	<ParanoidRambling27>¡Todos estamos mejor muertos!</ParanoidRambling27>
+	<ParanoidRambling28>¡Esto es sólo un sueño, todavía podemos despertar!</ParanoidRambling28>
+	<ParanoidRambling29>¡Cada momento que respiras prolonga la agonía!</ParanoidRambling29>
+	<ParanoidRambling30>Si alguien estuviera cuidando de nosotros, ¿estaríamos en una situación tan desesperada?</ParanoidRambling30>
+	<ParanoidRambling31>¡La conciencia es una herida supurante!</ParanoidRambling31>
+	<ParanoidRambling32>¡Nos vuelven locos! ¡Hacen que nos comamos unos a otros!</ParanoidRambling32>
+	<ParanoidRambling33>¡Quieren tenernos encerrados aquí como animales!</ParanoidRambling33>
+	
+	<FellMurmuring1>{0_possessive} culpa...</FellMurmuring1>
+	<FellMurmuring2>Todo esto es culpa de {0_possessive}...</FellMurmuring2>
+	<FellMurmuring3>No puede dejar que {0_objective} se salga con la suya...</FellMurmuring3>
+	<FellMurmuring4>{0_pronoun} piensa que {0_pronoun} es inteligente, ¿verdad {0_pronoun}?</FellMurmuring4>
+	<FellMurmuring5>Mostrare {0_objective}...</FellMurmuring5>
+	<FellMurmuring6>Traidores... saboteadores... conspiradores...</FellMurmuring6>
+	<FellMurmuring7>{0_pronoun} se burla de mi...</FellMurmuring7>
+	<FellMurmuring8>Como se atreve {0_pronoun}...</FellMurmuring8>
+	<FellMurmuring9>{0_pronoun} Cree que no me doy cuenta?</FellMurmuring9>
+	<FellMurmuring10>Debo hacer esto yo mismo... no se puede confiar en nadie.</FellMurmuring10>
+	<FellMurmuring11>Por el bien de todos nosotros...</FellMurmuring11>
+	<FellMurmuring12>Resolvere este problema yo mismo...</FellMurmuring12>
+	<FellMurmuring13>[Murmullo]</FellMurmuring13>
+	<FellMurmuring14>[Gruñendo]</FellMurmuring14>
+	<FellMurmuring15>[Silbido]</FellMurmuring15>
+	<FellMurmuring16>[Murmullo]</FellMurmuring16>
+	<FellMurmuring17>[Balbuceo imcomprensible]</FellMurmuring17>
+	<FellMurmuring18>Idiotas!</FellMurmuring18>
+	<FellMurmuring19>Demonio!</FellMurmuring19>
+	<FellMurmuring20>Bruitre!</FellMurmuring20>
+	<FellMurmuring21>Monstruo!</FellMurmuring21>
+	<FellMurmuring22>Mentiroso!</FellMurmuring22>
+	<FellMurmuring23>A mi eslpalda... siempre a mi espalda</FellMurmuring23>
+	<FellMurmuring24>La fuente de todos nuestros problemas...</FellMurmuring24>
+	<FellMurmuring25>{0_pronoun} nunca lo vera venir...</FellMurmuring25>
+	<FellMurmuring26>Lo planeare todo...</FellMurmuring26>
+	<FellMurmuring27>Pensare en todo...</FellMurmuring27>
+	<FellMurmuring28>Esperare hasta que sea el momento adecuado...</FellMurmuring28>
+	<FellMurmuring29>!Curare este lugar de su plaga!</FellMurmuring29>
+	<FellMurmuring30>Si nadie más lo hace, lo haré yo.</FellMurmuring30>
+	<FellMurmuring31>Ninguno de ellos lo ve ... todos están tan ciegos ...</FellMurmuring31>
+	<FellMurmuring32>Puedo hacer esto... debo hacer esto...</FellMurmuring32>
+	<FellMurmuring33>Incluso ahora, {0_pronoun} se rie de mi...</FellMurmuring33>
+	<FellMurmuring34>Sirve {0_objective} justo...</FellMurmuring34>
+	<FellMurmuring35>{0_pronoun} sera mi muerte...</FellMurmuring35>
+	<FellMurmuring36>Debí haber hecho esto hace mucho tiempo...</FellMurmuring36>
+</LanguageData>
