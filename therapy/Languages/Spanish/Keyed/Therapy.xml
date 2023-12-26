@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Couch -->
+  <CommandThingSetPatientsLabel>Establecer paciente</CommandThingSetPatientsLabel>
+  <CommandBedSetPatientsDesc>Asigna este sofá a colonos específicos. Si no hay nadie asignado, todos pueden usarlo.</CommandBedSetPatientsDesc>
+  <NeedsChair>Requiere una silla cerca para poder usarse.</NeedsChair>
+  
+  <!-- Patient -->
+  <ReceiveTherapyReport>Ser aconsejado.</ReceiveTherapyReport>
+  <CounseledTooltip>Ser aconsejado ({0})</CounseledTooltip>
+  
+</LanguageData>
