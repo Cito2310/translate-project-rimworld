@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cannonball -->
+  <Romy_Bullet_Cannon.label>Bola de cañon</Romy_Bullet_Cannon.label>
+  
+  <!-- EN: harpoon -->
+  <Romy_Bullet_HarpoonGun.label>Arpon</Romy_Bullet_HarpoonGun.label>
+  
+  <!-- EN: cannon -->
+  <Romy_Gun_Cannon.label>Cañon</Romy_Gun_Cannon.label>
+  <!-- EN: A small naval cannon fitted with handles to make it a portable heavy weapon. Has a big cooldown and warmup time but deals a ton of damage. -->
+  <Romy_Gun_Cannon.description>Un pequeño cañon naval, con una empuñadura para ser usado como una arma pesada y portable. Tiene un gran tiempo de enfriamiento y se calienta bastante, pero provoca un monton de daño.</Romy_Gun_Cannon.description>
+  <!-- EN: grip -->
+  <Romy_Gun_Cannon.tools.grip.label>Empuñadura de Cañon</Romy_Gun_Cannon.tools.grip.label>
+  <!-- EN: barrel -->
+  <Romy_Gun_Cannon.tools.barrel.label>Barril de Cañon</Romy_Gun_Cannon.tools.barrel.label>
+  <!-- EN: cannon -->
+  <Romy_Gun_Cannon.verbs.Verb_Shoot.label>Cañon</Romy_Gun_Cannon.verbs.Verb_Shoot.label>
+  
+  <!-- EN: harpoon gun -->
+  <Romy_Gun_HarpoonGun.label>Pistola de Arpon</Romy_Gun_HarpoonGun.label>
+  <!-- EN: A harpoon gun made to hunt fish. Can be used to hunt humans too. -->
+  <Romy_Gun_HarpoonGun.description>Pistola de Arpon usada cazar peces. Tambien se puede usar con humanos</Romy_Gun_HarpoonGun.description>
+  <!-- EN: grip -->
+  <Romy_Gun_HarpoonGun.tools.grip.label>Empuñadura de Arpon</Romy_Gun_HarpoonGun.tools.grip.label>
+  <!-- EN: harpoon gun -->
+  <Romy_Gun_HarpoonGun.verbs.Verb_Shoot.label>Pistola de Arpon</Romy_Gun_HarpoonGun.verbs.Verb_Shoot.label>
+  
+</LanguageData>
