@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: scavenge at scavenging spot -->
+  <RomyScavenge.label>Rastrillando en el Lugar de Rastrillaje</RomyScavenge.label>
+  <!-- EN: scavenging -->
+  <RomyScavenge.gerund>Rastrillando</RomyScavenge.gerund>
+  <!-- EN: scavenge -->
+  <RomyScavenge.verb>Rastrillaje</RomyScavenge.verb>
+  
+</LanguageData>
