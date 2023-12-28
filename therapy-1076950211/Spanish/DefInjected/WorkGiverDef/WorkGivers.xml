@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Therapy.label>Asesorar a los colonos</Therapy.label>
+  <Therapy.verb>Asesorando</Therapy.verb>
+  <Therapy.gerund>Asesoramiento</Therapy.gerund>
+
+  <ReceiveTherapy.label>Esperar terapia</ReceiveTherapy.label>
+  <ReceiveTherapy.verb>Esperando</ReceiveTherapy.verb>
+  <ReceiveTherapy.gerund>Esperando terapia</ReceiveTherapy.gerund>
+
+</LanguageData>
