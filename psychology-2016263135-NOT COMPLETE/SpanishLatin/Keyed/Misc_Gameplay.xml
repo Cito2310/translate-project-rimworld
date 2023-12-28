@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<MayorTitle>Alcalde</MayorTitle>
+
+	<!-- Lord job reports -->
+	<LordReportAttendingElection>Visita el lugar de votacion</LordReportAttendingElection>
+	<LordReportVisitingMayor>Atendiendo a una reunion</LordReportVisitingMayor>
+	<LordReportHangingOut>Esta saliendo con alguien</LordReportHangingOut>
+	<LordReportDate>En una cita</LordReportDate>
+	<LordReportAttendingFuneral>Atendiendo un funeral</LordReportAttendingFuneral>
+
+	<!-- Miscellaneous thought log text -->
+	<ConversationStage>conversando sobre</ConversationStage>
+	<ConversationEnd>[INITIATOR_nameDef] finalizo una conversacion con [RECIPIENT_nameDef].</ConversationEnd>
+	<ConversationEnded>finaliza la conversacion</ConversationEnded>
+	<Complained>{0_labelShort} se quejo ante el alcalde, {1_labelShort}.</Complained>
+	<Supported>{0_labelShort} expreso {0_possessive} su apoyo al alcalde, {1_labelShort}.</Supported>
+
+	<!-- Comp text -->
+	<CommandOfficeTableToggleLabel>Alcaldia</CommandOfficeTableToggleLabel>
+	<CommandOfficeTableToggleDescActive>Esta sala esta designada como oficina del alcalde, si tienes un alcalde, las reuniones se realizaran aqui</CommandOfficeTableToggleDescActive>
+	<CommandOfficeTableToggleDescInactive>Puede asignar una sala como oficina del alcalde</CommandOfficeTableToggleDescInactive>
+
+	<!-- Prepare Carefully warning -->
+	<EdBPrepareCarefullyWarning>ADVERTENCIA</EdBPrepareCarefullyWarning>
+	<EdBPrepareCarefullyWarningTooltip>{0} corrupts the default data structures, and interacts poorly with Psychology. The player is strongly encouraged to {1} as it achieves the same capabilities, including modifying initial item loadouts, while avoiding game-breaking problems. {2}</EdBPrepareCarefullyWarningTooltip>
+	<EdBPrepareCarefullyWarningTooltip0>Prepare Carefully puede generar glitches,</EdBPrepareCarefullyWarningTooltip0>
+	<EdBPrepareCarefullyWarningTooltip1>use el Editor de caracteres en su lugar,</EdBPrepareCarefullyWarningTooltip1>
+	<EdBPrepareCarefullyWarningTooltip2>Ha sido advertido.</EdBPrepareCarefullyWarningTooltip2>
+
+</LanguageData>

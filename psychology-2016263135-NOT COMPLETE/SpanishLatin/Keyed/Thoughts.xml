@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<ComplaintLabel>Se quejo con el alcalde</ComplaintLabel>
+	<ComplaintDesc>Quejarme con el alcalde me hizo sentir asi.</ComplaintDesc>
+	
+	<VisitLabel>Visitado por integrante</VisitLabel>
+	<VisitDesc>La visita de un integrante me hizo sentir asi.</VisitDesc>
+	
+	<AttendedFuneralThought>Asistio al funeral de {0}</AttendedFuneralThought>
+	<AttendedFuneralDesc>Todavia no puedo creer que {0_pronoun} haya muerto, pero... estoy mas en paz despues del funeral.</AttendedFuneralDesc>
+
+	<MentalIllness>Enfermedad mental</MentalIllness>
+
+</LanguageData>
