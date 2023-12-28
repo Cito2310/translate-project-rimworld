@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <TM_DarkBerries.label>Bayas Negras</TM_DarkBerries.label>
+    <TM_DarkBerries.description>Bayas Negras crudas cosechadas de un arbusto de Bayas Negras</TM_DarkBerries.description>
+
+    <TM_Broots.label>Brotes</TM_Broots.label>
+    <TM_Broots.description>Brotes crudos. Son altamente venonosos y no se deben almacenar cerca de ingredientes alimenticios porque puede provocar intoxicacion alimentaria.</TM_Broots.description>
+
+    <TM_RedPetals.label>Petalos Rojos</TM_RedPetals.label>
+    <TM_RedPetals.description>Petalos rojos cosechados de una Flor con petalos rojos</TM_RedPetals.description>
+
+    <TM_Shrooms.label>Hongos</TM_Shrooms.label>
+    <TM_Shrooms.description>Hongos crudos</TM_Shrooms.description>
+
+</LanguageData>
