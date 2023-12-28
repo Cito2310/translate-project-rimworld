@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <VTE_TechnophobeTantrum.label>Rabieta Tecnofobica</VTE_TechnophobeTantrum.label>
+    <VTE_TechnophobeTantrum.recoveryMessage>{0} ya no esta en una Rabieta Tecnofobica.</VTE_TechnophobeTantrum.recoveryMessage>
+    <VTE_TechnophobeTantrum.beginLetter>{0} ha empezado una Rabieta Tecnofobica.\n\n[PAWN_pronoun] va a desahogar la ira de [PAWN_possessive] contra la tecnologia.</VTE_TechnophobeTantrum.beginLetter>
+    <VTE_TechnophobeTantrum.baseInspectLine>Estado mental: Rabieta Tecnofobica</VTE_TechnophobeTantrum.baseInspectLine>
+
+    <VTE_PanicFreezing.label>Congelamiento por panico</VTE_PanicFreezing.label>
+    <VTE_PanicFreezing.beginLetterLabel>Ataque de panico</VTE_PanicFreezing.beginLetterLabel>
+    <VTE_PanicFreezing.beginLetter>{0} se congelo por el panico.</VTE_PanicFreezing.beginLetter>
+    <VTE_PanicFreezing.recoveryMessage>{0} ya no se sufre un ataque de panico</VTE_PanicFreezing.recoveryMessage>
+    <VTE_PanicFreezing.baseInspectLine>Estado mental: Congelado por el panico</VTE_PanicFreezing.baseInspectLine>
+
+    <VTE_Kleptomaniac.label>Cleptomania</VTE_Kleptomaniac.label>
+    <VTE_Kleptomaniac.beginLetterLabel>Cleptomania</VTE_Kleptomaniac.beginLetterLabel>
+    <VTE_Kleptomaniac.beginLetter>{0} esta robando articulos de los visitantes</VTE_Kleptomaniac.beginLetter>
+    <VTE_Kleptomaniac.recoveryMessage>{0} ya no esta robando articulos de los visitantes</VTE_Kleptomaniac.recoveryMessage>
+    <VTE_Kleptomaniac.baseInspectLine>Estado mental: Cleptomania</VTE_Kleptomaniac.baseInspectLine>
+
+</LanguageData>

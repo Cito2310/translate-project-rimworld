@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <VTE.HasDestroyedItem>{PAWN_nameDef} ha destruido el articulo que {PAWN_pronon} ha creado debido a que no tiene la suficiente calidad</VTE.HasDestroyedItem>
+  <VTE.GotBruise>{PAWN_nameDef} se hizo un moreton por su torpeza</VTE.GotBruise>
+  <VTE.CantBeWokenUpHeavySleeper>{PAWN_nameDef} tiene un sueño muy pesado como para ser reclutado</VTE.CantBeWokenUpHeavySleeper>
+  <VTE.DecisesInterruptCurrentCostructionJob>{PAWN_nameDef} ha dejado {0} por ser perfeccionista</VTE.DecisesInterruptCurrentCostructionJob>
+  <VTE.CavaranSpeedIsDoubledWanderlusts>Los colonos de Wanderlust viajarán a lugares extranjeros a mayor velocidad.</VTE.CavaranSpeedIsDoubledWanderlusts>
+  <VTE.KleptomaniacStealsItemFrom>{PAWN_nameDef} ha robado una posesion de otra faccion, esto puede dañar la relacion con la faccion</VTE.KleptomaniacStealsItemFrom>
+  <VTE.KleptomaniacFailedToStealItemFrom>{PAWN_nameDef} Fue sorprendido intentando robar posesiones de otra faccion, esto puede dañar la relacion con la faccion</VTE.KleptomaniacFailedToStealItemFrom>
+  <VTE.PawnBreaksChairs>{PAWN_nameDef} ha dañado {0} debido a su peso o a su estraña postura</VTE.PawnBreaksChairs>
+  <VTE.PawnStoleItem>{PAWN_nameDef} robo {0} a {VICTIM_nameDef}</VTE.PawnStoleItem>
+  <VTE.PawnFailedToStealItem>{PAWN_nameDef} no pudo robar {0} de {VICTIM_nameDef}. Esto ha molestado a la faccion {VICTIM_nameDef}</VTE.PawnFailedToStealItem>
+  <VTE.PawnCowardlyFlees>{PAWN_nameDef} esta huyendo del combate, por cobardia</VTE.PawnCowardlyFlees>
+  <VTE.PawnCowardlyExitMapHostile>{PAWN_nameDef} esta huyendo del combate, por cobardia</VTE.PawnCowardlyExitMapHostile>
+  <VTE.PawnCowardlyExitMapAlly>{PAWN_nameDef} esta huyendo del combate, por cobardia</VTE.PawnCowardlyExitMapAlly>
+  <VTE.PawnCowardlyExitMapNeutral>{PAWN_nameDef} esta huyendo del combate, por cobardia</VTE.PawnCowardlyExitMapNeutral>
+  <VTE.PawnStopsForcedJob>{PAWN_nameDef} ha olvidado o desobedecido la orden y ha dejado de trabajar por el momento</VTE.PawnStopsForcedJob>
+  <VTE.VictimDropsEquipmentMartialArtist>{PAWN_nameDef} ha desarmado a {VICTIM_nameDef} en un combate cuerpo a cuerpo</VTE.VictimDropsEquipmentMartialArtist>
+</LanguageData>

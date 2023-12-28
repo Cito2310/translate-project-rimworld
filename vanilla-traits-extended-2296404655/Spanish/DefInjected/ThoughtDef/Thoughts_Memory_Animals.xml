@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- Creditos: Luzue y Zerstrick -->
+<LanguageData>
+
+
+  <VTE_BondedAnimalDiedHater.stages.0.label>el animal vinculado {0} murió</VTE_BondedAnimalDiedHater.stages.0.label>
+  <VTE_BondedAnimalDiedHater.stages.0.description>Un animal tan asqueroso y molesto. ¡Me alegro de que se haya ido!</VTE_BondedAnimalDiedHater.stages.0.description>
+
+  <VTE_BondedAnimalLostHater.stages.0.label>animal vinculado {0} perdido</VTE_BondedAnimalLostHater.stages.0.label>
+  <VTE_BondedAnimalLostHater.stages.0.description>Un animal tan asqueroso y molesto. ¡Me alegro de que se haya ido!</VTE_BondedAnimalLostHater.stages.0.description>
+
+  <VTE_BondedAnimalBanishedHater.stages.0.label>animal vinculado {0} desterrado</VTE_BondedAnimalBanishedHater.stages.0.label>
+  <VTE_BondedAnimalBanishedHater.stages.0.description>Mi animal fue desterrado, finalmente.</VTE_BondedAnimalBanishedHater.stages.0.description>
+
+  <VTE_NuzzledHater.stages.0.label>acariciad{PAWN_gender ? o : a}</VTE_NuzzledHater.stages.0.label>
+  <VTE_NuzzledHater.stages.0.description>Un animal repugnante me ha acariciad{PAWN_gender ? o : a}.</VTE_NuzzledHater.stages.0.description>
+
+  <VTE_KilledMyBondedAnimalHater.stages.0.label>mi mascota fue asesinada</VTE_KilledMyBondedAnimalHater.stages.0.label>
+
+  <VTE_SoldMyBondedAnimalHater.stages.0.label>animal vinculado regalado.</VTE_SoldMyBondedAnimalHater.stages.0.label>
+  <VTE_SoldMyBondedAnimalHater.stages.0.labelSocial>mi mascota fue regalada.</VTE_SoldMyBondedAnimalHater.stages.0.labelSocial>
+  <VTE_SoldMyBondedAnimalHater.stages.0.description>¡Mi desagradable mascota fue regalada, ya era hora!</VTE_SoldMyBondedAnimalHater.stages.0.description>
+
+  <VTE_SoldMyBondedAnimalMoodHater.stages.0.label>animal vinculado regalado.</VTE_SoldMyBondedAnimalMoodHater.stages.0.label>
+  <VTE_SoldMyBondedAnimalMoodHater.stages.0.labelSocial>mi mascota fue regalada.</VTE_SoldMyBondedAnimalMoodHater.stages.0.labelSocial>
+  <VTE_SoldMyBondedAnimalMoodHater.stages.0.description>¡Mi desagradable mascota fue regalada, ya era hora!</VTE_SoldMyBondedAnimalMoodHater.stages.0.description>
+
+  <VTE_KilledColonyAnimalHater.stages.0.label>asesiné un animal de la colonia</VTE_KilledColonyAnimalHater.stages.0.label>
+
+  <VTE_BondedAnimalMasterHater.stages.0.label>es {PAWN_gender ? el dueño : la dueña} de {0}</VTE_BondedAnimalMasterHater.stages.0.label>
+  <VTE_BondedAnimalMasterHater.stages.0.description>Estar cerca de esa cosa desagradable me hace odiar mi vida.</VTE_BondedAnimalMasterHater.stages.0.description>
+  <VTE_BondedAnimalMasterHater.stages.1.label>es {PAWN_gender ? el dueño : la dueña} de {0}</VTE_BondedAnimalMasterHater.stages.1.label>
+  <VTE_BondedAnimalMasterHater.stages.1.description>Estar cerca de esa cosa desagradable me hace odiar mi vida.</VTE_BondedAnimalMasterHater.stages.1.description>
+
+  <VTE_NotBondedAnimalMasterHater.stages.0.label>no es {PAWN_gender ? el dueño : la dueña} de {0}</VTE_NotBondedAnimalMasterHater.stages.0.label>
+  <VTE_NotBondedAnimalMasterHater.stages.0.description>Puede gustarme esa cosa, pero ciertamente no la quiero devuelta, me alegro de que alguien más la haya tomado.</VTE_NotBondedAnimalMasterHater.stages.0.description>
+  <VTE_NotBondedAnimalMasterHater.stages.1.label>no es {PAWN_gender ? el dueño : la dueña} de {0}</VTE_NotBondedAnimalMasterHater.stages.1.label>
+  <VTE_NotBondedAnimalMasterHater.stages.1.description>Puede gustarme esa cosa, pero ciertamente no la quiero devuelta, me alegro de que alguien más la haya tomado.</VTE_NotBondedAnimalMasterHater.stages.1.description>
+
+
+</LanguageData>
