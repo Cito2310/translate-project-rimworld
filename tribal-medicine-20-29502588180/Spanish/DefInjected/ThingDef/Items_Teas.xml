@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Health Tea -->
+    <TM_RedTea.label>Te curativo</TM_RedTea.label>
+    <TM_RedTea.description>Un te burbujeante y con un dulce olor, que combina los efectos medicinales de los petalos rojos con los efectos en el sistema nervioso provocado por los hongos y sus esporas. Las tribus de Rimworld lo consumian diariamente para fortalecer sus cuerpos y su salud general.\n\n&lt;color=#c56bdb&gt;Sabor:&lt;/color&gt; Similar a una mezcla de plantas y caparazones de insectos combinados con un ligero sabor a lechuga cruda.</TM_RedTea.description>
+    <TM_RedTea.ingestible.ingestCommandString>Beber {0}</TM_RedTea.ingestible.ingestCommandString> 
+    <TM_RedTea.ingestible.ingestReportString>Bebiendo {0}</TM_RedTea.ingestible.ingestReportString> 
+
+    <!-- Hibernation Tea -->
+    <TM_OrangeTea.label>Te para hibernar</TM_OrangeTea.label>
+    <TM_OrangeTea.description>Un te ancestral elaborado con una gran cantidad de hongos y algunos brotes cuidadosamente hervidos que añaden intensidad a la mezcla. Estas dos plantas reaccionan quimicamente bajo una temperatura especifica que provocan una fuerte sustancia sedante, que ataca el sistema nervioso. Los consumidores se volveran somnoliento y lentos, y sus organos internos de forma mas lenta, como en un estado de hibernacion, necesitando menor cantidad de comida para sobrevivir. Este te era crucial para la supervivencia de tribus nativas durante los duros inviernos y periodos de escasez de alimento.\n\n&lt;color=#c56bdb&gt;Sabor:&lt;/color&gt; Caliente y suave, con un ligero toque a tierra y textura de aceite.</TM_OrangeTea.description>
+    <TM_OrangeTea.ingestible.ingestCommandString>Beber {0}</TM_OrangeTea.ingestible.ingestCommandString> 
+    <TM_OrangeTea.ingestible.ingestReportString>Bebiendo {0}</TM_OrangeTea.ingestible.ingestReportString> 
+
+    <!-- Te Purificador -->
+    <TM_YellowTea.label>Te purificador</TM_YellowTea.label>
+    <TM_YellowTea.description>Un te caliente, acido y con un olor fuerte, hecho con brotes hervidos y bayas oscuras. Los efectos agresivos del acido de los brotes combinado con los anticuerpos naturales de las bayas oscuras dan como resultado un te que purifica el organismo. El acido de los brotes atacan cada centimetro del cuerpo humano y eliminando cada agente externo, luego el te se adbsorbe por el cuerpo y los desechos se excretan atraves de las heces. Sin embargo, este te es un peligroso de consumir, ya que los acidos de los brotes a veces pueden contener componentes venonosos, por lo tanto, puede causar envenamiento al quien lo consuma. Las tribus generalmente confiaban solamente en el mejor chaman para preparar este te, ya que se requiere una ebullicion correcta para reducir las posibilidades de envenamiento..\n\n&lt;color=#c56bdb&gt;Sabor:&lt;/color&gt; Dulce, pero lo suficientemente acido como provocar un rechazo natural al tragarlo.</TM_YellowTea.description>
+    <TM_YellowTea.ingestible.ingestCommandString>Beber {0}</TM_YellowTea.ingestible.ingestCommandString> 
+    <TM_YellowTea.ingestible.ingestReportString>Bebiendo {0}</TM_YellowTea.ingestible.ingestReportString> 
+
+    <!-- Te de Inmunidad -->
+    <TM_BlackTea.label>Te de Inmunidad</TM_BlackTea.label>
+    <TM_BlackTea.description>Un te oscuro, espeso y amargo, elaborado con una concentracion de bayas oscuras y esporas de hongos. Posee grandes propiedades antibioticas y es usada ampliamente por tribus para tratar infecciones y enfermedades, reduciendo su gravedad y aumentando el tiempo de inmunizacion del consumidor.\n\n&lt;color=#c56bdb&gt;Sabor:&lt;/color&gt; Sabe como un fino y sabroso pudin de barro y bayas secas aromatizado con un toque de telaraña.</TM_BlackTea.description>
+    <TM_BlackTea.ingestible.ingestCommandString>Beber {0}</TM_BlackTea.ingestible.ingestCommandString> 
+    <TM_BlackTea.ingestible.ingestReportString>Bebiendo {0}</TM_BlackTea.ingestible.ingestReportString> 
+
+    <!-- Te Digestivo -->
+    <TM_GreenTea.label>Te Digestivo</TM_GreenTea.label>
+    <TM_GreenTea.description>Un te espeso y amargo, con un sabor atrozmente malo. Combina las propiedades de las bayas oscuras  y los beneficios de salud de la raiz de xerigia para crear un te que limpiar el cuerpo de varios tipos de contaminacion, como intoxicacion alimentaria, gusanos intestinales, embriaguez y acumulacion toxica.\n\n&lt;color=#c56bdb&gt;Sabor:&lt;/color&gt; Amargo como un albaricoque seco delicamente condimentado con oregano quemado y perejil seco.</TM_GreenTea.description>
+    <TM_GreenTea.ingestible.ingestCommandString>Beber {0}</TM_GreenTea.ingestible.ingestCommandString> 
+    <TM_GreenTea.ingestible.ingestReportString>Bebiendo {0}</TM_GreenTea.ingestible.ingestReportString> 
+
+    <!-- Te caliente -->
+    <TM_RedYellowTea.label>Te Calido</TM_RedYellowTea.label>
+    <TM_RedYellowTea.description>Un te con textura aceitosa, que combina brotes y petalos rojos para crear un te proteico y calido, eleva la temperatura media del cuerpo humano al consumirlo. Aunque produce un poco mas de hambre, ayuda a sobrellevar los duros inviernos y alejarse de la hipotermia. Sim embargo tambien hace que seas mas vulnerable a las altas temperaturas.\n\n&lt;color=#c56bdb&gt;Sabor:&lt;/color&gt; Dulce como la miel, cuidadosamente sazonado con ajo seco, salsa de soja y un poquito de vinagre.</TM_RedYellowTea.description>
+    <TM_RedYellowTea.ingestible.ingestCommandString>Beber {0}</TM_RedYellowTea.ingestible.ingestCommandString> 
+    <TM_RedYellowTea.ingestible.ingestReportString>Bebiendo {0}</TM_RedYellowTea.ingestible.ingestReportString> 
+
+    <!-- Te Berserker -->
+    <TM_LilacTea.label>Te Berserker</TM_LilacTea.label>
+    <TM_LilacTea.description>Un brebaje espeso y viscoso, con una alta concentracion de psiquita, combinado con los agresivos quimicos de los brotes, generan en el consumidor fuertes efectos en el sistema nervioso. Las tribus nativas de Rimworld lo solian usar en tiempos de guerra, otorgando a los guerreros altas dosis de esto. Provoca una fuerte ira, que anula el dolor y mejora la movilidad, aunque tiene un ligero efecto secundario una vez que comienza a desaparecer.\n\n&lt;color=#c56bdb&gt;Sabor:&lt;/color&gt; Amargo, espeso, seco y picante por alguna razon. Muchos creen que es la verdadera causa de la ira producida.</TM_LilacTea.description>
+    <TM_LilacTea.ingestible.ingestCommandString>Beber {0}</TM_LilacTea.ingestible.ingestCommandString> 
+    <TM_LilacTea.ingestible.ingestReportString>Bebiendo {0}</TM_LilacTea.ingestible.ingestReportString> 
+
+    <!-- Te Circulatorio -->
+    <TM_PurpleTea.label>Te Circulatorio</TM_PurpleTea.label>
+    <TM_PurpleTea.description>Un te saludable y dificil de preparar, es muy apreciado entre miembros de las tribus, en particular entre aquellos que valoran la vida de sus mayores. Este te mejora el sistema circulatorio, previniendo ataques cardiacos, la causa de muerte de muchas personas mayores. Sin embargo debido a su complejidad solo lo pueden fabricar los chamanes mas experimentados, para no gastar recursos.\n\n&lt;color=#c56bdb&gt;Sabor:&lt;/color&gt; Sabe como un bizcocho con sabor a menta, arandanos y zumo de naranja. Este te realmente sabe bien.</TM_PurpleTea.description>
+    <TM_PurpleTea.ingestible.ingestCommandString>Beber {0}</TM_PurpleTea.ingestible.ingestCommandString> 
+    <TM_PurpleTea.ingestible.ingestReportString>Bebiendo {0}</TM_PurpleTea.ingestible.ingestReportString> 
+
+
+</LanguageData>

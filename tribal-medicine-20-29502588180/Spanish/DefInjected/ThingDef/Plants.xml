@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <TM_Bush_DarkBerries.label>Arbusto de bayas oscuras</TM_Bush_DarkBerries.label>
+    <TM_Bush_DarkBerries.description>Un arbusto salvaje, con hojas verde brillante, produce pequeñas bayas de un color negro oscuro. Por su apariencia, parece que estas bayas deben ser dulce, pero realmente son amargas, pastosas y blandas. El arbusto no tiene nada de impresionante, por lo que las mayorias de civilizaciones las ven como una planta mas, pero las tribus saben las asombrosas propiedades antibioticas que poseen sus bayas oscuras, y las cosechan para ser usado para producir importante brebajes medicos.</TM_Bush_DarkBerries.description>
+
+    <TM_Plant_RedPetals.label>Petalos rojos salvaje</TM_Plant_RedPetals.label>
+    <TM_Plant_RedPetals.description>Una pequeña flor, de aspecto tupido, con petalos rojos, originario de los biomas templados. No son especialmente atractivo y huelen a pepino amargo. Si bien no son utiles en las civilizaciones moderna, las tribus de Rimworld lo aprecian mucho por sus propiedades medicinales.</TM_Plant_RedPetals.description>
+
+    <TM_Plant_Broots.label>Brotes salvajes</TM_Plant_Broots.label>
+    <TM_Plant_Broots.description>Un pequeño arbusto con forma de brotes, que visualmente se parece a un coral. Los brotes se encuentran en regiones humedas, pero su crecimiento es en general lento. Son extremadamente venonosos cuando estan crudos, pero un proceso de ebullicion adecuado y combinando con otros ingredientes, sus efectos letales pueden anularse, dejando espacio a otros efectos, que son muy beneficiosos para el sistema inmunologico.</TM_Plant_Broots.description>
+
+    <TM_Plant_Shrooms.label>Hongos salvajes</TM_Plant_Shrooms.label>
+    <TM_Plant_Shrooms.description>Pequeños e hinchados hongos, de aspecto muy normal. Las civilizaciones modernas apenas saben de su existencia, pero las tribus nativas han aprendido a traves de los tiempos que sus esporas tienen un fuerte impacto en el sistema nervioso, lo que les convierte esencia para muchos brebajes medicinales.</TM_Plant_Shrooms.description>
+
+</LanguageData>

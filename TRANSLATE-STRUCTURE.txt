@@ -1,0 +1,9 @@
+JobDef
+RecipeDef
+ThingDef
+WorkGiverDef
+WorkTypeDef
+IncidentDef
+ResearchProjectDef
+SitePartDef
+ThingCategoryDef

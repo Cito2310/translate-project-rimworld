@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-    <TM_DarkBerries.label>Bayas Negras</TM_DarkBerries.label>
-    <TM_DarkBerries.description>Bayas Negras crudas cosechadas de un arbusto de Bayas Negras</TM_DarkBerries.description>
+
+    <TM_DarkBerries.label>Bayas Oscuras</TM_DarkBerries.label>
+    <TM_DarkBerries.description>Bayas Oscuras crudas cosechadas de un arbusto de Bayas Oscuras</TM_DarkBerries.description>
 
     <TM_Broots.label>Brotes</TM_Broots.label>
     <TM_Broots.description>Brotes crudos. Son altamente venonosos y no se deben almacenar cerca de ingredientes alimenticios porque puede provocar intoxicacion alimentaria.</TM_Broots.description>
