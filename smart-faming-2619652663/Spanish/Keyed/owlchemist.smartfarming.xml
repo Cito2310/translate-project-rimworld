@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<SmartFarming.Icon.On>Activo</SmartFarming.Icon.On>
+	<SmartFarming.Icon.On.Desc>Sembrar el cultivo seleccionado siempre que la temporada adecuada.</SmartFarming.Icon.On.Desc>
+
+	<SmartFarming.Icon.Off>Desactivo</SmartFarming.Icon.Off>
+	<SmartFarming.Icon.Off.Desc>No sembrara ninguna planta</SmartFarming.Icon.Off.Desc>
+
+	<SmartFarming.Icon.Smart>Inteligente</SmartFarming.Icon.Smart>
+	<SmartFarming.Icon.Smart.Desc>Sembrara el cultivo siempre que el crecimiento previsto alcance el umbral minimo de cosecha antes de que se espere que mueran de frio o toxinas.</SmartFarming.Icon.Smart.Desc>
+
+	<SmartFarming.Icon.Force>Forzado</SmartFarming.Icon.Force>
+	<SmartFarming.Icon.Force.Desc>Sembrara los cultivos sin importar la temporada actual.</SmartFarming.Icon.Force.Desc>
+
+	<SmartFarming.Icon.HarvestNow>Cosechar ahora</SmartFarming.Icon.HarvestNow>
+	<SmartFarming.Icon.HarvestNow.Desc>Establece que todos los cultivos de esta zona sean cosechados, aunque no hayan llegado a completar el crecimiento.</SmartFarming.Icon.HarvestNow.Desc>
+
+	<SmartFarming.Icon.AllowHarvest>Permitir cosecha</SmartFarming.Icon.AllowHarvest>
+	<SmartFarming.Icon.AllowHarvest.Desc>Desactiva esto para prohibir que los colonos cosechen esta zona.</SmartFarming.Icon.AllowHarvest.Desc>
+
+	<SmartFarming.Icon.OrchardAlignment>Alinear cultivos</SmartFarming.Icon.OrchardAlignment>
+	<SmartFarming.Icon.OrchardAlignment.Desc>Para los cultivos que necesitan una zona libre, como los árboles, los peones intentarán alinearlas en filas. Es posible que esto no funcione bien en zonas con formas extrañas.</SmartFarming.Icon.OrchardAlignment.Desc>
+
+	<SmartFarming.Icon.MergeZones>Fusionar zonas</SmartFarming.Icon.MergeZones>
+	<SmartFarming.Icon.MergeZones.Desc>Fusiona las zonas seleccionadas en una sola, usa la primera zona selccionada como referencia.
+	</SmartFarming.Icon.MergeZones.Desc>
+	
+
+
+	<SmartFarming.Icon.Low>Bajo</SmartFarming.Icon.Low>
+	<SmartFarming.Icon.Normal>Normal</SmartFarming.Icon.Normal>
+	<SmartFarming.Icon.Preferred>Preferido</SmartFarming.Icon.Preferred>
+	<SmartFarming.Icon.Important>Importante</SmartFarming.Icon.Important>
+	<SmartFarming.Icon.Critical>Critico</SmartFarming.Icon.Critical>
+	<SmartFarming.Icon.Priority.Desc>Los colonos se encargaran de sembrar y cosechar las plantas segun la orden de prioridades.</SmartFarming.Icon.Priority.Desc>
+	
+
+	<SmartFarming.Icon.NoPettyJobs>Sin trabajos suficientes</SmartFarming.Icon.NoPettyJobs>
+	<SmartFarming.Icon.NoPettyJobs.Desc>Los peones no sembrarán nuevas plantas en esta zona a menos que haya suficiente trabajo por hacer, configurado en la configuración.</SmartFarming.Icon.NoPettyJobs.Desc>
+	
+
+
+	<SmartFarming.Settings.ColdSowing>Permitir siembra con frio</SmartFarming.Settings.ColdSowing>
+	<SmartFarming.Settings.ColdSowing.Desc>Normalmente el juego no te permite sembrar cuando el terreno esta helado, incluso si el cultivo sembrado soporta temperaturas bajo cero. Deshabilite esto para no permitir la sembra bajo cero</SmartFarming.Settings.ColdSowing.Desc>
+	
+	<SmartFarming.Settings.AllowHarvest>Mostrar "Permitir cosecha"</SmartFarming.Settings.AllowHarvest>
+	<SmartFarming.Settings.AllowHarvest.Desc>Mostrar "Permitir cosecha". Habilitar esto puede tener algun impacto en el rendimiento de las grandes colonias con muchos trabajadores agricolas. Cambiar esto requiere reiniciar el juego.</SmartFarming.Settings.AllowHarvest.Desc>
+	
+	<SmartFarming.Settings.SmartSowLabel>Siembra Inteligente:</SmartFarming.Settings.SmartSowLabel>
+	<SmartFarming.Settings.ProcessedFoodLabel>Factor de alimentos procesados:</SmartFarming.Settings.ProcessedFoodLabel>
+	
+	<SmartFarming.Settings.UseAverageTemperature>Utilice la predicción de temperatura promedio en lugar de la minima</SmartFarming.Settings.UseAverageTemperature>
+	<SmartFarming.Settings.UseAverageTemperature.Desc>Al predecir el clima para la función Siembra Inteligente, usa la temperatura promedio del día en lugar de la mínima. Usar el promedio extenderá la temporada de cultivo a riesgo de perder algunas cosechas.</SmartFarming.Settings.UseAverageTemperature.Desc>
+	
+	<SmartFarming.Settings.UseAverageFertility>Utilice la fertilidad de la zona promedio en lugar de la más débil</SmartFarming.Settings.UseAverageFertility>
+	<SmartFarming.Settings.UseAverageFertility.Desc>Al predecir el crecimiento de las plantas, utilice la fertilidad promedio de la zona en lugar de la fertilidad más débil de la zona.</SmartFarming.Settings.UseAverageFertility.Desc>
+	
+	<SmartFarming.Settings.AutoCutBlighted>Designar automáticamente a los cultivos infectados para su eliminación</SmartFarming.Settings.AutoCutBlighted>
+	<SmartFarming.Settings.AutoCutBlighted.Desc>Si un cultivo se infecta, se designara automaticamente una orden para cortarlo.</SmartFarming.Settings.AutoCutBlighted.Desc>
+	
+	<SmartFarming.Settings.AutoHarvestNow>Cosechar de forma temprana si esta amenazado</SmartFarming.Settings.AutoHarvestNow>
+	<SmartFarming.Settings.AutoHarvestNow.Desc>Si el clima de esta noche va a ser mortalmente frio, designa a todas las plantas para una cosecha inmediata.</SmartFarming.Settings.AutoHarvestNow.Desc>
+	<SmartFarming.Message.AutoHarvestNow>Las plantas se cosecharan de forma temprana debido al clima pronosticado para esta noche.</SmartFarming.Message.AutoHarvestNow>
+	
+	<SmartFarming.Settings.OrchardAlignment>Mostrar "Alineacion"</SmartFarming.Settings.OrchardAlignment>
+	<SmartFarming.Settings.OrchardAlignment.Desc>Habilita la opcion que incita a los peones a plantar arboles en hilera.</SmartFarming.Settings.OrchardAlignment.Desc>
+	
+	<SmartFarming.Settings.AutoCutDying>Intentar cosechar automaticamente los cultivos moribundos</SmartFarming.Settings.AutoCutDying>
+	<SmartFarming.Settings.AutoCutDying.Desc>Si un cultivo esta por morir a causa del frio, se intenta cosechar automaticamente los cultivos antes de que sea demasiado tarde. Cambiar esto requiere reiniciar el juego</SmartFarming.Settings.AutoCutDying.Desc>
+	
+	<SmartFarming.Settings.ProcessedFood.Desc>Cuando las zonas de cultivo dan un rendimiento nutricional potencial estimado, se multiplica la nutrición de los alimentos crudos por este valor. Como referencia, una comida sencilla multiplica el valor por 1,8, las comidas finas por 1,2 y las comidas lujosas por 1,0.</SmartFarming.Settings.ProcessedFood.Desc>
+	
+	<SmartFarming.Settings.MinTempSlider>Temperatura minima permitida (Mod predeterminado: {0}, Min: {1}, Max: {2}): </SmartFarming.Settings.MinTempSlider>
+	<SmartFarming.Settings.MinTemp>Al predecir el clima del primer día de cosecha, considere inaceptable cualquier temperatura por debajo de esta temperatura. Las plantas pueden morir potencialmente a 0 °C, pero normalmente pueden sobrevivir si apenas hace mucho frío durante unas horas. Sin embargo, la desviación diaria aleatoria de la temperatura puede reducir la precisión.</SmartFarming.Settings.MinTemp>
+	
+	<SmartFarming.Settings.PettyJobsSlider>Margen de trabajas menores (Mod predeterminado: {0}, Min: {1}, Max: {2}): </SmartFarming.Settings.PettyJobsSlider>
+	<SmartFarming.Settings.PettyJobs>Si "no se permiten trabajos menores" en una zona, los peones no sembrarán un campo a menos que haya al menos este porcentaje de fichas vacías para sembrar. Esto puede resultar útil para zonas de pastoreo de animales.</SmartFarming.Settings.PettyJobs>
+	
+	<SmartFarming.Inspector.MinHarvestDay>\nDia mas temprano de cosecha: </SmartFarming.Inspector.MinHarvestDay>
+	<SmartFarming.Inspector.MinHarvestDayFail>\nEs probable que las plantas mueran antes de la cosecha</SmartFarming.Inspector.MinHarvestDayFail>
+	<SmartFarming.Inspector.Fertility>\nFertilidad: {0} promedio / {1} minima</SmartFarming.Inspector.Fertility>
+	<SmartFarming.Inspector.AverageGrowth>\nCrecimiento promedio: </SmartFarming.Inspector.AverageGrowth>
+	<SmartFarming.Inspector.Yield>\nNutrición potencial: </SmartFarming.Inspector.Yield>
+	<SmartFarming.Inspector.DaysWorth> ({0} dias validos para sembrar)</SmartFarming.Inspector.DaysWorth>
+	
+	<SmartFarming.Icon.SetAll>Establecer zonas para </SmartFarming.Icon.SetAll>
+</LanguageData>
