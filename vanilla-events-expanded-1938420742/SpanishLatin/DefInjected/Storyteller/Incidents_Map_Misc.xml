@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <VEE_Drought.label>Sequia</VEE_Drought.label>
+    <VEE_Drought.letterLabel>Sequia</VEE_Drought.letterLabel>
+    <VEE_Drought.letterText>Se ha producido una inusual sequia.\n\nEsta sequia es devastadora para la vida silvestre, e impedira que crezcan todas los cultivos no plantados en una cuenca hidroponica o suelos de alta fertilidad<</VEE_Drought.label>
+
+    <VEE_SpaceBattle.label>Batalla Espacial</VEE_SpaceBattle.label>
+    <VEE_SpaceBattle.letterLabel>Batalla Espacial</VEE_SpaceBattle.letterLabel>
+    <VEE_SpaceBattle.letterText>Varias naves espaciales enormes han entrado combate en la orbita del planeta. Los disparos fallidos y escombros pueden impactar en el suelo del area. Esto puede provocar incendios masivos.</VEE_SpaceBattle.label>
+
+    <VEE_MeteoriteShower.label>Lluvia de meteorito</VEE_MeteoriteShower.label>
+    <VEE_MeteoriteShower.letterLabel>Lluvia de meteorito</VEE_MeteoriteShower.letterLabel>
+    <VEE_MeteoriteShower.letterText>Varios meteoritos de gran tamaño han impactado en la zona. Dejaron atras una gran cantidad de recursos</VEE_MeteoriteShower.label>
+
+    <VEE_AnimalPodCrash.label>Capsula de transporte animal estrellado</VEE_AnimalPodCrash.label>
+    <VEE_ShuttleCrash.label>Transbordador estrellador</VEE_ShuttleCrash.label>
+    <VEE_Earthquake.label>Terremoto</VEE_Earthquake.label>
+    <VEE_Cargopodsweapons.label>Capsula de transporte (Armas)</VEE_Cargopodsweapons.label>
+    <VEE_Cargopodsapparel.label>Capsula de transporte (Vestimenta)</VEE_Cargopodsapparel.label>
+    <VEE_CaravanAnimalsWanderIn.label>Animales de caravana deambulando</VEE_CaravanAnimalsWanderIn.label>
+    <VEE_CropSprout.label>Brote de cultivos</VEE_CropSprout.label>
+    <VEE_BattleAnimalsWanderIn.label>Animales de batalla deambulando</VEE_BattleAnimalsWanderIn.label>
+    <VEE_WildMenWanderIn.label>Hombre salvaje deambulando</VEE_WildMenWanderIn.label>
+    <VEE_HuntingParty.label>Caceria</VEE_HuntingParty.label>
+
+
+</LanguageData>

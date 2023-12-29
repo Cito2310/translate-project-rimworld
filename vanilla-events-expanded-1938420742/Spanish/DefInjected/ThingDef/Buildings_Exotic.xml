@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <VEE_ShipChunkHuman.label>Pedazo de Nave</VEE_ShipChunkHuman.label>
+    <VEE_ShipChunkHuman.description>Un pedazo de nave espacial. Se puede desarmar para obtener recursos.</VEE_ShipChunkHuman.description>
+
+    <VEE_Shuttle.label>Pedazo de Transbordador</VEE_Shuttle.label>
+    <VEE_Shuttle.description>Un pedazo de transbordador. Se puede desarmar para obtener recursos.</VEE_Shuttle.description>
+
+    <ShuttleChunkIncoming.label>Pedazo de Transbordador (Entrante)</ShuttleChunkIncoming.label>
+
+    <SlagIncoming.label>Chatarra (Entrante)</SlagIncoming.label>
+
+</LanguageData>

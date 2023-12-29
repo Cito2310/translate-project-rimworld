@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <SCat>Vanilla Event Expanded</SCat>
+    <BReset>Resetear configuracion</BReset>
+    <GCWReset>Parar todos las condiciones globales</GCWReset>
+    <GCMReset>Parar todas las condiciones del mapa</GCMReset>
+    <NeedToBeIngame>Necesitas estar en una partida para terminar con las condiciones</NeedToBeIngame>
+    <CEBC>&lt;color=cyan&gt;&lt;b&gt;Change events base chance (set to 0 to disable) :&lt;/b&gt;&lt;/color&gt;</CEBC>
+    <BCS>Open events base chance settings</BCS>
+    <MinTPE>Minimum days before refire :</MinTPE>
+    <ETPE>Minimum days before fire :</ETPE>
+    <PES>&lt;color=cyan&gt;&lt;b&gt;Configuraciones de eventos purpura :&lt;/b&gt;&lt;/color&gt;</PES>
+
+    <IABaseC>Edad de hielo</IABaseC>
+    <GWBaseC>Calentamiento global</GWBaseC>
+    <PRBaseC>Lluvia psiquica</PRBaseC>
+    <LNBaseC>Noche larga</LNBaseC>
+    <PBBaseC>Florecimiento Psiquico</PBBaseC>
+
+    <HSBaseC>Tormenta de granizo</HSBaseC>
+    <MSBaseC>Lluvia de meteorito</MSBaseC>
+    <APCBaseC>Capsula de transporte animal estrellado</APCBaseC>
+    <WJTBaseC>Se ha unido un traidor</WJTBaseC>
+    <SPBaseC>Batalla espacial</SPBaseC>
+    <SCBaseC>Transbordador estrellado</SCBaseC>
+    <EBaseC>Terremoto</EBaseC>
+    <CPWBaseC>Capsula de transporte armas</CPWBaseC>
+    <CPABaseC>Capsula de transporte vestimenta</CPABaseC>
+    <CAWIBaseC>Animales de caravana deambulan</CAWIBaseC>
+    <CSBaseC>Brote de cultivos</CSBaseC>
+    <BAWIBaseC>Animales de batalla deambulan</BAWIBaseC>
+    <DBaseC>Sequia</DBaseC>
+    <WMWIBaseC>Hombres salvaje deambulan</WMWIBaseC>
+    <HPBaseC>Caceria</HPBaseC>
+
+    <GCWResetOBO>Parar condicion global...</GCWResetOBO>
+    <GCMResetOBO>Para condicion del mapa...</GCMResetOBO>
+
+    <VEE_DaysBetweenPurpleEvents>Numero de dias entre cada evento purpura:</VEE_DaysBetweenPurpleEvents>
+</LanguageData>
