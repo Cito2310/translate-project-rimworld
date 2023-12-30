@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <VFE_Res_AdvancedHydroponics.label>Ecosistema Artifical</VFE_Res_AdvancedHydroponics.label>
+    <VFE_Res_AdvancedHydroponics.description>Aprenda a construir ecosistemas artificales, terrarios muy avanzados que mejoran enormemente la hidroponia.</VFE_Res_AdvancedHydroponics.description>
+
+    <VFE_Res_Sprinkler.label>Aspersores</VFE_Res_Sprinkler.label>
+    <VFE_Res_Sprinkler.description>Reuna esquemas para desarrollar un dispositivo que riega automaticamente tus campos de cultivo, incrementando la velocidad en que las plantas crecen. Necesita energia.</VFE_Res_Sprinkler.description>
+
+    <VFE_Res_FarmingTechniques.label>Tecnicas de agricultura</VFE_Res_FarmingTechniques.label>
+    <VFE_Res_FarmingTechniques.description>Desarrolle una base teorica para operaciones agricolas de mayor escala, incluyendo alimentacion centralizada y espantapajaros para mantener sus cultivos.</VFE_Res_FarmingTechniques.description>
+
+</LanguageData>

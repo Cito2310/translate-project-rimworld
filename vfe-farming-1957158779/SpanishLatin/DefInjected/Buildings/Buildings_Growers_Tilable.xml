@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <VFE_PlanterBox_Tilable.label>Modulo de Plantero</VFE_PlanterBox_Tilable.label>
+    <VFE_PlanterBox_Tilable.description>Cultiva plantas en un masetero. No requiere energia para funcionar.\n\nSe puede ensamblar de cualquier forma.</VFE_PlanterBox_Tilable.description>
+
+    <VFE_Hydroponics_Tilable.label>Modulo de Hidroponia</VFE_Hydroponics_Tilable.label>
+    <VFE_Hydroponics_Tilable.description>Un baño de nutrientes artificales para crecer plantas. Las bombas de nutriente deben funcionar de forma continua; Las plantas moriran si se corta la energia.\n\nEsta version es modular y se puede ensamblar de cualquier forma</VFE_Hydroponics_Tilable.description>
+
+    <VFE_Ecosystem_Tilable.label>Modulo de Ecosistema artificial</VFE_Ecosystem_Tilable.label>
+    <VFE_Ecosystem_Tilable.description>Las plantas crecen rapidamente en un ecosistema artifical sellado, pudiendo configurarlo para un buen crecimiento de incluso la planta mas exigente. Requiere una gran cantidad de energia para funcionar; Las plantas moriran si se corta la energia. Contiene una lampara solar para proporcinar luz a las plantas.\n\nEsta version es modular y se puede ensamblar de cualquier forma.</VFE_Ecosystem_Tilable.description>
+
+</LanguageData>
