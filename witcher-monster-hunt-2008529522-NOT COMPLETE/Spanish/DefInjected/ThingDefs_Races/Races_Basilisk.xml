@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <!-- basilisk -->
+    <WMH_Basilisk.label>Basilisco</WMH_Basilisk.label>
+
+    <!-- Contrary to popular belief, basilisks cannot turn anything to stone with their gaze, however, their acid, venom, claws and teeth provide them many other ways to kill. Several Glitterworld universities proclaim that a Basilisk's venom is the most potent across the rimworlds.\n\nMonster class traits: Being a Draconid, Basilisk can move over difficult terrain with ease. -->
+    <WMH_Basilisk.description>Contrariamente a la creencia popular, los basiliscos no pueden convertir en piedra con su mirada; sin embargo, su acido, veneno, garras y dientes les proporcionan muchas formas de matar. Varias universidades de Glitterworld proclaman que el veneno del basilisco es el mas potente de Rimworld.\n\nRasgos del monstruo: al ser un Draconido, el basilisco puede moverse sobre terrenos dificiles con facilidad.</WMH_Basilisk.description>
+
+    <!-- left claw -->
+    <WMH_Basilisk.tools.0.label>Garra Izquierda</WMH_Basilisk.tools.0.label>
+
+    <!-- right claw -->
+    <WMH_Basilisk.tools.1.label>Garra Derecha</WMH_Basilisk.tools.1.label>
+
+    <!-- razor beak -->
+    <WMH_Basilisk.tools.2.label>Pico Afilado</WMH_Basilisk.tools.2.label>
+
+    <!-- head -->
+    <WMH_Basilisk.tools.3.label>Cabeza</WMH_Basilisk.tools.3.label>
+
+</LanguageData>

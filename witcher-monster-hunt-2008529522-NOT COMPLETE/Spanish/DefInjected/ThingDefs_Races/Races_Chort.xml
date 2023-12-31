@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <!-- chort -->
+    <WMH_Chort.label>Chort</WMH_Chort.label>
+
+    <!-- Chorts are the somewhat smaller kin of fiends. They fight with little finesse, running straight towards their opponent and trying to knock him to the ground with the force of their charge. If surrounded by enemies, Chorts often use their third eye to throw an enemy into a berserk rage, making him turn on his allies.\n\nMonster class traits: Being a Relict, Chort contract provides much higher rewards. -->
+    <WMH_Chort.description>Los chorts son diablos mas pequeños. Luchan con poca delicadeza, corren directamente hacia el oponente y intentan derribarlo con la fuerza de su carga. Si esta rodeado de enemigos, los Chorts usaran su tercer ojo para cegar de furia a sus enemigos, haciendo que ataquen a sus aliados.\n\nRasgos del monstruo: Al pertenecer a los Relictos, los contratos de Chorts otorgan una mayor recompensa.</WMH_Chort.description>
+
+    <!-- horn -->
+    <WMH_Chort.tools.0.label>Cuerno</WMH_Chort.tools.0.label>
+
+    <!-- horn -->
+    <WMH_Chort.tools.1.label>Cuerno</WMH_Chort.tools.0.label>
+
+    <!-- head -->
+    <WMH_Chort.tools.3.label>Cabeza</WMH_Chort.tools.0.label>
+
+</LanguageData>

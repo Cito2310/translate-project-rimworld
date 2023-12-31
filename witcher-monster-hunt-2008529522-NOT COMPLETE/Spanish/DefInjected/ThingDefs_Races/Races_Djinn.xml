@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <!-- djinn -->
+    <WMH_Djinn.label></WMH_Djinn.label>
+
+    <!-- A djinn is a powerful air spirit, a condensation of the power of that element endowed with consciousness and character - the latter usually nasty. According to researchers, a Djinn can attack with a continuous stream of energy, capable of taking down ultratech gunships with ease.\n\nMonster class traits: Being an elemental, Djinn is immune to fire and cold. -->
+    <WMH_Djinn.description></WMH_Djinn.description>
+
+    <!-- pseudopod -->
+    <WMH_Djinn.tools.0.label></WMH_Djinn.tools.0.label>
+
+    <!-- djinn fire -->
+    <WMH_Djinn.verbs.0.label></WMH_Djinn.verbs.0.label>
+
+</LanguageData>

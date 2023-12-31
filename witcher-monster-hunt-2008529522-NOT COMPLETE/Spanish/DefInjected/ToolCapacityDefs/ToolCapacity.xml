@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+		<!-- virulent toxic bite -->
+    <WMH_VeryToxicBite.label>Mordida toxica virulenta</WMH_VeryToxicBite.label>
+
+		<!-- infected claws -->
+    <WMH_InfectedClaws.label>Garras infectadas</WMH_InfectedClaws.label>
+
+		<!-- werewolf bite -->
+    <WMH_WerewolfBite.label>Mordedura de hombre lobo</WMH_WerewolfBite.label>
+
+		<!-- ekimmara bite -->
+    <WMH_EkimmaraBite.label>Mordedura de Ekimmara</WMH_EkimmaraBite.label>
+
+		<!-- fleder bite -->
+    <WMH_FlederBite.label>Mordedura de Fleder</WMH_FlederBite.label>
+
+		<!-- hym claws -->
+    <WMH_HymPunch.label>Garras de Hym</WMH_HymPunch.label>
+
+		<!-- paralysing bite -->
+    <WMH_ParalysingBite.label>Mordida parasitante</WMH_ParalysingBite.label>
+
+</LanguageData>

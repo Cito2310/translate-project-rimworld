@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <!-- bearofleet -->
+    <WMH_Bearofleet.label>Bearofleet</WMH_Bearofleet.label>
+
+    <!-- Bearofleets are genetic monstrosities created by the hubris of man. They were created by advanced genetic splicing of Aerofleet and Bear genetic material, and released into the wild, where their voracious appetite has proven to be a real challenge for small settlements. Their very presence instills a preternatural hunger in those who witness its bloated belly.\n\nMonster class traits: Being a Relict, Bearofleet contract provides much higher rewards. -->
+    <WMH_Bearofleet.description>Los Bearofleets son una monstruosidad genetica, creada por la arrogancia del hombre. Fueron creado mediante una avanzada tecnica genetica de union del material genetico de un Aerofleet y un oso, se liberaron en la naturaleza, su apetito voraz ha demostrado ser un gran desafio para los pequeños asentamientos. Su sola presencia infunde un hambre sobrenatural en aquellos que presencian su vientre hinchado.\n\nRasgos del monstruo: Al pertenecer a los Relictos, los contratos de Bearofleets otorgan una mayor recompensa.</WMH_Bearofleet.description>
+
+    <!-- tentacles -->
+    <WMH_Bearofleet.tools.1.label>Tentaculos</WMH_Bearofleet.tools.1.label>
+
+</LanguageData>

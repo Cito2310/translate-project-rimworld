@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Defs>  
+
+	<SitePartDef Name="WMH_MonsterEncounterCoreBase" Abstract="True">
+
+		<label>monster encounter</label>
+		<description>The place where a monster is roaming.</description>
+		<siteTexture>World/WorldObjects/Sites/GenericSite</siteTexture>
+		<approachOrderString>Attack {0}</approachOrderString>
+		<approachingReportString>Attacking {0}</approachingReportString>
+		<forceExitAndRemoveMapCountdownDurationDays>6</forceExitAndRemoveMapCountdownDurationDays>
+		<wantsThreatPoints>true</wantsThreatPoints>
+
+	</SitePartDef>
