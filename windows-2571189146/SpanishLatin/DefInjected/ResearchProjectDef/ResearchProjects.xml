@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+    <Glassworks.label>Vidrieria</Glassworks.label>
+    <Glassworks.description>Con vidrio es posible construir ventanas que bloquan el viento y dejan entrar la luz.</Glassworks.description>
+
+    <AdvancedGlassworks.label>Vidrieria Avanzada</AdvancedGlassworks.label>
+    <AdvancedGlassworks.description>Construye ventanas hechas con plastiacero cristalizado, tan fuertes como la propia pared.</AdvancedGlassworks.description>
+
+</LanguageData>

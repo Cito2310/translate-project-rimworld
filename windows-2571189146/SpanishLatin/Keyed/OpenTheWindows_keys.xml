@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<ClosedWindow>Cerrado</ClosedWindow>
+	<EmergencyClosed>Cerrado por emergencia</EmergencyClosed>
+	<butVenting>, pero ventilando.</butVenting>
+	<notVenting>Sellado</notVenting>
+	<Facing>Frente a {0}.</Facing>
+	<LandscapeToThe>Paisaje a la {0}</LandscapeToThe>
+	<cantDetermineSides>No puedo determinar qué lado es exterior.</cantDetermineSides>
+	<ManualCommandNote>Un colono vendrá a realizar la tarea.</ManualCommandNote>
+	<CommandDesignateOpenCloseWindowLabel>Designar Abrir/Cerrar</CommandDesignateOpenCloseWindowLabel>
+	<CommandDesignateOpenCloseWindowDesc>Designe esta ventana para estar abierto o cerrado.</CommandDesignateOpenCloseWindowDesc>
+	<CommandOpenCloseWindowLightLabel>Permitir luz</CommandOpenCloseWindowLightLabel>
+	<CommandOpenCloseWindowLightDesc>Permitir o bloquar el paso de la luz por la ventana.</CommandOpenCloseWindowLightDesc>
+	<CommandOpenCloseWindowVentLabel>Permitir Aire</CommandOpenCloseWindowVentLabel>
+	<CommandOpenCloseWindowVentDesc>Permitir o bloquear el paso del aire por la ventana.</CommandOpenCloseWindowVentDesc>
+	<CommandAutoVentilation>Ventilacion automatica</CommandAutoVentilation>
+	<CommandAutoVentilationDesc>Marque la ventana para abrirla o cerrarla cuando la temperatura ambiente se vuelva incómoda.</CommandAutoVentilationDesc>
+	<DisabledForAutoVentilation>Siguientes parámetros de ventilación automática.</DisabledForAutoVentilation>
+	<TrackingTemperature>Seguimiento de la temperatura.</TrackingTemperature>
+	<WaitingTemperatureNormalization>Esperando a que se iguale la temperatura.</WaitingTemperatureNormalization>
+	<CantTrackTemperature>La habitación contigua no tiene techo y no puede controlar la temperatura.</CantTrackTemperature>
+	<CommandCloseOnEmergency>Cerrar en caso de emergencia</CommandCloseOnEmergency>
+	<CommandCloseOnEmergencyDesc>Marque la ventana para cerrar cuando se active la alarma de emergencia.</CommandCloseOnEmergencyDesc>
+	<DisabledByEmergency>Funcionamiento normal desactivado durante una emergencia.</DisabledByEmergency>
+	<NaturalLightMap>Mostrar luz natural.</NaturalLightMap>
+	
+	<!--settings-->
+	<OpenTheWindows>Windows</OpenTheWindows>
+    
+	<IndoorsNoNaturalLightPenalty>Disminucion de luz en el interior</IndoorsNoNaturalLightPenalty>
+	<IndoorsNoNaturalLightPenaltyDesc>Multiplica la degradación del nivel exterior cuando el peón está en el interior pero no debajo de una ventana.</IndoorsNoNaturalLightPenaltyDesc>
+	
+    <LightTransmission>Transmisión de luz a través de ventanas.</LightTransmission>
+	<LightTransmissionIncludesRoofs>incluyendo dispositivos en el techo</LightTransmissionIncludesRoofs>
+	<LightTransmissionDesc>Cantidad de luz exterior que logra atravesar cristales y carpinterías. Los valores del mundo real rondan el 90%.</LightTransmissionDesc>
+
+	<ComfortableTemperature>Rango de temperatura confortable (°C)</ComfortableTemperature>
+	<ComfortableTemperatureDesc>El rango de temperatura deseado para la función de ventilación automática. El valor predeterminado es lo que el juego considera la zona de confort humano.</ComfortableTemperatureDesc>
+
+	<BeautySensitivityReduction>Reducción de la sensibilidad a la belleza</BeautySensitivityReduction>
+	<BeautySensitivityReductionDesc>Adormece la sensibilidad de los peones hacia la belleza para compensar la cantidad agregada por "La naturaleza es bella" y capturada por las ventanas.</BeautySensitivityReductionDesc>
+	
+    <BeautyFromBuildings>Añadir belleza a las construcciones calculando con la vistas de la ventana.</BeautyFromBuildings>
+	<BeautyFromBuildingsDesc>Si se marca, la belleza de los edificios a la vista (incluidas las esculturas) también se agregará a la estadística de belleza de la ventana, junto con las plantas y otros elementos.</BeautyFromBuildingsDesc>
+
+	<LinkOptionsLabel>Modifica los gráficos de las paredes</LinkOptionsLabel>
+	<RequiresRestart>Requiere reiniciar</RequiresRestart>
+	<LinkWindowsAndWalls>Link with the windows</LinkWindowsAndWalls>
+	<LinkVentsAndWalls>Link with vents &amp; coolers</LinkVentsAndWalls>
+	<LinkFridgesAndWalls>Link with vents, coolers &amp; refrigerators</LinkFridgesAndWalls>
+	<AlarmOptionsLabel>&lt;i&gt;Better Pawn Control&lt;/i&gt; integration</AlarmOptionsLabel>
+	<AlarmReactDefault>Cerrar ventanas de emergencia por defecto</AlarmReactDefault>
+	
+	<ShowButton>Mostrar botón de pasar la luz</ShowButton>
+</LanguageData>
