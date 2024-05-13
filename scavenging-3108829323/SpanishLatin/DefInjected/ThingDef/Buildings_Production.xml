@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<LanguageData>
-  
-  <!-- EN: scavenging spot -->
-  <Romy_ScavengingSpot.label>Lugar de rastrillaje</Romy_ScavengingSpot.label>
-  <!-- EN: A spot to scavenge for various things. People will mostly look for edible things, but the chance to find something is not 100%. -->
-  <Romy_ScavengingSpot.description>Este lugar se puede usar para encontrar varias cosas. Normalmente comestible, pero no siempre vas ha encontrar algo.</Romy_ScavengingSpot.description>
-  
-</LanguageData>

@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-
-  <Misc_Battlefield.label>Campo de batalla</Misc_Battlefield.label>
-  <Misc_Battlefield.description>Dos enemigos mortales se encuentran en el campo de batalla.</Misc_Battlefield.description>
-  <Misc_Battlefield.descriptionDialogue>Hay {0} guerreros en el area.</Misc_Battlefield.descriptionDialogue>
-  <Misc_Battlefield.arrivedLetter>En esta area hay algunos guerreros que se encontraron con sus enemigos.\n\Cuidado, los enemigos pueden atacarte si te acercas demasiado.</Misc_Battlefield.arrivedLetter>
-
-</LanguageData>

@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<LanguageData>
-	<TreatedTrait>{0_labelShort} {1} se ha tratado correctamente.</TreatedTrait>
-	<!-- <MessageElectionCalledOff>The election at {0} has been called off because of conditions at the polling place.</MessageElectionCalledOff> -->
-	<MessageElectionCalledOff>La eleccion {0} ha sido pospuesta debido a las condiciones del lugar de la votacion.</MessageElectionCalledOff>
-	<!-- <MessageElectionCancelled>The election at {0} has been cancelled because there were no suitable polling places.</MessageElectionCancelled> -->
-	<MessageElectionCancelled>La eleccion {0} ha sido pospueta por no haber un lugar de votacion adecuado</MessageElectionCancelled>
-	<MessageFuneralCalledOff>El funeral ha sido cancelado debido a las condiciones de la colonia</MessageFuneralCalledOff>
-</LanguageData>
