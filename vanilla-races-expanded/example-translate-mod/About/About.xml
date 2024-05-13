@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Vanilla Races Expanded - Saurid [Fr]</name>
+	<author>Joedox</author>
+	<supportedVersions>		
+		<li>1.5</li>
+   </supportedVersions>
+   <modIconPath IgnoreIfNoMatchingField="True">Joedox_ModIcon</modIconPath>
+   <modDependencies>
+		<li>
+			<packageId>vanillaracesexpanded.saurid</packageId>
+			<displayName>Vanilla Races Expanded - Saurid</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2880990495</steamWorkshopUrl>
+		</li>
+	</modDependencies>	
+	<packageId>Joedox.vanillaracesexpanded.saurid.Fr</packageId>
+	<description>
+&lt;size=18&gt;Traduction &lt;color=#3691FF&gt;fra&lt;/color&gt;&lt;color=#FFFFFF&gt;nça&lt;/color&gt;&lt;color=#E00000&gt;ise&lt;/color&gt; du mod :&lt;b&gt; Vanilla Races Expanded - Saurid &lt;/b&gt; &lt;/size&gt;
+
+
+Vanilla Races Expanded est une toute nouvelle série de mods visant à améliorer les fonctionnalités de Biotech, à enrichir la narration et la construction du monde de RimWorld, et à introduire de nouveaux types de xénohumains, avec leurs gènes, comportements, mécanismes et objets uniques.
+
+Ce mod ajoute une nouvelle race appelée Saurides, avec des xénohumains aux caractéristiques de lézard. Un certain nombre de nouveaux gènes permettront aux joueurs de transformer leurs colons en monstruosités écailleuses à sang froid, tandis qu'une nouvelle faction Sauride sera ajoutée aux côtés des factions Étrangers et fournira un approvisionnement régulier de Saurides pour les joueurs qui le désirent.
+
+Génétiquement épissés avec du matériel génétique de dinosaures synthétisés pour une meilleure compatibilité avec les environnements arides, les saurides sont des isolés à sang froid avec des voix rauques et des métabolismes extrêmement faible. Leurs griffes acérées et leurs écailles durcies les rendent particulièrement aptes aux combats rapprochés.
+
+Pour les travailleurs à la recherche d'un emploi mieux rémunéré, les xénogermes saurides sont proposés avec des offres d'emploi sur des planètes particulièrement arides et chaudes. Comme les conditions sont assez dures, ils changent d'attitude et deviennent moins sociaux et consomment moins de calories, ce qui leur permet d'être plus rentables. Comme il ne leur est pas interdit de fonder une famille, les saurides peuvent communiquer entre eux à l'aide de phéromones et sont ovipares afin de réduire les complications médicales causées par le manque d'infrastructures sociales appropriées.	</description>
+	<loadBefore>
+		<li></li>
+	</loadBefore>
+
+	<loadAfter>			
+		<li>vanillaracesexpanded.saurid</li>
+	</loadAfter>
+
+	<incompatibleWith>
+		<li>joedox.vanillamegapack.fr</li>
+	</incompatibleWith>
+
+</ModMetaData>

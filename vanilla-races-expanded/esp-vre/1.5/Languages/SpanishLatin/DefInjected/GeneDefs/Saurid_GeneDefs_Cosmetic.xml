@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <VRESaurids_FrilledEars.label>orejas con volantes</VRESaurids_FrilledEars.label>
+    <VRESaurids_FrilledEars.description>Los portadores de este gen tiene orejas con volantes similar a algunos lagartos.</VRESaurids_FrilledEars.description>
+    <VRESaurids_FrilledEars.symbolPack.prefixSymbols.0.symbol>volante</VRESaurids_FrilledEars.symbolPack.prefixSymbols.0.symbol>
+    <VRESaurids_FrilledEars.symbolPack.prefixSymbols.1.symbol>iguana</VRESaurids_FrilledEars.symbolPack.prefixSymbols.1.symbol>
+    <VRESaurids_FrilledEars.symbolPack.prefixSymbols.2.symbol>lagarto</VRESaurids_FrilledEars.symbolPack.prefixSymbols.2.symbol>
+    <VRESaurids_FrilledEars.symbolPack.prefixSymbols.3.symbol>columna</VRESaurids_FrilledEars.symbolPack.prefixSymbols.3.symbol>
+    <VRESaurids_FrilledEars.symbolPack.prefixSymbols.4.symbol>reptil</VRESaurids_FrilledEars.symbolPack.prefixSymbols.4.symbol>
+    <VRESaurids_FrilledEars.symbolPack.suffixSymbols.0.symbol>pincho</VRESaurids_FrilledEars.symbolPack.suffixSymbols.0.symbol>
+    <VRESaurids_FrilledEars.symbolPack.suffixSymbols.1.symbol>lanza</VRESaurids_FrilledEars.symbolPack.suffixSymbols.1.symbol>
+    <VRESaurids_FrilledEars.symbolPack.suffixSymbols.2.symbol>volante</VRESaurids_FrilledEars.symbolPack.suffixSymbols.2.symbol>
+    <VRESaurids_FrilledEars.symbolPack.suffixSymbols.3.symbol>sauro</VRESaurids_FrilledEars.symbolPack.suffixSymbols.3.symbol>
+
+
+    <VRESaurids_CenterFrill.label>Volante central</VRESaurids_CenterFrill.label>
+    <VRESaurids_CenterFrill.description>Los portadores de este gen tiene un volante similar a los lagartos encima de su cabeza.</VRESaurids_CenterFrill.description>
+    <VRESaurids_CenterFrill.symbolPack.prefixSymbols.0.symbol>volante</VRESaurids_CenterFrill.symbolPack.prefixSymbols.0.symbol>
+    <VRESaurids_CenterFrill.symbolPack.prefixSymbols.1.symbol>iguana</VRESaurids_CenterFrill.symbolPack.prefixSymbols.1.symbol>
+    <VRESaurids_CenterFrill.symbolPack.prefixSymbols.2.symbol>lagarto</VRESaurids_CenterFrill.symbolPack.prefixSymbols.2.symbol>
+    <VRESaurids_CenterFrill.symbolPack.prefixSymbols.3.symbol>columna</VRESaurids_CenterFrill.symbolPack.prefixSymbols.3.symbol>
+    <VRESaurids_CenterFrill.symbolPack.prefixSymbols.4.symbol>reptil</VRESaurids_CenterFrill.symbolPack.prefixSymbols.4.symbol>
+    <VRESaurids_CenterFrill.symbolPack.suffixSymbols.0.symbol>pincho</VRESaurids_CenterFrill.symbolPack.suffixSymbols.0.symbol>
+    <VRESaurids_CenterFrill.symbolPack.suffixSymbols.1.symbol>lanza</VRESaurids_CenterFrill.symbolPack.suffixSymbols.1.symbol>
+    <VRESaurids_CenterFrill.symbolPack.suffixSymbols.2.symbol>volante</VRESaurids_CenterFrill.symbolPack.suffixSymbols.2.symbol>
+    <VRESaurids_CenterFrill.symbolPack.suffixSymbols.3.symbol>sauro</VRESaurids_CenterFrill.symbolPack.suffixSymbols.3.symbol>
+
+
+    <VRESaurids_GeckoTail.label>cola de gecko</VRESaurids_GeckoTail.label>
+    <VRESaurids_GeckoTail.description>Los portadores de este gen, le crece una pequeña cola escamosa que no posee ninguna funcion</VRESaurids_GeckoTail.description>
+
+</LanguageData>

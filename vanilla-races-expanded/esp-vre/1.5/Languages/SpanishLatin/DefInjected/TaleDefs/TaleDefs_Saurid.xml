@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <VRESaurids_HypothermicReveal.label>Ralentización hipotérmica revelada</VRESaurids_HypothermicReveal.label>
+    <VRESaurids_HypothermicReveal.rulePack.rulesStrings>
+        <li>tale_noun->[PAWN_nameDef] congelado hasta la muerte</li>
+        <li>image->[PAWN_nameFull] caminando a través de la nieve [circumstance_group]</li>
+        <li>image->[PAWN_nameFull] acurrucado junto a [TerrainFeature] [circumstance_group]</li>
+        <li>image->[PAWN_nameFull] buscando una [Apparel] cálido [circumstance_group]</li>
+        <li>image->[PAWN_nameFull] agachado junto al fuego [circumstance_group]</li>
+        <li>image->[PAWN_nameFull] trata de encender un fuego [circumstance_group]</li>
+        <li>circumstance_phrase->mientras [PAWN_possessive] la cara se vuelve lentamente azul</li>
+        <li>circumstance_phrase->y esta temblando de forma incontrolable</li>
+        <li>circumstance_phrase->mientras esta cubierto de escarcha</li>
+        <li>circumstance_phrase->mientras exhala vaho</li>
+        <li>desc_sentence->[Quantity_adjphrase] cuerpos congelados [Animal] alrededor.</li>
+        <li>desc_sentence->[PAWN_nameDef] las ropas estan desgarradas y desgastados.</li>
+        <li>desc_sentence->Una luna azul fría se avecina en el fondo.</li>
+        <li>desc_sentence->La escena tiene lugar dentro un bosque nevado [TreeType].</li>
+        <li>desc_sentence->La escena parece tener lugar dentro de un congelador.</li>
+        <li>desc_sentence->[Quantity_adjphrase] temblando [Animal] alrededor de la escena.</li>
+        <li>desc_sentence->[Quantity_adjphrase] muriendo [Animal] yace en el suelo.</li>
+    </VRESaurids_HypothermicReveal.rulePack.rulesStrings>
+
+
+    <VRESaurids_HyperthermicReveal.label>Ralentización hipertérmica revelada</VRESaurids_HyperthermicReveal.label>
+    <VRESaurids_HyperthermicReveal.rulePack.rulesStrings>
+        <li>tale_noun->[PAWN_nameDef] sobrecalentado</li>
+        <li>image->[PAWN_nameFull] pasa a través de la arena [circumstance_group]</li>
+        <li>image->[PAWN_nameFull] se acurruca a la sombra de [TerrainFeature] [circumstance_group]</li>
+        <li>image->[PAWN_nameFull] buscando agua [circumstance_group]</li>
+        <li>image->[PAWN_nameFull] buscando sombra [circumstance_group]</li>
+        <li>image->[PAWN_nameFull] pasando a traves de los rayos del sol [circumstance_group]</li>
+        <li>circumstance_phrase->y cubierto de sudor</li>
+        <li>circumstance_phrase->y con labios secos agrietados</li>
+        <li>circumstance_phrase->mientras vomita</li>
+        <li>desc_sentence->[Quantity_adjphrase] los cadaveres disecados [Animal] rodean el área.</li>
+        <li>desc_sentence->[PAWN_nameDef] las ropas estan desgarradas y desgastados.</li>
+        <li>desc_sentence->Un sol ardiente se avecina en el fondo.</li>
+        <li>desc_sentence->La escena tiene lugar dentro de un desierto ardiente.</li>
+        <li>desc_sentence->La escena parece tener lugar dentro de un calentador.</li>
+        <li>desc_sentence->[Quantity_adjphrase] inmovil [Animal] rodean el lugar.</li>
+        <li>desc_sentence->[Quantity_adjphrase] muerto [Animal] yacen en el suelo.</li>
+    </VRESaurids_HyperthermicReveal.rulePack.rulesStrings>
+
+</LanguageData>

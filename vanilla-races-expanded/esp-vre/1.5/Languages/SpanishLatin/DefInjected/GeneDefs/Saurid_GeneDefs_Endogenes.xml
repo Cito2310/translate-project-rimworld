@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <VRESaurids_SauridClaws.label>garras de sauridos</VRESaurids_SauridClaws.label>
+    <VRESaurids_SauridClaws.description>Los portadores de este gen, tienen parcialmente en sus manos garras de dinosaurios. Esto impacta ligeramente en su habilidad de manipular objetos, pero durante el combate cuerpo a cuerpo permite hacer cortes profundos.</VRESaurids_SauridClaws.description>
+    <VRESaurids_SauridClaws.customEffectDescriptions.0>Causa cortes al hacer ataques desarmados</VRESaurids_SauridClaws.customEffectDescriptions.0>
+    <VRESaurids_SauridClaws.symbolPack.wholeNameSymbols.0.symbol>garras</VRESaurids_SauridClaws.symbolPack.wholeNameSymbols.0.symbol>
+    <VRESaurids_SauridClaws.symbolPack.prefixSymbols.0.symbol>saurido</VRESaurids_SauridClaws.symbolPack.prefixSymbols.0.symbol>
+    <VRESaurids_SauridClaws.symbolPack.prefixSymbols.1.symbol>raptor</VRESaurids_SauridClaws.symbolPack.prefixSymbols.1.symbol>
+    <VRESaurids_SauridClaws.symbolPack.prefixSymbols.2.symbol>garra</VRESaurids_SauridClaws.symbolPack.prefixSymbols.2.symbol>
+    <VRESaurids_SauridClaws.symbolPack.prefixSymbols.3.symbol>predador</VRESaurids_SauridClaws.symbolPack.prefixSymbols.3.symbol>
+    <VRESaurids_SauridClaws.symbolPack.prefixSymbols.4.symbol>gancho</VRESaurids_SauridClaws.symbolPack.prefixSymbols.4.symbol>
+    <VRESaurids_SauridClaws.symbolPack.prefixSymbols.5.symbol>reptil</VRESaurids_SauridClaws.symbolPack.prefixSymbols.5.symbol>
+    <VRESaurids_SauridClaws.symbolPack.prefixSymbols.0.symbol>garra</VRESaurids_SauridClaws.symbolPack.prefixSymbols.0.symbol>
+    <VRESaurids_SauridClaws.symbolPack.prefixSymbols.1.symbol>afilado</VRESaurids_SauridClaws.symbolPack.prefixSymbols.1.symbol>
+    <VRESaurids_SauridClaws.symbolPack.prefixSymbols.2.symbol>gancho</VRESaurids_SauridClaws.symbolPack.prefixSymbols.2.symbol>
+    <VRESaurids_SauridClaws.symbolPack.prefixSymbols.3.symbol>predador</VRESaurids_SauridClaws.symbolPack.prefixSymbols.3.symbol>
+    <VRESaurids_SauridClaws.symbolPack.prefixSymbols.4.symbol>raptor</VRESaurids_SauridClaws.symbolPack.prefixSymbols.4.symbol>
+    <VRESaurids_SauridClaws.symbolPack.prefixSymbols.5.symbol>reptil</VRESaurids_SauridClaws.symbolPack.prefixSymbols.5.symbol>
+    <VRESaurids_SauridClaws.symbolPack.prefixSymbols.6.symbol>sauro</VRESaurids_SauridClaws.symbolPack.prefixSymbols.6.symbol>
+
+</LanguageData>

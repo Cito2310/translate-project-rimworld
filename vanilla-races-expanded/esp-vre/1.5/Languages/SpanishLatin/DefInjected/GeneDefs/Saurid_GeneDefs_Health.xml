@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <VRESaurids_Oviparous.label>ovípara</VRESaurids_Oviparous.label>
+    <VRESaurids_Oviparous.description>Los portadores de este gen ponen huevos en lugar de dar a luz. Los huevos necesitan tiempo y buenas condiciones para eclosionar.</VRESaurids_Oviparous.description>
+    <VRESaurids_Oviparous.customEffectDescriptions.0>Pone huevos en vez embarazarse y dar a luz</VRESaurids_Oviparous.customEffectDescriptions.0>
+    <VRESaurids_Oviparous.customEffectDescriptions.1>Poner huevos hace que el peón sea temporalmente infertil</VRESaurids_Oviparous.customEffectDescriptions.1>
+    <VRESaurids_Oviparous.symbolPack.wholeNameSymbols.0.symbol>huevo</VRESaurids_Oviparous.symbolPack.wholeNameSymbols.0.symbol>
+    <VRESaurids_Oviparous.symbolPack.wholeNameSymbols.1.symbol>oviparo</VRESaurids_Oviparous.symbolPack.wholeNameSymbols.1.symbol>
+    <VRESaurids_Oviparous.symbolPack.wholeNameSymbols.2.symbol>huevo</VRESaurids_Oviparous.symbolPack.wholeNameSymbols.2.symbol>
+    <VRESaurids_Oviparous.symbolPack.wholeNameSymbols.3.symbol>eclosionar</VRESaurids_Oviparous.symbolPack.wholeNameSymbols.3.symbol>
+    <VRESaurids_Oviparous.symbolPack.prefixSymbols.0.symbol>huevo</VRESaurids_Oviparous.symbolPack.prefixSymbols.0.symbol>
+    <VRESaurids_Oviparous.symbolPack.prefixSymbols.1.symbol>yema</VRESaurids_Oviparous.symbolPack.prefixSymbols.1.symbol>
+    <VRESaurids_Oviparous.symbolPack.prefixSymbols.2.symbol>hueva</VRESaurids_Oviparous.symbolPack.prefixSymbols.2.symbol>
+    <VRESaurids_Oviparous.symbolPack.suffixSymbols.0.symbol>capa</VRESaurids_Oviparous.symbolPack.suffixSymbols.0.symbol>
+    <VRESaurids_Oviparous.symbolPack.suffixSymbols.1.symbol>poner</VRESaurids_Oviparous.symbolPack.suffixSymbols.1.symbol>
+
+
+    <VRESaurids_ColdBlooded.label>Sangre fría</VRESaurids_ColdBlooded.label>
+    <VRESaurids_ColdBlooded.description>Los portadores de este gen necesitan mantener una temperatura corporal estable. Estar demasiado caliente o frio resultara en la disminución de las funciones motoras, y si no se controla a tiempo, muere.</VRESaurids_ColdBlooded.description>
+    <VRESaurids_ColdBlooded.customEffectDescriptions.0>Sufre una versión mucho más drástica de la hipotermia/hipertermia donde las capacidades disminuyen rápidamente hasta la muerte.</VRESaurids_ColdBlooded.customEffectDescriptions.0>
+    <VRESaurids_ColdBlooded.symbolPack.wholeNameSymbols.0.symbol>sangre fría</VRESaurids_ColdBlooded.symbolPack.wholeNameSymbols.0.symbol>
+    <VRESaurids_ColdBlooded.symbolPack.prefixSymbols.0.symbol>termo</VRESaurids_ColdBlooded.symbolPack.prefixSymbols.0.symbol>
+    <VRESaurids_ColdBlooded.symbolPack.suffixSymbols.0.symbol>lagarto</VRESaurids_ColdBlooded.symbolPack.suffixSymbols.0.symbol>
+
+
+    <VRESaurids_Pheromones.label>feromonas</VRESaurids_Pheromones.label>
+    <VRESaurids_Pheromones.description>Los portadores de este gen excretan feromonas especiales que atraen a los miembros del mismo xenotipo</VRESaurids_Pheromones.description>
+    <VRESaurids_Pheromones.customEffectDescriptions.0>Relaciones mejoradas con cualquier colonos con el mismo xenotipo</VRESaurids_Pheromones.customEffectDescriptions.0>
+
+</LanguageData>
