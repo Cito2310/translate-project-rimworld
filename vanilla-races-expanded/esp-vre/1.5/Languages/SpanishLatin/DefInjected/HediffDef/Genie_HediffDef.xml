@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <VRE_Hemophiliac.label>hemofílico</VRE_Hemophiliac.label>
+    <VRE_Hemophiliac.description>Un transtorno hemorrágico que impide la formacion de coagulos, resultando en una tasa de sangrado mucho más rápida cuando está herido</VRE_Hemophiliac.description>
+
+
+    <!-- ANTIBIOTICO -->
+    <VRE_AntibioticsHigh.label>antibióticos</VRE_AntibioticsHigh.label>
+    <VRE_AntibioticsHigh.description>Un fármaco para aumentar su sistema inmune. Ayuda contra las enfermedades, la malaria y la peste, así como las infecciones de las heridas. Dura 12 horas. El efecto es más fuerte cuanto menos sistema inmunologico tenga, se modifica segun la tolerancia de la persona a la droga.</VRE_AntibioticsHigh.description>
+
+    <VRE_AntibioticsHigh_NoImmunity.label>antibióticos</VRE_AntibioticsHigh_NoImmunity.label>
+    <VRE_AntibioticsHigh_NoImmunity.description>Un fármaco para aumentar su sistema inmune. Ayuda contra las enfermedades, la malaria y la peste, así como las infecciones de las heridas. Dura 12 horas. El efecto es más fuerte cuanto menos sistema inmunologico tenga, se modifica segun la tolerancia de la persona a la droga.</VRE_AntibioticsHigh_NoImmunity.description>
+
+    <VRE_AntibioticsHigh_VeryWeak.label>antibióticos</VRE_AntibioticsHigh_VeryWeak.label>
+    <VRE_AntibioticsHigh_VeryWeak.description>Un fármaco para aumentar su sistema inmune. Ayuda contra las enfermedades, la malaria y la peste, así como las infecciones de las heridas. Dura 12 horas. El efecto es más fuerte cuanto menos sistema inmunologico tenga, se modifica segun la tolerancia de la persona a la droga.</VRE_AntibioticsHigh_VeryWeak.description>
+
+    <VRE_AntibioticsHigh_Weak.label>antibióticos</VRE_AntibioticsHigh_Weak.label>
+    <VRE_AntibioticsHigh_Weak.description>Un fármaco para aumentar su sistema inmune. Ayuda contra las enfermedades, la malaria y la peste, así como las infecciones de las heridas. Dura 12 horas. El efecto es más fuerte cuanto menos sistema inmunologico tenga, se modifica segun la tolerancia de la persona a la droga.</VRE_AntibioticsHigh_Weak.description>
+
+    <VRE_AntibioticsTolerance.label>tolerancia a los antibióticos</VRE_AntibioticsTolerance.label>
+    <VRE_AntibioticsTolerance.description>Una tolerancia acumulada a los antibióticos. Cuanto más severa sea esta tolerancia, más antibióticos se necesitan para obtener el mismo efecto.</VRE_AntibioticsTolerance.description>
+
+
+    <VRE_AntibioticsAddiction.label>adicción a los antibióticos</VRE_AntibioticsAddiction.label>
+    <VRE_AntibioticsAddiction.description>Una adicción química a los antibióticos. La presencia a largo plazo de los antibióticos causa adaptaciones neurológicas a nivel celular, por lo que el cerebro no puede funcionar correctamente sin el fármaco.\nSin una dosis regular de los antibióticos, comenzarán los síntomas de abstinencia. Sin embargo, la abstinencia extendida obligará al cerebro a adaptarse a su estado normal.</VRE_AntibioticsAddiction.description>
+    <VRE_AntibioticsAddiction.stages.1.label>retiro</VRE_AntibioticsAddiction.stages.1>
+
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <VRE_AptitudePhenomenal.label>{0} fenomenal</VRE_AptitudePhenomenal.label>
+    <VRE_AptitudePhenomenal.description>La aptitud {0} del portado aumenta en +12. Además, agrega el nivel de pasión a {0}</VRE_AptitudePhenomenal.description>
+
+</LanguageData>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <VRE_Filth_BlueBlood.label>sangre azul</VRE_Filth_BlueBlood.label>
+
+    <VRE_Antibiotics.label>antibioticos</VRE_Antibiotics.label>
+    <VRE_Antibiotics.description>Un fármaco para aumentar el sistema inmune. Ayuda contra las enfermedades, la malaria y la peste, así como las infecciones de las heridas. Dura 12 horas. cura las infecciones existentes, incluso aquellas que aún no se han descubierto, sin embargo, el uso excesivo de los antibióticos puede hacer que esta persona sea temporalmente resistente a ellos.</VRE_Antibiotics.description>
+
+
+</LanguageData>

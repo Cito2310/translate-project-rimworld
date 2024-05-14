@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<LanguageData>
+
+
+    <!-- HEALT -->
+    <VRE_WoundHealing_VerySlow.label>curación de herias muy lenta</VRE_WoundHealing_VerySlow.label>
+    <VRE_WoundHealing_VerySlow.labelShortAdj>curacion lenta</VRE_WoundHealing_VerySlow.labelShortAdj>
+    <VRE_WoundHealing_VerySlow.description>El portador de este gen tardan mucho en sanar, incluso de las heridas más básicas.</VRE_WoundHealing_VerySlow.description>
+    <VRE_WoundHealing_VerySlow.symbolPack.prefixSymbols.0.symbol>debil</VRE_WoundHealing_VerySlow.symbolPack.prefixSymbols.0.symbol>
+
+    <VRE_Immunity_VeryWeak.label>sin inmunidad</VRE_Immunity_VeryWeak.label>
+    <VRE_Immunity_VeryWeak.labelShortAdj>vulnerable</VRE_Immunity_VeryWeak.labelShortAdj>
+    <VRE_Immunity_VeryWeak.description>El portador de este gen, carece de cualquier tipo de sistema inmune, y casi no ganara inmunidad al tener alguna enfermedad o infeccíon de forma natural. Puede morir incluso de la infección o enfermedad más ligera.</VRE_Immunity_VeryWeak.description>
+    <VRE_Immunity_VeryWeak.symbolPack.prefixSymbols.0.symbol>enfermizo</VRE_Immunity_VeryWeak.symbolPack.prefixSymbols.0.symbol>
+    <VRE_Immunity_VeryWeak.symbolPack.prefixSymbols.1.symbol>enfermizo</VRE_Immunity_VeryWeak.symbolPack.prefixSymbols.1.symbol>
+
+    <VRE_Slow_Diseases.label>enfermedades lentas</VRE_Slow_Diseases.label>
+    <VRE_Slow_Diseases.description>El portador de este gen, tiene anti-cuerpos especiales en su sangre que ralentiza el progreso de las enfermades e infecciones, dándole más tiempo para obtener atención médica.</VRE_Slow_Diseases.description>
+
+
+    <!-- HEAD -->
+    <VRE_ElongatedHead.label>cabeza alargada</VRE_ElongatedHead.label>
+    <VRE_ElongatedHead.description>El portador de este gen, posee una cabeza alargada, dandole una apariencia de alien.</VRE_ElongatedHead.description>
+    <VRE_ElongatedHead.symbolPack.prefixSymbols.0.symbol>alien</VRE_ElongatedHead.symbolPack.prefixSymbols.0.symbol>
+    <VRE_ElongatedHead.symbolPack.prefixSymbols.1.symbol>cerebro</VRE_ElongatedHead.symbolPack.prefixSymbols.1.symbol>
+    <VRE_ElongatedHead.symbolPack.prefixSymbols.2.symbol>largo</VRE_ElongatedHead.symbolPack.prefixSymbols.2.symbol>
+
+
+    <!-- BLEEDING -->
+    <VRE_Hemophiliac.label>hemofílico</VRE_Hemophiliac.label>
+    <VRE_Hemophiliac.description>El portador de este gen sufre un transtorno hemorrágico que impide la formación de coagulos en su sangre, lo que resulta en una tasa de sangrado mucho más alta.</VRE_Hemophiliac.description>
+    <VRE_Hemophiliac.symbolPack.prefixSymbols.0.symbol>hemofílico</VRE_Hemophiliac.symbolPack.prefixSymbols.0.symbol>
+    <VRE_Hemophiliac.symbolPack.suffixSymbols.0.symbol>filico</VRE_Hemophiliac.symbolPack.suffixSymbols.0.symbol>
+    <VRE_Hemophiliac.symbolPack.suffixSymbols.1.symbol>hemofílico</VRE_Hemophiliac.symbolPack.suffixSymbols.1.symbol>
+
+
+    <!-- BLOOD -->
+    <VRE_BlueBlood.label>sangre azul</VRE_BlueBlood.label>
+    <VRE_BlueBlood.description>El portador de este gen tiene bajos niveles de cierto mineral en su sangre, lo que resulta en que tenga su sangre de un color azul oscuro.</VRE_BlueBlood.description>
+    <VRE_BlueBlood.symbolPack.wholeNameSymbols.0.symbol>sangre azul</VRE_BlueBlood.symbolPack.wholeNameSymbols.0.symbol>
+    <VRE_BlueBlood.symbolPack.prefixSymbols.0.symbol>azul</VRE_BlueBlood.symbolPack.prefixSymbols.0.symbol>
+    <VRE_BlueBlood.symbolPack.prefixSymbols.1.symbol>azul</VRE_BlueBlood.symbolPack.prefixSymbols.1.symbol>
+    <VRE_BlueBlood.symbolPack.suffixSymbols.0.symbol>marino</VRE_BlueBlood.symbolPack.suffixSymbols.0.symbol>
+
+
+    <!-- CURIOSITY -->
+    <VRE_Curiosity_Shooting.label>curiosidad por el tiro</VRE_Curiosity_Shooting.label>
+    <VRE_Curiosity_Shooting.description>El portador de este gen, tendra una curiosidad por el Tiro haciendo que se entretenga al aprender. Además, la curiosidad evita la pérdida de habilidad de Tiro por completo.</VRE_Curiosity_Shooting.description>
+
+    <VRE_Curiosity_Melee.label>curiosidad por el cuerpo a cuerpo</VRE_Curiosity_Melee.label>
+    <VRE_Curiosity_Melee.description>El portador de este gen, tendra una curiosidad por el Cuerpo a Cuerpo haciendo que se entretenga al aprender. Además, la curiosidad evita la pérdida de habilidad de Cuerpo a Cuerpo por completo.</VRE_Curiosity_Melee.description>
+
+    <VRE_Curiosity_Construction.label>curiosidad por la construcción</VRE_Curiosity_Construction.label>
+    <VRE_Curiosity_Construction.description>El portador de este gen, tendra una curiosidad por la Construcción haciendo que se entretenga al aprender. Además, la curiosidad evita la pérdida de habilidad de Construcción por completo.</VRE_Curiosity_Construction.description>
+
+    <VRE_Curiosity_Mining.label>curiosidad por la mineria</VRE_Curiosity_Mining.label>
+    <VRE_Curiosity_Mining.description>El portador de este gen, tendra una curiosidad por la Mineria haciendo que se entretenga al aprender. Además, la curiosidad evita la pérdida de habilidad de Mineria por completo.</VRE_Curiosity_Mining.description>
+
+    <VRE_Curiosity_Cooking.label>curiosidad por la cocina</VRE_Curiosity_Cooking.label>
+    <VRE_Curiosity_Cooking.description>El portador de este gen, tendra una curiosidad por la Cocina haciendo que se entretenga al aprender. Además, la curiosidad evita la pérdida de habilidad de Cocina por completo.</VRE_Curiosity_Cooking.description>
+
+    <VRE_Curiosity_Plants.label>curiosidad por las plantas</VRE_Curiosity_Plants.label>
+    <VRE_Curiosity_Plants.description>El portador de este gen, tendra una curiosidad por las Plantas haciendo que se entretenga al aprender. Además, la curiosidad evita la pérdida de habilidad de Plantas por completo.</VRE_Curiosity_Plants.description>
+
+    <VRE_Curiosity_Animals.label>curiosidad por los animales</VRE_Curiosity_Animals.label>
+    <VRE_Curiosity_Animals.description>El portador de este gen, tendra una curiosidad por los Animales haciendo que se entretenga al aprender. Además, la curiosidad evita la pérdida de habilidad de Animales por completo.</VRE_Curiosity_Animals.description>
+
+    <VRE_Curiosity_Crafting.label>curiosidad por la fabricación</VRE_Curiosity_Crafting.label>
+    <VRE_Curiosity_Crafting.description>El portador de este gen, tendra una curiosidad por la Fabricación haciendo que se entretenga al aprender. Además, la curiosidad evita la pérdida de habilidad de Fabricación por completo.</VRE_Curiosity_Crafting.description>
+
+    <VRE_Curiosity_Artistic.label>curiosidad por el arte</VRE_Curiosity_Artistic.label>
+    <VRE_Curiosity_Artistic.description>El portador de este gen, tendra una curiosidad por el Arte haciendo que se entretenga al aprender. Además, la curiosidad evita la pérdida de habilidad de Arte por completo.</VRE_Curiosity_Artistic.description>
+
+    <VRE_Curiosity_Medicine.label>curiosidad por la medicina</VRE_Curiosity_Medicine.label>
+    <VRE_Curiosity_Medicine.description>El portador de este gen, tendra una curiosidad por la Medicina haciendo que se entretenga al aprender. Además, la curiosidad evita la pérdida de habilidad de Medicina por completo.</VRE_Curiosity_Medicine.description>
+
+    <VRE_Curiosity_Social.label>curiosidad por lo social</VRE_Curiosity_Social.label>
+    <VRE_Curiosity_Social.description>El portador de este gen, tendra una curiosidad por lo Social haciendo que se entretenga al aprender. Además, la curiosidad evita la pérdida de habilidad de Social por completo.</VRE_Curiosity_Social.description>
+
+    <VRE_Curiosity_Intellectual.label>curiosidad por lo intelectual</VRE_Curiosity_Intellectual.label>
+    <VRE_Curiosity_Intellectual.description>El portador de este gen, tendra una curiosidad por lo Intelectual haciendo que se entretenga al aprender. Además, la curiosidad evita la pérdida de habilidad de Intelectual por completo.</VRE_Curiosity_Intellectual.description>
+
+
+</LanguageData>
