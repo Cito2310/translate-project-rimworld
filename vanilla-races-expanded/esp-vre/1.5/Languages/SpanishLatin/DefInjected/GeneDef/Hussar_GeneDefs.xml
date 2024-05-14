@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<LanguageData>
+
+    <VREHT_WeaponAptitude_Randomizer.label>aptitud con arma aleatorio</VREHT_WeaponAptitude_Randomizer.label>
+    <VREHT_WeaponAptitude_Randomizer.labelShortAdj>aleatorio</VREHT_WeaponAptitude_Randomizer.labelShortAdj>
+    <VREHT_WeaponAptitude_Randomizer.description>Esto se cambiará por un gen de apititud para un arma aleatorio.Nunca sera visible para el jugador.</VREHT_WeaponAptitude_Randomizer.description>
+
+
+    <VREH_Dutiful.label>obediente</VREH_Dutiful.label>
+    <VREH_Dutiful.description>Los portadores de este gen tienen un sentido del deber muy aumentado y nunca tendran un colapso mental al estar reclutado.</VREH_Dutiful.description>
+    <VREH_Dutiful.symbolPack.prefixSymbols.0.symbol>obediente</VREH_Dutiful.symbolPack.prefixSymbols.0.symbol>
+    <VREH_Dutiful.symbolPack.prefixSymbols.1.symbol>leal</VREH_Dutiful.symbolPack.prefixSymbols.1.symbol>
+    <VREH_Dutiful.symbolPack.prefixSymbols.2.symbol>obediente</VREH_Dutiful.symbolPack.prefixSymbols.2.symbol>
+    <VREH_Dutiful.symbolPack.prefixSymbols.3.symbol>firme</VREH_Dutiful.symbolPack.prefixSymbols.3.symbol>
+    <VREH_Dutiful.symbolPack.prefixSymbols.4.symbol>estable</VREH_Dutiful.symbolPack.prefixSymbols.4.symbol>
+    <VREH_Dutiful.symbolPack.prefixSymbols.5.symbol>firme</VREH_Dutiful.symbolPack.prefixSymbols.5.symbol>
+
+
+    <VREH_BulletproofSkin.label>piel antibalas</VREH_BulletproofSkin.label>
+    <VREH_BulletproofSkin.description>Los portadores de este gen tienen una piel reforzada por hilos organicos similar al kevlar, lo que le permite desviar balas de calibre pequeño y solo tendran moretones.</VREH_BulletproofSkin.description>
+    <VREH_BulletproofSkin.symbolPack.wholeNameSymbols.0.symbol>antibalas</VREH_BulletproofSkin.symbolPack.wholeNameSymbols.0.symbol>
+    <VREH_BulletproofSkin.symbolPack.prefixSymbols.0.symbol>kevlar</VREH_BulletproofSkin.symbolPack.prefixSymbols.0.symbol>
+    <VREH_BulletproofSkin.symbolPack.suffixSymbols.0.symbol>resistenten</VREH_BulletproofSkin.symbolPack.suffixSymbols.0.symbol>
+
+
+    <VREH_Giant.label>gigante</VREH_Giant.label>
+    <VREH_Giant.description>Los portadores de este gen son ligeramente más grandes que los humanos normales.</VREH_Giant.description>
+
+
+    <VREH_Toughness.label>resistente</VREH_Toughness.label>
+    <VREH_Toughness.description>Los portadores de este gen tienen piel gruesa, carne densa y huesos duros, reciben mucho menos daño qu</VREH_Toughness.description>
+    <VREH_Toughness.symbolPack.prefixSymbols.0.symbol>duro</VREH_Toughness.symbolPack.prefixSymbols.0.symbol>
+    <VREH_Toughness.symbolPack.prefixSymbols.1.symbol>duro</VREH_Toughness.symbolPack.prefixSymbols.1.symbol>
+    <VREH_Toughness.symbolPack.prefixSymbols.2.symbol>pesado</VREH_Toughness.symbolPack.prefixSymbols.2.symbol>
+    <VREH_Toughness.symbolPack.prefixSymbols.3.symbol>fuerte</VREH_Toughness.symbolPack.prefixSymbols.3.symbol>
+
+
+    <VREH_Arrogant.label>Arrogante</VREH_Arrogant.label>
+    <VREH_Arrogant.description>Los portadores de este gen no tienen ningun filtro y siempre dicen lo que pasa por su cabeza, incluso si puede molestar a los demás.</VREH_Arrogant.description>
+    <VREH_Arrogant.symbolPack.wholeNameSymbols.0.symbol>arrogante</VREH_Arrogant.symbolPack.wholeNameSymbols.0.symbol>
+    <VREH_Arrogant.symbolPack.prefixSymbols.0.symbol>rudo</VREH_Arrogant.symbolPack.prefixSymbols.0.symbol>
+    <VREH_Arrogant.symbolPack.prefixSymbols.1.symbol>malo</VREH_Arrogant.symbolPack.prefixSymbols.1.symbol>
+    <VREH_Arrogant.symbolPack.prefixSymbols.2.symbol>mezquino</VREH_Arrogant.symbolPack.prefixSymbols.2.symbol>
+
+
+    <VREH_Unconstrained.label>armadura no ralentiza</VREH_Unconstrained.label>
+    <VREH_Unconstrained.description>Los portadores de este gen no sufren penalizaciones de velocidad de movimiento por usar vestir prendas o armaduras.</VREH_Unconstrained.description>
+
+    <VREH_ChemicalDependency_Luciferium.label>independencia al luciferium</VREH_ChemicalDependency_Luciferium.label>
+    <VREH_ChemicalDependency_Luciferium.description>Los portadores de este gen necesitan ingerir luciferium de forma regular para sobrevivir. Despues de 10 días sin luciferium, el portador sufrira una deficiencia de luciferium. Despues de 20 dias, entrara en coma. Despues de 30 dias, esté morira.</VREH_ChemicalDependency_Luciferium.description>
+    <VREH_ChemicalDependency_Luciferium.labelShortAdj>luciferium-dependiente</VREH_ChemicalDependency_Luciferium.labelShortAdj>
+    <VREH_ChemicalDependency_Luciferium.symbolPack.prefixSymbols.0.symbol>luci</VREH_ChemicalDependency_Luciferium.symbolPack.prefixSymbols.0.symbol>
+    <VREH_ChemicalDependency_Luciferium.symbolPack.suffixSymbols.0.symbol>ferium</VREH_ChemicalDependency_Luciferium.symbolPack.suffixSymbols.0.symbol>
+    <VREH_ChemicalDependency_Luciferium.symbolPack.suffixSymbols.0.symbol>malo</VREH_ChemicalDependency_Luciferium.symbolPack.suffixSymbols.0.symbol>
+
+
+    <VREH_Glidewings.label>alas planeadoras</VREH_Glidewings.label>
+    <VREH_Glidewings.description>Al portador de este gen le creceran unas pequeñas alas en sus hombros. No sera capaz de volar, pero no se vera afectado por los obstáculos</VREH_Glidewings.description>
+
+</LanguageData>
