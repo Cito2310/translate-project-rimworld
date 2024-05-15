@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+    <VRESaurids_KilledEggChild.label>huevo humano comido</VRESaurids_KilledEggChild.label>
+
     <VRESaurids_HypothermicReveal.label>Ralentización hipotérmica revelada</VRESaurids_HypothermicReveal.label>
     <VRESaurids_HypothermicReveal.rulePack.rulesStrings>
         <li>tale_noun->[PAWN_nameDef] congelado hasta la muerte</li>

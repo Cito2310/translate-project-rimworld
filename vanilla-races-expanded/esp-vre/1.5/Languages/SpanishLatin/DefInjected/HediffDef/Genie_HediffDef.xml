@@ -24,6 +24,10 @@
 
     <VRE_AntibioticsAddiction.label>adicción a los antibióticos</VRE_AntibioticsAddiction.label>
     <VRE_AntibioticsAddiction.description>Una adicción química a los antibióticos. La presencia a largo plazo de los antibióticos causa adaptaciones neurológicas a nivel celular, por lo que el cerebro no puede funcionar correctamente sin el fármaco.\nSin una dosis regular de los antibióticos, comenzarán los síntomas de abstinencia. Sin embargo, la abstinencia extendida obligará al cerebro a adaptarse a su estado normal.</VRE_AntibioticsAddiction.description>
-    <VRE_AntibioticsAddiction.stages.1.label>retiro</VRE_AntibioticsAddiction.stages.1>
+    <VRE_AntibioticsAddiction.stages.1.label>retiro</VRE_AntibioticsAddiction.stages.1.label>
+
+    <VRE_AntibioticsTolerance.stages.small.label>pequeño</VRE_AntibioticsTolerance.stages.small.label>
+    <VRE_AntibioticsTolerance.stages.large.label>grande</VRE_AntibioticsTolerance.stages.large.label>
+    <VRE_AntibioticsTolerance.stages.massive.label>masivo</VRE_AntibioticsTolerance.stages.massive.label>
 
 </LanguageData>

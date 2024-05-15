@@ -13,6 +13,7 @@
     <VRE_GreenThumb.labelShortAdj>jardineria</VRE_GreenThumb.labelShortAdj>
     <VRE_GreenThumb.description>Los portadores de este gen seran muy felices formar parte de la siembra plantas</VRE_GreenThumb.description>
     <VRE_GreenThumb.symbolPack.prefixSymbols.0.symbol>verde</VRE_GreenThumb.symbolPack.prefixSymbols.0.symbol>
+    <VRE_GreenThumb.customEffectDescriptions.0>+1 de bonus de emoción por planta sembrada. Se puede stackear hasta unas 20 veces.</VRE_GreenThumb.customEffectDescriptions.0>
 
     <!-- GENDER -->
     <VRE_Female.label>solo-mujers</VRE_Female.label>
@@ -29,7 +30,10 @@
 
     <VRE_HairColor_Anima.label>cabello de anima</VRE_HairColor_Anima.label>
     <VRE_HairColor_Gauranlen.label>cabello de gauralen</VRE_HairColor_Gauranlen.label>
-    <VRE_HairColor_Pollux.label>cabello de pollux</VRE_HairColor_Gauranlen.label>
+    <VRE_HairColor_Pollux.label>cabello de pollux</VRE_HairColor_Pollux.label>
+    <VRE_HairColor_Anima.description>los portadores de este gen tendran un color especial, si selecciona varios uno de estos generes se eligira de forma aleatoria.</VRE_HairColor_Anima.description>
+    <VRE_HairColor_Gauranlen.description>los portadores de este gen tendran un color especial, si selecciona varios uno de estos generes se eligira de forma aleatoria.</VRE_HairColor_Gauranlen.description>
+    <VRE_HairColor_Pollux.description>los portadores de este gen tendran un color especial, si selecciona varios uno de estos generes se eligira de forma aleatoria.</VRE_HairColor_Pollux.description>
 
     <!-- BODIES -->
     <VRE_BarkSkin.label>piel con cortezas</VRE_BarkSkin.label>

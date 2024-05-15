@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-    <!-- ATE HUMAN EGG -->
-    <VRESaurids_KilledEggChild.label>huevo humano comido</VRESaurids_KilledEggChild.label>
-    <VRESaurids_KilledEggChild.firstPawnSymbol>ASESINO</VRESaurids_KilledEggChild.firstPawnSymbol>
-    <VRESaurids_KilledEggChild.secondPawnSymbol>NIÑO</VRESaurids_KilledEggChild.secondPawnSymbol>
-
 
     <VRESaurids_KilledEggChildThought.stages.0.label>comió un huevo humano</VRESaurids_KilledEggChildThought.stages.0.label>
     <VRESaurids_KilledEggChildThought.stages.0.description>Matar a alguien tan joven se siente mal, no hay situación en la que esto se sienta bien</VRESaurids_KilledEggChildThought.stages.0.description>
@@ -17,8 +12,4 @@
     <VRESaurids_PheromoneThought.stages.0.label>aroma reconfortante</VRESaurids_PheromoneThought.stages.0.label>
 
 
-
-
 </LanguageData>
-
-<Defs>

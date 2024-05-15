@@ -51,7 +51,7 @@
     <VREH_ChemicalDependency_Luciferium.labelShortAdj>luciferium-dependiente</VREH_ChemicalDependency_Luciferium.labelShortAdj>
     <VREH_ChemicalDependency_Luciferium.symbolPack.prefixSymbols.0.symbol>luci</VREH_ChemicalDependency_Luciferium.symbolPack.prefixSymbols.0.symbol>
     <VREH_ChemicalDependency_Luciferium.symbolPack.suffixSymbols.0.symbol>ferium</VREH_ChemicalDependency_Luciferium.symbolPack.suffixSymbols.0.symbol>
-    <VREH_ChemicalDependency_Luciferium.symbolPack.suffixSymbols.0.symbol>malo</VREH_ChemicalDependency_Luciferium.symbolPack.suffixSymbols.0.symbol>
+    <VREH_ChemicalDependency_Luciferium.symbolPack.suffixSymbols.1.symbol>malo</VREH_ChemicalDependency_Luciferium.symbolPack.suffixSymbols.1.symbol>
 
 
     <VREH_Glidewings.label>alas planeadoras</VREH_Glidewings.label>
