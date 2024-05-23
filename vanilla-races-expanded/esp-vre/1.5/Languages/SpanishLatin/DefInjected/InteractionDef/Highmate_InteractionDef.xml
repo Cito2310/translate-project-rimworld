@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VRE_FlirtingAttempt.label>palabras flirteo</VRE_FlirtingAttempt.label>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.0>r_logentry-&gt;[INITIATOR_nameDef] [wooed] [RECIPIENT_nameDef] by [wootactic].</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.0>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.1>wooed-&gt;trata de coquetear con</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.1>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.2>wooed-&gt;flirtea con</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.2>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.3>wooed-&gt;trata de atraer a</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.3>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.4>wooed-&gt;trata de cortejar a</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.4>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.5>wooed-&gt;corteja a</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.5>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.6>wooed-&gt;persigue a</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.6>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.7>wooed-&gt;encanta a</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.7>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.8>wooed-&gt;corteja a</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.8>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.9>wootactic(p=4)-&gt;[complimenting] [RECIPIENT_possessive] [PersonalCharacteristic]</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.9>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.10>wootactic-&gt;contándole una historia sobre [TalkTopicAny]</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.10>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.11>wootactic-&gt;contándole sobre [TalkTopicAny]</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.11>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.12>wootactic-&gt;bromeando sobre [TalkTopicAny]</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.12>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.13>wootactic-&gt;haciendo observaciones sobre [TalkTopicAny]</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.13>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.14>wootactic(p=2)-&gt;[boasting] [INITIATOR_possessive] [PersonalCharacteristic]</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.14>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.15>wootactic-&gt;comparando [RECIPIENT_objective] con un [romantic_adj] [romantic_noun]</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.15>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.16>wootactic-&gt;describiendo [RECIPIENT_objective] como un [romantic_adj] [romantic_noun]</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.16>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.17>boasting-&gt;alardeando sobre</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.17>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.18>boasting-&gt;mencionando</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.18>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.19>boasting-&gt;implicando cosas buenas sobre</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.19>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.20>boasting-&gt;exagerando</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.20>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.21>boasting-&gt;hablando sobre</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.21>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.22>boasting-&gt;llamando la atención sobre</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.22>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.23>complimenting(p=3)-&gt;felicitando</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.23>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.24>complimenting-&gt;felicitando sutilmente</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.24>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.25>complimenting-&gt;alabando</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.25>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.26>complimenting-&gt;elogiando</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.26>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.27>complimenting-&gt;diciéndole cosas buenas sobre</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.27>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.28>complimenting(p=2)-&gt;burlándose juguetonamente de</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.28>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.29>complimenting-&gt;molestando en broma</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.29>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.30>complimenting-&gt;bromeando mitad-cumplido</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.30>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.31>complimenting-&gt;cuestionando de forma pícara</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.31>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.32>complimenting-&gt;burlándose alegremente de</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.32>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.33>romantic_adj-&gt;hermoso/a</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.33>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.34>romantic_adj-&gt;radiante</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.34>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.35>romantic_adj-&gt;brillante</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.35>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.36>romantic_adj-&gt;estupendo/a</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.36>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.37>romantic_adj-&gt;dorado/a</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.37>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.38>romantic_adj-&gt;brillante</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.38>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.39>romantic_adj-&gt;asombroso/a</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.39>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.40>romantic_adj-&gt;encantador/a</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.40>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.41>romantic_adj-&gt;deslumbrante</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.41>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.42>romantic_adj-&gt;fino/a</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.42>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.43>romantic_adj-&gt;bien</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.43>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.44>romantic_adj-&gt;magnifico/a</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.44>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.45>romantic_adj-&gt;hermoso/a</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.45>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.46>romantic_adj-&gt;maravilloso/a</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.46>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.47>romantic_adj(p=3)-&gt;[AdjectiveBadass]</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.47>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.48>romantic_noun-&gt;flor</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.48>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.49>romantic_noun-&gt;primavera</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.49>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.50>romantic_noun-&gt;rio</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.50>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.51>romantic_noun-&gt;estrella</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.51>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.52>romantic_noun-&gt;luna</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.52>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.53>romantic_noun-&gt;sol</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.53>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.54>romantic_noun-&gt;casa</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.54>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.55>romantic_noun-&gt;aurora</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.55>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.56>romantic_noun-&gt;[TreeType] árbol</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.56>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.57>romantic_noun(p=2)-&gt;[TerrainFeature]</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.57>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.58>romantic_noun(p=2)-&gt;[NaturalObject]</VRE_FlirtingAttempt.logRulesInitiator.rulesStrings.58>
+</LanguageData>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VRE_FelineEars.label>orejas de felino</VRE_FelineEars.label>
+  <VRE_FelineEars.description>El portador de este gen tendrá una suave y peluda oreja de felino.</VRE_FelineEars.description>
+  <VRE_FelineTail.label>cola de felino</VRE_FelineTail.label>
+  <VRE_FelineTail.description>Al portador de este gen le crecerá una cola peluda, sin ningún otro proposito mas que ser decorativo.</VRE_FelineTail.description>
+  <VRE_PerfectBody.label>cuerpo perfecto</VRE_PerfectBody.label>
+  <VRE_PerfectBody.description>El portador de este gen tendrá un cuerpo perfecto y sin ningún defecto. Sus cuerpos son simétricos, con una piel suave que se siente como la seda al tocarlo. Las personas que intiman con portadores de este gen no se volverán a sentir satisfechos con amar a alguien sin un cuerpo perfecto.</VRE_PerfectBody.description>
+  <VRE_PerfectBody.labelShortAdj>perfecto</VRE_PerfectBody.labelShortAdj>
+  <VRE_HighmateHair.label>cabello hermoso</VRE_HighmateHair.label>
+  <VRE_HighmateHair.description>A los portadores de este gen se le garantiza que usara un estilo de pelo de Highmate.</VRE_HighmateHair.description>
+  <VRE_DominantGenome.label>genoma dominante</VRE_DominantGenome.label>
+  <VRE_DominantGenome.description>El portador de este gen pasara todos sus rasgos a sus descendientes, debido a que este gen dominara sobre el material genético del otro padre durante la reproducción.  Si ambos padre tienen el genoma dominante, los genes pasado serán aleatorios.</VRE_DominantGenome.description>
+  <VRE_RecessiveGenome.label>genoma recesivo</VRE_RecessiveGenome.label>
+  <VRE_RecessiveGenome.description>Los portadores de este gen tienen una genética única, que durante la reproducción son recesivos, resultando en que no puede pasar sus rasgos a sus descendientes. Si ambos padres tienen el genoma recesivo, los genes que se pasaran serán aleatorios.</VRE_RecessiveGenome.description>
+  <VRE_Libido_VeryHigh.label>libido muy alto</VRE_Libido_VeryHigh.label>
+  <VRE_Libido_VeryHigh.description>Los portadores de este gen estan muy interesados en 'hacer el amor' con sus parejas, o de hecho, con cualquiera. Pueden empezar a 'hacer el amor' en cualquier parte con cualquiera.</VRE_Libido_VeryHigh.description>
+  <VRE_Libido_VeryHigh.customEffectDescriptions.0>Incrementa las dramaticamente las posibilidades de 'hacer el amor'</VRE_Libido_VeryHigh.customEffectDescriptions.0>
+  <VRE_Libido_VeryHigh.customEffectDescriptions.1>La habilidad puede causar rupturas, a menos que tenga la ideo de "Amar:Libre y Aprobado".</VRE_Libido_VeryHigh.customEffectDescriptions.1>
+  <VRE_LovinDependency.label>dependencia a hacer el amor</VRE_LovinDependency.label>
+  <VRE_LovinDependency.description>El portador de este gen necesita 'hacer el amor' con regularidad para sobrevivir. Después de 5 días sin 'hacer el amor', el portador sufrirá de deficiencia de 'hacer el amor'. Después de 30 días sin 'hacer el amor', esté abandonara la colonia.</VRE_LovinDependency.description>
+  <VRE_Flirty.label>flirtear</VRE_Flirty.label>
+  <VRE_Flirty.description>Los portadores de este gen tendrán una estimulación emocional al flirtear. Le dirá a los demás buenas palabras, alegrando el estado de animo de las personas. Esto ayudara a construir una comunidad fuerte, pero también generara romances y rompimientos.</VRE_Flirty.description>
+  <VRE_Distressed.label>distressed</VRE_Distressed.label>
+  <VRE_Distressed.description>Los portadores de este gen les costara mucho más procesar malos recuerdos. Los pensamientos negativos relacionado a los humanos o animales durarán el doble.</VRE_Distressed.description>
+  <VRE_Harmless.label>harmless</VRE_Harmless.label>
+  <VRE_Harmless.description>Los portadores de este gen no serán considerado una amenaza para otros, y no les atacaran a menos que estén armados o hayan sido reclutado recientemente. Los portadores de este gen aún pueden ser heridos por fuego aliado y balas perdidas, también serán atacado por las animales caza-hombres.</VRE_Harmless.description>
+</LanguageData>

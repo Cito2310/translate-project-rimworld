@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VRE_LightSensitivity.stages.light_sensitivity.label>sensibilidad a la luz</VRE_LightSensitivity.stages.light_sensitivity.label>
+  <VRE_LightSensitivity.stages.light_sensitivity.description>La luz es desagradable y hace que me duelan los ojos</VRE_LightSensitivity.stages.light_sensitivity.description>
+  <VRE_IntenseLightSensitivity.stages.light_sensitivity.label>sensibilidad a la luz</VRE_IntenseLightSensitivity.stages.light_sensitivity.label>
+  <VRE_IntenseLightSensitivity.stages.light_sensitivity.description>Hay demasiada luz aquí, me duele!</VRE_IntenseLightSensitivity.stages.light_sensitivity.description>
+  <VRE_Photophobia.stages.afraid_of_light.label>miedo a la luz</VRE_Photophobia.stages.afraid_of_light.label>
+  <VRE_Photophobia.stages.afraid_of_light.description>La luz me pone muy nervioso. Siento como que si me quemara con su intensidad!</VRE_Photophobia.stages.afraid_of_light.description>
+  <PackMemberDied.stages.pack_member_died.label>miembro de la manada {0} muerto</PackMemberDied.stages.pack_member_died.label>
+  <PackMemberDied.stages.pack_member_died.description>Un miembro mi manada ha muerto. La manada esta debilitada.</PackMemberDied.stages.pack_member_died.description>
+  <LostPackMember.stages.pack_member_lost.label>miembro de la manada {0} perdido</LostPackMember.stages.pack_member_lost.label>
+  <LostPackMember.stages.pack_member_lost.description>Hemos perdido a un miembro de la manada muy valioso. ¿Podrá sobrevivir sin la manada?</LostPackMember.stages.pack_member_lost.description>
+  <KilledPackMember.stages.killed_pack_member.label>miembro de la manada asesinado</KilledPackMember.stages.killed_pack_member.label>
+  <SoldPackMember.stages.pack_member_sold.label>miembro de la manada {0} vendido</SoldPackMember.stages.pack_member_sold.label>
+  <SoldPackMember.stages.pack_member_sold.description>Acabamos de vender a un miembro de la manada. ¿Realmente podemos llamarnos manada?</SoldPackMember.stages.pack_member_sold.description>
+  <SoldPackMember.stages.pack_member_sold.labelSocial>miembro de la manada vendido</SoldPackMember.stages.pack_member_sold.labelSocial>
+  <VRE_PackMentality.stages.pack_mentality.label>mentalidad de manada</VRE_PackMentality.stages.pack_mentality.label>
+  <VRE_PackMentality.stages.pack_mentality.description>Nuestra manada se hace más fuerte. Cuanto más grande sea nuestra manada, más cómodo nos sentiremos.</VRE_PackMentality.stages.pack_mentality.description>
+</LanguageData>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VRE_WolfmenTransport.questContentRules.rulesStrings.0>wolfmanShuttleCrashedLetterLabel-&gt;Transbordador estrellado</VRE_WolfmenTransport.questContentRules.rulesStrings.0>
+  <VRE_WolfmenTransport.questContentRules.rulesStrings.1>wolfmanShuttleCrashedLetterText-&gt;Un transbordador que contiene a un hombre lobo lider y [WolfmenCount] hombres lobos refugiados se ha estrellado en las cercanías. Saldrán de la nave estrellada y se aventuraran.</VRE_WolfmenTransport.questContentRules.rulesStrings.1>
+  <VRE_WolfmenTransport.questContentRules.rulesStrings.2>reinforcementsArrivedLetterLabel-&gt;Refuerzo de hombres lobos</VRE_WolfmenTransport.questContentRules.rulesStrings.2>
+  <VRE_WolfmenTransport.questContentRules.rulesStrings.3>reinforcementsArrivedLetterText-&gt;Han llegado refuerzos de hombres lobos a través de capsulas de transportes para socorrer a los refugiados estrellados.</VRE_WolfmenTransport.questContentRules.rulesStrings.3>
+  <VRE_WolfmenTransport.questContentRules.rulesStrings.4>letterLabelBeggarsBetrayed-&gt;Refugiados traicionados</VRE_WolfmenTransport.questContentRules.rulesStrings.4>
+  <VRE_WolfmenTransport.questContentRules.rulesStrings.5>letterTextBeggarsBetrayed-&gt;Los hombres lobos refugiados consideran que les has traicionado debido a tus acciones e intentaran defenderse.</VRE_WolfmenTransport.questContentRules.rulesStrings.5>
+  <VRE_WolfmenTransport.questDescriptionRules.rulesStrings.0>questDescription-&gt;Has interceptado una señal de socorro! Un transbordador que contiene a un grupo de hombres lobos refugiados tiene problemas para mantenerse en el aire. Su líder, junto a [WolfmenCount] refugiados te piden que les permitas estrellarse en [map_definite].\n\nUna vez que la nave se estrelle, los hombres lobos se reagruparan y se aventuraran. Te ofrecen transformar a unos de tus colonos a hombre lobo si permites que se entrellen cerca tuyo. Puedes usar esta oportunidad para pelear o intentar arrestarlos. Si logras capturar a uno de ellos, puedes forzarlo a que transforme a uno de tus colonos en hombre lobo.\n\n[wolfmenInfo]</VRE_WolfmenTransport.questDescriptionRules.rulesStrings.0>
+  <VRE_WolfmenTransport.questDescriptionRules.rulesStrings.1>wolfmenInfo-&gt;(*Gray)Acerca de los hombres lobos: Los hombres lobos se han propagado por el espacio, tomando territorios y estableciendo manadas o grandes clanes. Su forma humana posee menos habilidades nocturnas, dando muchas ventajas a cambio de poder compartir su xenogermen con otros. En su forma de licántropo por otra parte, posee sus habilidades nocturnas, una mejor efectividad en el combate cuerpo a cuerpo, una velocidad y regeneración aumentada, y un aullido vigorizante que impide el habla, el cual mejora cuanto más sean en su manada.(/Gray)
+</VRE_WolfmenTransport.questDescriptionRules.rulesStrings.1>
+  <VRE_WolfmenTransport.questNameRules.rulesStrings.0>questName-&gt;[shipAdjective] [shipNoun]</VRE_WolfmenTransport.questNameRules.rulesStrings.0>
+  <VRE_WolfmenTransport.questNameRules.rulesStrings.1>shipAdjective-&gt;hombres lobos</VRE_WolfmenTransport.questNameRules.rulesStrings.1>
+  <VRE_WolfmenTransport.questNameRules.rulesStrings.2>shipAdjective-&gt;lobo</VRE_WolfmenTransport.questNameRules.rulesStrings.2>
+  <VRE_WolfmenTransport.questNameRules.rulesStrings.3>shipAdjective-&gt;lican</VRE_WolfmenTransport.questNameRules.rulesStrings.3>
+  <VRE_WolfmenTransport.questNameRules.rulesStrings.4>shipAdjective-&gt;hombre lobo</VRE_WolfmenTransport.questNameRules.rulesStrings.4>
+  <VRE_WolfmenTransport.questNameRules.rulesStrings.5>shipAdjective-&gt;nocturno</VRE_WolfmenTransport.questNameRules.rulesStrings.5>
+  <VRE_WolfmenTransport.questNameRules.rulesStrings.6>shipAdjective-&gt;aullido</VRE_WolfmenTransport.questNameRules.rulesStrings.6>
+  <VRE_WolfmenTransport.questNameRules.rulesStrings.7>shipAdjective-&gt;peludo</VRE_WolfmenTransport.questNameRules.rulesStrings.7>
+  <VRE_WolfmenTransport.questNameRules.rulesStrings.8>shipAdjective-&gt;canino</VRE_WolfmenTransport.questNameRules.rulesStrings.8>
+  <VRE_WolfmenTransport.questNameRules.rulesStrings.9>shipNoun-&gt;nave</VRE_WolfmenTransport.questNameRules.rulesStrings.9>
+  <VRE_WolfmenTransport.questNameRules.rulesStrings.10>shipNoun-&gt;transbordador</VRE_WolfmenTransport.questNameRules.rulesStrings.10>
+  <VRE_WolfmenTransport.questNameRules.rulesStrings.11>shipNoun-&gt;crea</VRE_WolfmenTransport.questNameRules.rulesStrings.11>
+  <VRE_WolfmenTransport.questNameRules.rulesStrings.12>shipNoun-&gt;hulk</VRE_WolfmenTransport.questNameRules.rulesStrings.12>
+  <VRE_WolfmenTransport.questNameRules.rulesStrings.13>shipNoun-&gt;estrella</VRE_WolfmenTransport.questNameRules.rulesStrings.13>
+  <VRE_WolfmenTransport.questNameRules.rulesStrings.14>shipNoun-&gt;naufragio</VRE_WolfmenTransport.questNameRules.rulesStrings.14>
+</LanguageData>

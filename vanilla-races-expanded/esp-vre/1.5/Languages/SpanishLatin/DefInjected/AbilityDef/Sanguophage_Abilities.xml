@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <!-- SINGLE USE -->
+    <VRE_Coagulate_SingleUse.label>coagular</VRE_Coagulate_SingleUse.label>
+    <VRE_Coagulate_SingleUse.description>Utiliza glándulas especiales en las muñecas para atender rápidamente las heridas de alguien.</VRE_Coagulate_SingleUse.description>
+
+    <VRE_PiercingSpine_SingleUse.label>Columna punzante</VRE_PiercingSpine_SingleUse.label>
+    <VRE_PiercingSpine_SingleUse.description>Utiliza una reacción química hemogénica para lanzar una espina ósea hacia el objetivo. La espina sale a través de la piel desde una abertura entre las clavículas. Dado el método de lanzamiento, es sorprendentemente fácil de apuntar.</VRE_PiercingSpine_SingleUse.description>
+
+    <VRE_AcidSpray_SingleUse.label>spray de acido</VRE_AcidSpray_SingleUse.label>
+    <VRE_AcidSpray_SingleUse.description>Lanza un spray de una sustancia ácida y pegajosa desde unas glandulas que pasan por la garganta hasta la boca y rocián todo el área objetivo. El ácido se adherirá a los objetivos y los quemará.</VRE_AcidSpray_SingleUse.description>
+
+    <VRE_ToxicCloud_SingleUse.label>nube toxica</VRE_ToxicCloud_SingleUse.label>
+    <VRE_ToxicCloud_SingleUse.description>Excreta un humo denso toxico de una reserva especial dentro de los pulmones. El gas toxico es capaz de matar a la mayoria de criaturas.</VRE_ToxicCloud_SingleUse.description>
+
+
+    <VRE_FilterInfection_SingleUse.label>filtrar infección</VRE_FilterInfection_SingleUse.label>
+    <VRE_FilterInfection_SingleUse.description>Pone sus manos en su objetivo y le ayuda a combatir a las infecciones. Funciona en animales y humanos.</VRE_FilterInfection_SingleUse.description>
+
+    <VRE_Ecstasy_SingleUse.label>extasis</VRE_Ecstasy_SingleUse.label>
+    <VRE_Ecstasy_SingleUse.description>Le da al objetivo una gran sensación de extasis durante un breve periodo de tiempo, lo que hace que se enamore perdidamente del lanzador.</VRE_Ecstasy_SingleUse.description>
+
+    <VRE_Hemosmosis_SingleUse.label>hemosmosis</VRE_Hemosmosis_SingleUse.label>
+    <VRE_Hemosmosis_SingleUse.description>Chupa la sangre de alrededor del sanguífago y absorbe el hemogeno.</VRE_Hemosmosis_SingleUse.description>
+
+    <VRE_ViscuousGoo_SingleUse.label>baba viscosa</VRE_ViscuousGoo_SingleUse.label>
+    <VRE_ViscuousGoo_SingleUse.description>Lanza un proyectil que explota al impactar y genera una gran cantidad de baba que ralentiza en gran medida la velocidad de las personas que intentan moverse a través de el.</VRE_ViscuousGoo_SingleUse.description>
+
+    <VRE_HeartCrush_SingleUse.label>romper corazón</VRE_HeartCrush_SingleUse.label>
+    <VRE_HeartCrush_SingleUse.description>Atraviesa el corazón de un enemigo que esta muy cercano, matandolo y cubriendo el area de sangre. Esto solo funciona en criaturas de tamaño 2 o menor. Las criaturas más grandes recibirán un gran daño.</VRE_HeartCrush_SingleUse.description>
+
+
+    <!-- ABILITIES -->
+    <VRE_AnimalFeed.label>chupar sangre - animal</VRE_AnimalFeed.label>
+    <VRE_AnimalFeed.description>Muerde al animal objetivo y extrae el hemógeno directamente de su sangre. Este animal perderá sangre y quedará totalmente aterrorizado, lo que puede provocar que te ataque. Un coagulante de rápida acción previene el desangrado.\n\nLos objetivos solo pueden ser animales.</VRE_AnimalFeed.description>
+
+    <VRE_CorpseFeed.label>chupar sangre - cadaver</VRE_CorpseFeed.label>
+    <VRE_CorpseFeed.description>Muerde al cadaver objetivo y extrae el hemógeno directamente de su sangre. El cuerpo perderá la sangre restante.\n\nLos objetivos solo pueden ser cuerpos humanos.</VRE_CorpseFeed.description>
+
+    <VRE_SanguoFeed.label>chpar sangre - sanguífago</VRE_SanguoFeed.label>
+    <VRE_SanguoFeed.description>Muerde al cadaver objetivo y extrae el hemógeno directamente de su sangre. El objetivo perderá sangre y se sentira insultado. Un coagulante de rápida acción previene el desangrado.\n\nLos objetivos solo pueden humanos hemogenicos.</VRE_SanguoFeed.description>
+
+    <VRE_Ecstasy.label>éxtasis</VRE_Ecstasy.label>
+    <VRE_Ecstasy.description>Le da al objetivo una gran sensación de extasis durante un breve periodo de tiempo, lo que hace que se enamore perdidamente del lanzador.</VRE_Ecstasy.description>
+
+    <VRE_HeartCrush.label>romper corazón</VRE_HeartCrush.label>
+    <VRE_HeartCrush.description>Atraviesa el corazón de un enemigo que esta muy cercano, matandolo y cubriendo el area de sangre. Esto solo funciona en criaturas de tamaño 2 o menor. Las criaturas más grandes recibirán un gran daño.</VRE_HeartCrush.description>
+
+    <VRE_FilterInfection.label>filtrar infección</VRE_FilterInfection.label>
+    <VRE_FilterInfection.description>Pone sus manos en su objetivo y le ayuda a combatir a las infecciones. Funciona en animales y humanos.</VRE_FilterInfection.description>
+
+    <VRE_ToxicCloud.label>nube toxica</VRE_ToxicCloud.label>
+    <VRE_ToxicCloud.description>Excreta un humo denso toxico de una reserva especial dentro de los pulmones. El gas toxico es capaz de matar a la mayoria de criaturas.</VRE_ToxicCloud.description>
+
+    <VRE_ViscuousGoo.label>baba viscosa</VRE_ViscuousGoo.label>
+    <VRE_ViscuousGoo.description>Lanza un proyectil que explota al impactar y genera una gran cantidad de baba que ralentiza en gran medida la velocidad de las personas que intentan moverse a través de el.</VRE_ViscuousGoo.description>
+
+    
+</LanguageData>
+

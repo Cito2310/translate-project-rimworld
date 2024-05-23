@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VRE_MindCoalescence.label>coalescencia mental</VRE_MindCoalescence.label>
+  <VRE_MindCoalescence.description>El portador de este gen tendrá una conexión psíquica con otros portadores, lo que les permite compartir algunas emociones entre ellos. Una parte de la felicidad se comparte con personas conectadas. Por eso, también se comparten los estados mentales y lo sufren al mismo tiempo.</VRE_MindCoalescence.description>
+  <VRE_MindCoalescence.customEffectDescriptions.0>Este efecto se actualiza dos veces al día en el juego, para evitar atrasos.</VRE_MindCoalescence.customEffectDescriptions.0>
+  <VRE_MindCoalescence.labelShortAdj>coalescencia</VRE_MindCoalescence.labelShortAdj>
+  <VRE_GeneInfector.label>gen infectante</VRE_GeneInfector.label>
+  <VRE_GeneInfector.description>El portador de este gen puede implantar una copia de su xenogermen a otra persona mediante ataques con sus garras y dientes. Esto desencadenara en una infección en su victima y si no es tratada se le aplicara el xenogermen.</VRE_GeneInfector.description>
+  <VRE_GeneInfector.customEffectDescriptions.0>Esto no afectara a quienes ya tengan este gen.</VRE_GeneInfector.customEffectDescriptions.0>
+  <VRE_GeneInfector.customEffectDescriptions.1>El gen infectante solo transmitirá los xenogenes. Los endogenes no serán transmitidos.</VRE_GeneInfector.customEffectDescriptions.1>
+  <VRE_Repulsive.label>repulsivo</VRE_Repulsive.label>
+  <VRE_Repulsive.description>Los portadores de este gen tendrán una apariencia retorcida, terrorifica y antinatural. Apenas parecen humanos. Cualquier interacción social, asqueara a las personas.</VRE_Repulsive.description>
+  <VRE_RotBlood.label>sangre podrida</VRE_RotBlood.label>
+  <VRE_RotBlood.description>Los portadores de este gen sangraran una sangre podrida y maloliente.</VRE_RotBlood.description>
+  <VRE_RotBlood.symbolPack.prefixSymbols.0.symbol>podrida</VRE_RotBlood.symbolPack.prefixSymbols.0.symbol>
+  <VRE_RotBlood.symbolPack.prefixSymbols.1.symbol>maloliente</VRE_RotBlood.symbolPack.prefixSymbols.1.symbol>
+  <VRE_RotBlood.symbolPack.wholeNameSymbols.0.symbol>sangrador podrido</VRE_RotBlood.symbolPack.wholeNameSymbols.0.symbol>
+  <VRE_FungalCrest.label>cresta fúngica</VRE_FungalCrest.label>
+  <VRE_FungalCrest.description>A los portadores de este gen le crecerá una gran cresta fúngica y colorida que sobresale por encima de su cabeza.</VRE_FungalCrest.description>
+  <VRE_HairMushroom.label>cabello color fúngico</VRE_HairMushroom.label>
+  <VRE_HairMushroom.description>Los portadores de este gen tendrán un color de pelo particular. Con múltiples genes de color de pelo, se selecciona uno al azar.</VRE_HairMushroom.description>
+  <VRE_Fungoid_Hair_DarkTan.label>cabello bronceado oscuro</VRE_Fungoid_Hair_DarkTan.label>
+  <VRE_Fungoid_Hair_DarkTan.description>Los portadores de este gen tendrán un color de pelo particular. Con múltiples genes de color de pelo, se selecciona uno al azar.</VRE_Fungoid_Hair_DarkTan.description>
+  <VRE_Fungoid_Hair_SwampGreen.label>cabello verde pantano</VRE_Fungoid_Hair_SwampGreen.label>
+  <VRE_Fungoid_Hair_SwampGreen.description>Los portadores de este gen tendrán un color de pelo particular. Con múltiples genes de color de pelo, se selecciona uno al azar.</VRE_Fungoid_Hair_SwampGreen.description>
+  <VRE_Fungoid_Hair_Salmon.label>cabello salmón</VRE_Fungoid_Hair_Salmon.label>
+  <VRE_Fungoid_Hair_Salmon.description>Los portadores de este gen tendrán un color de pelo particular. Con múltiples genes de color de pelo, se selecciona uno al azar.</VRE_Fungoid_Hair_Salmon.description>
+  <VRE_Fungoid_Hair_Wenge.label>cabello wengué</VRE_Fungoid_Hair_Wenge.label>
+  <VRE_Fungoid_Hair_Wenge.description>Los portadores de este gen tendrán un color de pelo particular. Con múltiples genes de color de pelo, se selecciona uno al azar.</VRE_Fungoid_Hair_Wenge.description>
+  <VRE_Fungoid_Hair_Tumbleweed.label>cabello planta rodadora</VRE_Fungoid_Hair_Tumbleweed.label>
+  <VRE_Fungoid_Hair_Tumbleweed.description>Los portadores de este gen tendrán un color de pelo particular. Con múltiples genes de color de pelo, se selecciona uno al azar.</VRE_Fungoid_Hair_Tumbleweed.description>
+  <VRE_Fungoid_Hair_RoseTaupe.label>cabello rosa grisáceo</VRE_Fungoid_Hair_RoseTaupe.label>
+  <VRE_Fungoid_Hair_RoseTaupe.description>Los portadores de este gen tendrán un color de pelo particular. Con múltiples genes de color de pelo, se selecciona uno al azar.</VRE_Fungoid_Hair_RoseTaupe.description>
+  <VRE_Fungoid_Hair_MistyMoss.label>cabello musgo brumoso</VRE_Fungoid_Hair_MistyMoss.label>
+  <VRE_Fungoid_Hair_MistyMoss.description>Los portadores de este gen tendrán un color de pelo particular. Con múltiples genes de color de pelo, se selecciona uno al azar.</VRE_Fungoid_Hair_MistyMoss.description>
+  <VRE_FungalArmor.label>armadura fungal</VRE_FungalArmor.label>
+  <VRE_FungalArmor.description>Los portadores de este gen tendrán una tejido fúngico en su piel, reduciendo el daño recibido. Este efecto incrementara con el tiempo.</VRE_FungalArmor.description>
+  <VRE_FungalRegeneration.label>regeneración fúngica.</VRE_FungalRegeneration.label>
+  <VRE_FungalRegeneration.description>Los portadores de este gen son capaces de regenerarse de forma fúngica. este efecto se incrementara con el tiempo.</VRE_FungalRegeneration.description>
+  <VRE_TotalAntirotLungs.label>pulmones totalmente anti-podredumbre</VRE_TotalAntirotLungs.label>
+  <VRE_TotalAntirotLungs.description>Los portadores de este gen son inmunes al hedor por exponerse a la podredumbre.</VRE_TotalAntirotLungs.description>
+  <VRE_PartialAntirotLungs.label>pulmones parcialmente anti-podredumbre</VRE_PartialAntirotLungs.label>
+  <VRE_PartialAntirotLungs.description>Los portadores de este gen desarrollan más lentamente la intoxicación por exponerse al hedor de la podredumbre.</VRE_PartialAntirotLungs.description>
+  <VRE_FungalFlesh.label>carne fúngica</VRE_FungalFlesh.label>
+  <VRE_FungalFlesh.description>Los portadores de este gen tienen material fúngico en su carne. Consumir cualquier hongo por parte de ellos se considera canibalismo.</VRE_FungalFlesh.description>
+  <VRE_FungalFlesh.labelShortAdj>fungal</VRE_FungalFlesh.labelShortAdj>
+  <VRE_Telepathy.label>telepatía</VRE_Telepathy.label>
+  <VRE_Telepathy.description>Los portadores de este gen se pueden comunicar con otros portadores de este gen a través de telepatía psíquica. No se necesita estar proximo para interactuar socialmente.</VRE_Telepathy.description>
+  <VRE_Telepathy.labelShortAdj>telepatico</VRE_Telepathy.labelShortAdj>
+  <VRE_ExtremeSkillLoss.label>perdida extrema de habilidad</VRE_ExtremeSkillLoss.label>
+  <VRE_ExtremeSkillLoss.description>Los portadores de este gen se olvidaran de sus habilidades el doble de rápido.</VRE_ExtremeSkillLoss.description>
+  <VRE_SevereSkillLoss.label>perdida severa de habilidades</VRE_SevereSkillLoss.label>
+  <VRE_SevereSkillLoss.description>Los portadores de este gen olvidaran habilidades 50% más rápido.</VRE_SevereSkillLoss.description>
+  <VRE_MinorSkillLoss.label>perdida menor de habilidades</VRE_MinorSkillLoss.label>
+  <VRE_MinorSkillLoss.description>Los portadores de este gen olvidaran habilidades la mitad de lento.</VRE_MinorSkillLoss.description>
+  <VRE_NoSkillLoss.label>sin perdida de habilidades</VRE_NoSkillLoss.label>
+  <VRE_NoSkillLoss.description>Los portadores de este gen no olvidaran habilidades.</VRE_NoSkillLoss.description>
+  <VRE_SkillDegradation.label>degradación de habilidades</VRE_SkillDegradation.label>
+  <VRE_SkillDegradation.description>Los portadores de este gen sufrirán de perdidas de habilidades independientemente de su nivel de habilidad actual.</VRE_SkillDegradation.description>
+  <VRE_NoStudy.label>sin aprendizaje</VRE_NoStudy.label>
+  <VRE_NoStudy.description>Los portadores de este gen serán incapaz de aprender nuevas habilidades.</VRE_NoStudy.description>
+  <VRE_DeadVoice.label>voz de muerto</VRE_DeadVoice.label>
+  <VRE_DeadVoice.description>Los portadores de este gen tendrán una voz rasposa y enfermiza.</VRE_DeadVoice.description>
+</LanguageData>

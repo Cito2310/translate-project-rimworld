@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <VRE_ExtractHemogenAnimal.reportString>Extrayendo hemógeno (animal) de TargetA.</VRE_ExtractHemogenAnimal.reportString>
+    <VRE_ExtractHemogenCorpse.reportString>Extrayendo hemógeno (cuerpo) de TargetA.</VRE_ExtractHemogenCorpse.reportString>
+    <VRE_DrinkHemogenCorpse.reportString>Bebiendo hemógeno (cuerpo) de TargetA.</VRE_DrinkHemogenCorpse.reportString>
+    <VRE_ExtractHemogenSanguophage.reportString>Extrayendo hemógeno (sanguifago) de TargetA.</VRE_ExtractHemogenSanguophage.reportString>
+    <VRE_HemohunterJob.reportString>extrayendo a la fuerza el hemógeno de TargetA.</VRE_HemohunterJob.reportString>
+    <VRE_CarryToDraincasket.reportString>llevando TargetA a la capsula de drenaje.</VRE_CarryToDraincasket.reportString>
+    <VRE_EnterDraincasket.reportString>entrando en capsula de drenaje.</VRE_EnterDraincasket.reportString>
+    <VRE_RefuelDraincasket.reportString>rellenando TargetA.</VRE_RefuelDraincasket.reportString>
+    <VRE_RefuelDraincasket_Atomic.reportString>rellenando TargetA.</VRE_RefuelDraincasket_Atomic.reportString>
+
+</LanguageData>

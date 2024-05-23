@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VRE_SelectiveBerserk.label>furia sin sentido</VRE_SelectiveBerserk.label>
+  <VRE_SelectiveBerserk.baseInspectLine>enfurecido</VRE_SelectiveBerserk.baseInspectLine>
+  <VRE_SelectiveBerserk.beginLetter>{0} esta enfurecido!</VRE_SelectiveBerserk.beginLetter>
+  <VRE_SelectiveBerserk.recoveryMessage>la furia de {0} acaba de terminar.</VRE_SelectiveBerserk.recoveryMessage>
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VRE_PollutionHappinessThoughts.stages.no_pollution_happiness.label>sin felicidad por contaminación</VRE_PollutionHappinessThoughts.stages.no_pollution_happiness.label>
+  <VRE_PollutionHappinessThoughts.stages.no_pollution_happiness.description>Meh.</VRE_PollutionHappinessThoughts.stages.no_pollution_happiness.description>
+  <VRE_PollutionHappinessThoughts.stages.minor_pollution_happiness.label>felicidad por contaminación menor</VRE_PollutionHappinessThoughts.stages.minor_pollution_happiness.label>
+  <VRE_PollutionHappinessThoughts.stages.minor_pollution_happiness.description>Puedo sentir el hormigueo de la contaminación en mis venas. Me gusta. </VRE_PollutionHappinessThoughts.stages.minor_pollution_happiness.description>
+  <VRE_PollutionHappinessThoughts.stages.moderate_pollution_happiness.label>felicidad por contaminación moderada</VRE_PollutionHappinessThoughts.stages.moderate_pollution_happiness.label>
+  <VRE_PollutionHappinessThoughts.stages.moderate_pollution_happiness.description>La contaminación me hace prosperar, amo cada minuto de esto.</VRE_PollutionHappinessThoughts.stages.moderate_pollution_happiness.description>
+  <VRE_PollutionHappinessThoughts.stages.extreme_pollution_happiness.label>felicidad por contaminación extrema</VRE_PollutionHappinessThoughts.stages.extreme_pollution_happiness.label>
+  <VRE_PollutionHappinessThoughts.stages.extreme_pollution_happiness.description>Mi cuerpo es toxico, mi sangre esta podrida!</VRE_PollutionHappinessThoughts.stages.extreme_pollution_happiness.description>
+</LanguageData>
