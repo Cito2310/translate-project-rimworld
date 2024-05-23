@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VREA_AptitudeIncapable.label>incapaz de {0}</VREA_AptitudeIncapable.label>
+  <VREA_AptitudeIncapable.description>Los androides con esta subrutina son incapaces de hacer cualquier tarea relacionada con la habilidad de {0}.</VREA_AptitudeIncapable.description>
+  <VREA_AptitudeBasic.label>{0} básica</VREA_AptitudeBasic.label>
+  <VREA_AptitudeBasic.description>La aptitud {0} del androide incremento a 4. La aptitud actúa como una compensación en el nivel de habilidad.</VREA_AptitudeBasic.description>
+  <VREA_AptitudeIntermediate.label>{0} intermedia</VREA_AptitudeIntermediate.label>
+  <VREA_AptitudeIntermediate.description>La aptitud {0} del androide incremento a 8. La aptitud actúa como una compensación en el nivel de habilidad.</VREA_AptitudeIntermediate.description>
+  <VREA_AptitudeAdvanced.label>{0} avanzada</VREA_AptitudeAdvanced.label>
+  <VREA_AptitudeAdvanced.description>La aptitud {0} del androide incremento a 12. La aptitud actúa como una compensación en el nivel de habilidad.</VREA_AptitudeAdvanced.description>
+  <VREA_AptitudeExpert.label>{0} experta</VREA_AptitudeExpert.label>
+  <VREA_AptitudeExpert.description>La aptitud {0} del androide incremento a 16. La aptitud actúa como una compensación en el nivel de habilidad.</VREA_AptitudeExpert.description>
+</LanguageData>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VREA_MemorySpaceDrainMultiplier.label>multiplicador del drenaje del espacio de memoria</VREA_MemorySpaceDrainMultiplier.label>
+  <VREA_MemorySpaceDrainMultiplier.description>Un multiplicador del drenaje de espacio de memoria de los androides.</VREA_MemorySpaceDrainMultiplier.description>
+</LanguageData>

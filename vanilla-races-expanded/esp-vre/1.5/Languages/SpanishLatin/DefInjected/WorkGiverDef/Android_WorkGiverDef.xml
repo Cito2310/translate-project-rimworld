@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VREA_DoBillsAndroidOperation.label>operarar androides.</VREA_DoBillsAndroidOperation.label>
+  <VREA_DoBillsAndroidOperation.gerund>operando en</VREA_DoBillsAndroidOperation.gerund>
+  <VREA_DoBillsAndroidOperation.verb>operar en</VREA_DoBillsAndroidOperation.verb>
+  <VREA_DoBillsUseAndroidPartWorkbench.label>hacer partes de androide en mesa de trabajo de partes para androide</VREA_DoBillsUseAndroidPartWorkbench.label>
+  <VREA_DoBillsUseAndroidPartWorkbench.gerund>creando en</VREA_DoBillsUseAndroidPartWorkbench.gerund>
+  <VREA_DoBillsUseAndroidPartWorkbench.verb>crear</VREA_DoBillsUseAndroidPartWorkbench.verb>
+  <VREA_HaulToSubcorePolyanalyzer.label>transportar recursos al polianalizador de subnúcleo</VREA_HaulToSubcorePolyanalyzer.label>
+  <VREA_HaulToSubcorePolyanalyzer.gerund>transportando a</VREA_HaulToSubcorePolyanalyzer.gerund>
+  <VREA_HaulToSubcorePolyanalyzer.verb>transportar a</VREA_HaulToSubcorePolyanalyzer.verb>
+  <VREA_CarryToSubcorePolyanalyzer.label>llevar a polianalizador de subnúcleo</VREA_CarryToSubcorePolyanalyzer.label>
+  <VREA_CarryToSubcorePolyanalyzer.gerund>llevando</VREA_CarryToSubcorePolyanalyzer.gerund>
+  <VREA_CarryToSubcorePolyanalyzer.verb>llevar</VREA_CarryToSubcorePolyanalyzer.verb>
+  <VREA_CarryToAndroidBehavioristStation.label>llevar a estación de conducta para androide</VREA_CarryToAndroidBehavioristStation.label>
+  <VREA_CarryToAndroidBehavioristStation.gerund>llevando</VREA_CarryToAndroidBehavioristStation.gerund>
+  <VREA_CarryToAndroidBehavioristStation.verb>llevar</VREA_CarryToAndroidBehavioristStation.verb>
+  <VREA_CreateAndroid.label>creando androide en estación</VREA_CreateAndroid.label>
+  <VREA_CreateAndroid.gerund>creando androide en</VREA_CreateAndroid.gerund>
+  <VREA_CreateAndroid.verb>crear androide en</VREA_CreateAndroid.verb>
+  <VREA_ModifyAndroid.label>modificando androide en estación</VREA_ModifyAndroid.label>
+  <VREA_ModifyAndroid.gerund>modificando androide en</VREA_ModifyAndroid.gerund>
+  <VREA_ModifyAndroid.verb>modificar androide en</VREA_ModifyAndroid.verb>
+  <VREA_RepairAndroid.label>reparar androide</VREA_RepairAndroid.label>
+  <VREA_RepairAndroid.gerund>reparando</VREA_RepairAndroid.gerund>
+  <VREA_RepairAndroid.verb>reparar</VREA_RepairAndroid.verb>
+</LanguageData>

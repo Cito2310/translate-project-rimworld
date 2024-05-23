@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VREA_AndroidTech.label>tecnología androide</VREA_AndroidTech.label>
+  <VREA_AndroidTech.description>Una tecnología avanzada necesaria para crear y controlar androides de nivel-ultra: un remplazo total de los colonos orgánicos, capaz de haces las mismas tareas y actividades sin toda la contraparte asociada con los humanos.</VREA_AndroidTech.description>
+  <VREA_AndroidTech.generalRules.rulesStrings.0>subject-&gt;el camino a la innovación</VREA_AndroidTech.generalRules.rulesStrings.0>
+  <VREA_AndroidTech.generalRules.rulesStrings.1>subject_story-&gt;revela verdades simples detrás de fenómenos complejos</VREA_AndroidTech.generalRules.rulesStrings.1>
+  <VREA_AndroidTech.generalRules.rulesStrings.2>subject_story-&gt;simplificó lo complejo para dar paso a las aplicaciones prácticas</VREA_AndroidTech.generalRules.rulesStrings.2>
+  <VREA_AndroidTech.generalRules.rulesStrings.3>subject_story-&gt;aprovechó los principios básicos para lograr hazañas notables</VREA_AndroidTech.generalRules.rulesStrings.3>
+  <VREA_AndroidTech.generalRules.rulesStrings.4>subject_gerund-&gt;simplificando la esencia del descubrimiento</VREA_AndroidTech.generalRules.rulesStrings.4>
+  <VREA_AndroidTech.generalRules.rulesStrings.5>subject-&gt;construyendo los bloques del progreso</VREA_AndroidTech.generalRules.rulesStrings.5>
+  <VREA_AndroidTech.generalRules.rulesStrings.6>subject_story-&gt;sentó las bases para avances monumentales</VREA_AndroidTech.generalRules.rulesStrings.6>
+  <VREA_AndroidTech.generalRules.rulesStrings.7>subject_story-&gt;conecto punto entre disciplinas para revelar nuevos conocimientos</VREA_AndroidTech.generalRules.rulesStrings.7>
+  <VREA_AndroidTech.generalRules.rulesStrings.8>subject_story-&gt;creó la base sobre la que se asientan las futuras innovaciones</VREA_AndroidTech.generalRules.rulesStrings.8>
+  <VREA_AndroidTech.generalRules.rulesStrings.9>subject_gerund-&gt;estableciendo las piedras angulares del avance</VREA_AndroidTech.generalRules.rulesStrings.9>
+  <VREA_AndroidTech.generalRules.rulesStrings.10>subject-&gt;semillas del mañana</VREA_AndroidTech.generalRules.rulesStrings.10>
+  <VREA_AndroidTech.generalRules.rulesStrings.11>subject_story-&gt;planteó ideas que se convertirían en soluciones transformadoras</VREA_AndroidTech.generalRules.rulesStrings.11>
+  <VREA_AndroidTech.generalRules.rulesStrings.12>subject_story-&gt;cultivó un jardín de conocimiento, lleno de potencial</VREA_AndroidTech.generalRules.rulesStrings.12>
+  <VREA_AndroidTech.generalRules.rulesStrings.13>subject_story-&gt;nutrimos las raíces del cambio con cuidado y previsión</VREA_AndroidTech.generalRules.rulesStrings.13>
+  <VREA_AndroidTech.generalRules.rulesStrings.14>subject_gerund-&gt;sembrando el futuro con los descubrimientos de hoy</VREA_AndroidTech.generalRules.rulesStrings.14>
+  <VREA_AndroidTech.generalRules.rulesStrings.15>subject-&gt;la onda de la curiosidad</VREA_AndroidTech.generalRules.rulesStrings.15>
+  <VREA_AndroidTech.generalRules.rulesStrings.16>subject_story-&gt;estableció olas de investigación que resonaran a través del tiempo</VREA_AndroidTech.generalRules.rulesStrings.16>
+  <VREA_AndroidTech.generalRules.rulesStrings.17>subject_story-&gt;arrojó piedras de innovación al estanque del conocimiento</VREA_AndroidTech.generalRules.rulesStrings.17>
+  <VREA_AndroidTech.generalRules.rulesStrings.18>subject_story-&gt;observé cómo una pregunta conducía a otra, ampliando el círculo de comprensión</VREA_AndroidTech.generalRules.rulesStrings.18>
+  <VREA_AndroidTech.generalRules.rulesStrings.19>subject_gerund-&gt;lanzando piedras para crear olas de progreso</VREA_AndroidTech.generalRules.rulesStrings.19>
+  <VREA_AndroidTech.generalRules.rulesStrings.20>subject-&gt;la alquimia del progreso</VREA_AndroidTech.generalRules.rulesStrings.20>
+  <VREA_AndroidTech.generalRules.rulesStrings.21>subject_story-&gt;fusionó disciplinas dispares para desbloquear nuevos reinos de posibilidades</VREA_AndroidTech.generalRules.rulesStrings.21>
+  <VREA_AndroidTech.generalRules.rulesStrings.22>subject_story-&gt;convirtió lo imposible en inevitable mediante puro ingenio</VREA_AndroidTech.generalRules.rulesStrings.22>
+  <VREA_AndroidTech.generalRules.rulesStrings.23>subject_story-&gt;soluciones diseñadas que remodelaron la comprensión de lo que se puede lograr</VREA_AndroidTech.generalRules.rulesStrings.23>
+  <VREA_AndroidTech.generalRules.rulesStrings.24>subject_gerund-&gt;combinando ciencia y magia en el tejido de la realidad</VREA_AndroidTech.generalRules.rulesStrings.24>
+  <VREA_AndroidTech.generalRules.rulesStrings.25>subject-&gt;el tapiz del descubrimiento</VREA_AndroidTech.generalRules.rulesStrings.25>
+  <VREA_AndroidTech.generalRules.rulesStrings.26>subject_story-&gt;tejió hilos de conocimiento de los cuatro rincones del mundo</VREA_AndroidTech.generalRules.rulesStrings.26>
+  <VREA_AndroidTech.generalRules.rulesStrings.27>subject_story-&gt;patrones revelados en el caos, trazando caminos hacia innovaciones incalculables</VREA_AndroidTech.generalRules.rulesStrings.27>
+  <VREA_AndroidTech.generalRules.rulesStrings.28>subject_story-&gt;bordó los anales de la historia con relatos de avances fortuitos</VREA_AndroidTech.generalRules.rulesStrings.28>
+  <VREA_AndroidTech.generalRules.rulesStrings.29>subject_gerund-&gt;tejiendo el futuro desde el telar del presente</VREA_AndroidTech.generalRules.rulesStrings.29>
+  <VREA_AndroidTech.generalRules.rulesStrings.30>subject-&gt;el crisol de la creación</VREA_AndroidTech.generalRules.rulesStrings.30>
+  <VREA_AndroidTech.generalRules.rulesStrings.31>subject_story-&gt;elementos brutos fusionados en los bloques de construcción del mañana</VREA_AndroidTech.generalRules.rulesStrings.31>
+  <VREA_AndroidTech.generalRules.rulesStrings.32>subject_story-&gt;atemperó el fuego de la creatividad para forjar tecnologías sin precedentes</VREA_AndroidTech.generalRules.rulesStrings.32>
+  <VREA_AndroidTech.generalRules.rulesStrings.33>subject_story-&gt;apagó la sed de conocimiento con el elixir de la invención</VREA_AndroidTech.generalRules.rulesStrings.33>
+  <VREA_AndroidTech.generalRules.rulesStrings.34>subject_gerund-&gt;moldear las materias primas de hoy en los artefactos del futuro</VREA_AndroidTech.generalRules.rulesStrings.34>
+  <VREA_AndroidTech.generalRules.rulesStrings.35>subject-&gt;el faro de la iluminación</VREA_AndroidTech.generalRules.rulesStrings.35>
+  <VREA_AndroidTech.generalRules.rulesStrings.36>subject_story-&gt;iluminó los rincones oscuros de la ignorancia, guiando el camino a seguir</VREA_AndroidTech.generalRules.rulesStrings.36>
+  <VREA_AndroidTech.generalRules.rulesStrings.37>subject_story-&gt;arrojar luz sobre lo desconocido, haciendo visible lo invisible para mentes curiosas</VREA_AndroidTech.generalRules.rulesStrings.37>
+  <VREA_AndroidTech.generalRules.rulesStrings.38>subject_story-&gt;encendió las llamas de la curiosidad, encendiendo una búsqueda mundial de comprensión</VREA_AndroidTech.generalRules.rulesStrings.38>
+  <VREA_AndroidTech.generalRules.rulesStrings.39>subject_gerund-&gt;encendiendo las antorchas del progreso y el conocimiento.</VREA_AndroidTech.generalRules.rulesStrings.39>
+  <VREA_AndroidTech.generalRules.rulesStrings.40>subject-&gt;la frontera del conocimiento</VREA_AndroidTech.generalRules.rulesStrings.40>
+  <VREA_AndroidTech.generalRules.rulesStrings.41>subject_story-&gt;cruzó nuevos horizontes en la búsqueda de la comprensión</VREA_AndroidTech.generalRules.rulesStrings.41>
+  <VREA_AndroidTech.generalRules.rulesStrings.42>subject_story-&gt;desafió el status quo con teorías innovadoras</VREA_AndroidTech.generalRules.rulesStrings.42>
+  <VREA_AndroidTech.generalRules.rulesStrings.43>subject_story-&gt;fusionó la sabiduría antigua con la tecnología moderna para lograr soluciones innovadoras</VREA_AndroidTech.generalRules.rulesStrings.43>
+  <VREA_AndroidTech.generalRules.rulesStrings.44>subject_gerund-&gt;ampliando los límites de la ciencia y el arte</VREA_AndroidTech.generalRules.rulesStrings.44>
+  <VREA_AndroidTech.generalRules.rulesStrings.45>subject-&gt;la esencia de la innovación</VREA_AndroidTech.generalRules.rulesStrings.45>
+  <VREA_AndroidTech.generalRules.rulesStrings.46>subject_story-&gt;transformó materiales cotidianos en herramientas extraordinarias</VREA_AndroidTech.generalRules.rulesStrings.46>
+  <VREA_AndroidTech.generalRules.rulesStrings.47>subject_story-&gt;allanó el camino para las generaciones futuras con prácticas sostenibles</VREA_AndroidTech.generalRules.rulesStrings.47>
+  <VREA_AndroidTech.generalRules.rulesStrings.48>subject_story-&gt;aprovechó el poder de la naturaleza para impulsar nuevos avances</VREA_AndroidTech.generalRules.rulesStrings.48>
+  <VREA_AndroidTech.generalRules.rulesStrings.49>subject_gerund-&gt;fomentar un ecosistema de creatividad y progreso.</VREA_AndroidTech.generalRules.rulesStrings.49>
+  <VREA_AndroidTech.generalRules.rulesStrings.50>subject-&gt;los arquitectos del mañana</VREA_AndroidTech.generalRules.rulesStrings.50>
+  <VREA_AndroidTech.generalRules.rulesStrings.51>subject_story-&gt;sentó las bases para una utopía donde la tecnología sirve a todos</VREA_AndroidTech.generalRules.rulesStrings.51>
+  <VREA_AndroidTech.generalRules.rulesStrings.52>subject_story-&gt;imaginó un futuro donde prospera la armonía entre la tecnología y la naturaleza</VREA_AndroidTech.generalRules.rulesStrings.52>
+  <VREA_AndroidTech.generalRules.rulesStrings.53>subject_story-&gt;herramientas diseñadas que empoderan a la humanidad para alcanzar su máximo potencial.</VREA_AndroidTech.generalRules.rulesStrings.53>
+  <VREA_AndroidTech.generalRules.rulesStrings.54>subject_gerund-&gt;sentando las piedras angulares de los paisajes futuros</VREA_AndroidTech.generalRules.rulesStrings.54>
+  <VREA_AndroidTech.generalRules.rulesStrings.55>subject-&gt;saltos exploratorios</VREA_AndroidTech.generalRules.rulesStrings.55>
+  <VREA_AndroidTech.generalRules.rulesStrings.56>subject_story-&gt;entró con valentía en territorios inexplorados del conocimiento</VREA_AndroidTech.generalRules.rulesStrings.56>
+  <VREA_AndroidTech.generalRules.rulesStrings.57>subject_story-&gt;cerró la brecha entre lo conocido y lo desconocido</VREA_AndroidTech.generalRules.rulesStrings.57>
+  <VREA_AndroidTech.generalRules.rulesStrings.58>subject_story-&gt;se aventuró donde la curiosidad se atrevió a llevar.</VREA_AndroidTech.generalRules.rulesStrings.58>
+  <VREA_AndroidTech.generalRules.rulesStrings.59>subject_gerund-&gt;embarcarse en viajes de descubrimiento</VREA_AndroidTech.generalRules.rulesStrings.59>
+  <VREA_AndroidTech.generalRules.rulesStrings.60>subject-&gt;la esencia del ingenio</VREA_AndroidTech.generalRules.rulesStrings.60>
+  <VREA_AndroidTech.generalRules.rulesStrings.61>subject_story-&gt;transformó los desafíos en oportunidades de crecimiento</VREA_AndroidTech.generalRules.rulesStrings.61>
+  <VREA_AndroidTech.generalRules.rulesStrings.62>subject_story-&gt;pensamiento creativo aplicado para superar los obstáculos tradicionales.</VREA_AndroidTech.generalRules.rulesStrings.62>
+  <VREA_AndroidTech.generalRules.rulesStrings.63>subject_story-&gt;soluciones elegantes elaboradas con una combinación de arte y ciencia.</VREA_AndroidTech.generalRules.rulesStrings.63>
+  <VREA_AndroidTech.generalRules.rulesStrings.64>subject_gerund-&gt;desbloquear el potencial a través de la innovación</VREA_AndroidTech.generalRules.rulesStrings.64>
+  <VREA_AndroidTech.generalRules.rulesStrings.65>subject-&gt;la cosecha del conocimiento</VREA_AndroidTech.generalRules.rulesStrings.65>
+  <VREA_AndroidTech.generalRules.rulesStrings.66>subject_story-&gt;recopiló ideas mientras uno cosecha los campos en el momento de la cosecha.</VREA_AndroidTech.generalRules.rulesStrings.66>
+  <VREA_AndroidTech.generalRules.rulesStrings.67>subject_story-&gt;cultivó una gran cantidad de comprensión a partir de las semillas de la investigación.</VREA_AndroidTech.generalRules.rulesStrings.67>
+  <VREA_AndroidTech.generalRules.rulesStrings.68>subject_story-&gt;compartió los frutos de la investigación con el mundo</VREA_AndroidTech.generalRules.rulesStrings.68>
+  <VREA_AndroidTech.generalRules.rulesStrings.69>subject_gerund-&gt;cosechando los frutos de una curiosidad incesante</VREA_AndroidTech.generalRules.rulesStrings.69>
+  <VREA_AndroidTech.generalRules.rulesStrings.70>subject-&gt;el rompecabezas del progreso</VREA_AndroidTech.generalRules.rulesStrings.70>
+  <VREA_AndroidTech.generalRules.rulesStrings.71>subject_story-&gt;reunió las piezas del misterio para revelar el panorama general</VREA_AndroidTech.generalRules.rulesStrings.71>
+  <VREA_AndroidTech.generalRules.rulesStrings.72>subject_story-&gt;teoría combinada con práctica para resolver acertijos de larga data.</VREA_AndroidTech.generalRules.rulesStrings.72>
+  <VREA_AndroidTech.generalRules.rulesStrings.73>subject_story-&gt;conexiones ocultas descubiertas que abrieron nuevas posibilidades.</VREA_AndroidTech.generalRules.rulesStrings.73>
+  <VREA_AndroidTech.generalRules.rulesStrings.74>subject_gerund-&gt;uniendo los elementos del avance</VREA_AndroidTech.generalRules.rulesStrings.74>
+  <VREA_NeutroamineLogistics.label>logística de la neutroamina</VREA_NeutroamineLogistics.label>
+  <VREA_NeutroamineLogistics.description>Construir tanques especializados, capaces de almacenar grandes cantidades de neutroamina, así como tuberías, grifos y desagües para mover la neutroamina a través del sistema.</VREA_NeutroamineLogistics.description>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.0>subject-&gt;innovation's path</VREA_NeutroamineLogistics.generalRules.rulesStrings.0>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.1>subject_story-&gt;unveiled simple truths behind complex phenomena</VREA_NeutroamineLogistics.generalRules.rulesStrings.1>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.2>subject_story-&gt;simplified the intricate to make way for practical applications</VREA_NeutroamineLogistics.generalRules.rulesStrings.2>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.3>subject_story-&gt;harnessed basic principles to achieve remarkable feats</VREA_NeutroamineLogistics.generalRules.rulesStrings.3>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.4>subject_gerund-&gt;streamlining the essence of discovery</VREA_NeutroamineLogistics.generalRules.rulesStrings.4>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.5>subject-&gt;building blocks of progress</VREA_NeutroamineLogistics.generalRules.rulesStrings.5>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.6>subject_story-&gt;laid the groundwork for monumental leaps forward</VREA_NeutroamineLogistics.generalRules.rulesStrings.6>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.7>subject_story-&gt;connected dots across disciplines to reveal new insights</VREA_NeutroamineLogistics.generalRules.rulesStrings.7>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.8>subject_story-&gt;crafted the foundation upon which future innovations stand</VREA_NeutroamineLogistics.generalRules.rulesStrings.8>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.9>subject_gerund-&gt;laying down the keystones of advancement</VREA_NeutroamineLogistics.generalRules.rulesStrings.9>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.10>subject-&gt;seeds of tomorrow</VREA_NeutroamineLogistics.generalRules.rulesStrings.10>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.11>subject_story-&gt;planted ideas that would grow into transformative solutions</VREA_NeutroamineLogistics.generalRules.rulesStrings.11>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.12>subject_story-&gt;cultivated a garden of knowledge, ripe with potential</VREA_NeutroamineLogistics.generalRules.rulesStrings.12>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.13>subject_story-&gt;nurtured the roots of change with care and foresight</VREA_NeutroamineLogistics.generalRules.rulesStrings.13>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.14>subject_gerund-&gt;sowing the future with today’s discoveries</VREA_NeutroamineLogistics.generalRules.rulesStrings.14>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.15>subject-&gt;the ripple of curiosity</VREA_NeutroamineLogistics.generalRules.rulesStrings.15>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.16>subject_story-&gt;set forth waves of inquiry that echoed through time</VREA_NeutroamineLogistics.generalRules.rulesStrings.16>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.17>subject_story-&gt;dropped pebbles of innovation into the pond of knowledge</VREA_NeutroamineLogistics.generalRules.rulesStrings.17>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.18>subject_story-&gt;watched as one question led to another, expanding the circle of understanding</VREA_NeutroamineLogistics.generalRules.rulesStrings.18>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.19>subject_gerund-&gt;casting stones to create waves of progress</VREA_NeutroamineLogistics.generalRules.rulesStrings.19>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.20>subject-&gt;the alchemy of progress</VREA_NeutroamineLogistics.generalRules.rulesStrings.20>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.21>subject_story-&gt;merged disparate disciplines to unlock new realms of possibility</VREA_NeutroamineLogistics.generalRules.rulesStrings.21>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.22>subject_story-&gt;turned the impossible into the inevitable through sheer ingenuity</VREA_NeutroamineLogistics.generalRules.rulesStrings.22>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.23>subject_story-&gt;crafted solutions that reshaped the understanding of what's achievable</VREA_NeutroamineLogistics.generalRules.rulesStrings.23>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.24>subject_gerund-&gt;blending science and magic into the fabric of reality</VREA_NeutroamineLogistics.generalRules.rulesStrings.24>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.25>subject-&gt;the tapestry of discovery</VREA_NeutroamineLogistics.generalRules.rulesStrings.25>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.26>subject_story-&gt;wove together threads of knowledge from the four corners of the world</VREA_NeutroamineLogistics.generalRules.rulesStrings.26>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.27>subject_story-&gt;revealed patterns in the chaos, charting paths to untold innovations</VREA_NeutroamineLogistics.generalRules.rulesStrings.27>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.28>subject_story-&gt;embroidered the annals of history with tales of serendipitous breakthroughs</VREA_NeutroamineLogistics.generalRules.rulesStrings.28>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.29>subject_gerund-&gt;weaving the future from the loom of the present</VREA_NeutroamineLogistics.generalRules.rulesStrings.29>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.30>subject-&gt;the crucible of creation</VREA_NeutroamineLogistics.generalRules.rulesStrings.30>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.31>subject_story-&gt;fused raw elements into the building blocks of tomorrow</VREA_NeutroamineLogistics.generalRules.rulesStrings.31>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.32>subject_story-&gt;tempered the fires of creativity to forge unprecedented technologies</VREA_NeutroamineLogistics.generalRules.rulesStrings.32>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.33>subject_story-&gt;quenched the thirst for knowledge with the elixir of invention</VREA_NeutroamineLogistics.generalRules.rulesStrings.33>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.34>subject_gerund-&gt;molding the raw materials of today into the artifacts of the future</VREA_NeutroamineLogistics.generalRules.rulesStrings.34>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.35>subject-&gt;the beacon of enlightenment</VREA_NeutroamineLogistics.generalRules.rulesStrings.35>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.36>subject_story-&gt;illuminated the dark corners of ignorance, guiding the way forward</VREA_NeutroamineLogistics.generalRules.rulesStrings.36>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.37>subject_story-&gt;cast light on the unknown, making the unseen visible to curious minds</VREA_NeutroamineLogistics.generalRules.rulesStrings.37>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.38>subject_story-&gt;ignited the flames of curiosity, kindling a worldwide pursuit of understanding</VREA_NeutroamineLogistics.generalRules.rulesStrings.38>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.39>subject_gerund-&gt;lighting the torches of progress and knowledge</VREA_NeutroamineLogistics.generalRules.rulesStrings.39>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.40>subject-&gt;the frontier of knowledge</VREA_NeutroamineLogistics.generalRules.rulesStrings.40>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.41>subject_story-&gt;crossed new horizons in the pursuit of understanding</VREA_NeutroamineLogistics.generalRules.rulesStrings.41>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.42>subject_story-&gt;challenged the status quo with groundbreaking theories</VREA_NeutroamineLogistics.generalRules.rulesStrings.42>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.43>subject_story-&gt;merged ancient wisdom with modern technology for innovative solutions</VREA_NeutroamineLogistics.generalRules.rulesStrings.43>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.44>subject_gerund-&gt;pushing the boundaries of science and art</VREA_NeutroamineLogistics.generalRules.rulesStrings.44>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.45>subject-&gt;the essence of innovation</VREA_NeutroamineLogistics.generalRules.rulesStrings.45>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.46>subject_story-&gt;transformed everyday materials into extraordinary tools</VREA_NeutroamineLogistics.generalRules.rulesStrings.46>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.47>subject_story-&gt;paved the way for future generations with sustainable practices</VREA_NeutroamineLogistics.generalRules.rulesStrings.47>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.48>subject_story-&gt;harnessed the power of nature to fuel new advancements</VREA_NeutroamineLogistics.generalRules.rulesStrings.48>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.49>subject_gerund-&gt;fostering an ecosystem of creativity and progress</VREA_NeutroamineLogistics.generalRules.rulesStrings.49>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.50>subject-&gt;the architects of tomorrow</VREA_NeutroamineLogistics.generalRules.rulesStrings.50>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.51>subject_story-&gt;built the foundations for a utopia where technology serves all</VREA_NeutroamineLogistics.generalRules.rulesStrings.51>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.52>subject_story-&gt;envisioned a future where harmony between technology and nature thrives</VREA_NeutroamineLogistics.generalRules.rulesStrings.52>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.53>subject_story-&gt;crafted tools that empower humanity to reach its fullest potential</VREA_NeutroamineLogistics.generalRules.rulesStrings.53>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.54>subject_gerund-&gt;laying the keystones for future landscapes</VREA_NeutroamineLogistics.generalRules.rulesStrings.54>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.55>subject-&gt;exploratory leaps</VREA_NeutroamineLogistics.generalRules.rulesStrings.55>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.56>subject_story-&gt;stepped boldly into uncharted territories of knowledge</VREA_NeutroamineLogistics.generalRules.rulesStrings.56>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.57>subject_story-&gt;bridged the gap between the known and the unknown</VREA_NeutroamineLogistics.generalRules.rulesStrings.57>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.58>subject_story-&gt;ventured where curiosity dared to lead</VREA_NeutroamineLogistics.generalRules.rulesStrings.58>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.59>subject_gerund-&gt;embarking on journeys of discovery</VREA_NeutroamineLogistics.generalRules.rulesStrings.59>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.60>subject-&gt;the essence of ingenuity</VREA_NeutroamineLogistics.generalRules.rulesStrings.60>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.61>subject_story-&gt;transformed challenges into opportunities for growth</VREA_NeutroamineLogistics.generalRules.rulesStrings.61>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.62>subject_story-&gt;applied creative thinking to overcome traditional obstacles</VREA_NeutroamineLogistics.generalRules.rulesStrings.62>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.63>subject_story-&gt;crafted elegant solutions with a blend of art and science</VREA_NeutroamineLogistics.generalRules.rulesStrings.63>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.64>subject_gerund-&gt;unlocking potential through innovation</VREA_NeutroamineLogistics.generalRules.rulesStrings.64>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.65>subject-&gt;knowledge’s harvest</VREA_NeutroamineLogistics.generalRules.rulesStrings.65>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.66>subject_story-&gt;gathered insights as one reaps the fields at harvest</VREA_NeutroamineLogistics.generalRules.rulesStrings.66>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.67>subject_story-&gt;cultivated a bounty of understanding from the seeds of inquiry</VREA_NeutroamineLogistics.generalRules.rulesStrings.67>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.68>subject_story-&gt;shared the fruits of research with the world</VREA_NeutroamineLogistics.generalRules.rulesStrings.68>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.69>subject_gerund-&gt;reaping the rewards of relentless curiosity</VREA_NeutroamineLogistics.generalRules.rulesStrings.69>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.70>subject-&gt;the puzzle of progress</VREA_NeutroamineLogistics.generalRules.rulesStrings.70>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.71>subject_story-&gt;assembled the pieces of mystery to reveal the big picture</VREA_NeutroamineLogistics.generalRules.rulesStrings.71>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.72>subject_story-&gt;matched theory with practice to solve longstanding puzzles</VREA_NeutroamineLogistics.generalRules.rulesStrings.72>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.73>subject_story-&gt;uncovered hidden connections that unlocked new possibilities</VREA_NeutroamineLogistics.generalRules.rulesStrings.73>
+  <VREA_NeutroamineLogistics.generalRules.rulesStrings.74>subject_gerund-&gt;piecing together the elements of advancement</VREA_NeutroamineLogistics.generalRules.rulesStrings.74>
+</LanguageData>

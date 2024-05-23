@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VREA_Freeze.label>congelamiento</VREA_Freeze.label>
+  <VREA_Freeze.deathMessage>{0} ha sucumbido al congelamiento.</VREA_Freeze.deathMessage>
+  <VREA_EMPBurn.label>quemadura por EMP</VREA_EMPBurn.label>
+  <VREA_EMPBurn.deathMessage>{0} ha sido sometido a EMP hasta la muerte.</VREA_EMPBurn.deathMessage>
+</LanguageData>

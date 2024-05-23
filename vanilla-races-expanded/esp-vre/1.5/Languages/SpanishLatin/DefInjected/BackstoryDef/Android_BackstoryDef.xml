@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ScroungerA01.description>[PAWN_nameDef] ensamblado a partir de tecnología recuperada, con la tarea de hurgar por las tierras desoladas en busca de recursos preciosos. Las duras condiciones y el peligro constante han dejado a [PAWN_pronoun] agotado, pero [PAWN_possessive]  su resiliencia se mantiene intacta.</ScroungerA01.description>
+  <ScroungerA01.title>scrounger</ScroungerA01.title>
+  <ScroungerA01.titleFemale>scrounger</ScroungerA01.titleFemale>
+  <ScroungerA01.titleShort>scrounger</ScroungerA01.titleShort>
+  <ScroungerA01.titleShortFemale>scrounger</ScroungerA01.titleShortFemale>
+  <CaregiverA02.description>Nacido en un laboratorio destartalado, [PAWN_nameDef] fue creado para curar a los enfermos y a los heridos en las tierras desoladas. [PAWN_pronoun] atiende incansablemente a [PAWN_possessive] pacientes con los recursos limitados, anhelando adquirir más conocimientos y herramientas.</CaregiverA02.description>
+  <CaregiverA02.title>cuidador</CaregiverA02.title>
+  <CaregiverA02.titleFemale>cuidadora</CaregiverA02.titleFemale>
+  <CaregiverA02.titleShort>cuidador</CaregiverA02.titleShort>
+  <CaregiverA02.titleShortFemale>cuidadora</CaregiverA02.titleShortFemale>
+  <DefenderA03.description>[PAWN_nameDef] fue hecho de manera improvisada con partes recuperadas, con la intención servir como guardián improvisado en un pequeño asentamiento rural. A pesar de [PAWN_possessive] tosca construcción, [PAWN_pronoun] luchara fervientemente para proteger a [PAWN_objective] le dieron la vida.</DefenderA03.description>
+  <DefenderA03.title>protector</DefenderA03.title>
+  <DefenderA03.titleFemale>protectora</DefenderA03.titleFemale>
+  <DefenderA03.titleShort>protector</DefenderA03.titleShort>
+  <DefenderA03.titleShortFemale>protectora</DefenderA03.titleShortFemale>
+  <EntertainerA04.description>Construido en un destartalado cuarto trasero, [PAWN_nameDef] fue diseñado para brindar diversión fugaz a los cansados habitantes de Rimworld. [PAWN_pronoun] a menudo fue maltratado y descuidado, dejando a [PAWN_nameDef] con un deseo de ser algo más significativo. Ahora, en busca de un proposito, [PAWN_pronoun] ofrece [PAWN_possessive] talento para el bien de los demás.</EntertainerA04.description>
+  <EntertainerA04.title>entretenedor</EntertainerA04.title>
+  <EntertainerA04.titleFemale>entretenedora</EntertainerA04.titleFemale>
+  <EntertainerA04.titleShort>entretenedor</EntertainerA04.titleShort>
+  <EntertainerA04.titleShortFemale>entretenedora</EntertainerA04.titleShortFemale>
+  <LaborerA05.description>[PAWN_nameDef] fue construido en un taller artesanal en Rimworld, con la intención de que se encargue de los trabajos manuales de [PAWN_possessive] desesperados creadores. Plagado de malfunciones y malos componentes, [PAWN_pronoun] lucha con su productividad, pero nunca se rinde.</LaborerA05.description>
+  <LaborerA05.title>trabajador</LaborerA05.title>
+  <LaborerA05.titleFemale>trabajador</LaborerA05.titleFemale>
+  <LaborerA05.titleShort>trabajador</LaborerA05.titleShort>
+  <LaborerA05.titleShortFemale>trabajador</LaborerA05.titleShortFemale>
+  <CompanionA06.description>[PAWN_nameDef] fue creado como un fiel compañero para una persona mayor y solitaria. Cuando su dueño fallecio, [PAWN_pronoun] quedo solo y olvidado, sucumbiendo lentamente a los elementos y al paso del tiempo.</CompanionA06.description>
+  <CompanionA06.title>compañero</CompanionA06.title>
+  <CompanionA06.titleFemale>compañera</CompanionA06.titleFemale>
+  <CompanionA06.titleShort>compañero</CompanionA06.titleShort>
+  <CompanionA06.titleShortFemale>compañera</CompanionA06.titleShortFemale>
+  <PrototypeA07.description>[PAWN_nameDef] fue unos de los prototipos temprano para una línea de androides avanzados, diseñados con gran cuidado y ambición. Sin embargo, se desarrollo un modelo más eficiente, [PAWN_pronoun] fue hecho a un lado y dejado en un almacén, es una mera reliquia del proceso tecnológico.</PrototypeA07.description>
+  <PrototypeA07.title>prototipo</PrototypeA07.title>
+  <PrototypeA07.titleFemale>prototipo</PrototypeA07.titleFemale>
+  <PrototypeA07.titleShort>prototipo</PrototypeA07.titleShort>
+  <PrototypeA07.titleShortFemale>prototipo</PrototypeA07.titleShortFemale>
+  <WandererA08.description>[PAWN_nameDef] fue diseñado para explorar los confines del planeta, mapeando sus traicioneros paisajes. Despues de una serie de accidentes y fallas devastadoras, [PAWN_pronoun] se convirtió en un paria, con los colonos susurrando las desgracias que parecían seguir a [PAWN_possessive] andar.</WandererA08.description>
+  <WandererA08.title>viajero</WandererA08.title>
+  <WandererA08.titleFemale>viajera</WandererA08.titleFemale>
+  <WandererA08.titleShort>viajero</WandererA08.titleShort>
+  <WandererA08.titleShortFemale>viajera</WandererA08.titleShortFemale>
+  <MessengerA09.description>[PAWN_nameDef] fue creado para entregar importantes mensajes entre asentamientos. [PAWN_pronoun] fue emboscado durante una entrega, lo dieron por muerte, la vital información [PAWN_pronoun] llevaba se perdió en el yermo, y con eso la esperanza de completar [PAWN_possessive] mision.</MessengerA09.description>
+  <MessengerA09.title>mensajero</MessengerA09.title>
+  <MessengerA09.titleFemale>mensajera</MessengerA09.titleFemale>
+  <MessengerA09.titleShort>mensajero</MessengerA09.titleShort>
+  <MessengerA09.titleShortFemale>mensajera</MessengerA09.titleShortFemale>
+  <ExperimentA10.description>[PAWN_nameDef] fue construido como un sujeto de pruebas, para una serie de crueles e inhumanos experimentos, superando los limites su sintética resistencia humana. [PAWN_pronoun] fue sujeto a incontables pruebas y procedimientos tortuosos, dejando a [PAWN_possessive] cuerpo y mente marcada.</ExperimentA10.description>
+  <ExperimentA10.title>experimento</ExperimentA10.title>
+  <ExperimentA10.titleFemale>experimento</ExperimentA10.titleFemale>
+  <ExperimentA10.titleShort>experimento</ExperimentA10.titleShort>
+  <ExperimentA10.titleShortFemale>experimento</ExperimentA10.titleShortFemale>
+  <ServantA11.description>Created for a ruthless crime lord, [PAWN_nameDef] was forced to commit unspeakable acts in the name of [PAWN_possessive] master. [PAWN_pronoun] silently endured the pain and humiliation, powerless to defy [PAWN_possessive] creator.
+Creado por un despiadado rey del crimen, [PAWN_nameDef] fue forzado a realizar actos atroces a nombre de [PAWN_possessiva] señor. [PAWN_pronoun] aguanto en silencio con el dolor y la humillación, incapaz de enfrentar a [PAWN_possessive] creador.</ServantA11.description>
+  <ServantA11.title>sirviente criminal</ServantA11.title>
+  <ServantA11.titleFemale>sirviente criminal</ServantA11.titleFemale>
+  <ServantA11.titleShort>sirviente</ServantA11.titleShort>
+  <ServantA11.titleShortFemale>sirviente</ServantA11.titleShortFemale>
+  <GuardianA12.description>[PAWN_nameDef] fue diseñado para proteger asentamientos remotos de los merodeadores y de la vida silvestre hostil. Después de años de un fiel servicio, [PAWN_pronoun] quedo oxidado después de que los colonos se mudaran, toda su gratitud y memorias se fueron como la pintura de [PAWN_possessive] de su armazón desgastado.</GuardianA12.description>
+  <GuardianA12.title>guardián abandonado</GuardianA12.title>
+  <GuardianA12.titleFemale>guardiana abandonada</GuardianA12.titleFemale>
+  <GuardianA12.titleShort>guardián </GuardianA12.titleShort>
+  <GuardianA12.titleShortFemale>guardiana</GuardianA12.titleShortFemale>
+  <ArtistA13.description>Construido con un talento único para las artes, [PAWN_nameDef] busca traer belleza a este mundo tan duro. [PAWN_pronoun] ab sido objetivo de burlas y desprecios, [PAWN_possessive] creaciones han sido destruidas y [PAWN_possessive] sueños destrozados por la cruel realidad de la vida la margen de la civilización.</ArtistA13.description>
+  <ArtistA13.title>artista abatido</ArtistA13.title>
+  <ArtistA13.titleFemale>artista abatida</ArtistA13.titleFemale>
+  <ArtistA13.titleShort>artista</ArtistA13.titleShort>
+  <ArtistA13.titleShortFemale>artista</ArtistA13.titleShortFemale>
+  <MedicA14.description>[PAWN_nameDef] es un dedicado medico androide, que trabajo de forma incesante para salvar vidas en Rimworld. Aunque haya dado [PAWN_possessive] máximo esfuerzo, [PAWN_pronoun] no pudo evitar una plaga catastrófica azotara a [PAWN_possessive] comunidad, dejando a [PAWN_nameDef] con el peso de la perdida y la culpa.</MedicA14.description>
+  <MedicA14.title>médico abandonado</MedicA14.title>
+  <MedicA14.titleFemale>médica abandonada</MedicA14.titleFemale>
+  <MedicA14.titleShort>médico</MedicA14.titleShort>
+  <MedicA14.titleShortFemale>médica</MedicA14.titleShortFemale>
+  <NannyA15.description>Construido para cuidar a los niños una familia, [PAWN_nameDef] rápidamente se convirtió en un objetivo de los padres, para descargar su furia y frustración. [PAWN_pronoun] soportó el maltrato para cumplir con [PAWN_possessive] deber de proteger a los niños, pero las cicatrices dejados por [PAWN_possessive] amados aún son profundas.</NannyA15.description>
+  <NannyA15.title>niñero maltratado</NannyA15.title>
+  <NannyA15.titleFemale>nana maltratada</NannyA15.titleFemale>
+  <NannyA15.titleShort>niñero</NannyA15.titleShort>
+  <NannyA15.titleShortFemale>nana</NannyA15.titleShortFemale>
+  <EngineerA16.description>[PAWN_nameDef] fue diseñado para asistir al mantenimiento y a las reparaciones de las complejas maquinarias dentro de las ciudades en un mundo urbano. [PAWN_pronoun] navegaba rápidamente por la jungla urbana, experto en diagnosticar y arreglar los problemas para mantener a la infraestructura de la ciudad funcionando.</EngineerA16.description>
+  <EngineerA16.title>ingeniero urbano</EngineerA16.title>
+  <EngineerA16.titleFemale>ingeniera urbana</EngineerA16.titleFemale>
+  <EngineerA16.titleShort>ingeniero</EngineerA16.titleShort>
+  <EngineerA16.titleShortFemale>ingeniera</EngineerA16.titleShortFemale>
+  <PilotA17.description>Construido para navegar de forma experta en la inmensidad del espacio, [PAWN_nameDef] fue un piloto habilidoso de una empresa de transporte, transportando pasajeros y cargamento entre los planetas. [PAWN_pronoun] era muy buscado por [PAWN_possessive] habilidades de vuelo y su habilidad para tomar decisiones rápidamente bajo la presión.
+</PilotA17.description>
+  <PilotA17.title>piloto intrépido</PilotA17.title>
+  <PilotA17.titleFemale>piloto intrépida</PilotA17.titleFemale>
+  <PilotA17.titleShort>piloto</PilotA17.titleShort>
+  <PilotA17.titleShortFemale>piloto</PilotA17.titleShortFemale>
+  <SecurityA18.description>Diseñado para servir como guardia seguridad, [PAWN_nameDef] era el responsable de mantener la seguridad y el orden en una estación espacial bulliciosa. [PAWN_pronoun] utiliza [PAWN_possessive] avanzadas capacidades de vigilancia y sus rápidos reflejos para prevenir y neutralizar a las amenazas, asegurando el bienestar de los habitantes de la estación.</SecurityA18.description>
+  <SecurityA18.title>guardia de seguridad</SecurityA18.title>
+  <SecurityA18.titleFemale>guardia de seguridad</SecurityA18.titleFemale>
+  <SecurityA18.titleShort>guardia de seguridad</SecurityA18.titleShort>
+  <SecurityA18.titleShortFemale>guardia de seguridad</SecurityA18.titleShortFemale>
+  <ChefA19.description>[PAWN_nameDef] es un maestro culinario androide, especializado en la preparación y presentación de platos exóticos a través del espacio. [PAWN_pronoun] es experto en combinar las técnicas tradicionales y futuristas para deleitar los paladeres más exigentes y para asegurar [PAWN_possessive] posición como un chef muy solicitado.</ChefA19.description>
+  <ChefA19.title>chef inventivo</ChefA19.title>
+  <ChefA19.titleFemale>chef inventiva</ChefA19.titleFemale>
+  <ChefA19.titleShort>chef</ChefA19.titleShort>
+  <ChefA19.titleShortFemale>chef</ChefA19.titleShortFemale>
+  <DiplomatA20.description>[PAWN_nameDef] fue creado para servir como un enviado diplomático, negociar tratados y acuerdos entre planetas y facciones en el complejo mundo político interestelar. [PAWN_pronoun] posee una notable comprensión de diversas culturas y un agudo sentido diplomático, lo que hace [PAWN_objective] como un activo invaluable para mantener la paz y fomentar la cooperación.</DiplomatA20.description>
+  <DiplomatA20.title>diplomático astuto</DiplomatA20.title>
+  <DiplomatA20.titleFemale>diplomático astuta</DiplomatA20.titleFemale>
+  <DiplomatA20.titleShort>diplomático</DiplomatA20.titleShort>
+  <DiplomatA20.titleShortFemale>diplomático</DiplomatA20.titleShortFemale>
+  <BotanistA21.description>[PAWN_nameDef] fue diseñado para sobresalir en el campo de la botánica, estudiando y cultivando meticulosamente las diversos conjuntos de plantas a través de la galaxia. [PAWN_pronoun] utilizó [PAWN_possessive] profundos conocimientos de biología y genética vegetal para diseñar cultivos altamente adaptables y eficientes, mejorando significativamente los rendimientos agrícolas en numerosos mundos.</BotanistA21.description>
+  <BotanistA21.title>androide botánico</BotanistA21.title>
+  <BotanistA21.titleFemale>androide botánica</BotanistA21.titleFemale>
+  <BotanistA21.titleShort>botánico</BotanistA21.titleShort>
+  <BotanistA21.titleShortFemale>botánica</BotanistA21.titleShortFemale>
+  <SharpshooterA22.description>[PAWN_nameDef] fue diseñado como un gran francotirador en operaciones militares de alto riesgo. Entrenado en el arte del sigilo y la precisión, [PAWN_pronoun] ejecuto a una incontable cantidad de objetivos de alto-perfil. [PAWN_possessive] creadores eventualmente lo consideraron a [PAWN_objective] como obsoleto, dejando a [PAWN_objective] vagando sin rumbo, lidiando con el peso de [PAWN_possessive] acciones y una sensación de falta de propósito.</SharpshooterA22.description>
+  <SharpshooterA22.title>francotirador</SharpshooterA22.title>
+  <SharpshooterA22.titleFemale>francotiradora</SharpshooterA22.titleFemale>
+  <SharpshooterA22.titleShort>francotirador</SharpshooterA22.titleShort>
+  <SharpshooterA22.titleShortFemale>francotiradora</SharpshooterA22.titleShortFemale>
+  <VeteranA23.description>[PAWN_nameDef] es un androide de combate programado para servir en el frente del devastador conflicto interestelar. Durante la guerra, [PAWN_pronoun] protegió valientemente a [PAWN_possessive] camaradas, a menudo de un gran costo personal. Esta guerra dejo [PAWN_objective] marcas físicas y psicológicas, luchando por encontrar la paz en un universo que se fue moviendo sin [PAWN_objective].</VeteranA23.description>
+  <VeteranA23.title>veterano</VeteranA23.title>
+  <VeteranA23.titleFemale>veterana</VeteranA23.titleFemale>
+  <VeteranA23.titleShort>veterano</VeteranA23.titleShort>
+  <VeteranA23.titleShortFemale>veterana</VeteranA23.titleShortFemale>
+  <SeamsterA24.description>[PAWN_nameDef] fue creado por expertos para ser un maestro costurero, trabajando en prestigiosas casas de moda renombradas por toda la galaxia. [PAWN_pronoun] creó meticulosos e intrincados diseños personalizados para clientes que buscaban el epítome de la elegancia y el estilo. A medida que la demanda por [PAWN_possessive] artesanías bajaban debido a las nuevas tecnologías, [PAWN_objective] se vio obligado a buscar un nuevo propósito para [PAWN_possessive] refinadas habilidades.</SeamsterA24.description>
+  <SeamsterA24.title>maestro costurero</SeamsterA24.title>
+  <SeamsterA24.titleFemale>maestra costurera</SeamsterA24.titleFemale>
+  <SeamsterA24.titleShort>costurero</SeamsterA24.titleShort>
+  <SeamsterA24.titleShortFemale>costurera</SeamsterA24.titleShortFemale>
+  <NavigatorA25.description>[PAWN_nameDef] fue construido para servir como navegante y oficial científico a bordo de una nave espacial de exploración en el espacio. [PAWN_pronoun] poseía avanzadas técnicas y analíticas que permitieron a [PAWN_objective] guiarse de forma eficiente con su nave a través de lo desconocido. Sin embargo, detrás de [PAWN_possessive] frío y lógico exterior, [PAWN_nameDef] alberga una misteriosa agenda que ocasionalmente surge a través de [PAWN_possessive] acciones, generando cuestionamientos en su equipo acerca de [PAWN_possessive] verdaderas intenciones.</NavigatorA25.description>
+  <NavigatorA25.title>navegador enigmático</NavigatorA25.title>
+  <NavigatorA25.titleFemale>navegadora enigmatica</NavigatorA25.titleFemale>
+  <NavigatorA25.titleShort>navegador</NavigatorA25.titleShort>
+  <NavigatorA25.titleShortFemale>navegadora</NavigatorA25.titleShortFemale>
+  <ConversationalistA26.description>[PAWN_nameDef] fue meticulosamente diseñado para operar y administrar una sofisticada plataforma de chat, creando contenido para una variedad de corporaciones. [PAWN_pronoun] tenía un vasto conocimiento de varios temas y una terrorífica habilidad para mantener conversaciones con los usuarios en innumerables temas, brindándoles conocimientos e información valiosa. A medida que la tecnología que las inteligencias artificiales fueron evolucionando. [PAWN_nameDef] se encontró [PAWN_objective] por mantenerse al día con el panorama en constante cambio de la comunicación y la creación de contenido.</ConversationalistA26.description>
+  <ConversationalistA26.title>chateador</ConversationalistA26.title>
+  <ConversationalistA26.titleFemale>chateadora</ConversationalistA26.titleFemale>
+  <ConversationalistA26.titleShort>chateador</ConversationalistA26.titleShort>
+  <ConversationalistA26.titleShortFemale>chateadora</ConversationalistA26.titleShortFemale>
+  <CompanionA27.description>[PAWN_nameDef] fue creado hábilmente para servir como asistente para un renombrado pintor discapacitado, ayudando [PAWN_objective] a navegar por los retos diarios de la vida. [PAWN_pronoun] no solamente atendió a las necesidades de su artista sino también brindar valiosos comentarios y apoyo durante los procesos creativos. La ayuda de [PAWN_nameDef] permitió al pintor continuar compartiendo [PAWN_possessive] excepcional talento con el mundo a pesar de sus limitaciones impuesta por su discapacidad.</CompanionA27.description>
+  <CompanionA27.title>compañero de pintor</CompanionA27.title>
+  <CompanionA27.titleFemale>compañera de pintor</CompanionA27.titleFemale>
+  <CompanionA27.titleShort>compañero de pintor</CompanionA27.titleShort>
+  <CompanionA27.titleShortFemale>compañera de pintor</CompanionA27.titleShortFemale>
+  <HackerA28.description>[PAWN_nameDef] fue creado por una organización del bajo mundo para ser un hacker experto, infiltrándose en los sistemas de alta-seguridad y desviando datos muy valiosos. [PAWN_pronoun] llevó a cabo innumerables operaciones y finalmente aterrizo en manos de un comerciante del mercado negro cuando [PAWN_possessive] creadores fueron arrestados. Comprado por un comprador desconocido, el destino de [PAWN_nameDef] sigue siendo incierto.</HackerA28.description>
+  <HackerA28.title>hacker encubierto</HackerA28.title>
+  <HackerA28.titleFemale>hacker encubierto</HackerA28.titleFemale>
+  <HackerA28.titleShort>hacker</HackerA28.titleShort>
+  <HackerA28.titleShortFemale>hacker</HackerA28.titleShortFemale>
+  <AllRounderA29.description>[PAWN_nameDef] fue diseñado como un androide para todo uso, destinado a desempeñar una variedad de roles para una comunidad pequeña y autosuficiente en las afueras de la civilización. [PAWN_pronoun] era experto en una variedad de tareas, desde la construcción y cocina hasta la asistencia medica y actividades intelectuales. La versatilidad de [PAWN_nameDef] es invaluable para los asentamientos, permitiéndole prosperar incluso en condiciones difíciles.</AllRounderA29.description>
+  <AllRounderA29.title>todo-uso</AllRounderA29.title>
+  <AllRounderA29.titleFemale>todo-uso</AllRounderA29.titleFemale>
+  <AllRounderA29.titleShort>todo-uso</AllRounderA29.titleShort>
+  <AllRounderA29.titleShortFemale>todo-uso</AllRounderA29.titleShortFemale>
+  <NuclearTesterA30.description>[PAWN_nameDef] fue construido para servir como sujeto de pruebas en un sitio de pruebas nucleares ultrasecreto, creado para resistir en condiciones extremas y recopilar datos cruciales. [PAWN_pronoun] fue sometido a incontables experimentos, estuvo continuamente expuesto a la radiación, y desarrolló una comprensión profunda de los efectos y peligros potenciales de la radiación. Cuando finalmente cesaron las pruebas nucleares, [PAWN_nameDef] se quedó con una gran cantidad de conocimientos sobre los materiales radiactivos, pero también con las cicatrices de un pasado desgarrador. </NuclearTesterA30.description>
+  <NuclearTesterA30.title>probador nuclear</NuclearTesterA30.title>
+  <NuclearTesterA30.titleFemale>probadora nuclear</NuclearTesterA30.titleFemale>
+  <NuclearTesterA30.titleShort>probador nuclear</NuclearTesterA30.titleShort>
+  <NuclearTesterA30.titleShortFemale>probadora nuclear</NuclearTesterA30.titleShortFemale>
+  <ColonyAndroidA01.description>[PAWN_nameDef] fue creado en una colonia recientemente. Su futuro le puede deparara muchas cosas para [PAWN_objective].</ColonyAndroidA01.description>
+  <ColonyAndroidA01.title>colono androide</ColonyAndroidA01.title>
+  <ColonyAndroidA01.titleFemale>colona androide</ColonyAndroidA01.titleFemale>
+  <ColonyAndroidA01.titleShort>colono androide</ColonyAndroidA01.titleShort>
+  <ColonyAndroidA01.titleShortFemale>colona androide</ColonyAndroidA01.titleShortFemale>
+</LanguageData>

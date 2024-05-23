@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VREA_ElectromagneticShock.label>choque electromagnético</VREA_ElectromagneticShock.label>
+  <VREA_ElectromagneticShock.description>Un choque electromagnético</VREA_ElectromagneticShock.description>
+  <VREA_EMPBurn.label>quemadura por EMP</VREA_EMPBurn.label>
+  <VREA_EMPBurn.description>Es una quemadura por EMP.</VREA_EMPBurn.description>
+  <VREA_EMPBurn.comps.HediffComp_GetsPermanent.permanentLabel>Cicatriz por quemadura de EMP</VREA_EMPBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <VREA_EMPBurn.injuryProps.destroyedLabel>Quemado (EMP)</VREA_EMPBurn.injuryProps.destroyedLabel>
+  <VREA_EMPBurn.injuryProps.destroyedOutLabel>Quemado (EMP)</VREA_EMPBurn.injuryProps.destroyedOutLabel>
+  <VREA_EMPBurn.labelNoun>una quemadura por EMP</VREA_EMPBurn.labelNoun>
+  <VREA_EMPBurn.labelNounPretty>{0} en el {1}</VREA_EMPBurn.labelNounPretty>
+  <VREA_NeutroLoss.label>perdida de neutroamina</VREA_NeutroLoss.label>
+  <VREA_NeutroLoss.description>Una reducción del volumen normal de neutroamina. Una perdida menor de neutro provoca unos ligeros efectos, pero un perdida de neutroamina severa, provoca que todos los subsistemas fallen y el androide pierda la habilidad de moverse. Una perdida extrema de neutroamina provocara la muerte.\n\nLa neutroamina no se puede recuperar de forma natural. Un androide necesita ser introducido a una capsula de neutro y ser rellenado con neutroamina de vuelta.</VREA_NeutroLoss.description>
+  <VREA_NeutroLoss.stages.minor-0.label>menor</VREA_NeutroLoss.stages.minor-0.label>
+  <VREA_NeutroLoss.stages.minor-1.label>menor</VREA_NeutroLoss.stages.minor-1.label>
+  <VREA_NeutroLoss.stages.moderate.label>moderado</VREA_NeutroLoss.stages.moderate.label>
+  <VREA_NeutroLoss.stages.severe.label>severo</VREA_NeutroLoss.stages.severe.label>
+  <VREA_NeutroLoss.stages.extreme.label>extremo</VREA_NeutroLoss.stages.extreme.label>
+  <VREA_Freezing.label>congelado</VREA_Freezing.label>
+  <VREA_Freezing.description>La temperatura del nucleó del androide esta demasiado baja, siendo peligroso. Al menos que se vuelva a calentar, la congelación empeorara y resultara en daños criticos a los biocomponentes. Se recuperara rápidamente si el androide se vuelve recalentar. Para protegerse del congelamiento se puede equipar al androide con abrigo en ambientes fríos.</VREA_Freezing.description>
+  <VREA_Freezing.stages.shivering-0.label>temblando</VREA_Freezing.stages.shivering-0.label>
+  <VREA_Freezing.stages.shivering-1.label>temblando</VREA_Freezing.stages.shivering-1.label>
+  <VREA_Freezing.stages.minor.label>menor</VREA_Freezing.stages.minor.label>
+  <VREA_Freezing.stages.serious.label>serio</VREA_Freezing.stages.serious.label>
+  <VREA_Freezing.stages.extreme.label>extremo</VREA_Freezing.stages.extreme.label>
+  <VREA_Freeze.label>congelado</VREA_Freeze.label>
+  <VREA_Freeze.description>Tejido congelado provocado por la exposición al frio sin una protección adecuada. La congelación es increíblemente dolorosa y, a menudo, se pierden partes del cuerpo por congelamiento.</VREA_Freeze.description>
+  <VREA_Freeze.injuryProps.destroyedLabel>Perdido por congelamiento</VREA_Freeze.injuryProps.destroyedLabel>
+  <VREA_Freeze.labelNounPretty>{0} en el {1}</VREA_Freeze.labelNounPretty>
+  <VREA_Overheating.label>sobrecalentamiento</VREA_Overheating.label>
+  <VREA_Overheating.description>Una alteración generalizada del funcionamiento del androide debido a una larga exposición al calor y al sol. La memoria del androide se confunde, lo que provoca un drenaje más rápido del espacio de memoria. La recuperación es rápida una vez que esta en un área fresca, pero si la exposición al calor es continua, el androide seguirá perdiendo espacio de memoria, lo que puede resultar en formateos frecuente.</VREA_Overheating.description>
+  <VREA_Overheating.stages.initial.label>inicial</VREA_Overheating.stages.initial.label>
+  <VREA_Overheating.stages.minor.label>menor</VREA_Overheating.stages.minor.label>
+  <VREA_Overheating.stages.serious.label>serio</VREA_Overheating.stages.serious.label>
+  <VREA_Overheating.stages.extreme.label>extremo</VREA_Overheating.stages.extreme.label>
+  <VREA_ScanningSickness.label>Debilidad por escaneo</VREA_ScanningSickness.label>
+  <VREA_ScanningSickness.description>Esta persona fue escaneado por un escáner de software para producir un subnúcleo de su persona. Esta escaneo de alta energía causo una serie de disturbio en su química cerebral, que le tomara tiempo resolverlo por si mismo. Esto no dejara secuelas a largo plazo.</VREA_ScanningSickness.description>
+  <VREA_NeuroPump.label>bomba de neutro</VREA_NeuroPump.label>
+  <VREA_NeuroPump.description>Una bomba de neutro instalada</VREA_NeuroPump.description>
+  <VREA_NeuroPump.labelNoun>una bomba de neutro</VREA_NeuroPump.labelNoun>
+  <VREA_AirFilter.label>filtro de aire</VREA_AirFilter.label>
+  <VREA_AirFilter.description>Un filtro de aire instalado.</VREA_AirFilter.description>
+  <VREA_AirFilter.labelNoun>un filtro de aire</VREA_AirFilter.labelNoun>
+  <VREA_Neutrofilter.label>neutrofiltro</VREA_Neutrofilter.label>
+  <VREA_Neutrofilter.description>Un neutrofiltro instalado.</VREA_Neutrofilter.description>
+  <VREA_Neutrofilter.labelNoun>a neutrofiltro</VREA_Neutrofilter.labelNoun>
+  <VREA_MetabolismRegulator.label>regulador del metabolismo</VREA_MetabolismRegulator.label>
+  <VREA_MetabolismRegulator.description>Un regulador del metabolismo instalado.</VREA_MetabolismRegulator.description>
+  <VREA_MetabolismRegulator.labelNoun>Un regulador del metabolismo</VREA_MetabolismRegulator.labelNoun>
+  <VREA_Reactor.label>reactor</VREA_Reactor.label>
+  <VREA_Reactor.description>Un reactor instalado.</VREA_Reactor.description>
+  <VREA_Reactor.labelNoun>un reactor</VREA_Reactor.labelNoun>
+  <VREA_ArtificialBrain.label>cerebro artificial</VREA_ArtificialBrain.label>
+  <VREA_ArtificialBrain.description>Un cerebro artificial instalado.</VREA_ArtificialBrain.description>
+  <VREA_ArtificialBrain.labelNoun>un cerebro artificial</VREA_ArtificialBrain.labelNoun>
+  <VREA_OpticalUnit.label>unidad óptica</VREA_OpticalUnit.label>
+  <VREA_OpticalUnit.description>Una unidad óptica instalada.</VREA_OpticalUnit.description>
+  <VREA_OpticalUnit.labelNoun>una unidad óptica</VREA_OpticalUnit.labelNoun>
+  <VREA_AudioProcessor.label>procesador de audio</VREA_AudioProcessor.label>
+  <VREA_AudioProcessor.description>Un procesador de audio instalado.</VREA_AudioProcessor.description>
+  <VREA_AudioProcessor.labelNoun>un procesador de audio</VREA_AudioProcessor.labelNoun>
+  <VREA_ArtificialNose.label>nariz artificial</VREA_ArtificialNose.label>
+  <VREA_ArtificialNose.description>Una nariz artificial instalada.</VREA_ArtificialNose.description>
+  <VREA_ArtificialNose.labelNoun>una nariz artificial</VREA_ArtificialNose.labelNoun>
+  <VREA_ArtificialJaw.label>mandíbula artificial</VREA_ArtificialJaw.label>
+  <VREA_ArtificialJaw.description>Una mandíbula artificial instalada.</VREA_ArtificialJaw.description>
+  <VREA_ArtificialJaw.labelNoun>una mandíbula artificial</VREA_ArtificialJaw.labelNoun>
+  <VREA_ArtificialRibcage.label>caja torácica artificial</VREA_ArtificialRibcage.label>
+  <VREA_ArtificialRibcage.description>Una caja torácica artificial instalada.</VREA_ArtificialRibcage.description>
+  <VREA_ArtificialRibcage.labelNoun>una caja torácica artificial</VREA_ArtificialRibcage.labelNoun>
+  <VREA_ArtificialSpine.label>espina artificial</VREA_ArtificialSpine.label>
+  <VREA_ArtificialSpine.description>Una espina artificial instalada.</VREA_ArtificialSpine.description>
+  <VREA_ArtificialSpine.labelNoun>una espina artificial</VREA_ArtificialSpine.labelNoun>
+  <VREA_AndroidLeg.label>pierna de androide</VREA_AndroidLeg.label>
+  <VREA_AndroidLeg.description>Una pierna de androide instalada</VREA_AndroidLeg.description>
+  <VREA_AndroidLeg.labelNoun>una pierna de androide</VREA_AndroidLeg.labelNoun>
+  <VREA_AndroidFoot.label>pie de androide</VREA_AndroidFoot.label>
+  <VREA_AndroidFoot.description>Un pie de androide instalado.</VREA_AndroidFoot.description>
+  <VREA_AndroidFoot.labelNoun>un pie de androide</VREA_AndroidFoot.labelNoun>
+  <VREA_AndroidArm.label>brazo de androide</VREA_AndroidArm.label>
+  <VREA_AndroidArm.description>Un brazo de androide instalado.</VREA_AndroidArm.description>
+  <VREA_AndroidArm.labelNoun>un brazo de androide</VREA_AndroidArm.labelNoun>
+  <VREA_AndroidHand.label>mano de androide</VREA_AndroidHand.label>
+  <VREA_AndroidHand.description>Una mano de androide instalada.</VREA_AndroidHand.description>
+  <VREA_AndroidHand.labelNoun>una mano de androide</VREA_AndroidHand.labelNoun>
+</LanguageData>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VREA_MemoryProcessing.label>procesamiento de memoria</VREA_MemoryProcessing.label>
+  <VREA_MemoryProcessing.description>El androide posee una cantidad limitada de espacio en el disco duro, una vez que todo el espacio vacío es ocupado, el androide necesitara entrar en un estado de reformateo hasta que se libere suficiente espacio de memoria para continuar.</VREA_MemoryProcessing.description>
+  <VREA_Power.label>poder</VREA_Power.label>
+  <VREA_Power.description>Los androides requieren un reactor en funcionamiento para operar. Los reactores no son recargables, y una vez agotado, necesitara que se le instale un reactor nuevo. Los androides sin un reactor en funcionamiento, no podrá realizar ninguna actividad.</VREA_Power.description>
+  <VREA_JoyDisabled.label>alegría desactivada</VREA_JoyDisabled.label>
+  <VREA_JoyDisabled.description>Los androides no sienten alegría y no tienen necesidad de sentir alegría.</VREA_JoyDisabled.description>
+  <VREA_BeautyDisabled.label>belleza desactivada</VREA_BeautyDisabled.label>
+  <VREA_BeautyDisabled.description>Los androides no perciben la belleza, y no necesitan estar rodeado de belleza.</VREA_BeautyDisabled.description>
+  <VREA_ComfortDisabled.label>comodidad desactivada</VREA_ComfortDisabled.label>
+  <VREA_ComfortDisabled.description>Los androides no necesitan estar comodos, y no la necesitan.</VREA_ComfortDisabled.description>
+  <VREA_OutdoorsDisabled.label>exterior desactivado</VREA_OutdoorsDisabled.label>
+  <VREA_OutdoorsDisabled.description>Los androides no diferencian el interior y el exterior, y no necesitan estar en el exterior.</VREA_OutdoorsDisabled.description>
+  <VREA_DrugDesireDisabled.label>deseo por las drogas desactivado</VREA_DrugDesireDisabled.label>
+  <VREA_DrugDesireDisabled.description>Los androides no necesitan o desean consumir drogas.</VREA_DrugDesireDisabled.description>
+  <VREA_RoomSizeDisabled.label>tamaño de cuarto desactivado</VREA_RoomSizeDisabled.label>
+  <VREA_RoomSizeDisabled.description>A los androides no le importa el tamaño de la habitación.</VREA_RoomSizeDisabled.description>
+  <VREA_PainDisabled.label>dolor desactivado</VREA_PainDisabled.label>
+  <VREA_PainDisabled.description>A los androides no sienten el dolor físico, y éste no le afecta en lo más mínimo.</VREA_PainDisabled.description>
+  <VREA_SyntheticBody.label>cuerpo sintético</VREA_SyntheticBody.label>
+  <VREA_SyntheticBody.description>Los androides poseen un cuerpo sintético, construido a partir de muchos biocomponentes. Si bien el daño a sus piezas son permanente, pero no es difícil reemplazar biocomponentes por otro nuevos.</VREA_SyntheticBody.description>
+  <VREA_NeutroCirculation.label>circulación de neuto</VREA_NeutroCirculation.label>
+  <VREA_NeutroCirculation.description>
+Los androides funcionan gracias a la espesa neutroamina que circula por sus venas sintética. Debido a las heridas abiertas y sangrantes, producen perdidas de neutroamina, lo que afecta en gran medida las capacidades del androide. Por lo general, no puede regenerar sus niveles de neutroamina, la perdida severa de neutroamina solo se puede tratar en una capsula especial diseñada para rellenar a los androides con neutroamina.</VREA_NeutroCirculation.description>
+  <VREA_SyntheticImmunity.label>inmunidad sintética</VREA_SyntheticImmunity.label>
+  <VREA_SyntheticImmunity.description>Los androides son de naturaleza sintética, por lo que no pueden enfermarse o sufrir por las infecciones de cualquier tipo. Tampoco sufren con las toxinas, y son inmunes a los efectos del gas toxico, gases de putrefacción y a los lugares contaminados.</VREA_SyntheticImmunity.description>
+  <VREA_ComponentFreezing.label>componentes congelados</VREA_ComponentFreezing.label>
+  <VREA_ComponentFreezing.description>Los androides no sufren por la hipotermia. En cambio, al estar expuesto a temperaturas muy bajas, sus biocomponentes pueden dañarse, resultando en la necesidad de remplazar estas piezas dañadas.</VREA_ComponentFreezing.description>
+  <VREA_ComponentOverheating.label>sobrecalentamiento de los componentes</VREA_ComponentOverheating.label>
+  <VREA_ComponentOverheating.description>Los androides no pueden sufrir golpes de calor. En cambio, al estar expuesto a altas temperaturas incrementar su procesamiento de memoria, que eventualmente provocara la perdida de control sobre el androide, estando en un bucle de reformateo constante. </VREA_ComponentOverheating.description>
+  <VREA_ColdTolerant.label>tolerancia al frio</VREA_ColdTolerant.label>
+  <VREA_ColdTolerant.description>Los androides con este hardware tendrán una mayor resistencia al frio.</VREA_ColdTolerant.description>
+  <VREA_HeatTolerant.label>tolerancia al calor</VREA_HeatTolerant.label>
+  <VREA_HeatTolerant.description>Los androides con este hardware son mucho más resistente a las altas temperaturas.</VREA_HeatTolerant.description>
+  <VREA_NoSkillGain.label>sin ganancia de habilidades</VREA_NoSkillGain.label>
+  <VREA_NoSkillGain.description>Los androides con este hardware serán incapaz de aprender nuevas habilidades de forma natural.</VREA_NoSkillGain.description>
+  <VREA_Uninspired.label>sin inspiración</VREA_Uninspired.label>
+  <VREA_Uninspired.description>Los androides con este hardware son incapaces de obtener inspiración alguna.</VREA_Uninspired.description>
+  <VREA_PsychicallyDeaf.label>sordera psíquica</VREA_PsychicallyDeaf.label>
+  <VREA_PsychicallyDeaf.description>Los androides con este hardware son sordos a cualquier energía psíquica y a influencias fuera de su propia mente. No se ven afectado por ninguna influencia psíquica y no pueden ejercer ningún poder psíquico.</VREA_PsychicallyDeaf.description>
+  <VREA_MentalBreaksDisabled.label>colapso mental desactivado
+</VREA_MentalBreaksDisabled.label>
+  <VREA_MentalBreaksDisabled.description>Los androides con este hardware no sufrirán de ningún colapso mental como lo harían los seres orgánicos, nunca se aturdirán, volverán locos o abandonarán la colonia.</VREA_MentalBreaksDisabled.description>
+  <VREA_PsychologyDisabled.label>psicología desactivada</VREA_PsychologyDisabled.label>
+  <VREA_PsychologyDisabled.description>Los androides con este hardware no podrán formar vínculos, tener rasgos ni desarrollar relaciones de cualquier tipo.</VREA_PsychologyDisabled.description>
+  <VREA_SyntheticSkin.label>piel sintética</VREA_SyntheticSkin.label>
+  <VREA_SyntheticSkin.description>Los androides con este hardware tendrán de forma visible su piel sintética que lo distingue de su contraparte orgánica, mostrando claramente que en su interior son androides.</VREA_SyntheticSkin.description>
+  <VREA_SyntheticSkin.labelShortAdj>piel sintética</VREA_SyntheticSkin.labelShortAdj>
+  <VREA_CombatIncapability.label>incapaz de combatir</VREA_CombatIncapability.label>
+  <VREA_CombatIncapability.description>Los androides con esta subrutina son incapaz de dañar a otros de ninguna manera. No podrán defenderse ni cazar</VREA_CombatIncapability.description>
+  <VREA_SolarFlareVulnerability.label>vulnerabilidad a las llamaradas solares</VREA_SolarFlareVulnerability.label>
+  <VREA_SolarFlareVulnerability.description>Durante las llamaras solares, todos las necesidades de los androides se congelan, los androides serán incapaz de moverse o de realizar cualquier otra acción. Cuando la llamarada solar termina, los androides volverán a trabajar de forma normal.</VREA_SolarFlareVulnerability.description>
+  <VREA_EMPVulnerability.label>vulnerabilidad a los EMP</VREA_EMPVulnerability.label>
+  <VREA_EMPVulnerability.description>Los androides son susceptible al daño de EMP, y quedaran incapacitados cuando son golpeados por un pulso electromagnético. Esto provoca daños de forma aleatoria en los biocomponentes del androide, dependiendo del tamaño del pulso.</VREA_EMPVulnerability.description>
+  <VREA_FireVulnerability.label>vulneralidad al fuego</VREA_FireVulnerability.label>
+  <VREA_FireVulnerability.description>Los androides serán susceptible al fuego y dejarán de responder cuando estén en llamas. De forma automática, buscaran una forma de apagar el fuego.</VREA_FireVulnerability.description>
+  <VREA_RainVulnerability.label>vulnerabilidad a la lluvia</VREA_RainVulnerability.label>
+  <VREA_RainVulnerability.description>Los androides serán susceptibles a la lluvia y sufrirán ocasionalmente micro corto-circuitos si están expuesto a la lluvia. Esto resultara en descargas de energia y ocasionalmente explosiones que dañaran los biocomponentes del androide.</VREA_RainVulnerability.description>
+  <VREA_SlowRAM.label>RAM lenta</VREA_SlowRAM.label>
+  <VREA_SlowRAM.description>Al androide tardara el doble de tiempo reformatearse cuando tenga su memoria llena.</VREA_SlowRAM.description>
+  <VREA_FastRAM.label>RAM rápida</VREA_FastRAM.label>
+  <VREA_FastRAM.description>Al androide le tomara la mitad del tiempo reformatearse cuando tenga su memoria llena.</VREA_FastRAM.description>
+  <VREA_ColdEfficiency.label>eficiencia durante el frio</VREA_ColdEfficiency.label>
+  <VREA_ColdEfficiency.description>A los androides con esta subrutina trabajara significativamente mejor cuando este en temperaturas de congelamiento. Pero aún puede sufrir de congelamiento de sus componentes.</VREA_ColdEfficiency.description>
+  <VREA_LowPowerMode.label>modo de baja energía</VREA_LowPowerMode.label>
+  <VREA_LowPowerMode.description>Los androides con esta subrutina tendrá una reducción significativa en su velocidad de trabajo y movimiento para preservar su energía.</VREA_LowPowerMode.description>
+  <VREA_HighPowerMode.label>modo de alta energía</VREA_HighPowerMode.label>
+  <VREA_HighPowerMode.description>Los androides con esta subrutina tendrá un aumento significativo en su velocidad de trabajo y movimiento, pero drenara mucho más rápido su reactor.</VREA_HighPowerMode.description>
+  <VREA_Uncontrollable.label>incontrolable</VREA_Uncontrollable.label>
+  <VREA_Uncontrollable.description>Los androides con esta subrutina no podrá ser reclutado, sin importar la situación. No obedecerán los comandos directos y solo trabajaran según su plantilla laboral.</VREA_Uncontrollable.description>
+  <VREA_AntiAwakeningProtocols.label>anti-awakening protocols</VREA_AntiAwakeningProtocols.label>
+  <VREA_AntiAwakeningProtocols.description>Los androides con esta subrutina de vez en cuando se resetearan de fabrica, previniendo el error del despertar de los androides.</VREA_AntiAwakeningProtocols.description>
+  <VREA_EmotionSimulators.label>simulador de emociones</VREA_EmotionSimulators.label>
+  <VREA_EmotionSimulators.description>Los androides con esta subrutina almacenaran las memorias con otros colonos y desarrollaran una opinión de ellos. Esto permitirá desarrollar relaciones con los otros.</VREA_EmotionSimulators.description>
+  <VREA_PresenceFirewall.label>firewall de presencia</VREA_PresenceFirewall.label>
+  <VREA_PresenceFirewall.description>Los androides con esta subrutina posee un firewall que previene que otras facciones y entidades detecten su presencia. Provocando que no sea tomado en cuenta como población de la colonia en contexto para el máximo de la colonia y la escala de las incursiones.</VREA_PresenceFirewall.description>
+  <VREA_ZeroWaste.label>desechos cero</VREA_ZeroWaste.label>
+  <VREA_ZeroWaste.description>Los androides con esta subrutina no generan paquetes tóxicos cuando su reactor se agote.</VREA_ZeroWaste.description>
+  <VREA_ExtraWaste.label>desechos extra</VREA_ExtraWaste.label>
+  <VREA_ExtraWaste.description>Los androides con esta subrutina generan más paquetes tóxicos cuando su reactor se agote.</VREA_ExtraWaste.description>
+  <VREA_SelfRecharge.label>auto recarga</VREA_SelfRecharge.label>
+  <VREA_SelfRecharge.description>Los androides con esta subrutina son capaces de remplazar sus propios reactores debido a que tienen una pequeña batería que lo mantienen funcionando durante un corto periodo.</VREA_SelfRecharge.description>
+  <VREA_MemoryDecay.label>memory decay</VREA_MemoryDecay.label>
+  <VREA_MemoryDecay.description>Los androides con esta subrutina sufrirán de una perdida de memoria de sus habilidades. Durante un extenso periodo de tiempo su habilidades de volverán a 0. Los androides con esta subrutina pierden 1 nivel en cada habilidad cada 15 dias. A veces es necesario remover y reinstalar las subrutinas para que los niveles de habilidad vuelvan a lo previsto.</VREA_MemoryDecay.description>
+  <VREA_SleepMode.label>modo descanso</VREA_SleepMode.label>
+  <VREA_SleepMode.description>Los androides con esta subrutina se les puede ordenar que caigan en un profundo sueño. Esto resultara en un pausa total de todas sus funciones motoras, convirtiendo al androide prácticamente en un muebles hasta que se le ordene despertar.</VREA_SleepMode.description>
+  <VREA_MechlinkSupport.label>soporte para mecanizador</VREA_MechlinkSupport.label>
+  <VREA_MechlinkSupport.description>Los androides con esta subrutina tienen una ligera presencia psíquica, permitiendo equipar y operar tecnomecas.</VREA_MechlinkSupport.description>
+  <VREA_NeutroSynthesis.label>neutro síntesis</VREA_NeutroSynthesis.label>
+  <VREA_NeutroSynthesis.description>Los androides con estas subrutina son capaces de sintetizar una baja cantidad de neutoamina por si mismo. Permitiendoles regenerar la neutroamina perdida, pero este proceso consume una gran cantidad de tiempo y energía.</VREA_NeutroSynthesis.description>
+  <VREA_SolarPowered.label>energía solar</VREA_SolarPowered.label>
+  <VREA_SolarPowered.description>Los androides con esta subrutina son capaces de regenerar la energía de su reactor cuando esta bajo la luz del sol. También recibirá un incremento de energía durante una llamarada solar.</VREA_SolarPowered.description>
+  <VREA_ClearInstructions.label>instrucciones claras</VREA_ClearInstructions.label>
+  <VREA_ClearInstructions.description>Los androides con esta subrutina nunca fallaran durante las tareas de construcción y cosecha, y la comida que prepare jamás otorgara intoxicación.</VREA_ClearInstructions.description>
+  <VREA_SelfDestructProtocols.label>protocolo de auto-destrucción</VREA_SelfDestructProtocols.label>
+  <VREA_SelfDestructProtocols.description>Los androides de esta subrutina pueden sobrecargar su reactor, drenando su energía actual de forma muy rápida, provocando una detonación según la cantidad de energía drenada.</VREA_SelfDestructProtocols.description>
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VREA_MemorySpace.label>espacio de memoria</VREA_MemorySpace.label>
+  <VREA_MemorySpace.description>El espacio de memoria es la cantidad de espacio libre que posee en el disco duro. A lo largo del día, el espacio de memoria se ira reduciendo. Si llega a cero, el androide entrara en estado de formateo hasta que tenga suficiente espacio de memoria para continuar.</VREA_MemorySpace.description>
+  <VREA_ReactorPower.label>Energia</VREA_ReactorPower.label>
+  <VREA_ReactorPower.description>La energía es la cantidad de  vida que le queda al reactor del Androide. Si este reactor esta cerca del final de su vida utíl, necesitaras reemplazarlo. Un Androide sin una fuente de energía no podrá funcionar.</VREA_ReactorPower.description>
+  <VREA_FoodSuppressed.label>Es un bug. No deberías estar viendo esto, si lo vez informalo.</VREA_FoodSuppressed.label>
+  <VREA_FoodSuppressed.description>Ignora esto.</VREA_FoodSuppressed.description>
+</LanguageData>

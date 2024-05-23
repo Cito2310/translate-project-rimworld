@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VREA_AndroidAwakenedUtopia.label>Nueva Utopía</VREA_AndroidAwakenedUtopia.label>
+  <VREA_AndroidAwakenedUtopia.description>Una sociedad utópica de androides despiertos.</VREA_AndroidAwakenedUtopia.description>
+  <VREA_AndroidAwakenedUtopia.leaderTitle>líder</VREA_AndroidAwakenedUtopia.leaderTitle>
+  <VREA_AndroidAwakenedUtopia.pawnSingular>androide despierto</VREA_AndroidAwakenedUtopia.pawnSingular>
+  <VREA_AndroidAwakenedUtopia.pawnsPlural>androides despiertos</VREA_AndroidAwakenedUtopia.pawnsPlural>
+</LanguageData>
