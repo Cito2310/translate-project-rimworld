@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VRE_MoveSpeed_ExtremelyQuick.label>extremadamente rápido</VRE_MoveSpeed_ExtremelyQuick.label>
+  <VRE_MoveSpeed_ExtremelyQuick.description>Esta persona se moverá extremadamente rápido. También ignoraran el costo del terreno cuando se muevan.</VRE_MoveSpeed_ExtremelyQuick.description>
+  <VRE_WarHowlHediff.label>aullido de guerra</VRE_WarHowlHediff.label>
+  <VRE_WarHowlHediff.description>Aumento sus capacidades de combate a causa del aullido de guerra. Se puede apilar hasta 3 veces y durara 3 horas.</VRE_WarHowlHediff.description>
+  <VRE_EndogerminationComa.label>coma por endogerminación</VRE_EndogerminationComa.label>
+  <VRE_EndogerminationComa.description>Se implanto un endogermen en esta persona. El endogermen necesita un tiempo para integrarse a su huesped, modificando sus genes y la quimica de los tejidos de su cuerpo. Durante un tiempo, esta persona podrá mantenerse de pie, por lo que el endogermen lo inducirá a un coma.\n\nLa duración del coma por la implementación endogermen se puede reducir con una buena instalación medica y con doctores experimentados.</VRE_EndogerminationComa.description>
+  <VRE_EndogermLossShock.label>shock por perdida de endogen</VRE_EndogermLossShock.label>
+  <VRE_EndogermLossShock.description>Los endogenes de esta persona fueron eliminados o expulsados recientemente. Esto ha desestabilizado el metabolismo y las hormonas de la persona, dejándola temporalmente débil y somnolienta, con un sistema inmunológico debilitado.</VRE_EndogermLossShock.description>
+</LanguageData>

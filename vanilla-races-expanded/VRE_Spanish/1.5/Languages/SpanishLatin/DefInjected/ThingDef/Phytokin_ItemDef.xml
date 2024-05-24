@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <VRE_PoluxBush.label>arbusto polux</VRE_PoluxBush.label>
+    <VRE_PoluxBush.description>Este arbusto evoluciono para metabolizar los contamientantes. Al extraer los contamientes del suelo a través de su gran red de raíces, limpiando lentamente la contaminación del terreno de sus alrededores. Aunque no puede hacer esto si se construye encima de sus raices.\n\nComo la mayoría de los métodos de limpieza de contaminación, los arbustos polux no crean desechos toxicos.</VRE_PoluxBush.description>
+
+    <VRE_SapBlood.label>sangre de savia</VRE_SapBlood.label>
+
+    <VRE_SaplingchildTree.label>brote de niño</VRE_SaplingchildTree.label>
+    <VRE_SaplingchildTree.description>Una pequeña planta similar a una lechuga, creado en el primer trimestre de embarazo de una mama-árbol. Despues de 30 días, el brote de niño, eclosionara y emergera un niño de esté.\n\nDebe mantenerse entre -15 a 60°C. Si la planta se destruye, sera tratado como la muerte del feto para la madre que lo plantó.</VRE_SaplingchildTree.description>
+
+</LanguageData>

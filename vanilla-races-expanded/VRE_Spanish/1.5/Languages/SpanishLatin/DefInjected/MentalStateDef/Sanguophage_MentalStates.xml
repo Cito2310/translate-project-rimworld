@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <VRE_Hemohunter.label>cazador de hemógeno!</VRE_Hemohunter.label>
+    <VRE_Hemohunter.beginLetter>{0} se convirtio en cazador de hemógeno!\n\n[PAWN_pronoun] drenará el hemógeno de cualquier persona que vea, hasta que sus niveles de hemógeno lleguen a un nivel seguro.</VRE_Hemohunter.beginLetter>
+    <VRE_Hemohunter.recoveryMessage>{0} acaba de terminar con su estado de cazador de hemógeno.</VRE_Hemohunter.recoveryMessage>
+    <VRE_Hemohunter.baseInspectLine>Estado mental: Cazador de hemógeno</VRE_Hemohunter.baseInspectLine>
+
+</LanguageData>

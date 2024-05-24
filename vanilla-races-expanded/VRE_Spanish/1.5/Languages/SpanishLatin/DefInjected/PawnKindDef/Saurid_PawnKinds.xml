@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <VRESaurid_SauridMother.label>Madre Saurida</VRESaurid_SauridMother.label>
+    <VRESaurids_MercenaryGunner_Saurid.label>pistolero saurido</VRESaurids_MercenaryGunner_Saurid.label>
+    <VRESaurids_MercenaryElite_Saurid.label>saurido de elite</VRESaurids_MercenaryElite_Saurid.label>
+    <VRESaurids_MercenaryElite_Saurid.labelPlural>mercenarios de elite</VRESaurids_MercenaryElite_Saurid.labelPlural>
+
+    <VRESaurids_Villager_Saurid.label>Aldeano</VRESaurids_Villager_Saurid.label>
+    <VRESaurids_VillagerChild_Saurid.label>Aldeano</VRESaurids_VillagerChild_Saurid.label>
+    <VRESaurids_TownGuard_Saurid.label>guardia del pueblo</VRESaurids_TownGuard_Saurid.label>
+    <VRESaurids_TownCouncilman_Saurid.label>consejal del pueblo</VRESaurids_TownCouncilman_Saurid.label>
+    <VRESaurids_TownCouncilman_Saurid.labelPlural>consejales del pueblo</VRESaurids_TownCouncilman_Saurid.labelPlural>
+    <VRESaurids_TownTrader_Saurid.label>vendedor del pueblo</VRESaurids_TownTrader_Saurid.label>
+
+</LanguageData>

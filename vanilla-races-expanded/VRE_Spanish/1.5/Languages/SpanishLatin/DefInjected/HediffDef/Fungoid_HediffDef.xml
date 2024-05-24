@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VRE_InfectorMouth.label>boca infectada</VRE_InfectorMouth.label>
+  <VRE_InfectorMouth.description>Los ataques cuerpo a cuerpo a las personas tendrán un 20% de posibilidad de infectarlos con una infección genética.</VRE_InfectorMouth.description>
+  <VRE_InfectorMouth.comps.HediffComp_VerbGiver.tools.infector_mouth.label>boca infectada</VRE_InfectorMouth.comps.HediffComp_VerbGiver.tools.infector_mouth.label>
+  <VRE_InfectorHands.label>manos infectadas</VRE_InfectorHands.label>
+  <VRE_InfectorHands.description>Los ataques cuerpo a cuerpo a las personas tendrán un 20% de posibilidad de infectarlos con una infección genética.</VRE_InfectorHands.description>
+  <VRE_InfectorHands.comps.HediffComp_VerbGiver.tools.infector_hand.label>manos infectadas</VRE_InfectorHands.comps.HediffComp_VerbGiver.tools.infector_hand.label>
+  <VRE_FungalArmor.label>armadura fúngica</VRE_FungalArmor.label>
+  <VRE_FungalArmor.description>Esta persona tiene un tejido fúngico en su piel, reduciendo en gran medida el daño recibido. Este efecto se incrementara con el tiempo</VRE_FungalArmor.description>
+  <VRE_FungalRegeneration.label>regeneración fúngica</VRE_FungalRegeneration.label>
+  <VRE_FungalRegeneration.description>Esta persona es capaz de regenerarse de forma fúngica. Este efecto incrementara con el tiempo.</VRE_FungalRegeneration.description>
+  <VRE_GeneInfection.label>gen infector</VRE_GeneInfection.label>
+  <VRE_GeneInfection.description>Esta persona puede implantar una copia de su xenogermen a través de los ataques cuerpo a cuerpo. Esto causa una infección progresiva en su victima, si no es tratado se aplicara el xenogermen.</VRE_GeneInfection.description>
+  <VRE_GeneInfection.comps.HediffComp_Discoverable.discoverLetterText>{0} ha sido afligido por una infección genetica! Si la infección no es tratada de forma exitosa, este sufrirá una conversión muy dolorosa cambiando el xenotipo de la persona por el de quien lo infecto.</VRE_GeneInfection.comps.HediffComp_Discoverable.discoverLetterText>
+  <VRE_GeneInfection.labelNoun>tiene una infección genética</VRE_GeneInfection.labelNoun>
+  <VRE_GeneInfection.stages.minor.label>menor</VRE_GeneInfection.stages.minor.label>
+  <VRE_GeneInfection.stages.major.label>mayor</VRE_GeneInfection.stages.major.label>
+  <VRE_GeneInfection.stages.extreme-0.label>extremo</VRE_GeneInfection.stages.extreme-0.label>
+  <VRE_GeneInfection.stages.extreme-1.label>extremo</VRE_GeneInfection.stages.extreme-1.label>
+  <VRE_GeneInfected.label>genes infectados</VRE_GeneInfected.label>
+  <VRE_GeneInfected.description>Esta persona esta siendo victima de una infección genética que alterara su xenotipo, No puede ser curado.</VRE_GeneInfected.description>
+</LanguageData>

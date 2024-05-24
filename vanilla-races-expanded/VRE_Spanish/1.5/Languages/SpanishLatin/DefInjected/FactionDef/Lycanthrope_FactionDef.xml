@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VRE_WolfmenFaction.label>hombres lobos</VRE_WolfmenFaction.label>
+  <VRE_WolfmenFaction.description>Una manada de hombres lobos</VRE_WolfmenFaction.description>
+  <VRE_WolfmenFaction.leaderTitle>lider de la manada</VRE_WolfmenFaction.leaderTitle>
+  <VRE_WolfmenFaction.pawnSingular>hombre lobo</VRE_WolfmenFaction.pawnSingular>
+  <VRE_WolfmenFaction.pawnsPlural>hombres lobos</VRE_WolfmenFaction.pawnsPlural>
+</LanguageData>

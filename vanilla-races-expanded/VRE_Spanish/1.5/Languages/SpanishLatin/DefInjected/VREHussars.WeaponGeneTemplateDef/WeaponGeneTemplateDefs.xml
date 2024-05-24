@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <VREHT_WeaponAptitude.label>aptitud para {0}</VREHT_WeaponAptitude.label>
+    <VREHT_WeaponAptitude.description>Las aptitudes del portador en {0} aumentan de manera considerable. La aptitud aumenta la punteria y las posiblidades de acertar cuando el arma este equipada.</VREHT_WeaponAptitude.description>
+
+</LanguageData>

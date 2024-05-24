@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <!-- AGING -->
+    <VRE_RapidAging.label>envejecimiento veloz</VRE_RapidAging.label>
+    <VRE_RapidAging.description>El portador de este gen tiene una mutación artificial en su material genético, lo que hace que envejezca cuatro veces más rapido de lo normal.</VRE_RapidAging.description>
+
+    <VRE_FastAging.label>envejecimiento acelerado</VRE_FastAging.label>
+    <VRE_FastAging.description>El portador de este gen tiene una mutación artificial en su material genético, lo que hace que envejezca el doble de rapido.</VRE_FastAging.description>
+
+    <VRE_SlowAging.label>envejecimiento lento</VRE_SlowAging.label>
+    <VRE_SlowAging.description>El portador de este gen tiene una mutación artificial en su material genético, lo que hace que envejezca mucho más lento.</VRE_SlowAging.description>
+
+
+    <!-- COSMETIC -->
+    <VRE_CurledTail.label>cola rizada</VRE_CurledTail.label>
+    <VRE_CurledTail.description>A los portadores de este gen le crece una corta y rizada cola que no tiene ningun tipo de proposito.</VRE_CurledTail.description>
+
+    <VRE_MouthTusks.label>colmillos en la boca</VRE_MouthTusks.label>
+    <VRE_MouthTusks.description>A los portadores de este gen le crecen dos pequeños colmillos que sobresalen de su boca</VRE_MouthTusks.description>
+    <VRE_MouthTusks.symbolPack.prefixSymbols.0.symbol>colmillo</VRE_MouthTusks.symbolPack.prefixSymbols.0.symbol>
+    <VRE_MouthTusks.symbolPack.prefixSymbols.1.symbol>colmillo</VRE_MouthTusks.symbolPack.prefixSymbols.1.symbol>
+
+    <VRE_ChocolateSkin.label>piel color chocolate</VRE_ChocolateSkin.label>
+    <VRE_ChocolateSkin.labelShortAdj>lodoso</VRE_ChocolateSkin.labelShortAdj>
+    <VRE_ChocolateSkin.description>Los portadores de este gen tienen la piel de color marrón claro, como el fango.</VRE_ChocolateSkin.description>
+    <VRE_ChocolateSkin.symbolPack.prefixSymbols.0.symbol>fango</VRE_ChocolateSkin.symbolPack.prefixSymbols.0.symbol>
+    <VRE_ChocolateSkin.symbolPack.prefixSymbols.1.symbol>lodoso</VRE_ChocolateSkin.symbolPack.prefixSymbols.1.symbol>
+    <VRE_ChocolateSkin.symbolPack.prefixSymbols.2.symbol>marrón</VRE_ChocolateSkin.symbolPack.prefixSymbols.2.symbol>
+
+    <VRE_HazelnutSkin.label>piel color avellana</VRE_HazelnutSkin.label>
+    <VRE_HazelnutSkin.labelShortAdj>lodoso</VRE_HazelnutSkin.labelShortAdj>
+    <VRE_HazelnutSkin.description>Los portadores de este gen tienen una piel de color similar a las avellanas</VRE_HazelnutSkin.description>
+    <VRE_HazelnutSkin.symbolPack.prefixSymbols.0.symbol>crema oscura</VRE_HazelnutSkin.symbolPack.prefixSymbols.0.symbol>
+    <VRE_HazelnutSkin.symbolPack.prefixSymbols.1.symbol>bronceado</VRE_HazelnutSkin.symbolPack.prefixSymbols.1.symbol>
+    <VRE_HazelnutSkin.symbolPack.prefixSymbols.2.symbol>almendra</VRE_HazelnutSkin.symbolPack.prefixSymbols.2.symbol>
+    <VRE_HazelnutSkin.symbolPack.prefixSymbols.3.symbol>avellana</VRE_HazelnutSkin.symbolPack.prefixSymbols.3.symbol>
+
+    <VRE_AuburnSkin.label>piel color castaña</VRE_AuburnSkin.label>
+    <VRE_AuburnSkin.labelShortAdj>barro</VRE_AuburnSkin.labelShortAdj>
+    <VRE_AuburnSkin.description>Los portadores de este gen tienen la piel de color marrón-rojo oscuro.</VRE_AuburnSkin.description>
+    <VRE_AuburnSkin.symbolPack.prefixSymbols.0.symbol>castaña</VRE_AuburnSkin.symbolPack.prefixSymbols.0.symbol>
+    <VRE_AuburnSkin.symbolPack.prefixSymbols.1.symbol>cobre quemado</VRE_AuburnSkin.symbolPack.prefixSymbols.1.symbol>
+    <VRE_AuburnSkin.symbolPack.prefixSymbols.2.symbol>marrón oscuro</VRE_AuburnSkin.symbolPack.prefixSymbols.2.symbol>
+
+    <!-- HEALTH -->
+    <VRE_ExtraMeat.label>carne extra</VRE_ExtraMeat.label>
+    <VRE_ExtraMeat.description>El portador de este gen tiene una carne y un tejido graso mucho más denso, resultando en un mayor rendimiento al momento de despiezar.</VRE_ExtraMeat.description>
+
+    <VRE_LowMeat.label>poca carne</VRE_LowMeat.label>
+    <VRE_LowMeat.description>El portador de este gen tiene poca carne y grasa, resultando en una menor cantidad de carne al despiezar.</VRE_LowMeat.description>
+
+    <VRE_OrganRegeneration.label>regeneración de organos</VRE_OrganRegeneration.label>
+    <VRE_OrganRegeneration.description>El portador de este gen posee en su ADN un mejor factor regenerativo, permitiendo regenerar lentamente sus órganos, incluso los que faltantes. Este proceso es lento y prioriza los órganos dañados.</VRE_OrganRegeneration.description>
+    <VRE_OrganRegeneration.customEffectDescriptions.0>Una herida aleatoria de algún órgano se sana en +1 cada 6-15 días. Si el órgano esta destruido, se restaurará con un punto de vida.</VRE_OrganRegeneration.customEffectDescriptions.0>
+    <VRE_OrganRegeneration.customEffectDescriptions.1>Esto afectará al cerebro, estómago, riñones, hígado, pulmones y el corazón.</VRE_OrganRegeneration.customEffectDescriptions.1>
+
+    <!-- HUNGER -->
+    <VRE_Gluttonous.label>glotonería</VRE_Gluttonous.label>
+    <VRE_Gluttonous.description>Los portadores de este gen tienen el estomago elastico y sin fondo adaptados a consumir el doble de comida.\n\n Se volverá cada vez más infeliz si tiene hambre, y la mayoría de sus colapsos mentales serán atracones de comida.</VRE_Gluttonous.description>
+
+    <!-- LEATHERS -->
+    <VRE_PigSkin.label>piel de cerdo</VRE_PigSkin.label>
+    <VRE_PigSkin.description>Los portadores de este gen producirán piel de cerdo al despiezar.</VRE_PigSkin.description>
+
+    <!-- MEATS -->
+    <VRE_PorkFlesh.label>carne de cerdo</VRE_PorkFlesh.label>
+    <VRE_PorkFlesh.description>Los portadores de este gen tienen trazas de cerdo en su carne. Consumir este tipo de carne se considera canibalismo. Cuando se despieza, la carne obtenida sera de cerdo y no humana.</VRE_PorkFlesh.description>
+
+    <!-- MISC -->
+    <VRE_Coward.label>cobarde</VRE_Coward.label>
+    <VRE_Coward.description>Los portadores de este gen, en situaciones nerviosas son más propensos a huir, esconderse o entrar en estado catatónico.</VRE_Coward.description>
+
+    <VRE_Brave.label>valiente</VRE_Brave.label>
+    <VRE_Brave.description>Los portadores de este gen son más resiliente al estrés y son más valientes.</VRE_Brave.description>
+
+    <!-- SIZE -->
+    <VRE_EverGrowing.label>crecimiento continuo</VRE_EverGrowing.label>
+    <VRE_EverGrowing.description>Los portadores de este gen no dejan de crecer hasta que tengan una edad de 60 años biológico. Seguirán aumentando su tamaño, alcanzando tamaños gigantescos.\n\nAl crecer, seran más lento, pero no se frenara con el daño. Su vida también aumentara.</VRE_EverGrowing.description>
+
+
+</LanguageData>

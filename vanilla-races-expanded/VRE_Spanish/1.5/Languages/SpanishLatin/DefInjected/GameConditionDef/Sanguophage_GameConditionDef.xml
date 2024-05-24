@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <VRE_BloodMoonCondition.label>luna sangrienta</VRE_BloodMoonCondition.label>
+    <VRE_BloodMoonCondition.description>Una de las lunas de este planeta, estara orbitando en la umbra del planeta, provocando que los Sanguifagos se vuelcan locos con hambre.</VRE_BloodMoonCondition.description>
+    <VRE_BloodMoonCondition.endMessage>La luna sangrienta ha terminado.</VRE_BloodMoonCondition.endMessage>
+    <VRE_BloodMoonCondition.letterText>Una de las lunas de este planeta, estara orbitando en la umbra del planeta, bloqueando todos los rayos de sol que iluminan la superficie de la luna. Resultando en una luna de color carmesí, fenomeno conocido como luna sangrienta.\n\nDurante este tiempo, las mechanitas de los sanguifagos se sobrecargaran, expulsando a los chupa-sangre de hemógeno de sus cuevas. Cualquier sanguífago con menos de la mitad de hemógeno en sus reservas entrara en estado mental de cazador de hemógeno. El hemógeno se reducira más rapido durante la luna sangrienta.</VRE_BloodMoonCondition.letterText>
+
+
+</LanguageData>

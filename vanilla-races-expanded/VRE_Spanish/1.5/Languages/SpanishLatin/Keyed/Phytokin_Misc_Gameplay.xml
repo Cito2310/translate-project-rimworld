@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<VRE_ProgressiveAttunementOffset>Gen de sintonización progresiva</VRE_ProgressiveAttunementOffset>
+	<VRE_SaplingBirthReady>Brote de niño</VRE_SaplingBirthReady>
+	<VRE_SaplingBirthReadyDesc>Cuando un colono posee el gen de brote de niño, al quedar embarazada, necesitan designar un lugar para plantar a sus descendientes. Si no lo hace antes de que comience el segundo trimestre (6 días), el embarazo finalizará.</VRE_SaplingBirthReadyDesc>
+	<VRE_PlantSaplingchild>Planta brote de niño</VRE_PlantSaplingchild>
+	<VRE_PlantSaplingchildDesc>Plantar brote de niño. Si no se hace antes del segundo trimestre (6 días desde que se embarazo), contara como un aborto espontáneo. El brote de niño necesita protección.</VRE_PlantSaplingchildDesc>
+	<VRE_SaplingNeedsSoil>Brote de niño necesita plantarse en tierra</VRE_SaplingNeedsSoil>
+	<VRE_SaplingchildNeedsToBePlanted>Brote de niño necesita plantarse</VRE_SaplingchildNeedsToBePlanted>
+	<VRE_SaplingchildNeedsToBePlantedDesc>Cuando un colono posee el gen de brote de niño al quedar embarazada, necesitan designar un lugar para plantar a sus descendientes. Si no lo hace antes de que comience el segundo trimestre (6 días), el embarazo finalizará. Estos colonos necesitan plantar sus brotes de niños:\n\nñ{0}</VRE_SaplingchildNeedsToBePlantedDesc>
+	<VRE_MotherXenotype>Xenotipo de la madre: {0}</VRE_MotherXenotype>
+	<VRE_DestroyedByTemp> ha sido destruido por la temperatura</VRE_DestroyedByTemp>
+	<VRE_SaplingHatched>{0} eclosiono del árbol!</VRE_SaplingHatched>
+	<VRE_SaplingHatchedLabel>{0} eclosiono!</VRE_SaplingHatchedLabel>
+	<VRE_TimeToHatch>Tiempo hasta el nacimiento: {0}</VRE_TimeToHatch>
+	<VRE_UnlockedByGeneAnima>Desbloqueado por el gen Afinidad al Anima</VRE_UnlockedByGeneAnima>
+	<VRE_UnlockedByGeneGau>Desbloqueado por el gen Afinidad al Gauranlen</VRE_UnlockedByGeneGau>
+	<VRE_CanOnlyBeUsedOnAnimaTree>Esta habilidad debe usarse en un arbol anima</VRE_CanOnlyBeUsedOnAnimaTree>
+	<VRE_CanOnlyBePlantedOnFertile>Esta habilidad debe usarse en un terreno con una fertilidad de al menos 0.05</VRE_CanOnlyBePlantedOnFertile>
+	<VRE_TwoPreviousDryadsMustBeDead>Un maximo de dos dríadas con Afinidad al Gauranlen pueden estar vivo al mismo tiempo por colonia</VRE_TwoPreviousDryadsMustBeDead>
+	<VRE_RitualPredictedOutcomeDescAffinityGeneCount>gen de Afinidad al Anima</VRE_RitualPredictedOutcomeDescAffinityGeneCount>
+	<VRE_RitualPredictedOutcomeDescAffinityGeneCountGau>gen de Afinidad al Gauranlen</VRE_RitualPredictedOutcomeDescAffinityGeneCountGau>
+
+</LanguageData>

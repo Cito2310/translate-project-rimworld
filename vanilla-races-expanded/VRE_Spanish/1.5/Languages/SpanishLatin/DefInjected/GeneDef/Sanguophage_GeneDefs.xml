@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+
+    <!-- HABILIDADES -->
+    <VRE_Ecstasy.label>extasis</VRE_Ecstasy.label>
+    <VRE_Ecstasy.labelShortAdj>extasis</VRE_Ecstasy.labelShortAdj>
+    <VRE_Ecstasy.description>El portador de este gen puede conectarse psiquicamente con su objetivo, haciendo que tenga una sensación de extasis y se enamore del lanzador.</VRE_Ecstasy.description>
+    <VRE_Ecstasy.symbolPack.prefixSymbols.0.symbol>exta</VRE_Ecstasy.symbolPack.prefixSymbols.0.symbol>
+    <VRE_Ecstasy.symbolPack.prefixSymbols.1.symbol>sedu</VRE_Ecstasy.symbolPack.prefixSymbols.1.symbol>
+    <VRE_Ecstasy.symbolPack.prefixSymbols.2.symbol>sexy</VRE_Ecstasy.symbolPack.prefixSymbols.2.symbol>
+    <VRE_Ecstasy.symbolPack.suffixSymbols.0.symbol>seductor</VRE_Ecstasy.symbolPack.suffixSymbols.0.symbol>
+    <VRE_Ecstasy.symbolPack.suffixSymbols.1.symbol>extator</VRE_Ecstasy.symbolPack.suffixSymbols.1.symbol>
+    <VRE_Ecstasy.symbolPack.suffixSymbols.2.symbol>presion</VRE_Ecstasy.symbolPack.suffixSymbols.2.symbol>
+
+    <VRE_FilterInfection.label>filtrador de infección</VRE_FilterInfection.label>
+    <VRE_FilterInfection.labelShortAdj>filtrador</VRE_FilterInfection.labelShortAdj>
+    <VRE_FilterInfection.description>El portador de este gen posee unas glándulas especiales en la boca que le permite filtrar la sangre contaminada a sangre limpia.</VRE_FilterInfection.description>
+    <VRE_FilterInfection.symbolPack.prefixSymbols.0.symbol>limpia</VRE_FilterInfection.symbolPack.prefixSymbols.0.symbol>
+    <VRE_FilterInfection.symbolPack.prefixSymbols.1.symbol>esteril</VRE_FilterInfection.symbolPack.prefixSymbols.1.symbol>
+    <VRE_FilterInfection.symbolPack.prefixSymbols.2.symbol>dialisis</VRE_FilterInfection.symbolPack.prefixSymbols.2.symbol>
+    <VRE_FilterInfection.symbolPack.suffixSymbols.0.symbol>filtrador</VRE_FilterInfection.symbolPack.suffixSymbols.0.symbol>
+    <VRE_FilterInfection.symbolPack.suffixSymbols.1.symbol>limpiador</VRE_FilterInfection.symbolPack.suffixSymbols.1.symbol>
+
+    <VRE_Hemosmosis.label>hemosmosis</VRE_Hemosmosis.label>
+    <VRE_Hemosmosis.labelShortAdj>hemosmosis</VRE_Hemosmosis.labelShortAdj>
+    <VRE_Hemosmosis.description>Los portadores de este gen pueden drenar la sangre de su entorno, si hay sangre para extraer.</VRE_Hemosmosis.description>
+    <VRE_Hemosmosis.symbolPack.prefixSymbols.0.symbol>chupador</VRE_Hemosmosis.symbolPack.prefixSymbols.0.symbol>
+    <VRE_Hemosmosis.symbolPack.suffixSymbols.0.symbol>chupador</VRE_Hemosmosis.symbolPack.suffixSymbols.0.symbol>
+    <VRE_Hemosmosis.symbolPack.suffixSymbols.1.symbol>drenador</VRE_Hemosmosis.symbolPack.suffixSymbols.1.symbol>
+    <VRE_Hemosmosis.symbolPack.suffixSymbols.2.symbol>osmosis</VRE_Hemosmosis.symbolPack.suffixSymbols.2.symbol>
+
+    <VRE_ToxicCloud.label>nube toxica</VRE_ToxicCloud.label>
+    <VRE_ToxicCloud.labelShortAdj>esparcedor de toxina</VRE_ToxicCloud.labelShortAdj>
+    <VRE_ToxicCloud.description>El portador de este gen puede excretar un denso humo toxico desde una reserva especial en sus pulmones. Este gas es mortal para casi todas las criaturas.</VRE_ToxicCloud.description>
+    <VRE_ToxicCloud.symbolPack.prefixSymbols.0.symbol>gaseoso</VRE_ToxicCloud.symbolPack.prefixSymbols.0.symbol>
+    <VRE_ToxicCloud.symbolPack.prefixSymbols.1.symbol>toxico</VRE_ToxicCloud.symbolPack.prefixSymbols.1.symbol>
+    <VRE_ToxicCloud.symbolPack.suffixSymbols.0.symbol>esparcedor</VRE_ToxicCloud.symbolPack.suffixSymbols.0.symbol>
+    <VRE_ToxicCloud.symbolPack.suffixSymbols.1.symbol>excretor</VRE_ToxicCloud.symbolPack.suffixSymbols.1.symbol>
+
+    <VRE_HeartCrush.label>rompe corazones</VRE_HeartCrush.label>
+    <VRE_HeartCrush.labelShortAdj>rompecorazones</VRE_HeartCrush.labelShortAdj>
+    <VRE_HeartCrush.description>El portador de este gen posee una glandula de adrenalina especial, que ayuda a encontrar el corazon del rival y lo arranca con una furia total.</VRE_HeartCrush.description>
+    <VRE_HeartCrush.customEffectDescriptions.0>Esto solo funciona con criaturas de tamaño 2 o menos. Las criaturas más grandes recibiran un gran daño.</VRE_HeartCrush.customEffectDescriptions.0>
+    <VRE_HeartCrush.symbolPack.prefixSymbols.0.symbol>rompedor</VRE_HeartCrush.symbolPack.prefixSymbols.0.symbol>
+    <VRE_HeartCrush.symbolPack.prefixSymbols.1.symbol>corazon</VRE_HeartCrush.symbolPack.prefixSymbols.1.symbol>
+    <VRE_HeartCrush.symbolPack.prefixSymbols.2.symbol>destructor</VRE_HeartCrush.symbolPack.prefixSymbols.2.symbol>
+    <VRE_HeartCrush.symbolPack.suffixSymbols.0.symbol>rompedor</VRE_HeartCrush.symbolPack.suffixSymbols.0.symbol>
+    <VRE_HeartCrush.symbolPack.suffixSymbols.1.symbol>partir</VRE_HeartCrush.symbolPack.suffixSymbols.1.symbol>
+
+    <VRE_ViscuousGoo.label>baba viscosa</VRE_ViscuousGoo.label>
+    <VRE_ViscuousGoo.labelShortAdj>salpicar baba</VRE_ViscuousGoo.labelShortAdj>
+    <VRE_ViscuousGoo.description>Al portador de este gen le crece una glandula donde generara y almacenara una baba viscosa. Se puede lanzar a distancia cubriendo a las personas de una baba viscosa, ralentizandolo.</VRE_ViscuousGoo.description>
+    <VRE_ViscuousGoo.symbolPack.prefixSymbols.0.symbol>lanza</VRE_ViscuousGoo.symbolPack.prefixSymbols.0.symbol>
+    <VRE_ViscuousGoo.symbolPack.prefixSymbols.1.symbol>baba</VRE_ViscuousGoo.symbolPack.prefixSymbols.1.symbol>
+    <VRE_ViscuousGoo.symbolPack.suffixSymbols.0.symbol>lanzador</VRE_ViscuousGoo.symbolPack.suffixSymbols.0.symbol>
+
+    <VRE_Resurrect.label>resucitar</VRE_Resurrect.label>
+    <VRE_Resurrect.description>El portador de este gen poseera una reserva con unos architos resurrectores, que infuden a los cadaveres, reconstruyendo su tejido y empezando el proceso vital. Esto devuelve a los muertos a la vida - aunque con problemas de salud. Esto ocurrira rara vez, y tiene un gran costo de hemógeno.</VRE_Resurrect.description>
+    <VRE_Resurrect.symbolPack.wholeNameSymbols.0.symbol>resurrector</VRE_Resurrect.symbolPack.wholeNameSymbols.0.symbol>
+    <VRE_Resurrect.symbolPack.prefixSymbols.0.symbol>resurrector</VRE_Resurrect.symbolPack.prefixSymbols.0.symbol>
+    <VRE_Resurrect.symbolPack.suffixSymbols.0.symbol>vida</VRE_Resurrect.symbolPack.suffixSymbols.0.symbol>
+
+
+    <!-- COSMETIC -->
+    <VRE_SanguineHair.label>pelo de sanguinario</VRE_SanguineHair.label>
+    <VRE_SanguineHair.description>El portador de este gen tendran de forma natural un pelo como un sanguinario.</VRE_SanguineHair.description>
+
+
+    <!-- EARS -->
+    <VRE_BatEars.label></VRE_BatEars.label>
+    <VRE_BatEars.description></VRE_BatEars.description>
+    <VRE_BatEars.symbolPack.prefixSymbols.0.symbol>murciélago</VRE_BatEars.symbolPack.prefixSymbols.0.symbol>
+    <VRE_BatEars.symbolPack.prefixSymbols.1.symbol>membrana</VRE_BatEars.symbolPack.prefixSymbols.1.symbol>
+    <VRE_BatEars.symbolPack.prefixSymbols.2.symbol>noche</VRE_BatEars.symbolPack.prefixSymbols.2.symbol>
+    <VRE_BatEars.symbolPack.prefixSymbols.3.symbol>quiroptera</VRE_BatEars.symbolPack.prefixSymbols.3.symbol>
+    <VRE_BatEars.symbolPack.suffixSymbols.0.symbol>murciélago</VRE_BatEars.symbolPack.suffixSymbols.0.symbol>
+    <VRE_BatEars.symbolPack.suffixSymbols.1.symbol>tragus</VRE_BatEars.symbolPack.suffixSymbols.1.symbol>
+
+    <VRE_UpperBatEars.label>oreja quiroptera</VRE_UpperBatEars.label>
+    <VRE_UpperBatEars.description>Los portadores de este gen tienen una oreja similar al de los murcielagos</VRE_UpperBatEars.description>
+    <VRE_UpperBatEars.symbolPack.prefixSymbols.0.symbol>murcielago</VRE_UpperBatEars.symbolPack.prefixSymbols.0.symbol>
+    <VRE_UpperBatEars.symbolPack.prefixSymbols.1.symbol>membrana</VRE_UpperBatEars.symbolPack.prefixSymbols.1.symbol>
+    <VRE_UpperBatEars.symbolPack.prefixSymbols.2.symbol>noche</VRE_UpperBatEars.symbolPack.prefixSymbols.2.symbol>
+    <VRE_UpperBatEars.symbolPack.prefixSymbols.3.symbol>quiroptera</VRE_UpperBatEars.symbolPack.prefixSymbols.3.symbol>
+    <VRE_UpperBatEars.symbolPack.suffixSymbols.0.symbol>murcielago</VRE_UpperBatEars.symbolPack.suffixSymbols.0.symbol>
+    <VRE_UpperBatEars.symbolPack.suffixSymbols.1.symbol>tragus</VRE_UpperBatEars.symbolPack.suffixSymbols.1.symbol>
+
+
+    <!-- HANDS -->
+    <VRE_Talons.label>garras</VRE_Talons.label>
+    <VRE_Talons.description>Los portadores de este gen tiene en sus manos unas garras. Esto reduce su capacidad para manipular objetos, pero les permite realizar ataques especiales en el combate cuerpo a cuerpo.</VRE_Talons.description>
+    <VRE_Talons.symbolPack.prefixSymbols.0.symbol>pajaro</VRE_Talons.symbolPack.prefixSymbols.0.symbol>
+    <VRE_Talons.symbolPack.prefixSymbols.1.symbol>garra</VRE_Talons.symbolPack.prefixSymbols.1.symbol>
+    <VRE_Talons.symbolPack.prefixSymbols.2.symbol>garra</VRE_Talons.symbolPack.prefixSymbols.2.symbol>
+    <VRE_Talons.symbolPack.prefixSymbols.3.symbol>predador</VRE_Talons.symbolPack.prefixSymbols.3.symbol>
+    <VRE_Talons.symbolPack.prefixSymbols.4.symbol>gancho</VRE_Talons.symbolPack.prefixSymbols.4.symbol>
+    <VRE_Talons.symbolPack.suffixSymbols.0.symbol>garra</VRE_Talons.symbolPack.suffixSymbols.0.symbol>
+    <VRE_Talons.symbolPack.suffixSymbols.1.symbol>afilado</VRE_Talons.symbolPack.suffixSymbols.1.symbol>
+    <VRE_Talons.symbolPack.suffixSymbols.2.symbol>garra</VRE_Talons.symbolPack.suffixSymbols.2.symbol>
+    <VRE_Talons.symbolPack.suffixSymbols.3.symbol>predador</VRE_Talons.symbolPack.suffixSymbols.3.symbol>
+    <VRE_Talons.symbolPack.wholeNameSymbols.0.symbol>garras</VRE_Talons.symbolPack.wholeNameSymbols.0.symbol>
+    
+    <!-- HEMOGENO -->
+    <VRE_LowHemogenDrain.label>lento drenaje de hemógeno</VRE_LowHemogenDrain.label>
+    <VRE_LowHemogenDrain.labelShortAdj>drenador</VRE_LowHemogenDrain.labelShortAdj>
+    <VRE_LowHemogenDrain.description>El portador de este gen pierde 4 puntos de hemógeno al dia por motivos aleatorio de la naturaleza.</VRE_LowHemogenDrain.description>
+    <VRE_LowHemogenDrain.resourceLabel>hemógeno</VRE_LowHemogenDrain.resourceLabel>
+
+    <VRE_ExtremeHemogenDrain.label>extremo drenaje de hemógeno</VRE_ExtremeHemogenDrain.label>
+    <VRE_ExtremeHemogenDrain.labelShortAdj>gran drenador</VRE_ExtremeHemogenDrain.labelShortAdj>
+    <VRE_ExtremeHemogenDrain.description>El portador de este gen pierde 12 puntos de hemógeno al dia por motivos aleatorio de la naturaleza.</VRE_ExtremeHemogenDrain.description>
+    <VRE_ExtremeHemogenDrain.resourceLabel>hemógeno</VRE_ExtremeHemogenDrain.resourceLabel>
+
+    <!-- NARIZ -->
+    <VRE_BatNose.label>nariz de murcielago</VRE_BatNose.label>
+    <VRE_BatNose.description>El portador de este gen tendra una nariz similar al de un murcielago</VRE_BatNose.description>
+    <VRE_BatNose.symbolPack.prefixSymbols.0.symbol>murcielago</VRE_BatNose.symbolPack.prefixSymbols.0.symbol>
+    <VRE_BatNose.symbolPack.prefixSymbols.1.symbol>tridente</VRE_BatNose.symbolPack.prefixSymbols.1.symbol>
+    <VRE_BatNose.symbolPack.prefixSymbols.2.symbol>hoja</VRE_BatNose.symbolPack.prefixSymbols.2.symbol>
+    <VRE_BatNose.symbolPack.prefixSymbols.3.symbol>noche</VRE_BatNose.symbolPack.prefixSymbols.3.symbol>
+    <VRE_BatNose.symbolPack.suffixSymbols.0.symbol>murcielago</VRE_BatNose.symbolPack.suffixSymbols.0.symbol>
+    <VRE_BatNose.symbolPack.suffixSymbols.1.symbol>noche</VRE_BatNose.symbolPack.suffixSymbols.1.symbol>
+
+    <!-- SANGUOPHAGE FEEDING -->
+    <VRE_AnimalFeeder.label>chupasangre animal</VRE_AnimalFeeder.label>
+    <VRE_AnimalFeeder.description>El portador de este gen posee unos pequeños colmillos retractictil y unos organos encima de su boca, para extraer el hemógeno de la fresca y calida sangre. Puede poder a cualquier animal, chupar su sangre, y ganar hemógeno directamente. Esto aveces puede hacer que el animal ataque al portador.</VRE_AnimalFeeder.description>
+    <VRE_AnimalFeeder.symbolPack.wholeNameSymbols.0.symbol>chupador-animal</VRE_AnimalFeeder.symbolPack.wholeNameSymbols.0.symbol>
+    <VRE_AnimalFeeder.symbolPack.prefixSymbols.0.symbol>hemo</VRE_AnimalFeeder.symbolPack.prefixSymbols.0.symbol>
+    <VRE_AnimalFeeder.symbolPack.prefixSymbols.1.symbol>sangre</VRE_AnimalFeeder.symbolPack.prefixSymbols.1.symbol>
+    <VRE_AnimalFeeder.symbolPack.prefixSymbols.2.symbol>vamp</VRE_AnimalFeeder.symbolPack.prefixSymbols.2.symbol>
+    <VRE_AnimalFeeder.symbolPack.prefixSymbols.3.symbol>fang</VRE_AnimalFeeder.symbolPack.prefixSymbols.3.symbol>
+    <VRE_AnimalFeeder.symbolPack.suffixSymbols.0.symbol>fang</VRE_AnimalFeeder.symbolPack.suffixSymbols.0.symbol>
+    <VRE_AnimalFeeder.symbolPack.suffixSymbols.1.symbol>alimentador</VRE_AnimalFeeder.symbolPack.suffixSymbols.1.symbol>
+    <VRE_AnimalFeeder.symbolPack.suffixSymbols.2.symbol>ubus</VRE_AnimalFeeder.symbolPack.suffixSymbols.2.symbol>
+
+    <VRE_CorpseFeeder.label>chupasangre cadaverico</VRE_CorpseFeeder.label>
+    <VRE_CorpseFeeder.description>El portador de este gen posee unos pequeños colmillos retractil y unos organos encima de su boca, para extraer el hemógeno de la fresca y calida sangre. Puede alimentarse de cualquier animal, chupar su sangre, y ganar hemógeno directamente. Esto aveces puede hacer que el animal ataque al portador.</VRE_CorpseFeeder.description>
+    <VRE_CorpseFeeder.symbolPack.wholeNameSymbols.0.symbol>chupa-cadaveres</VRE_CorpseFeeder.symbolPack.wholeNameSymbols.0.symbol>
+    <VRE_CorpseFeeder.symbolPack.prefixSymbols.0.symbol>hemo</VRE_CorpseFeeder.symbolPack.prefixSymbols.0.symbol>
+    <VRE_CorpseFeeder.symbolPack.prefixSymbols.1.symbol>sangre</VRE_CorpseFeeder.symbolPack.prefixSymbols.1.symbol>
+    <VRE_CorpseFeeder.symbolPack.prefixSymbols.2.symbol>vamp</VRE_CorpseFeeder.symbolPack.prefixSymbols.2.symbol>
+    <VRE_CorpseFeeder.symbolPack.prefixSymbols.3.symbol>fang</VRE_CorpseFeeder.symbolPack.prefixSymbols.3.symbol>
+    <VRE_CorpseFeeder.symbolPack.suffixSymbols.0.symbol>fang</VRE_CorpseFeeder.symbolPack.suffixSymbols.0.symbol>
+    <VRE_CorpseFeeder.symbolPack.suffixSymbols.1.symbol>alimentador</VRE_CorpseFeeder.symbolPack.suffixSymbols.1.symbol>
+    <VRE_CorpseFeeder.symbolPack.suffixSymbols.2.symbol>ubus</VRE_CorpseFeeder.symbolPack.suffixSymbols.2.symbol>
+
+    <VRE_SanguoFeeder.label>chupasangre sanguífago</VRE_SanguoFeeder.label>
+    <VRE_SanguoFeeder.description>El portador de este gen posee unos pequeños colmillos retractictil y unos organos encima de su boca, para extraer el hemógeno de la sangre fresca de otro sanguífago. Puede morder a un sanguífago si no opone resistencia, chupar su sangre y obtener su hemogeno.</VRE_SanguoFeeder.description>
+    <VRE_SanguoFeeder.symbolPack.wholeNameSymbols.0.symbol>chupa-sanguí</VRE_SanguoFeeder.symbolPack.wholeNameSymbols.0.symbol>
+    <VRE_SanguoFeeder.symbolPack.wholeNameSymbols.1.symbol>diabolista</VRE_SanguoFeeder.symbolPack.wholeNameSymbols.1.symbol>
+    <VRE_SanguoFeeder.symbolPack.prefixSymbols.0.symbol>hemo</VRE_SanguoFeeder.symbolPack.prefixSymbols.0.symbol>
+    <VRE_SanguoFeeder.symbolPack.prefixSymbols.1.symbol>sangre</VRE_SanguoFeeder.symbolPack.prefixSymbols.1.symbol>
+    <VRE_SanguoFeeder.symbolPack.prefixSymbols.2.symbol>vamp</VRE_SanguoFeeder.symbolPack.prefixSymbols.2.symbol>
+    <VRE_SanguoFeeder.symbolPack.prefixSymbols.3.symbol>fang</VRE_SanguoFeeder.symbolPack.prefixSymbols.3.symbol>
+    <VRE_SanguoFeeder.symbolPack.suffixSymbols.0.symbol>fang</VRE_SanguoFeeder.symbolPack.suffixSymbols.0.symbol>
+    <VRE_SanguoFeeder.symbolPack.suffixSymbols.1.symbol>alimentador</VRE_SanguoFeeder.symbolPack.suffixSymbols.1.symbol>
+    <VRE_SanguoFeeder.symbolPack.suffixSymbols.2.symbol>ubus</VRE_SanguoFeeder.symbolPack.suffixSymbols.2.symbol>
+
+
+    <!-- UV SENSIVITY -->
+    <VRE_Sensitivity_Dangerous.label>sensibilidad peligrosa a los UV</VRE_Sensitivity_Dangerous.label>
+    <VRE_Sensitivity_Dangerous.labelShortAdj>hipersensibilidad-UV</VRE_Sensitivity_Dangerous.labelShortAdj>
+    <VRE_Sensitivity_Dangerous.description>Los portadores de este gen tienen en su piel un compuesto que reacciona de forma peligrosa a la radiación UV. Son extremadamente sensible a la luz del sol.</VRE_Sensitivity_Dangerous.description>
+    <VRE_Sensitivity_Dangerous.customEffectDescriptions.0>Capacidades maxima al 50% cuando esta al sol</VRE_Sensitivity_Dangerous.customEffectDescriptions.0>
+    <VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.0.symbol>oscuro</VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.0.symbol>
+    <VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.1.symbol>tunel</VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.1.symbol>
+    <VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.2.symbol>bajo</VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.2.symbol>
+    <VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.3.symbol>cueva</VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.3.symbol>
+    <VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.4.symbol>cripta</VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.4.symbol>
+    <VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.5.symbol>oscuro</VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.5.symbol>
+    <VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.6.symbol>noche</VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.6.symbol>
+
+
+</LanguageData>

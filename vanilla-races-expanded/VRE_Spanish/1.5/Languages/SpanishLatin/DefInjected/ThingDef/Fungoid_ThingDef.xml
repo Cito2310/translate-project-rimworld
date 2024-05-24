@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VRE_FungoidShipPart.label>parte de nave (fungoide)</VRE_FungoidShipPart.label>
+  <VRE_FungoidShipPart.description>Una parte de una nave ancestral, arrancada de una vieja nave de exploración espacial, destruida en mayor parte durante el ingreso. Podría tener miles de años.\n\nÉste puede contener uno o mas miembros de su tripulación adentro. Los gobiernos solían mandar naves llenos de fungoides inmortales, un xenotipo experimental realmente enfermizo y retorcido que han podido sobrevivir a viajes espaciales que duraron centenares. Los fungoides abordo seguramente hayan perdido el sentido de sí mismos hace mucho tiempo. Deben de haber quedado atrapados en este modulo espacial hace cientos de años.</VRE_FungoidShipPart.description>
+  <VRE_AncientAstrosuit.label>traje espacial ancestral</VRE_AncientAstrosuit.label>
+  <VRE_AncientAstrosuit.description>Una reliquia de la era de los astronautas espaciales. Ofrece una protección inigualable contra la insolación y la resistencia la fuego, resguardando a los de su interior de los peligros del espacio. Su diseño obsoleto dificulta gravemente su movimiento, haciendo que su portador sea más lento y menos agil. A pesar de su poca protección balistica, tiene un gran significado histórica como parte de la historia temprana de la exploración espacial.</VRE_AncientAstrosuit.description>
+  <VRE_Filth_RotBlood.label>sangre podrida</VRE_Filth_RotBlood.label>
+</LanguageData>

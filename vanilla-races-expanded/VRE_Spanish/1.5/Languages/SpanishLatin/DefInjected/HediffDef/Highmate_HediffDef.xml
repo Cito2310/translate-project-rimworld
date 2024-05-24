@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VRE_LovinDependencyHediff.label>dependencia a 'hacer el amor'</VRE_LovinDependencyHediff.label>
+  <VRE_LovinDependencyHediff.description>Esta persona esta genéticamente-inducido a tener una dependencia bioquímica a 'hacer el amor'. Necesitara 'hacer el amor' con regularidad para estar contento. Después de 5 días sin 'hacer el amor', este sufrirá de deficiencia de 'hacer el amor'. Después de 30 días abandonara la colonia.\n\nEste efecto empezara a afectar después de los 16 años.</VRE_LovinDependencyHediff.description>
+  <VRE_Naked.label>desnudo</VRE_Naked.label>
+  <VRE_Naked.description>Esta persona esta desnuda.</VRE_Naked.description>
+  <VRE_PsychicBondBloodlust.label>Vínculo psíquico (Guerrero)</VRE_PsychicBondBloodlust.label>
+  <VRE_PsychicBondBloodlust.description>Ambos individuos conectados psíquicamente se beneficiaran de un daño cuerpo a cuerpo aumentado, a costo de unos violentos colapsos mentales.
+</VRE_PsychicBondBloodlust.description>
+  <VRE_PsychicBondFastLearner.label>Vínculo psíquico (Profesor)</VRE_PsychicBondFastLearner.label>
+  <VRE_PsychicBondFastLearner.description>Ambos individuos conectados psíquicamente se beneficiaran de un aumento es su velocidad de aprendizaje de habilidades.</VRE_PsychicBondFastLearner.description>
+  <VRE_PsychicBondIndustrious.label>Vínculo psíquico (Trabajador)</VRE_PsychicBondIndustrious.label>
+  <VRE_PsychicBondIndustrious.description>Ambos individuos conectados psíquicamente se beneficiaran de una velocidad de trabajo incrementada.</VRE_PsychicBondIndustrious.description>
+  <VRE_PsychicBondSanguine.label>Vínculo psíquico (Optimista)</VRE_PsychicBondSanguine.label>
+  <VRE_PsychicBondSanguine.description>Ambos individuos conectados psíquicamente se beneficiaran de un incremento en su felicidad.
+</VRE_PsychicBondSanguine.description>
+  <VRE_PsychicBondIronWilled.label>Vínculo psíquico (Valiente)</VRE_PsychicBondIronWilled.label>
+  <VRE_PsychicBondIronWilled.description>Ambos individuos conectados psíquicamente se beneficiaran de tener un mayor umbral antes de un colapso mental.</VRE_PsychicBondIronWilled.description>
+  <VRE_PsychicBondCarefulShooter.label>Vínculo psíquico (Cazador)</VRE_PsychicBondCarefulShooter.label>
+  <VRE_PsychicBondCarefulShooter.description>Ambos individuos conectados psíquicamente se beneficiaran de un aumento en la precisión con armas a distancia.</VRE_PsychicBondCarefulShooter.description>
+  <VRE_PsychicBondPsychicallyHypersensitive.label>Vínculo psíquico (Psíquico)</VRE_PsychicBondPsychicallyHypersensitive.label>
+  <VRE_PsychicBondPsychicallyHypersensitive.description>Ambos individuos conectados psíquicamente se beneficiaran de tener una mayor sensibilidad psíquica.
+</VRE_PsychicBondPsychicallyHypersensitive.description>
+  <VRE_PsychicBondGreatMemory.label>Vínculo psíquico (Inteligente)</VRE_PsychicBondGreatMemory.label>
+  <VRE_PsychicBondGreatMemory.description>Ambos individuos conectados psíquicamente se beneficiaran de perder sus habilidades con muy poco a poco.</VRE_PsychicBondGreatMemory.description>
+  <VRE_PsychicBondAbrasive.label>Vínculo psíquico (Abrasivo)</VRE_PsychicBondAbrasive.label>
+  <VRE_PsychicBondAbrasive.description>Ambos individuos conectados psíquicamente se beneficiaran de poder contener sus palabras abrasivas.</VRE_PsychicBondAbrasive.description>
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VRE_Morph.label>transformación</VRE_Morph.label>
+  <VRE_Morph.description>Se transforma en un xenotipo diferente.</VRE_Morph.description>
+  <VRE_WarHowl.label>aullido de guerra</VRE_WarHowl.label>
+  <VRE_WarHowl.description>Emitir un aullido de guerra que incrementara las capacidades de combate de los aliados cercanos.</VRE_WarHowl.description>
+  <VRE_ReimplantGermline.label>implantar genes</VRE_ReimplantGermline.label>
+  <VRE_ReimplantGermline.description>Implantar el endogermen de esta persona a un sujeto usando un órgano inyector especial. Si los genes de esta persona están creciendo, si intentas implantar el endogermen, esté morirá en el proceso.\n\nCuando haya sido implantado, el endogermen sobreescribirá el endogermen del objetivo. Los xenogermenes no se ven afectados.</VRE_ReimplantGermline.description>
+</LanguageData>

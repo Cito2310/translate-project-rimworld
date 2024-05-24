@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VRE_Flirty.degreeDatas.flirty.label>flirtear</VRE_Flirty.degreeDatas.flirty.label>
+  <VRE_Flirty.degreeDatas.flirty.description>{PAWN_nameDef} siempre estará listo para piropear y decir un cumplido divertido, levantando el animo de quienes les rodean {PAWN_objective}. {PAWN_pronoun} tiene la habilidad de hacer sentir especial y deseados a los demás, esto puede llevar a situaciones complicadas cuando {PAWN_objective} las palabras juguetonas se malinterpretan.</VRE_Flirty.degreeDatas.flirty.description>
+  <VRE_Distressed.degreeDatas.distressed.label>angustioso</VRE_Distressed.degreeDatas.distressed.label>
+  <VRE_Distressed.degreeDatas.distressed.description>{PAWN_nameDef} tiene una excepcional empatía y sensibilidad a los sufrimientos de los demás. Cada vez que {PAWN_pronoun} es testigo de dolor o sufrimiento, afectando gravemente a {PAWN_objective}, lo que resulta que los eventos desafortunados persigan {PAWN_nameDef} duran mucho más tiempo.</VRE_Distressed.degreeDatas.distressed.description>
+</LanguageData>

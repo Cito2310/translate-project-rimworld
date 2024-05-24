@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <VREH_Glidewings.label>alas planeadoras</VREH_Glidewings.label>
+    <VREH_Glidewings.description>Unas pequeñas alas que crecen en los hombros de estas personas. No es capaz de volar, pero no sera molestado por los obstaculos.</VREH_Glidewings.description>
+
+   <VREH_GeneticDrugNeed_Luci.label>dependencia quimica</VREH_GeneticDrugNeed_Luci.label>
+   <VREH_GeneticDrugNeed_Luci.description>Esta persona esta geneticamente inducido a ser dependiente se una droga especifica. Sin una dosis regular de esta droga, su cuerpo no podra mantenerse saludable y se salud de ira degradando hasta morir.\n\nEste efecto empieza despues de los 13 años.</VREH_GeneticDrugNeed_Luci.description>
+   <VREH_GeneticDrugNeed_Luci.stages.1.label>deficiencia</VREH_GeneticDrugNeed_Luci.stages.1.label>
+   <VREH_GeneticDrugNeed_Luci.stages.2.overrideLabel>deficiencia: coma</VREH_GeneticDrugNeed_Luci.stages.2.overrideLabel>
+
+</LanguageData>

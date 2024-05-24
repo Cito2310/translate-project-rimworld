@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VRE_InfectionLabel>Infección genética ({0}), {1}</VRE_InfectionLabel>
+  <VRE_InfectionDescription>Infección causada por esta en contacto con {0}. Si llega a 100% el colono se convertirá en {00}</VRE_InfectionDescription>
+  <VRE_InfectedLabel>Infección genética (día {0})</VRE_InfectedLabel>
+  <VRE_InfectionChance>Posibilidades de infección genética</VRE_InfectionChance>
+  <VRE_InfectionChanceDesc>Chance of the gene infection to infect the target. By default it is 20%. Bear in mind this only applies to claw and teeth attacks, if the person with a gene infector gene carries melee weapons this will reduce infection chances.
+Las posibilidades de una infección genética infectar a un objetivo. Por defecto es del 20%. Esto solo se aplicara a los ataques con garras y dientes, si la persona que porta este gen infectante lleva un arma cuerpo a cuerpo, las posibilidades de infección serán menores</VRE_InfectionChanceDesc>
+  <VRE_Reset>Reiniciar</VRE_Reset>
+</LanguageData>

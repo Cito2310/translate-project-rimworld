@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <!-- COSMETIC -->
+    <VRESaurids_FrilledEars.label>orejas con volantes</VRESaurids_FrilledEars.label>
+    <VRESaurids_FrilledEars.description>Los portadores de este gen tiene orejas con volantes similar a algunos lagartos.</VRESaurids_FrilledEars.description>
+    <VRESaurids_FrilledEars.symbolPack.prefixSymbols.0.symbol>volante</VRESaurids_FrilledEars.symbolPack.prefixSymbols.0.symbol>
+    <VRESaurids_FrilledEars.symbolPack.prefixSymbols.1.symbol>iguana</VRESaurids_FrilledEars.symbolPack.prefixSymbols.1.symbol>
+    <VRESaurids_FrilledEars.symbolPack.prefixSymbols.2.symbol>lagarto</VRESaurids_FrilledEars.symbolPack.prefixSymbols.2.symbol>
+    <VRESaurids_FrilledEars.symbolPack.prefixSymbols.3.symbol>columna</VRESaurids_FrilledEars.symbolPack.prefixSymbols.3.symbol>
+    <VRESaurids_FrilledEars.symbolPack.prefixSymbols.4.symbol>reptil</VRESaurids_FrilledEars.symbolPack.prefixSymbols.4.symbol>
+    <VRESaurids_FrilledEars.symbolPack.suffixSymbols.0.symbol>pincho</VRESaurids_FrilledEars.symbolPack.suffixSymbols.0.symbol>
+    <VRESaurids_FrilledEars.symbolPack.suffixSymbols.1.symbol>lanza</VRESaurids_FrilledEars.symbolPack.suffixSymbols.1.symbol>
+    <VRESaurids_FrilledEars.symbolPack.suffixSymbols.2.symbol>volante</VRESaurids_FrilledEars.symbolPack.suffixSymbols.2.symbol>
+    <VRESaurids_FrilledEars.symbolPack.suffixSymbols.3.symbol>sauro</VRESaurids_FrilledEars.symbolPack.suffixSymbols.3.symbol>
+
+
+    <VRESaurids_CenterFrill.label>Volante central</VRESaurids_CenterFrill.label>
+    <VRESaurids_CenterFrill.description>Los portadores de este gen tiene un volante similar a los lagartos encima de su cabeza.</VRESaurids_CenterFrill.description>
+    <VRESaurids_CenterFrill.symbolPack.prefixSymbols.0.symbol>volante</VRESaurids_CenterFrill.symbolPack.prefixSymbols.0.symbol>
+    <VRESaurids_CenterFrill.symbolPack.prefixSymbols.1.symbol>iguana</VRESaurids_CenterFrill.symbolPack.prefixSymbols.1.symbol>
+    <VRESaurids_CenterFrill.symbolPack.prefixSymbols.2.symbol>lagarto</VRESaurids_CenterFrill.symbolPack.prefixSymbols.2.symbol>
+    <VRESaurids_CenterFrill.symbolPack.prefixSymbols.3.symbol>columna</VRESaurids_CenterFrill.symbolPack.prefixSymbols.3.symbol>
+    <VRESaurids_CenterFrill.symbolPack.prefixSymbols.4.symbol>reptil</VRESaurids_CenterFrill.symbolPack.prefixSymbols.4.symbol>
+    <VRESaurids_CenterFrill.symbolPack.suffixSymbols.0.symbol>pincho</VRESaurids_CenterFrill.symbolPack.suffixSymbols.0.symbol>
+    <VRESaurids_CenterFrill.symbolPack.suffixSymbols.1.symbol>lanza</VRESaurids_CenterFrill.symbolPack.suffixSymbols.1.symbol>
+    <VRESaurids_CenterFrill.symbolPack.suffixSymbols.2.symbol>volante</VRESaurids_CenterFrill.symbolPack.suffixSymbols.2.symbol>
+    <VRESaurids_CenterFrill.symbolPack.suffixSymbols.3.symbol>sauro</VRESaurids_CenterFrill.symbolPack.suffixSymbols.3.symbol>
+
+
+    <VRESaurids_GeckoTail.label>cola de gecko</VRESaurids_GeckoTail.label>
+    <VRESaurids_GeckoTail.description>Los portadores de este gen, le crece una pequeña cola escamosa que no posee ninguna funcion</VRESaurids_GeckoTail.description>
+
+
+
+    <!-- ENDOGENES -->
+    <VRESaurids_SauridClaws.label>garras de sauridos</VRESaurids_SauridClaws.label>
+    <VRESaurids_SauridClaws.description>Los portadores de este gen, tienen parcialmente en sus manos garras de dinosaurios. Esto impacta ligeramente en su habilidad de manipular objetos, pero durante el combate cuerpo a cuerpo permite hacer cortes profundos.</VRESaurids_SauridClaws.description>
+    <VRESaurids_SauridClaws.customEffectDescriptions.0>Causa cortes al hacer ataques desarmados</VRESaurids_SauridClaws.customEffectDescriptions.0>
+    <VRESaurids_SauridClaws.symbolPack.wholeNameSymbols.0.symbol>garras</VRESaurids_SauridClaws.symbolPack.wholeNameSymbols.0.symbol>
+    <VRESaurids_SauridClaws.symbolPack.prefixSymbols.0.symbol>saurido</VRESaurids_SauridClaws.symbolPack.prefixSymbols.0.symbol>
+    <VRESaurids_SauridClaws.symbolPack.prefixSymbols.1.symbol>raptor</VRESaurids_SauridClaws.symbolPack.prefixSymbols.1.symbol>
+    <VRESaurids_SauridClaws.symbolPack.prefixSymbols.2.symbol>garra</VRESaurids_SauridClaws.symbolPack.prefixSymbols.2.symbol>
+    <VRESaurids_SauridClaws.symbolPack.prefixSymbols.3.symbol>predador</VRESaurids_SauridClaws.symbolPack.prefixSymbols.3.symbol>
+    <VRESaurids_SauridClaws.symbolPack.prefixSymbols.4.symbol>gancho</VRESaurids_SauridClaws.symbolPack.prefixSymbols.4.symbol>
+    <VRESaurids_SauridClaws.symbolPack.prefixSymbols.5.symbol>reptil</VRESaurids_SauridClaws.symbolPack.prefixSymbols.5.symbol>
+    <VRESaurids_SauridClaws.symbolPack.suffixSymbols.0.symbol>garra</VRESaurids_SauridClaws.symbolPack.suffixSymbols.0.symbol>
+    <VRESaurids_SauridClaws.symbolPack.suffixSymbols.1.symbol>afilado</VRESaurids_SauridClaws.symbolPack.suffixSymbols.1.symbol>
+    <VRESaurids_SauridClaws.symbolPack.suffixSymbols.2.symbol>gancho</VRESaurids_SauridClaws.symbolPack.suffixSymbols.2.symbol>
+    <VRESaurids_SauridClaws.symbolPack.suffixSymbols.3.symbol>predador</VRESaurids_SauridClaws.symbolPack.suffixSymbols.3.symbol>
+    <VRESaurids_SauridClaws.symbolPack.suffixSymbols.4.symbol>raptor</VRESaurids_SauridClaws.symbolPack.suffixSymbols.4.symbol>
+    <VRESaurids_SauridClaws.symbolPack.suffixSymbols.5.symbol>reptil</VRESaurids_SauridClaws.symbolPack.suffixSymbols.5.symbol>
+    <VRESaurids_SauridClaws.symbolPack.suffixSymbols.6.symbol>sauro</VRESaurids_SauridClaws.symbolPack.suffixSymbols.6.symbol>
+
+
+
+
+    <!-- Health -->
+    <VRESaurids_Oviparous.label>ovípara</VRESaurids_Oviparous.label>
+    <VRESaurids_Oviparous.description>Los portadores de este gen ponen huevos en lugar de dar a luz. Los huevos necesitan tiempo y buenas condiciones para eclosionar.</VRESaurids_Oviparous.description>
+    <VRESaurids_Oviparous.customEffectDescriptions.0>Pone huevos en vez embarazarse y dar a luz</VRESaurids_Oviparous.customEffectDescriptions.0>
+    <VRESaurids_Oviparous.customEffectDescriptions.1>Poner huevos hace que el peón sea temporalmente infertil</VRESaurids_Oviparous.customEffectDescriptions.1>
+    <VRESaurids_Oviparous.symbolPack.wholeNameSymbols.0.symbol>huevo</VRESaurids_Oviparous.symbolPack.wholeNameSymbols.0.symbol>
+    <VRESaurids_Oviparous.symbolPack.wholeNameSymbols.1.symbol>oviparo</VRESaurids_Oviparous.symbolPack.wholeNameSymbols.1.symbol>
+    <VRESaurids_Oviparous.symbolPack.wholeNameSymbols.2.symbol>huevo</VRESaurids_Oviparous.symbolPack.wholeNameSymbols.2.symbol>
+    <VRESaurids_Oviparous.symbolPack.wholeNameSymbols.3.symbol>eclosionar</VRESaurids_Oviparous.symbolPack.wholeNameSymbols.3.symbol>
+    <VRESaurids_Oviparous.symbolPack.prefixSymbols.0.symbol>huevo</VRESaurids_Oviparous.symbolPack.prefixSymbols.0.symbol>
+    <VRESaurids_Oviparous.symbolPack.prefixSymbols.1.symbol>yema</VRESaurids_Oviparous.symbolPack.prefixSymbols.1.symbol>
+    <VRESaurids_Oviparous.symbolPack.prefixSymbols.2.symbol>hueva</VRESaurids_Oviparous.symbolPack.prefixSymbols.2.symbol>
+    <VRESaurids_Oviparous.symbolPack.suffixSymbols.0.symbol>capa</VRESaurids_Oviparous.symbolPack.suffixSymbols.0.symbol>
+    <VRESaurids_Oviparous.symbolPack.suffixSymbols.1.symbol>poner</VRESaurids_Oviparous.symbolPack.suffixSymbols.1.symbol>
+
+
+    <VRESaurids_ColdBlooded.label>Sangre fría</VRESaurids_ColdBlooded.label>
+    <VRESaurids_ColdBlooded.description>Los portadores de este gen necesitan mantener una temperatura corporal estable. Estar demasiado caliente o frio resultara en la disminución de las funciones motoras, y si no se controla a tiempo, muere.</VRESaurids_ColdBlooded.description>
+    <VRESaurids_ColdBlooded.customEffectDescriptions.0>Sufre una versión mucho más drástica de la hipotermia/hipertermia donde las capacidades disminuyen rápidamente hasta la muerte.</VRESaurids_ColdBlooded.customEffectDescriptions.0>
+    <VRESaurids_ColdBlooded.symbolPack.wholeNameSymbols.0.symbol>sangre fría</VRESaurids_ColdBlooded.symbolPack.wholeNameSymbols.0.symbol>
+    <VRESaurids_ColdBlooded.symbolPack.prefixSymbols.0.symbol>termo</VRESaurids_ColdBlooded.symbolPack.prefixSymbols.0.symbol>
+    <VRESaurids_ColdBlooded.symbolPack.suffixSymbols.0.symbol>lagarto</VRESaurids_ColdBlooded.symbolPack.suffixSymbols.0.symbol>
+
+
+    <VRESaurids_Pheromones.label>feromonas</VRESaurids_Pheromones.label>
+    <VRESaurids_Pheromones.description>Los portadores de este gen excretan feromonas especiales que atraen a los miembros del mismo xenotipo</VRESaurids_Pheromones.description>
+    <VRESaurids_Pheromones.customEffectDescriptions.0>Relaciones mejoradas con cualquier colonos con el mismo xenotipo</VRESaurids_Pheromones.customEffectDescriptions.0>
+
+
+    <!-- SCALE SKIN -->
+    <VRESaurids_ScaleSkin.label>piel escamosa</VRESaurids_ScaleSkin.label>
+    <VRESaurids_ScaleSkin.labelShortAdj>piel escamosa</VRESaurids_ScaleSkin.labelShortAdj>
+    <VRESaurids_ScaleSkin.description>Los portadores de este gen le crecen escamas por todo el cuerpo, protegiendole del daño afilado de cualquier tipo</VRESaurids_ScaleSkin.description>
+
+
+
+    <!-- VOCAL -->
+    <VRESaurids_LizardVoice.label>voz de lagarto</VRESaurids_LizardVoice.label>
+    <VRESaurids_LizardVoice.description>Los portadores de este gen poseen voces terrorificas como el de los dinosaurios</VRESaurids_LizardVoice.description>
+    <VRESaurids_LizardVoice.symbolPack.wholeNameSymbols.0.symbol>gritos</VRESaurids_LizardVoice.symbolPack.wholeNameSymbols.0.symbol>
+    <VRESaurids_LizardVoice.symbolPack.wholeNameSymbols.1.symbol>chillón</VRESaurids_LizardVoice.symbolPack.wholeNameSymbols.1.symbol>
+    <VRESaurids_LizardVoice.symbolPack.wholeNameSymbols.2.symbol>raptor</VRESaurids_LizardVoice.symbolPack.wholeNameSymbols.2.symbol>
+    <VRESaurids_LizardVoice.symbolPack.wholeNameSymbols.3.symbol>reptil</VRESaurids_LizardVoice.symbolPack.wholeNameSymbols.3.symbol>
+    <VRESaurids_LizardVoice.symbolPack.prefixSymbols.0.symbol>dino</VRESaurids_LizardVoice.symbolPack.prefixSymbols.0.symbol>
+    <VRESaurids_LizardVoice.symbolPack.prefixSymbols.1.symbol>lagarto</VRESaurids_LizardVoice.symbolPack.prefixSymbols.1.symbol>
+    <VRESaurids_LizardVoice.symbolPack.prefixSymbols.2.symbol>raptor</VRESaurids_LizardVoice.symbolPack.prefixSymbols.2.symbol>
+    <VRESaurids_LizardVoice.symbolPack.prefixSymbols.3.symbol>reptil</VRESaurids_LizardVoice.symbolPack.prefixSymbols.3.symbol>
+    <VRESaurids_LizardVoice.symbolPack.suffixSymbols.0.symbol>sauro</VRESaurids_LizardVoice.symbolPack.suffixSymbols.0.symbol>
+    <VRESaurids_LizardVoice.symbolPack.suffixSymbols.1.symbol>saurido</VRESaurids_LizardVoice.symbolPack.suffixSymbols.1.symbol>
+    <VRESaurids_LizardVoice.symbolPack.suffixSymbols.2.symbol>sauros</VRESaurids_LizardVoice.symbolPack.suffixSymbols.2.symbol>
+
+
+</LanguageData>

@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <VRE_FilthGoo.label>baba viscosa</VRE_FilthGoo.label>
+
+    <VRE_Proj_Goo.label>baba</VRE_Proj_Goo.label>
+
+
+
+    <VRE_HemogenPack_Animal.label>paquete de hemógeno (animal)</VRE_HemogenPack_Animal.label>
+    <VRE_HemogenPack_Animal.description>Hemógeno animal. Incrementa las capacidades de regeneración y de combate del usuario, pero reduce en gran medida su capacidad de comunicarse con otros.</VRE_HemogenPack_Animal.description>
+
+    <VRE_HemogenPack_Corpse.label>paquete de hemógeno (cadáver)</VRE_HemogenPack_Corpse.label>
+    <VRE_HemogenPack_Corpse.description>Hemógeno podrido y contaminado de un cadáver. Debilita enormemente al portador de este tipo de hemógeno, pero aumenta significativamente su filtración sanguínea.</VRE_HemogenPack_Corpse.description>
+
+    <VRE_HemogenPack_Sanguophage.label>paquete de hemógeno (sanguífago)</VRE_HemogenPack_Sanguophage.label>
+    <VRE_HemogenPack_Sanguophage.description>Hemógeno puro y viscoso de otro chupasangre. El hemógeno más raro de todos, al portador de este le dara un gran aumento de todas sus capacidades.</VRE_HemogenPack_Sanguophage.description>
+
+
+
+
+    <VRE_InvocationMatrix.label>matriz de invocación</VRE_InvocationMatrix.label>
+    <VRE_InvocationMatrix.comps.CompRefuelable.fuelLabel>Hemógeno</VRE_InvocationMatrix.comps.CompRefuelable.fuelLabel>
+    <VRE_InvocationMatrix.description>Un sofisticado dispositivo capaz de infundir a las personas en un mortifero-descanso con raras y potentes habilidades de sanguífago, aprovechando la esencia de su naturaleza vampírica. Empleando un complejo sistema de conductos de sangre y resonadores de esencia, la matriz estara conectado a una capsula de mortifero-descanso y canaliza la fuerza vital de su ocupante para desbloquear el potencial oculto dentro de su sangre. A medida que la persona cae en su estado de mortifero-descanso, la Matriz de Invocación seleccionara y le otorgara un poder unico. Esta construcción necesita un constante suministro de hemógeno para operar.</VRE_InvocationMatrix.description>
+
+    <VRE_HemodynamicAccelerator.label>acelerador hemodinamico</VRE_HemodynamicAccelerator.label>
+    <VRE_HemodynamicAccelerator.comps.CompRefuelable.fuelLabel>Hemógeno</VRE_HemodynamicAccelerator.comps.CompRefuelable.fuelLabel>
+    <VRE_HemodynamicAccelerator.description>Este avanzado dispositivo acelera el proceso del mortifero-descanso a costo de un consumo de sangre. Al estar conectado a una persona en su mortifero-descanso, este aparato empezara un intrincado análisis y estimulante sanguineo maximizando la eficiencia de la capsula de mortifero-descanso. Acelerando la recuperación del personaje, el Acelerador Hemodinamico demanda una continuo suministro de hemógeno como combustible para su funcionamiento. Para funcionar, debe conectarse a un capsura de mortifero-descanso, asegurando el rapido rejuvenecimiento de su ocupante.</VRE_HemodynamicAccelerator.description>
+
+    <VRE_HemogenSolidifier.label>Solidificador de Hemógeno</VRE_HemogenSolidifier.label>
+    <VRE_HemogenSolidifier.comps.CompRefuelable.fuelLabel>Hemógeno</VRE_HemogenSolidifier.comps.CompRefuelable.fuelLabel>
+    <VRE_HemogenSolidifier.description>Un dispositivo diseñado en especial para mejorar la durabilidad de las personas en su mortifero-descanso, manipulando las moleculas que componen su piel. Utilizando un conjunto de proyectores de bioresonancias y una sangre basada en nano-agentes, el solidificador de dirigira al hemógeno del objetivo, fortaleciendo y aumentando la densidad de las moleculas de su piel. Mientras que la persona se encuentra en su mortifero-descanso, el Solidificador de Hemógeno tejera una capa densa y protectora a su alrededor, haciendo que su piel se vuelva mas resiliente y resistente a los daños. Este dispositivo debe estar conectado a una capsula de mortifero-descanso, el ocupante emergera del descanso con una capacidad defensiva aumentada.</VRE_HemogenSolidifier.description>
+
+    <VRE_SmallHemogenAmplifier.label>amplificador de hemógeno pequeño</VRE_SmallHemogenAmplifier.label>
+    <VRE_SmallHemogenAmplifier.comps.CompRefuelable.fuelLabel>Hemógeno</VRE_SmallHemogenAmplifier.comps.CompRefuelable.fuelLabel>
+    <VRE_SmallHemogenAmplifier.description>Este dispositivo deja la persona en mortifero-descanso en un estado de hemógeno-amplificado, por lo que obtienen un poco más de hemógeno de cualquier fuente. Usan unas sondas de glándulas y analizadores de sangre, se vinculan a la persona en su mortifero-descanso, estimulando sus glandula de hemógeno para que esten más activas. Debe estar conectado a una capsula de mortifero-descanso. También necesita hemógeno para que funcione.</VRE_SmallHemogenAmplifier.description>
+
+    <VRE_SmallHemopump.label>pequeña hemobomba</VRE_SmallHemopump.label>
+    <VRE_SmallHemopump.comps.CompRefuelable.fuelLabel>Hemógeno</VRE_SmallHemopump.comps.CompRefuelable.fuelLabel>
+    <VRE_SmallHemopump.description>Pequeña bomba de sangre refinadora, que incrementa la cantidad de hemógeno que puede almacenar una persona en su cuerpo. Debe estar conectado a una capsula de mortifero-descanso para funcionar. También necesita hemógeno para que funcione.</VRE_SmallHemopump.description>
+
+
+
+    <VRE_HemogenPipe.label>tuberia de hemógeno</VRE_HemogenPipe.label>
+    <VRE_HemogenPipe.description>Una tuberia usada para transportar hemógeno entre grifos, drenajes, tanque y estructuras que requieren hemógen.</VRE_HemogenPipe.description>
+
+    <VRE_UndergroundHemogenPipe.label>tuberia de hemógeno escondida</VRE_UndergroundHemogenPipe.label>
+    <VRE_UndergroundHemogenPipe.description>Una tuberia de acero escondida usada para transportar hemógeno entre grifos, drenajes, tanque y estructuras que requieren hemógen.</VRE_UndergroundHemogenPipe.description>
+
+    <VRE_HemogenValve.label>valvula de hemógeno</VRE_HemogenValve.label>
+    <VRE_HemogenValve.description>Cambia el flujo de hemógeno entre abierto/cerrado.</VRE_HemogenValve.description>
+
+    <VRE_HemogenVat.label>Tanque de hemógeno</VRE_HemogenVat.label>
+    <VRE_HemogenVat.description>Un tanque industrial para liquidos destinado a almacenar hemógeno a través de una red de tuberias. Se puede designar para ser extraer el hemógeno cuando se necesite.</VRE_HemogenVat.description>
+
+    <VRE_HemogenTap.label>grifo de hemógeno</VRE_HemogenTap.label>
+    <VRE_HemogenTap.description>Un dispensador de hemógeno cuando se necesite.</VRE_HemogenTap.description>
+
+    <VRE_HemogenDrain.label>drenaje de hemógeno</VRE_HemogenDrain.label>
+    <VRE_HemogenDrain.description>Similar a una tolva, permite ingresar hemógeno a la red, pudiendo llenar tanques de hemógenos.</VRE_HemogenDrain.description>
+
+    <VRE_Draincasket.label>capsula de drenaje</VRE_Draincasket.label>
+    <VRE_Draincasket.description>Un siniestro artilugio diseñado para extraer el hemógeno de los individuos, mientras mantiene su fuerza vital al mínimo. Esta capsula oscura mantendra a su ocupante en un estado de letargo, extrayendo lentamente de su cuerpo su precioso hemógeno. Dentro de la capsula, el ocupante sera alimentado con regularidad, ya que aún puede morir de hambre.\n\nProduce 2 packs de hemógeno al dia, solo si el ocupante recibe comida y la capsula esta conectada a una red de hemógeno. Si no se hay alimento, la capsula matara a su ocupante en alredor de 2 dias.\n\nSi posees Vanilla Nutrient Paste Expanded, puedes suministrar esta capsula si se lo conecta a una red de nutriente, siempre que se tenga al más de una comida.</VRE_Draincasket.description>
+
+
+</LanguageData>

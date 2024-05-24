@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VRE_EnableCatHighmates>Enable "Cat genes" on Highmates (requires game restart)
+Activar "Genes de gato" en los Altocompañantes (requiere reiniciar el juego)</VRE_EnableCatHighmates>
+  <VRE_EnableCatHighmatesDescription>Desactiva las novedades creadas para los nuevos Altocompañantes, para que aparezcan sin el gen de orejas y cola felina. Tenga en cuenta que esto no afectara a los Altocompañantes ya existente. Requiere reiniciar el juego.</VRE_EnableCatHighmatesDescription>
+  <VRE_NotEnoughLovin>Exige 'amor'</VRE_NotEnoughLovin>
+  <VRE_LovinNeed>Necesidad de 'amor'</VRE_LovinNeed>
+  <VRE_LovinNeedDesc>Si la persona tiene poco 'amor' (menos de 50%). Si llega al 0% de 'amor' después de 15 días, intentara abandonar la colonia:\n\n{0}</VRE_LovinNeedDesc>
+  <VRE_MessageCantUseLovinOnOtherFactions>Esta habilidad no puede ser usada con miembros de otra facción</VRE_MessageCantUseLovinOnOtherFactions>
+  <VRE_MessageCantUseLovinOnResistingPersons>Esta habilidad no puede ser usada con enemigos</VRE_MessageCantUseLovinOnResistingPersons>
+  <VRE_CantUseLovinLowOpinion>{0} no puede 'hacer el amor' {1}, porque {1} tiene una opinión muy baja de {0} (Opinión de {0}: {2})</VRE_CantUseLovinLowOpinion>
+  <VRE_TooYoungForLovin>{0} no puede 'hacer el amor' con  {1}, porque  {1} es muy joven.</VRE_TooYoungForLovin>
+  <VRE_TooYoungForLovinCaster>{0} no puede 'hacer el amor' con  {1}, porque  {0} es muy joven.</VRE_TooYoungForLovinCaster>
+  <VRE_CantUseLovinWithTraitAsexual>{0} no puede 'hacer el amor' con {1}, porque {1} es asexual.</VRE_CantUseLovinWithTraitAsexual>
+  <VRE_CantUseLovinWithTraitPrude>{0} no puede 'hacer el amor' con {1}, porque {1} es un puritano.</VRE_CantUseLovinWithTraitPrude>
+  <VRE_RelationshipWillBreak>{0} ha hecho el 'amor' con {1}, a pesar de tener una relación con {2}. Esto resulto en su ruptura. </VRE_RelationshipWillBreak>
+  <VRE_RelationshipWillBreakTarget>{0} ha hecho el 'amor' con {1}, a pesar de que {1} esta en una relación con {2}. Resultando en su ruptura. </VRE_RelationshipWillBreakTarget>
+  <VRE_CantUseOnFamily>{0} no puede 'hacer el amor' con {1}, debido a que son parientes consaguíneos.</VRE_CantUseOnFamily>
+  <VRE_PsychicConceptionDesc>Concepción psíquica (embarazo garantizado)</VRE_PsychicConceptionDesc>
+  <VRE_LovinForPleasureDesc>'Hacer el amor' por placer ( probabilidades de embarazo x0% )</VRE_LovinForPleasureDesc>
+  <VRE_NoPsychicConceptionDesc>Sin concepción psíquica</VRE_NoPsychicConceptionDesc>
+  <VRE_NoLovinForPleasureDesc>'Amar' normal</VRE_NoLovinForPleasureDesc>
+  <VRE_AwardedHighmate>Recompensa Altocompañante</VRE_AwardedHighmate>
+  <VRE_AwardedHighmateDesc>Debido al nuevo rango de Baron, el Imperio ha otorgado a {0} con la presencia de un Altocompañante, que se unira de forma inmediata a la colonia.\n\nCompañeros y concubinas diseñados con una capacidad única para vincularse psíquicamente con su compañero, los altocompañantes son empáticos, hermosos, alegres y tienen un gran talento social. Pero son ineptos en las tareas manuales, físicamente débiles y son mentalmente incapaces de ejercer la violencia.</VRE_AwardedHighmateDesc>
+</LanguageData>

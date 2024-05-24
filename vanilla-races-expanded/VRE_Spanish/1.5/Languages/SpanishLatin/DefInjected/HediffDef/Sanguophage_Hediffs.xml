@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <VRE_Sensitivity_Dangerous_Hediff.label>Sensibilidad a los rayos UV peligroso</VRE_Sensitivity_Dangerous_Hediff.label>
+    <VRE_Sensitivity_Dangerous_Hediff.description>Un hediff oculto que modifica la vision del peón dependiendo de la luz solar.</VRE_Sensitivity_Dangerous_Hediff.description>
+
+    <VRE_ConsumedAnimalHemogen.label>hemógeno animal consumido</VRE_ConsumedAnimalHemogen.label>
+    <VRE_ConsumedAnimalHemogen.description>El hemógeno animal incrementa las capacidades de regeneración y combate del usuario, pero disminuye en gran medida las capacidades de comunicarse con otros.</VRE_ConsumedAnimalHemogen.description>
+
+    <VRE_ConsumedCorpseHemogen.label>hemógeno de cadaver consumido</VRE_ConsumedCorpseHemogen.label>
+    <VRE_ConsumedCorpseHemogen.description>El hemógeno de cadaver debilita a su consumidor, pero incrementa de forma significativa la conciencia y la filtración de sangre.</VRE_ConsumedCorpseHemogen.description>
+
+    <VRE_ConsumedSanguophageHemogen.label>hemógeno de sanguifago</VRE_ConsumedSanguophageHemogen.label>
+    <VRE_ConsumedSanguophageHemogen.description>El hemógeno de sanguifago da una gran aumento a todas las capacidades.</VRE_ConsumedSanguophageHemogen.description>
+
+
+    <VRE_SharpTalons.label>garras afiladas</VRE_SharpTalons.label>
+    <VRE_SharpTalons.description>Garras afiladas que pueden ser usada en el combate cuerpo a cuerpo.</VRE_SharpTalons.description>
+    <VRE_SharpTalons.comps.0.tools.0.label>garras</VRE_SharpTalons.comps.0.tools.0.label>
+
+
+    <VRE_DraincasketSickness.label>malestar por la capsula de drenaje</VRE_DraincasketSickness.label>
+    <VRE_DraincasketSickness.description>Despues de estar en una capsula de drenaje, aparecen de forma temporal algunos sintomas como dolor, hinchazon y enrojecimiento en las areas donde se conectaban los tubos de drenanje. Las victimas experimentan fatiga, debilidad y un malestar general.,</VRE_DraincasketSickness.description>
+    <VRE_DraincasketSickness.descriptionShort>Despues de estar en una capsula de drenaje. Las victimas experimentan fatiga, debilidad y un estado general de malestar.</VRE_DraincasketSickness.descriptionShort>
+
+
+
+    <VRE_SolidifiedHemogen.label>hemógeno solidificado</VRE_SolidifiedHemogen.label>
+    <VRE_SolidifiedHemogen.description>Una defensa mejorada porque esta persona usó un solidificador de hemógeno. Este efecto durara hasta su proximo Mortifero-Descanso.</VRE_SolidifiedHemogen.description>
+    <VRE_SolidifiedHemogen.extraTooltip>Dura hasta el siguiente morti-sueño</VRE_SolidifiedHemogen.extraTooltip>
+
+    <VRE_HemogenAmplifiedWeak.label>debil amplificador de hemógeno</VRE_HemogenAmplifiedWeak.label>
+    <VRE_HemogenAmplifiedWeak.description>Ganancias de hemógeno aumentado por usar el amplificador de hemógeno pequeño. Este efecto durara hasta su proximo Mortifero-Descanso</VRE_HemogenAmplifiedWeak.description>
+    <VRE_HemogenAmplifiedWeak.extraTooltip>Dura hasta el siguiente morti-sueño</VRE_HemogenAmplifiedWeak.extraTooltip>
+
+</LanguageData>

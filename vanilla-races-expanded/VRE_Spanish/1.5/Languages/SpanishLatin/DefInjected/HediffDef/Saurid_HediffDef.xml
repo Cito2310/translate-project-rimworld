@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <VRESaurids_EggFatigue.label>fatiga por huevo</VRESaurids_EggFatigue.label>
+    <VRESaurids_EggFatigue.description>Despues de colocar un huevo, es común de quienes posean el gen ovíparo pasan por un corto periodo de estirilidad hasta que sean capaces de producir otro. Esto es una condicion temporal y no causa efectos a largo plazo.</VRESaurids_EggFatigue.description>
+
+
+    <VRESaurids_HypothermicSlowdown.label>ralentización hipotermica</VRESaurids_HypothermicSlowdown.label>
+    <VRESaurids_HypothermicSlowdown.description>Este peón de sangre fría, su cuerpo empezará a apagarse cuando haga demasiado frío, tiene el beneficio de ralentizar el metabolismo, reduciendo su tasa de hambre, sin embargo, si se alarga demasiado, afectará sus capacidades y puede provocar la muerte.</VRESaurids_HypothermicSlowdown.description>
+    <VRESaurids_HyperthermicSlowdown.label>ralentización hipertermica</VRESaurids_HyperthermicSlowdown.label>
+    <VRESaurids_HyperthermicSlowdown.description>Este peón de sangre fría, su cuerpo empezará a apagarse cuando haga demasiado calor, tiene el beneficio de ralentizar el metabolismo, reduciendo su tasa de hambre, sin embargo, si se alarga demasiado, afectará sus capacidades y puede provocar la muerte.</VRESaurids_HyperthermicSlowdown.description>
+   
+
+    <VRESaurids_SauridClaws.label>garras saurida</VRESaurids_SauridClaws.label>
+    <VRESaurids_SauridClaws.description>Los portadores de este gen, tienen parcialmente en sus manos garras de dinosaurios. Esto impacta ligeramente en su habilidad de manipular objetos, pero durante el combate cuerpo a cuerpo permite hacer cortes profundos.</VRESaurids_SauridClaws.description>
+    <VRESaurids_SauridClaws.comps.0.tools.0.label>garras</VRESaurids_SauridClaws.comps.0.tools.0.label>
+
+</LanguageData>

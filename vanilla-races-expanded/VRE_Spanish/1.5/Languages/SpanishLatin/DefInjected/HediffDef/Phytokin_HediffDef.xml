@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <VRE_Photosynthetic.label>fotosinstesis</VRE_Photosynthetic.label>
+    <VRE_Photosynthetic.description>Esta persona es capaz de convertir la luz del sol en energia quimica debido a la composición genetica especial de su piel. No tendra hambre al estar expuesto al sol.</VRE_Photosynthetic.description>
+    <VRE_Photosynthetic.stages.0.label>en la luz del sol</VRE_Photosynthetic.stages.0.label>
+    <VRE_Photosynthetic.stages.1.label>fuera de la luz del sol</VRE_Photosynthetic.stages.1.label>
+
+    <VRE_SapBlood.label>sangre de savia</VRE_SapBlood.label>
+    <VRE_SapBlood.description>Esta persona posee una sangre viscosa, pegajosa y de color naranja, reduciendo su tasa de sangrado, aunque también afecta a su habilidad al trabajar.</VRE_SapBlood.description>
+
+    <VRE_Saplingchild.label>brote de niño necesita ser plantado</VRE_Saplingchild.label>
+    <VRE_Saplingchild.description>Este colono posee el gen brote de niño, esta embarazada, por lo que necesita designar un lugar donde plantar sus descendientes. Si no lo hace antes de que empiece el segundo trimestre (6 días), el embarazo finalizará.</VRE_Saplingchild.description>
+
+
+    <VRE_TempSterile.label>fatiga de brote</VRE_TempSterile.label>
+    <VRE_TempSterile.description>Despues de crear su brote de niño, esta persona esta con el gen de brote de niño esta durante un corto periodo de infertilidad. Esto solo es una condicion temporal y no afectara a largo plazo.</VRE_TempSterile.description>
+
+</LanguageData>

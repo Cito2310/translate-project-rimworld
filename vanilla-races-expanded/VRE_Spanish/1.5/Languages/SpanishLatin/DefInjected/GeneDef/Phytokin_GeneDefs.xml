@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <!-- PSYCHIC -->
+    <VRE_ProgressiveAttunement.label>progreso psíquico</VRE_ProgressiveAttunement.label>
+    <VRE_ProgressiveAttunement.labelShortAdj>psíquico</VRE_ProgressiveAttunement.labelShortAdj>
+    <VRE_ProgressiveAttunement.description>Los portadores de este gen son más sensible psíquicamente a medida que envejecen.</VRE_ProgressiveAttunement.description>
+    <VRE_ProgressiveAttunement.symbolPack.prefixSymbols.0.symbol>psico</VRE_ProgressiveAttunement.symbolPack.prefixSymbols.0.symbol>
+    <VRE_ProgressiveAttunement.symbolPack.prefixSymbols.1.symbol>psiquico</VRE_ProgressiveAttunement.symbolPack.prefixSymbols.1.symbol>
+
+    <!-- MOOD -->
+    <VRE_GreenThumb.label>pulgares verdes</VRE_GreenThumb.label>
+    <VRE_GreenThumb.labelShortAdj>jardineria</VRE_GreenThumb.labelShortAdj>
+    <VRE_GreenThumb.description>Los portadores de este gen seran muy felices formar parte de la siembra plantas</VRE_GreenThumb.description>
+    <VRE_GreenThumb.symbolPack.prefixSymbols.0.symbol>verde</VRE_GreenThumb.symbolPack.prefixSymbols.0.symbol>
+    <VRE_GreenThumb.customEffectDescriptions.0>+1 de bonus de emoción por planta sembrada. Se puede stackear hasta unas 20 veces.</VRE_GreenThumb.customEffectDescriptions.0>
+
+    <!-- GENDER -->
+    <VRE_Female.label>solo-mujers</VRE_Female.label>
+    <VRE_Female.labelShortAdj>femenina</VRE_Female.labelShortAdj>
+    <VRE_Female.description>Esta garatizado que los portadores de este gen naceran y seran mujeres.</VRE_Female.description>
+
+    <!-- COSMETIC -->
+    <VRE_FoliageHair.label>cabello de follaje</VRE_FoliageHair.label>
+    <VRE_FoliageHair.description>Los portadores de este gen tendran un cabello de aspecto natural y con hojas.</VRE_FoliageHair.description>
+    <VRE_FoliageHair.symbolPack.prefixSymbols.0.symbol>follaje</VRE_FoliageHair.symbolPack.prefixSymbols.0.symbol>
+    <VRE_FoliageHair.symbolPack.suffixSymbols.0.symbol>flores</VRE_FoliageHair.symbolPack.suffixSymbols.0.symbol>
+    <VRE_FoliageHair.symbolPack.suffixSymbols.1.symbol>plantas</VRE_FoliageHair.symbolPack.suffixSymbols.1.symbol>
+
+
+    <VRE_HairColor_Anima.label>cabello de anima</VRE_HairColor_Anima.label>
+    <VRE_HairColor_Gauranlen.label>cabello de gauralen</VRE_HairColor_Gauranlen.label>
+    <VRE_HairColor_Pollux.label>cabello de pollux</VRE_HairColor_Pollux.label>
+    <VRE_HairColor_Anima.description>los portadores de este gen tendran un color especial, si selecciona varios uno de estos generes se eligira de forma aleatoria.</VRE_HairColor_Anima.description>
+    <VRE_HairColor_Gauranlen.description>los portadores de este gen tendran un color especial, si selecciona varios uno de estos generes se eligira de forma aleatoria.</VRE_HairColor_Gauranlen.description>
+    <VRE_HairColor_Pollux.description>los portadores de este gen tendran un color especial, si selecciona varios uno de estos generes se eligira de forma aleatoria.</VRE_HairColor_Pollux.description>
+
+    <!-- BODIES -->
+    <VRE_BarkSkin.label>piel con cortezas</VRE_BarkSkin.label>
+    <VRE_BarkSkin.labelShortAdj>piel con cortezas</VRE_BarkSkin.labelShortAdj>
+    <VRE_BarkSkin.description>Los portadores de este gen tienen una piel parecida a las cortezas de los árboles. Esto les permite resistir a los daños contundentes que dejarian noqueado a cualquiera.</VRE_BarkSkin.description>    
+
+    <!-- BLOOD -->
+    <VRE_SapBlood.label>sangre de savia</VRE_SapBlood.label>
+    <VRE_SapBlood.description>Los portadores de este gen tienen una sangre pegajosa, viscosa y de color naranja, que ralentiza su tasa de sangrado, sin embargo, también afecta su habilidad para trabajar.</VRE_SapBlood.description>
+
+    <!-- ARCHITE -->
+    <VRE_Photosynthesis.label>fotosíntesis</VRE_Photosynthesis.label>
+    <VRE_Photosynthesis.description>Los portadores de este gen tiene la capacidad de convertir la energia de la luz en energia química debido a su composición genetica especial de su piel. No aumenta su hambre si esta expuesto a la luz del sol.</VRE_Photosynthesis.description>
+    <VRE_Photosynthesis.symbolPack.prefixSymbols.0.symbol>foto</VRE_Photosynthesis.symbolPack.prefixSymbols.0.symbol>
+    <VRE_Photosynthesis.symbolPack.suffixSymbols.0.symbol>sintesis</VRE_Photosynthesis.symbolPack.suffixSymbols.0.symbol>
+    <VRE_Photosynthesis.symbolPack.suffixSymbols.1.symbol>planta</VRE_Photosynthesis.symbolPack.suffixSymbols.1.symbol>
+
+    <VRE_SaplingBirth.label>brote de niño</VRE_SaplingBirth.label>
+    <VRE_SaplingBirth.description>Los portadores de este gen tendran a sus bebes fuera de su utero, dentro de una planta. Cuando esta planta crezca por completo, el bebe se podra extraer del árbol.</VRE_SaplingBirth.description>
+    <VRE_SaplingBirth.customEffectDescriptions.0>Plantas brotes de niños en lugar de embarazo y parto.</VRE_SaplingBirth.customEffectDescriptions.0>
+    <VRE_SaplingBirth.customEffectDescriptions.1>Plantar un brote de niño dejara al peón temporalmente infértil.</VRE_SaplingBirth.customEffectDescriptions.1>
+    <VRE_SaplingBirth.symbolPack.prefixSymbols.0.symbol>brote</VRE_SaplingBirth.symbolPack.prefixSymbols.0.symbol>
+    <VRE_SaplingBirth.symbolPack.prefixSymbols.1.symbol>nacer</VRE_SaplingBirth.symbolPack.prefixSymbols.1.symbol>
+    <VRE_SaplingBirth.symbolPack.prefixSymbols.2.symbol>semilla</VRE_SaplingBirth.symbolPack.prefixSymbols.2.symbol>
+
+    <VRE_PoluxAffinity.label>afinidad al polux</VRE_PoluxAffinity.label>
+    <VRE_PoluxAffinity.description>Los portadores de este gen tienen una conexión especial con los arboles polux, lo que le permite amplificar las propiedades especiales de este árbol. Una vez al año plantara un arbusto de polux, y su presencia cerca de esté arbusto fortalezera su efecto de limpieza. También puede consumir paquetes toxicos y se volverán infelices si no hay desperdicios que consumir. Consumir paquetes toxicos no satisfacera su hambre.</VRE_PoluxAffinity.description>
+    <VRE_PoluxAffinity.customEffectDescriptions.0>Todos los arbusto polux en el mapa incrementaran su radio en +2 por cada peón con Afinidad al Polux que este en el mapa.</VRE_PoluxAffinity.customEffectDescriptions.0>
+    <VRE_PoluxAffinity.resourceLabel>paquetes toxicos</VRE_PoluxAffinity.resourceLabel>
+    <VRE_PoluxAffinity.resourceDescription>{PAWN_nameDef} necesita consumir paquetes toxicos</VRE_PoluxAffinity.resourceDescription>
+    <VRE_PoluxAffinity.symbolPack.prefixSymbols.0.symbol>pol</VRE_PoluxAffinity.symbolPack.prefixSymbols.0.symbol>
+    <VRE_PoluxAffinity.symbolPack.prefixSymbols.1.symbol>polux</VRE_PoluxAffinity.symbolPack.prefixSymbols.1.symbol>
+
+
+</LanguageData>

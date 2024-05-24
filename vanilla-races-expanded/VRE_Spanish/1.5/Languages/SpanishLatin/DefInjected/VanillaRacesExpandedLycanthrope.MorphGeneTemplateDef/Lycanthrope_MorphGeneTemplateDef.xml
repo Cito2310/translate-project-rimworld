@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VRE_Morphs.label>transformado: {0}</VRE_Morphs.label>
+  <VRE_Morphs.description>Los portadores de este gen tienen la extraordinaria habilidad arquita, de transformarse rápidamente al xenotipo {0}. Heredarán todas las capacidades genéticas y los inconvenientes de este xenotipo, pero pueden volver a la normalidad en cualquier momento.</VRE_Morphs.description>
+</LanguageData>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+    <VRE_Intro_Phytokin.questNameRules.rulesStrings>
+            <li>questName->Phytokin [adjAny]</li>
+            <li>adjAny->cazado</li>
+            <li>adjAny->huyendo</li>
+            <li>adjAny->solitario</li>
+            <li>adjAny->emboscado</li>
+    </VRE_Intro_Phytokin.questNameRules.rulesStrings>
+
+
+    <VRE_Intro_Phytokin.questDescriptionRules.rulesStrings>
+        <li>questDescription->[asker_nameFull], un poderoso phytokin, esta llamando desde la cercania. Fue expulsado por los [enemyFaction_name] por darles malos consejos, y ahora esta siendo cazado por un grupo de cazadores-humanos. Este grupo de [enemyFaction_pawnsPlural] esta compuesto por: \n\n[raid/raidPawnKinds]\n\n[asker_nameFull] quiere le mantenga a salvo en [map_definite]. Si aceptas se unira a ustedes de inmediato, pero sera seguido por este grupo de cazadores-humanos y deberas derrotarlos.\n\n Los Phytokins son unos seres humanos basado en plantas haciendo enfasis en su simetria y simbiosis. Tienen la habilidad de subsistir solo con la luz del sol y tienen una gran afinidad con las plantras, siendo en especial ayuda para las nuevas colonias o las granjas industrial de bajo rendimiento.</li></VRE_Intro_Phytokin.questDescriptionRules.rulesStrings>
+    
+
+    <VRE_Intro_Phytokin.root.nodes.PawnsArrive.customLetterText.slateRef>{BASETEXT}\n\nDebido a que aceptaste a [asker_nameDef], la banda de piratas llegaran pronto.</VRE_Intro_Phytokin.root.nodes.PawnsArrive.customLetterText.slateRef>
+    
+    <VRE_Intro_Phytokin.root.nodes.Delay.node.parms.customLetterLabel.value.slateRef>{BASELABEL}: Piratas cazando:</VRE_Intro_Phytokin.root.nodes.Delay.node.parms.customLetterLabel.value.slateRef>
+
+    <VRE_Intro_Phytokin.root.nodes.Delay.node.parms.customLetterText.value.slateRef>{BASETEXT}\n\nEstos piratas estan cazando a [../asker_nameFull].\n</VRE_Intro_Phytokin.root.nodes.Delay.node.parms.customLetterText.value.slateRef>
+
+</LanguageData>

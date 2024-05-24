@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VREA_InstallNeuroPump.label>instalar bomba de neutro</VREA_InstallNeuroPump.label>
+  <VREA_InstallNeuroPump.description>instalar una bomba de neutro.</VREA_InstallNeuroPump.description>
+  <VREA_InstallNeuroPump.jobString>instalando bomba de neutro.</VREA_InstallNeuroPump.jobString>
+  <VREA_InstallAirFilter.label>instalar filtro de aire</VREA_InstallAirFilter.label>
+  <VREA_InstallAirFilter.description>instalar un filtro de aire.</VREA_InstallAirFilter.description>
+  <VREA_InstallAirFilter.jobString>instalando filtro de aire.</VREA_InstallAirFilter.jobString>
+  <VREA_InstallNeutrofilter.label>instalar filtro de neutro</VREA_InstallNeutrofilter.label>
+  <VREA_InstallNeutrofilter.description>instalar un filtro de neutro.</VREA_InstallNeutrofilter.description>
+  <VREA_InstallNeutrofilter.jobString>instalando filtro de neutro.</VREA_InstallNeutrofilter.jobString>
+  <VREA_InstallMetabolismRegulator.label>instalar regulador del metabolismo</VREA_InstallMetabolismRegulator.label>
+  <VREA_InstallMetabolismRegulator.description>instalar un regulador del metabolismo.</VREA_InstallMetabolismRegulator.description>
+  <VREA_InstallMetabolismRegulator.jobString>instalando regulador del metabolismo.</VREA_InstallMetabolismRegulator.jobString>
+  <VREA_InstallReactor.label>instalar reactor</VREA_InstallReactor.label>
+  <VREA_InstallReactor.description>instalar un reactor.</VREA_InstallReactor.description>
+  <VREA_InstallReactor.jobString>instalando reactor.</VREA_InstallReactor.jobString>
+  <VREA_InstallOpticalUnit.label>instalar unidad óptica</VREA_InstallOpticalUnit.label>
+  <VREA_InstallOpticalUnit.description>instalar una unidad óptica.</VREA_InstallOpticalUnit.description>
+  <VREA_InstallOpticalUnit.jobString>instalando unidad óptica.</VREA_InstallOpticalUnit.jobString>
+  <VREA_InstallAudioProcessor.label>instalar procesador de audio</VREA_InstallAudioProcessor.label>
+  <VREA_InstallAudioProcessor.description>instalar un procesador de audio.</VREA_InstallAudioProcessor.description>
+  <VREA_InstallAudioProcessor.jobString>instalando procesador de audio.</VREA_InstallAudioProcessor.jobString>
+  <VREA_InstallArtificialNose.label>instalar nariz artificial</VREA_InstallArtificialNose.label>
+  <VREA_InstallArtificialNose.description>instalar una nariz artificial.</VREA_InstallArtificialNose.description>
+  <VREA_InstallArtificialNose.jobString>instalando nariz artificial.</VREA_InstallArtificialNose.jobString>
+  <VREA_InstallArtificialJaw.label>instalar mandíbula artificial</VREA_InstallArtificialJaw.label>
+  <VREA_InstallArtificialJaw.description>instalar una mandíbula artificial.</VREA_InstallArtificialJaw.description>
+  <VREA_InstallArtificialJaw.jobString>instalando mandíbula artificial.</VREA_InstallArtificialJaw.jobString>
+  <VREA_InstallArtificialRibcage.label>instalar caja torácica artificial</VREA_InstallArtificialRibcage.label>
+  <VREA_InstallArtificialRibcage.description>instalar una caja torácica artificial.</VREA_InstallArtificialRibcage.description>
+  <VREA_InstallArtificialRibcage.jobString>instalando una caja torácica artificial</VREA_InstallArtificialRibcage.jobString>
+  <VREA_InstallArtificialSpine.label>instalar espina artificial</VREA_InstallArtificialSpine.label>
+  <VREA_InstallArtificialSpine.description>instalar una espina artificial.</VREA_InstallArtificialSpine.description>
+  <VREA_InstallArtificialSpine.jobString>instalando espina artificial.</VREA_InstallArtificialSpine.jobString>
+  <VREA_InstallAndroidLeg.label>instalar pierna de androide</VREA_InstallAndroidLeg.label>
+  <VREA_InstallAndroidLeg.description>instalar una pierna de androide.</VREA_InstallAndroidLeg.description>
+  <VREA_InstallAndroidLeg.jobString>instalando pierna de androide</VREA_InstallAndroidLeg.jobString>
+  <VREA_InstallAndroidFoot.label>instalar pie de androide</VREA_InstallAndroidFoot.label>
+  <VREA_InstallAndroidFoot.description>instalar un pie de androide.</VREA_InstallAndroidFoot.description>
+  <VREA_InstallAndroidFoot.jobString>instalando pie de androide.</VREA_InstallAndroidFoot.jobString>
+  <VREA_InstallAndroidArm.label>instalar brazo de androide</VREA_InstallAndroidArm.label>
+  <VREA_InstallAndroidArm.description>instalar un brazo de androide.</VREA_InstallAndroidArm.description>
+  <VREA_InstallAndroidArm.jobString>instalando brazo de androide.</VREA_InstallAndroidArm.jobString>
+  <VREA_InstallAndroidHand.label>instalar mano de androide</VREA_InstallAndroidHand.label>
+  <VREA_InstallAndroidHand.description>instalar una mano de androide.</VREA_InstallAndroidHand.description>
+  <VREA_InstallAndroidHand.jobString>instalando mano de androide.</VREA_InstallAndroidHand.jobString>
+  <VREA_RemoveArtificialPart.label>remover componente</VREA_RemoveArtificialPart.label>
+  <VREA_RemoveArtificialPart.description>Remover una parte artificial.</VREA_RemoveArtificialPart.description>
+  <VREA_RemoveArtificialPart.jobString>Removiendo una parte artificial.</VREA_RemoveArtificialPart.jobString>
+  <VREA_ButcherCorpseAndroid.label>triturar androide</VREA_ButcherCorpseAndroid.label>
+  <VREA_ButcherCorpseAndroid.description>Triturar un androide muerto para intentar recuperar sus materiales utíles.</VREA_ButcherCorpseAndroid.description>
+  <VREA_ButcherCorpseAndroid.jobString>Triturando androide.</VREA_ButcherCorpseAndroid.jobString>
+</LanguageData>

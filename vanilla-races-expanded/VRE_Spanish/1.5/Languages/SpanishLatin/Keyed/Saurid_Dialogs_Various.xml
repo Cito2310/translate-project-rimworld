@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<VRESaurids_FactionGreetingHostile>{0} Chilla algo en el micrófono que solos los sauridos pueden entender y se desconecta.</VRESaurids_FactionGreetingHostile>
+	<VRESaurids_FactionGreetingHostileAppreciative>Sisean y chillan enojados, {0} demandan un buen gesto, como traer regalos a unos {0_possessive} asentamientos o liberar a los {0_possessive} prisioneros de la faccion ileso. Hasta entonces, {0_pronoun} no dispuesto a hablar.\n\nSisea insultos, {0_pronoun} desconectado.</VRESaurids_FactionGreetingHostileAppreciative>
+	<VRESaurids_FactionGreetingWary>{0} sisea un saludo y pregunta que negocio quiere hacer.</VRESaurids_FactionGreetingWary>
+	<VRESaurids_FactionGreetingWarm>Ladra con entusiasmo, {0} saluda a {NEGOTIATOR_labelShort} y pregunta que {LEADER_pronoun} puede hacer para ayudarlo.</VRESaurids_FactionGreetingWarm>
+	<VRESaurids_MilitaryAidSent>{0} acepta enviar combatientes sauridos para ayudarlos.</VRESaurids_MilitaryAidSent>
+
+	<VRESaurids.EggLaidLabel>{0} puso un huevo!</VRESaurids.EggLaidLabel>
+	<VRESaurids.EggLaidDesc>{0} ha puesto un huevo debido a que es ovíparo. Asegurece mantener el huevo en un lugar seguro, debajo del techo y entre 0-50°C. Despues de un tiempo, el huevo eclosionara un niño. {0} no podrá poner otro huevo hasta que su cuerpo se recupere.</VRESaurids.EggLaidDesc>
+	<VRESaurids.EggHatchedLabel>{0}'s huevo eclosiona!</VRESaurids.EggHatchedLabel>
+	<VRESaurids.EggHatchedDesc>{0}'s huevo eclosiona con exito, ¡añadiendo un nuevo bebe para la colonia! Recuerda cuidarlo y asegurarte de que crezca saludable.</VRESaurids.EggHatchedDesc>
+	<VRESaurids.CannotOviparous>ovíparos</VRESaurids.CannotOviparous>
+	<VRESaurids.ColdBloodedDanger>!Peligro Sangre-fría!</VRESaurids.ColdBloodedDanger>
+	<VRESaurids.ColdBloodedDangerExplanation>Los peones con sangre fría sufren con mayor facilidad y rapidez las temperaturas extremas, estos peones están en riesgo</VRESaurids.ColdBloodedDangerExplanation>
+
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VRE_PsychicBondSanguine.stages.Psychic_bond_Optimist.label>Vínculo psíquico (Optimismo)</VRE_PsychicBondSanguine.stages.Psychic_bond_Optimist.label>
+  <VRE_PsychicBondSanguine.stages.Psychic_bond_Optimist.description>Estoy feliz de haber encontrado al indicado.</VRE_PsychicBondSanguine.stages.Psychic_bond_Optimist.description>
+  <VRE_Flirted.stages.flirted_with.label>flirtea con</VRE_Flirted.stages.flirted_with.label>
+  <VRE_WhatAPerfectBody.stages.what_a_perfect_body.label>que cuerpo tan perfecto</VRE_WhatAPerfectBody.stages.what_a_perfect_body.label>
+  <VRE_GotSomeLovin.stages.got_some_lovin.label>hizo el 'amor'</VRE_GotSomeLovin.stages.got_some_lovin.label>
+  <VRE_GotSomeLovin.stages.got_some_lovin.description>No hay nada como darse un revolcón bajo las sabanas para levantar el animo.</VRE_GotSomeLovin.stages.got_some_lovin.description>
+  <VRE_LovinNeedThoughts.stages.needs_lovin.label>necesita 'hacer el amor'</VRE_LovinNeedThoughts.stages.needs_lovin.label>
+  <VRE_LovinNeedThoughts.stages.needs_lovin.description>Anhelo 'hacer el amor'. Dame un poco!</VRE_LovinNeedThoughts.stages.needs_lovin.description>
+  <VRE_LovinNeedThoughts.stages.demands_lovin.label>demanda 'hacer el amor'</VRE_LovinNeedThoughts.stages.demands_lovin.label>
+  <VRE_LovinNeedThoughts.stages.demands_lovin.description>Si no recibo 'amor' aquí y ahora, o...</VRE_LovinNeedThoughts.stages.demands_lovin.description>
+  <VRE_LovinNeedThoughts.stages.demands_lovin_leaving.label>demanda 'hacer el amor' (abandonando)</VRE_LovinNeedThoughts.stages.demands_lovin_leaving.label>
+  <VRE_LovinNeedThoughts.stages.demands_lovin_leaving.description>Si no recibo 'amor' aquí y ahora, o...</VRE_LovinNeedThoughts.stages.demands_lovin_leaving.description>
+</LanguageData>
