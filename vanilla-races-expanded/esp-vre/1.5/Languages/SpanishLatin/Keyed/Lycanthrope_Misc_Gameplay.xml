@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VRE_DisablePhotophobiaMessage>Desactivar mensaje de fotofobia</VRE_DisablePhotophobiaMessage>
+  <VRE_DisablePhotophobiaMessage_Description>Por defecto, cada vez que un colono con el gen de fotofobia huye de la luz se generara un cartel que informara al jugador. Esto puede ser demasiado si tienes muchos peones que huyen con frecuencia, por lo que puedes desactivarlo. Ten en cuenta que los peones seguirán huyendo, pero no se informara.</VRE_DisablePhotophobiaMessage_Description>
+  <VRE_OnlyOnDaytime>Esta misión solo se puede aceptar durante el día.</VRE_OnlyOnDaytime>
+  <VRE_MessagePawnHasNoGermline>{0_labelShort} no esta disponible para ser implantado por endogen.</VRE_MessagePawnHasNoGermline>
+  <VRE_WarningPawnWillDieFromReimplanting>Warning: {PAWN_nameDef}'s genes are currently regrowing. If {PAWN_pronoun} implants {PAWN_possessive} germline before {PAWN_possessive} genes are fully regrown, it will kill {PAWN_objective}.\n\nAre you sure you wish to continue?</VRE_WarningPawnWillDieFromReimplanting>
+  <VRE_LetterTextGenesImplanted>{CASTER_nameDef} ha una copia de {CASTER_possessive} endogermen a {TARGET_nameDef}, pasando una copia todos sus endogenes a {TARGET_objective}.\n\n{TARGET_nameDef} debido a la endogerminación entrara en coma durante {COMADURATION} para que {TARGET_possessive} cuerpo se ajuste a los cambios.\n\n{CASTER_nameDef} sufrirá un shock por una perdida de gen durante {SHOCKDURATION}. {CASTER_possessive} genes necesitaran recrecer. Este proceso tomara un tiempo. Si {CASTER_nameDef} implanta {CASTER_possessive} endogermen antes que {CASTER_possessive} genes vuelvan a crecer, {CASTER_pronoun} morira.</VRE_LetterTextGenesImplanted>
+  <VRE_ForceGermlineImplantation>Forzar implementación de endogermen</VRE_ForceGermlineImplantation>
+  <VRE_ForceGermlineImplantationDesc>
+Fuerza a esta persona a implementar su endogermen a otro individuo, usando su órgano inyector especial. Si los genes de esta persona están creciendo, morirá en el proceso.\n\nCuando se implanta, el endogermen sobreescribirá los endogenes del objetivo. Los xenogenes no se verán afectados.</VRE_ForceGermlineImplantationDesc>
+  <VRE_MessageAbsorbingGermlineWillAngerFaction>Absorber {PAWN_nameDef} endogermen enfadara a  {0}.</VRE_MessageAbsorbingGermlineWillAngerFaction>
+  <VRE_EndogeneLossShockPresent>{PAWN_nameDef} sufriendo shock por perdida de endogenes</VRE_EndogeneLossShockPresent>
+  <VRE_MessageTargetMustBeDownedToForceReimplant>{PAWN_nameDef} debe ser derribado antes de que puedas obligarlo a {PAWN_objective} a reimplantar {PAWN_possessive} endogermen.</VRE_MessageTargetMustBeDownedToForceReimplant>
+</LanguageData>

@@ -20,19 +20,24 @@
 
 
     <VRE_InvocationMatrix.label>matriz de invocación</VRE_InvocationMatrix.label>
+    <VRE_InvocationMatrix.comps.CompRefuelable.fuelLabel>Hemógeno</VRE_InvocationMatrix.comps.CompRefuelable.fuelLabel>
     <VRE_InvocationMatrix.description>Un sofisticado dispositivo capaz de infundir a las personas en un mortifero-descanso con raras y potentes habilidades de sanguífago, aprovechando la esencia de su naturaleza vampírica. Empleando un complejo sistema de conductos de sangre y resonadores de esencia, la matriz estara conectado a una capsula de mortifero-descanso y canaliza la fuerza vital de su ocupante para desbloquear el potencial oculto dentro de su sangre. A medida que la persona cae en su estado de mortifero-descanso, la Matriz de Invocación seleccionara y le otorgara un poder unico. Esta construcción necesita un constante suministro de hemógeno para operar.</VRE_InvocationMatrix.description>
 
     <VRE_HemodynamicAccelerator.label>acelerador hemodinamico</VRE_HemodynamicAccelerator.label>
+    <VRE_HemodynamicAccelerator.comps.CompRefuelable.fuelLabel>Hemógeno</VRE_HemodynamicAccelerator.comps.CompRefuelable.fuelLabel>
     <VRE_HemodynamicAccelerator.description>Este avanzado dispositivo acelera el proceso del mortifero-descanso a costo de un consumo de sangre. Al estar conectado a una persona en su mortifero-descanso, este aparato empezara un intrincado análisis y estimulante sanguineo maximizando la eficiencia de la capsula de mortifero-descanso. Acelerando la recuperación del personaje, el Acelerador Hemodinamico demanda una continuo suministro de hemógeno como combustible para su funcionamiento. Para funcionar, debe conectarse a un capsura de mortifero-descanso, asegurando el rapido rejuvenecimiento de su ocupante.</VRE_HemodynamicAccelerator.description>
 
     <VRE_HemogenSolidifier.label>Solidificador de Hemógeno</VRE_HemogenSolidifier.label>
+    <VRE_HemogenSolidifier.comps.CompRefuelable.fuelLabel>Hemógeno</VRE_HemogenSolidifier.comps.CompRefuelable.fuelLabel>
     <VRE_HemogenSolidifier.description>Un dispositivo diseñado en especial para mejorar la durabilidad de las personas en su mortifero-descanso, manipulando las moleculas que componen su piel. Utilizando un conjunto de proyectores de bioresonancias y una sangre basada en nano-agentes, el solidificador de dirigira al hemógeno del objetivo, fortaleciendo y aumentando la densidad de las moleculas de su piel. Mientras que la persona se encuentra en su mortifero-descanso, el Solidificador de Hemógeno tejera una capa densa y protectora a su alrededor, haciendo que su piel se vuelva mas resiliente y resistente a los daños. Este dispositivo debe estar conectado a una capsula de mortifero-descanso, el ocupante emergera del descanso con una capacidad defensiva aumentada.</VRE_HemogenSolidifier.description>
 
     <VRE_SmallHemogenAmplifier.label>amplificador de hemógeno pequeño</VRE_SmallHemogenAmplifier.label>
+    <VRE_SmallHemogenAmplifier.comps.CompRefuelable.fuelLabel>Hemógeno</VRE_SmallHemogenAmplifier.comps.CompRefuelable.fuelLabel>
     <VRE_SmallHemogenAmplifier.description>Este dispositivo deja la persona en mortifero-descanso en un estado de hemógeno-amplificado, por lo que obtienen un poco más de hemógeno de cualquier fuente. Usan unas sondas de glándulas y analizadores de sangre, se vinculan a la persona en su mortifero-descanso, estimulando sus glandula de hemógeno para que esten más activas. Debe estar conectado a una capsula de mortifero-descanso. También necesita hemógeno para que funcione.</VRE_SmallHemogenAmplifier.description>
 
     <VRE_SmallHemopump.label>pequeña hemobomba</VRE_SmallHemopump.label>
-    <VRE_SmallHemopump.label>Pequeña bomba de sangre refinadora, que incrementa la cantidad de hemógeno que puede almacenar una persona en su cuerpo. Debe estar conectado a una capsula de mortifero-descanso para funcionar. También necesita hemógeno para que funcione.</VRE_SmallHemopump.label>
+    <VRE_SmallHemopump.comps.CompRefuelable.fuelLabel>Hemógeno</VRE_SmallHemopump.comps.CompRefuelable.fuelLabel>
+    <VRE_SmallHemopump.description>Pequeña bomba de sangre refinadora, que incrementa la cantidad de hemógeno que puede almacenar una persona en su cuerpo. Debe estar conectado a una capsula de mortifero-descanso para funcionar. También necesita hemógeno para que funcione.</VRE_SmallHemopump.description>
 
 
 

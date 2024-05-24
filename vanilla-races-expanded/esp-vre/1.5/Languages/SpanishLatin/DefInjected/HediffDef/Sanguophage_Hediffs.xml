@@ -27,9 +27,10 @@
 
     <VRE_SolidifiedHemogen.label>hemógeno solidificado</VRE_SolidifiedHemogen.label>
     <VRE_SolidifiedHemogen.description>Una defensa mejorada porque esta persona usó un solidificador de hemógeno. Este efecto durara hasta su proximo Mortifero-Descanso.</VRE_SolidifiedHemogen.description>
+    <VRE_SolidifiedHemogen.extraTooltip>Dura hasta el siguiente morti-sueño</VRE_SolidifiedHemogen.extraTooltip>
 
     <VRE_HemogenAmplifiedWeak.label>debil amplificador de hemógeno</VRE_HemogenAmplifiedWeak.label>
     <VRE_HemogenAmplifiedWeak.description>Ganancias de hemógeno aumentado por usar el amplificador de hemógeno pequeño. Este efecto durara hasta su proximo Mortifero-Descanso</VRE_HemogenAmplifiedWeak.description>
-
+    <VRE_HemogenAmplifiedWeak.extraTooltip>Dura hasta el siguiente morti-sueño</VRE_HemogenAmplifiedWeak.extraTooltip>
 
 </LanguageData>

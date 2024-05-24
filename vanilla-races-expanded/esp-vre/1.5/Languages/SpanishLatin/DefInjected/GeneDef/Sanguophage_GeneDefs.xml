@@ -57,6 +57,7 @@
 
     <VRE_Resurrect.label>resucitar</VRE_Resurrect.label>
     <VRE_Resurrect.description>El portador de este gen poseera una reserva con unos architos resurrectores, que infuden a los cadaveres, reconstruyendo su tejido y empezando el proceso vital. Esto devuelve a los muertos a la vida - aunque con problemas de salud. Esto ocurrira rara vez, y tiene un gran costo de hemógeno.</VRE_Resurrect.description>
+    <VRE_Resurrect.symbolPack.wholeNameSymbols.0.symbol>resurrector</VRE_Resurrect.symbolPack.wholeNameSymbols.0.symbol>
     <VRE_Resurrect.symbolPack.prefixSymbols.0.symbol>resurrector</VRE_Resurrect.symbolPack.prefixSymbols.0.symbol>
     <VRE_Resurrect.symbolPack.suffixSymbols.0.symbol>vida</VRE_Resurrect.symbolPack.suffixSymbols.0.symbol>
 

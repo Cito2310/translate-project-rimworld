@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-    <VRE_SanguineHairArmand>armand</VRE_SanguineHairArmand>
-    <VRE_SanguineHairBianca>bianca</VRE_SanguineHairBianca>
-    <VRE_SanguineHairClaude>claude</VRE_SanguineHairClaude>
-    <VRE_SanguineHairGabriella>gabriella</VRE_SanguineHairGabriella>
-    <VRE_SanguineHairMona>mona</VRE_SanguineHairMona>
-    <VRE_SanguineHairPandora>pandora</VRE_SanguineHairPandora>
-    <VRE_SanguineHairSebastian>sebastian</VRE_SanguineHairSebastian>
-    <VRE_SanguineHairSeth>seth</VRE_SanguineHairSeth>
+    <VRE_SanguineHairArmand.label>armand</VRE_SanguineHairArmand.label>
+    <VRE_SanguineHairBianca.label>bianca</VRE_SanguineHairBianca.label>
+    <VRE_SanguineHairClaude.label>claude</VRE_SanguineHairClaude.label>
+    <VRE_SanguineHairGabriella.label>gabriella</VRE_SanguineHairGabriella.label>
+    <VRE_SanguineHairMona.label>mona</VRE_SanguineHairMona.label>
+    <VRE_SanguineHairPandora.label>pandora</VRE_SanguineHairPandora.label>
+    <VRE_SanguineHairSebastian.label>sebastian</VRE_SanguineHairSebastian.label>
+    <VRE_SanguineHairSeth.label>seth</VRE_SanguineHairSeth.label>
 
 </LanguageData>

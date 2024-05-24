@@ -14,7 +14,6 @@
     <VRE_ToxicCloud_SingleUse.label>nube toxica</VRE_ToxicCloud_SingleUse.label>
     <VRE_ToxicCloud_SingleUse.description>Excreta un humo denso toxico de una reserva especial dentro de los pulmones. El gas toxico es capaz de matar a la mayoria de criaturas.</VRE_ToxicCloud_SingleUse.description>
 
-
     <VRE_FilterInfection_SingleUse.label>filtrar infección</VRE_FilterInfection_SingleUse.label>
     <VRE_FilterInfection_SingleUse.description>Pone sus manos en su objetivo y le ayuda a combatir a las infecciones. Funciona en animales y humanos.</VRE_FilterInfection_SingleUse.description>
 
@@ -55,7 +54,12 @@
 
     <VRE_ViscuousGoo.label>baba viscosa</VRE_ViscuousGoo.label>
     <VRE_ViscuousGoo.description>Lanza un proyectil que explota al impactar y genera una gran cantidad de baba que ralentiza en gran medida la velocidad de las personas que intentan moverse a través de el.</VRE_ViscuousGoo.description>
+    
+    <VRE_Hemosmosis.label>hemosmosis</VRE_Hemosmosis.label>
+    <VRE_Hemosmosis.description>Chupa la sangre de alrededor del sanguífago y absorbe el hemogeno.</VRE_Hemosmosis.description>
+    
+    <VRE_Resurrect.label>resucitar</VRE_Resurrect.label>
+    <VRE_Resurrect.description>Utiliza las architas del torrente sanguíneo para infundir a tu cuerpo con nueva vida, reparando las estructuras celulares y reactivando las funciones vitales. Cuanto más viejo y peor conservado este el cadaver, más probabilidades habrá de que regrese con pérdida de memroia o con problemas de salud. Esta habilidad para agotar a las architas de alguna manera, por lo que solo se puede usar en muy raras ocasiones.</VRE_Resurrect.description>
 
     
 </LanguageData>
-
