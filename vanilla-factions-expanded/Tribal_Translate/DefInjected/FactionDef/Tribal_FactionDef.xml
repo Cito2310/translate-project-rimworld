@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFET_WildMen.label>hombres salvajes</VFET_WildMen.label>
+  <VFET_WildMen.description>Una reunión de hombres salvajes controlados por el jugador.</VFET_WildMen.description>
+  <VFET_WildMen.leaderTitle>lider</VFET_WildMen.leaderTitle>
+  <VFET_WildMen.pawnSingular>nativo</VFET_WildMen.pawnSingular>
+  <VFET_WildMen.pawnsPlural>nativos</VFET_WildMen.pawnsPlural>
+  <VFET_WildMenGroup.leaderTitle>cacique</VFET_WildMenGroup.leaderTitle>
+  <VFET_WildMenGroup.pawnSingular>hombre salvaje</VFET_WildMenGroup.pawnSingular>
+  <VFET_WildMenGroup.pawnsPlural>hombres salvajes</VFET_WildMenGroup.pawnsPlural>
+</LanguageData>

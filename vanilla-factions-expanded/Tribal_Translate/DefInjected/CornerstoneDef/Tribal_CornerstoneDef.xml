@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFET_PathOfSwiftWinds.label>Camino de los Vientos Veloces</VFET_PathOfSwiftWinds.label>
+  <VFET_PathOfSwiftWinds.description>Incrementa la velocidad de movimiento en +0.15.</VFET_PathOfSwiftWinds.description>
+  <VFET_PathOfSwiftWinds.blurb>La gente de {0} reverencia a los vientos que los guían en cada uno de sus pasos, creyendo que un movimiento más rápido es una señal de favor</VFET_PathOfSwiftWinds.blurb>
+  <VFET_CultOfInnerStrength.label>Culto a la Fuerza Interior</VFET_CultOfInnerStrength.label>
+  <VFET_CultOfInnerStrength.description>Las personas son más resilientes y su umbral de colapso mental se reduce en 5%.</VFET_CultOfInnerStrength.description>
+  <VFET_CultOfInnerStrength.blurb>A los habitantes de {0} se les enseña desde muy pequeños a cultivar su resiliencia mental, creyendo en la fuerza de su mente.</VFET_CultOfInnerStrength.blurb>
+  <VFET_WhisperersOfMind.label>Susurradores de la Mente</VFET_WhisperersOfMind.label>
+  <VFET_WhisperersOfMind.description>La sensibilidad psíquica aumenta en 10%</VFET_WhisperersOfMind.description>
+  <VFET_WhisperersOfMind.blurb>Los habitantes de {0} creen en desbloquear los misterios de su mente, lo que los hace más susceptibles a las fuerzas psíquicas.</VFET_WhisperersOfMind.blurb>
+  <VFET_BreathOfTheAncients.label>Aliento de los Antiguos</VFET_BreathOfTheAncients.label>
+  <VFET_BreathOfTheAncients.description>La resistencia toxica aumenta en 0.3</VFET_BreathOfTheAncients.description>
+  <VFET_BreathOfTheAncients.blurb>El linaje de {0} afirma que heredan la resistencia de sus ancestros, capaces de resistir ambientes tóxicos.</VFET_BreathOfTheAncients.blurb>
+  <VFET_LorekeepersTradition.label>Tradición de los Guardianes de la Historia</VFET_LorekeepersTradition.label>
+  <VFET_LorekeepersTradition.description>El ratio de aprendizaje de todas sus habilidades aumenta en 10%.</VFET_LorekeepersTradition.description>
+  <VFET_LorekeepersTradition.blurb>Cada niño de {0} se les enseña el valor del conocimiento, lo que garantiza una sociedad de aprendices rápidos.</VFET_LorekeepersTradition.blurb>
+  <VFET_EmbraceOfTheNight.label>Abrazo de la Noche</VFET_EmbraceOfTheNight.label>
+  <VFET_EmbraceOfTheNight.description>Al dormir su ganancia de descanso es un 10% más rápido.</VFET_EmbraceOfTheNight.description>
+  <VFET_EmbraceOfTheNight.blurb>Las horas de la noche en {0} es considerado un periodo sagrado de descanso y rejuvenecimiento.</VFET_EmbraceOfTheNight.blurb>
+  <VFET_RitualOfQuickFeast.label>Ritual de Banquete Rápido</VFET_RitualOfQuickFeast.label>
+  <VFET_RitualOfQuickFeast.description>Come a una velocidad 25% más rápido.</VFET_RitualOfQuickFeast.description>
+  <VFET_RitualOfQuickFeast.blurb>En {0}, las comidas son un asunto rápido, simbolizando la necesidad de aprovechar cada momento.</VFET_RitualOfQuickFeast.blurb>
+  <VFET_WalkersInColdShadows.label>Caminantes de las Frías Sombras</VFET_WalkersInColdShadows.label>
+  <VFET_WalkersInColdShadows.description>La mínima temperatura confortable se reduce en 5 grados.</VFET_WalkersInColdShadows.description>
+  <VFET_WalkersInColdShadows.blurb>Las personas de {0}, se endurecen ante el frio, testigo de su resistencia.</VFET_WalkersInColdShadows.blurb>
+  <VFET_ChildrenOfTheScorchingSun.label>Hijos del Sol Abrasador</VFET_ChildrenOfTheScorchingSun.label>
+  <VFET_ChildrenOfTheScorchingSun.description>La máxima temperatura confortable aumenta en 5 grados.</VFET_ChildrenOfTheScorchingSun.description>
+  <VFET_ChildrenOfTheScorchingSun.blurb>Las tierras bañadas en sol de {0} han moldeado a su gente, haciéndolas prosperar en el calor.</VFET_ChildrenOfTheScorchingSun.blurb>
+  <VFET_FollowersOfTheHealingWaters.label>Seguidores de las Aguas Curativas</VFET_FollowersOfTheHealingWaters.label>
+  <VFET_FollowersOfTheHealingWaters.description>La inmunidad a las enfermedades son un 10% más rápida.</VFET_FollowersOfTheHealingWaters.description>
+  <VFET_FollowersOfTheHealingWaters.blurb>En {0} se veneran los manantiales curativos y se cree que permiten una recuperación más rápida de las dolencias.</VFET_FollowersOfTheHealingWaters.blurb>
+  <VFET_OrderoftheMendingHands.label>Orden de las Manos Reparadoras</VFET_OrderoftheMendingHands.label>
+  <VFET_OrderoftheMendingHands.description>Las heridas se curan un 10% más rápido.</VFET_OrderoftheMendingHands.description>
+  <VFET_OrderoftheMendingHands.blurb>{0} mantienen una tradición los curanderos expertos, acelerando la recuperación de las heridas.</VFET_OrderoftheMendingHands.blurb>
+  <VFET_CreedOfTheStoic.label>Credo de lo Estoico</VFET_CreedOfTheStoic.label>
+  <VFET_CreedOfTheStoic.description>El umbral del dolor, en el que los colonos caen inconscientes aumenta en 10%.</VFET_CreedOfTheStoic.description>
+  <VFET_CreedOfTheStoic.blurb>El dolor es visto como un maestro en {0}, y sus habitantes tienen una mayor tolerancia debido a esta creencia.
+</VFET_CreedOfTheStoic.blurb>
+  <VFET_NomadsOfAbundance.label>Nómadas de la Abundancia</VFET_NomadsOfAbundance.label>
+  <VFET_NomadsOfAbundance.description>Los viajantes tienen un nutrición por forraje adicional por día de 0.3.</VFET_NomadsOfAbundance.description>
+  <VFET_NomadsOfAbundance.blurb>La tradiciones nómadas de {0} le otorgan una habilidades de recolección, asegurando el hambre de los viajeros.</VFET_NomadsOfAbundance.blurb>
+  <VFET_DisciplesOfCleanliness.label>Discípulos de la Limpieza</VFET_DisciplesOfCleanliness.label>
+  <VFET_DisciplesOfCleanliness.description>La suciedad producida por las personas se reduce en un 25%.</VFET_DisciplesOfCleanliness.description>
+  <VFET_DisciplesOfCleanliness.blurb>La pureza y la limpieza son virtudes muy apreciadas por {0}.</VFET_DisciplesOfCleanliness.blurb>
+  <VFET_WayOfTheRestedSpirit.label>Camino del Espíritu del Descanso</VFET_WayOfTheRestedSpirit.label>
+  <VFET_WayOfTheRestedSpirit.description>La necesidad de descanso se reduce en un 10% más lento.</VFET_WayOfTheRestedSpirit.description>
+  <VFET_WayOfTheRestedSpirit.blurb>{0} creen en la conservación de la energía, lo que les permite estar siempre listos para los desafíos que se avecinan.</VFET_WayOfTheRestedSpirit.blurb>
+  <VFET_DiplomatsOfSilverTongue.label>Diplomáticos de Lengua de Plata</VFET_DiplomatsOfSilverTongue.label>
+  <VFET_DiplomatsOfSilverTongue.description>Los colonos son 10% mejores al negociar.</VFET_DiplomatsOfSilverTongue.description>
+  <VFET_DiplomatsOfSilverTongue.blurb>Las palabras son un instrumento poderoso para las personas de {0}, haciéndolos unos negociadores expertos.</VFET_DiplomatsOfSilverTongue.blurb>
+  <VFET_ProtectorsOfOrder.label>Protectores del Orden</VFET_ProtectorsOfOrder.label>
+  <VFET_ProtectorsOfOrder.description>Las posibilidades de arrestar con éxito incrementan en un 15%.</VFET_ProtectorsOfOrder.description>
+  <VFET_ProtectorsOfOrder.blurb>{0} tienen una reputación de ser hábiles ejecutores, asegurando la paz deteniendo rápidamente a los alborotadores.</VFET_ProtectorsOfOrder.blurb>
+  <VFET_MerchantsOfProsperity.label>Comerciantes de la Prosperidad</VFET_MerchantsOfProsperity.label>
+  <VFET_MerchantsOfProsperity.description>Los precios al comerciar mejoran un 5%.</VFET_MerchantsOfProsperity.description>
+  <VFET_MerchantsOfProsperity.blurb>El mercado de {0} es conocido por sus acuerdos comerciales justos y ventajosos.</VFET_MerchantsOfProsperity.blurb>
+  <VFET_CharismaticEnclave.label>Enclave Carismáticos</VFET_CharismaticEnclave.label>
+  <VFET_CharismaticEnclave.description>El impacto social de todos los colonos aumenta en un 10%.</VFET_CharismaticEnclave.description>
+  <VFET_CharismaticEnclave.blurb>Cada ciudadano de {0} se cría con las virtudes de la empatía y la carisma, lo que mejora su destreza social.</VFET_CharismaticEnclave.blurb>
+  <VFET_WhisperersToTheWild.label>Susurradores de lo Salvaje</VFET_WhisperersToTheWild.label>
+  <VFET_WhisperersToTheWild.description>Las posibilidades de domesticar a los animales aumentan en un 10%.</VFET_WhisperersToTheWild.description>
+  <VFET_WhisperersToTheWild.blurb>Su antiguo vinculo entre {0} y los animales les permite a las personas domesticar a la naturaleza con mayor facilidad.</VFET_WhisperersToTheWild.blurb>
+  <VFET_GuildOfDiligence.label>Gremio de la Diligencia</VFET_GuildOfDiligence.label>
+  <VFET_GuildOfDiligence.description>La velocidad de trabajo general aumenta en 5%.</VFET_GuildOfDiligence.description>
+  <VFET_GuildOfDiligence.blurb>"El tiempo es oro", un mantra profundamente grabado en el espíritu de {0}, que los impulsa a trabajar de forma más eficiente.</VFET_GuildOfDiligence.blurb>
+  <VFET_DevotedMiners.label>Mineros Devotos</VFET_DevotedMiners.label>
+  <VFET_DevotedMiners.description>Su velocidad de minado aumenta en un 10%.</VFET_DevotedMiners.description>
+  <VFET_DevotedMiners.blurb>El paisaje de {0} los entreno a minar los recursos más rápidos y más hábilmente.</VFET_DevotedMiners.blurb>
+  <VFET_SeekersOfHiddenDepths.label>Buscadores de las Profundidades Ocultas</VFET_SeekersOfHiddenDepths.label>
+  <VFET_SeekersOfHiddenDepths.description>La velocidad de la perforación profunda aumenta en un 15%</VFET_SeekersOfHiddenDepths.description>
+  <VFET_SeekersOfHiddenDepths.blurb>impulsados por las promesas de riquezas subyacentes, los perforadores de {0} penetran las rocas a velocidades incomparables.</VFET_SeekersOfHiddenDepths.blurb>
+  <VFET_StewardsOftheVein.label>Administradores de la Vetas</VFET_StewardsOftheVein.label>
+  <VFET_StewardsOftheVein.description>Los recursos obtenido por la minerías aumentan en un 10%.</VFET_StewardsOftheVein.description>
+  <VFET_StewardsOftheVein.blurb>Cada golpe de las minas de {0} prometen mayores recompensas, gracias a sus técnicas de extracción eficiente.</VFET_StewardsOftheVein.blurb>
+  <VFET_ScholarsOfProgress.label>Eruditos del Progreso</VFET_ScholarsOfProgress.label>
+  <VFET_ScholarsOfProgress.description>La velocidad de investigación aumentan en un 5%.</VFET_ScholarsOfProgress.description>
+  <VFET_ScholarsOfProgress.blurb>La tradición académica de {0} es incomparable, y traspasa los límites con una investigación acelerada.</VFET_ScholarsOfProgress.blurb>
+  <VFET_KeepersOfThePasture.label>Guardianes de la Pastura</VFET_KeepersOfThePasture.label>
+  <VFET_KeepersOfThePasture.description>Los recursos obtenidos del manejo de animales incrementan en un 15%.</VFET_KeepersOfThePasture.description>
+  <VFET_KeepersOfThePasture.blurb>El vínculo entre {0} y su ganado garantiza que aprovechen al máximo sus rebaños.</VFET_KeepersOfThePasture.blurb>
+  <VFET_SowersOfAbundance.label>Sembradores de Abundancia</VFET_SowersOfAbundance.label>
+  <VFET_SowersOfAbundance.description>La velocidad del trabajo en las plantas aumentan en un 15%.</VFET_SowersOfAbundance.description>
+  <VFET_SowersOfAbundance.blurb>Mediante una cuidadosa crianza, los agricultores de {0} cuidan a sus cultivos con una experiencia incomparable.</VFET_SowersOfAbundance.blurb>
+  <VFET_HarvestersOfBounty.label>Cosechadores de Generosidad</VFET_HarvestersOfBounty.label>
+  <VFET_HarvestersOfBounty.description>Los recursos obtenidos de las plantas incrementan un 10%.</VFET_HarvestersOfBounty.description>
+  <VFET_HarvestersOfBounty.blurb>Las tierras fértiles de {0} producen más bajo las manos de sus cultivadores expertos.</VFET_HarvestersOfBounty.blurb>
+  <VFET_ShadowsOfTheHunt.label>Sombras de la Caza</VFET_ShadowsOfTheHunt.label>
+  <VFET_ShadowsOfTheHunt.description>El sigilo durante la caza incrementa en un 20%.</VFET_ShadowsOfTheHunt.description>
+  <VFET_ShadowsOfTheHunt.blurb>Los cazadores de {0} se mueven en silencio, haciéndolos uno con la naturaleza para reclamar a su presa.</VFET_ShadowsOfTheHunt.blurb>
+  <VFET_MasonsOfTheFuture.label>Masones del Futuro</VFET_MasonsOfTheFuture.label>
+  <VFET_MasonsOfTheFuture.description>La velocidad de construcción incrementa en un 10%.</VFET_MasonsOfTheFuture.description>
+  <VFET_MasonsOfTheFuture.blurb>Las estructuras se elevan rápidamente en {0}, una muestra de la destreza de sus constructores.</VFET_MasonsOfTheFuture.blurb>
+  <VFET_CustodiansOfPurity.label>Custodios de la Pureza</VFET_CustodiansOfPurity.label>
+  <VFET_CustodiansOfPurity.description>La velocidad de limpieza aumenta en un 20%.</VFET_CustodiansOfPurity.description>
+  <VFET_CustodiansOfPurity.blurb>Las personas de {0} tienen una gran devoción a la limpieza, que creen en un saneamiento rápido y eficiente.</VFET_CustodiansOfPurity.blurb>
+  <VFET_HealersOfSwiftHand.label>Curadores con Manos Rápidas</VFET_HealersOfSwiftHand.label>
+  <VFET_HealersOfSwiftHand.description>La velocidad de la atención medica aumenta en un 10%.</VFET_HealersOfSwiftHand.description>
+  <VFET_HealersOfSwiftHand.blurb>Los médicos de {0} son famosos por sus rápidos cuidados, reduciendo al mínimo el sufrimiento.</VFET_HealersOfSwiftHand.blurb>
+  <VFET_PhysiciansOfPrecision.label>Médicos de la Precisión</VFET_PhysiciansOfPrecision.label>
+  <VFET_PhysiciansOfPrecision.description>La calidad del cuidado medico aumenta en un 5%.</VFET_PhysiciansOfPrecision.description>
+  <VFET_PhysiciansOfPrecision.blurb>A través de años de dedicación, Los medicos de {0} practicaron hasta que sus tratamientos estén cerca de la perfección.</VFET_PhysiciansOfPrecision.blurb>
+  <VFET_SurgeonsOfExcellence.label>Cirujanos de la Excelencia</VFET_SurgeonsOfExcellence.label>
+  <VFET_SurgeonsOfExcellence.description>Las operaciones medicas son un 15% más rápido. </VFET_SurgeonsOfExcellence.description>
+  <VFET_SurgeonsOfExcellence.blurb>Los quirófanos de {0} son un espectáculo digno de contemplar, completando las operaciones mucho más rápido.</VFET_SurgeonsOfExcellence.blurb>
+  <VFET_WarriorsOfPrecision.label>Guerreros de Precisión</VFET_WarriorsOfPrecision.label>
+  <VFET_WarriorsOfPrecision.description>Las posibilidades de golpear cuerpo a cuerpo mejoran en un 5%.</VFET_WarriorsOfPrecision.description>
+  <VFET_WarriorsOfPrecision.blurb>Los guerreros de {0} tienen la habilidad de atacar con una precisión inigualable en el combate cuerpo a cuerpo.</VFET_WarriorsOfPrecision.blurb>
+  <VFET_DancersOfTheBattlefield.label>Bailarines del Campo de Batalla</VFET_DancersOfTheBattlefield.label>
+  <VFET_DancersOfTheBattlefield.description>Las posibilidades de esquivar los ataques cuerpo a cuerpo mejoran un 5%.</VFET_DancersOfTheBattlefield.description>
+  <VFET_DancersOfTheBattlefield.blurb>Los soldados de {0} atraviesan los combates con gracia, esquivando sin esfuerzo los golpes de sus enemigos.</VFET_DancersOfTheBattlefield.blurb>
+  <VFET_Marksmen.label>Tiradores</VFET_Marksmen.label>
+  <VFET_Marksmen.description>La precisión al disparar aumenta en un 5%.</VFET_Marksmen.description>
+  <VFET_Marksmen.blurb>Inspirado por los arqueros ancestrales, Los tiradores de {0} rara vez erran sus disparos.</VFET_Marksmen.blurb>
+  <VFET_QuickdrawMasters.label>Maestros en el Apuntado Rápido</VFET_QuickdrawMasters.label>
+  <VFET_QuickdrawMasters.description>Apuntar con armas a distancia toma 10% menos de tiempo.</VFET_QuickdrawMasters.description>
+  <VFET_QuickdrawMasters.blurb>En el corazón de {0}, apuntar y disparar de forma veloz es considerado como un arte y una habilidad vital para la supervivencia.</VFET_QuickdrawMasters.blurb>
+  <VFET_MortarVisionaries.label>Visionarios del Mortero</VFET_MortarVisionaries.label>
+  <VFET_MortarVisionaries.description>Los morteros disparados por colonos son 15% más precisos.</VFET_MortarVisionaries.description>
+  <VFET_MortarVisionaries.blurb>Los equipos de mortero de {0} cuentan con una precisión inigualable y causan devastación a sus enemigos.</VFET_MortarVisionaries.blurb>
+  <VFET_DiligentDoers.label>Hacedores Diligentes</VFET_DiligentDoers.label>
+  <VFET_DiligentDoers.description>La velocidad de los trabajos que no requieren habilidad son un 10% más rápido.</VFET_DiligentDoers.description>
+  <VFET_DiligentDoers.blurb>Cada tarea, por mundana que sea, se aborda con entusiasmo y eficiencia en {0}.</VFET_DiligentDoers.blurb>
+  <VFET_ChemistsOfEfficacy.label>Químicos de la Eficiencia</VFET_ChemistsOfEfficacy.label>
+  <VFET_ChemistsOfEfficacy.description>La velocidad al sintetizar drogas es un 15% más rápido.</VFET_ChemistsOfEfficacy.description>
+  <VFET_ChemistsOfEfficacy.blurb>Los sintetizadores de drogas de {0} funcionan a un ritmo vertiginoso, lo que garantiza que los medicamentos y las drogas estén siempre disponibles.</VFET_ChemistsOfEfficacy.blurb>
+  <VFET_CulinaryConnoisseurs.label>Conocedores Culinarios</VFET_CulinaryConnoisseurs.label>
+  <VFET_CulinaryConnoisseurs.description>Las posibilidades de causar intoxicación por alimentos se reduce en un 20%.</VFET_CulinaryConnoisseurs.description>
+  <VFET_CulinaryConnoisseurs.blurb>Las cocinas de {0} se les pone sumo cuidado en la preparación de alimentos, garantizando que los alimentos sean deliciosos y seguros.</VFET_CulinaryConnoisseurs.blurb>
+  <VFET_TechScavengers.label>Carroñeros de la Tecnología</VFET_TechScavengers.label>
+  <VFET_TechScavengers.description>Los recursos obtenidos de despedazar mecanoides es un 20% más alto.</VFET_TechScavengers.description>
+  <VFET_TechScavengers.blurb>Con manos expertas y ojos perspicaces, {0} aprovechan al máximo cada mecanoide derrotado.</VFET_TechScavengers.blurb>
+  <VFET_MasterButchers.label>Carniceros Maestros</VFET_MasterButchers.label>
+  <VFET_MasterButchers.description>Los recursos obtenidos de despiezar criaturas es un 10% más alto.</VFET_MasterButchers.description>
+  <VFET_MasterButchers.blurb>Cada criatura es honrada en su muerte, {0} se aseguran que nada se desperdicie.</VFET_MasterButchers.blurb>
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFET_TribalGathering.label>reunión tribal</VFET_TribalGathering.label>
+  <VFET_AdvanceToNeolithic.label>avanzar a neolítico</VFET_AdvanceToNeolithic.label>
+  <VFET_AdvanceToMedieval.label>avanzar a medieval</VFET_AdvanceToMedieval.label>
+  <VFET_AdvanceToIndustrial.label>avanzar a industrial</VFET_AdvanceToIndustrial.label>
+  <VFET_AdvanceToSpacer.label>avanzar a espacial</VFET_AdvanceToSpacer.label>
+  <VFET_AdvanceToUltra.label>avanzar a ultra-tecnología</VFET_AdvanceToUltra.label>
+</LanguageData>

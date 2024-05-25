@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFET_FormTribe.label>Nivel tecnológico neolítico</VFET_FormTribe.label>
+  <VFET_FormTribe.description>Hemos completado todos los proyectos de investigación pre-neolítico, avanzando al nivel de la tecnología neolítico. Esto te permitirá elegir una Piedra Angular, un gran bono solo para tu civilización.</VFET_FormTribe.description>
+  <VFET_FormTown.label>Nivel tecnológico medieval</VFET_FormTown.label>
+  <VFET_FormTown.description>Hemos completado todos los proyectos de investigación neolítico, avanzando al nivel de la tecnología medieval. Esto te permitirá elegir una Piedra Angular, un gran bono solo para tu civilización.</VFET_FormTown.description>
+  <VFET_FormCity.label>Nivel tecnológico industrial</VFET_FormCity.label>
+  <VFET_FormCity.description>Hemos completado todos los proyectos de investigación medieval, avanzando al nivel de la tecnología industrial. Esto te permitirá elegir una Piedra Angular, un gran bono solo para tu civilización.</VFET_FormCity.description>
+  <VFET_FormCollective.label>Nivel tecnológico espacial</VFET_FormCollective.label>
+  <VFET_FormCollective.description>Hemos completado todos los proyectos de investigación industrial, avanzando al nivel de la tecnología espacial. Esto te permitirá elegir una Piedra Angular, un gran bono solo para tu civilización.</VFET_FormCollective.description>
+  <VFET_FormNexus.label>Nivel tecnológico ultra-tecnológico</VFET_FormNexus.label>
+  <VFET_FormNexus.description>Hemos completado todos los proyectos de investigación espacial, avanzando al nivel de la tecnología ultra-tecnológico. Esto te permitirá elegir una Piedra Angular, un gran bono solo para tu civilización.</VFET_FormNexus.description>
+</LanguageData>

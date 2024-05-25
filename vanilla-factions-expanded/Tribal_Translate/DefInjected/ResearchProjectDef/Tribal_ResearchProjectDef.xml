@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFET_Fire.label>fuego</VFET_Fire.label>
+  <VFET_Fire.description>Desbloquea la capacidad de utilizar y manejar el fuego para distintos propósitos. Desbloquea el trabajo de bombero.</VFET_Fire.description>
+  <VFET_Fire.generalRules.rulesStrings.0>subject-&gt;descubrir el fuego</VFET_Fire.generalRules.rulesStrings.0>
+  <VFET_Fire.generalRules.rulesStrings.1>subject_story-&gt;aprovecha la fuerza primordial del fuego, iluminando la oscuridad y calentando en el frio.</VFET_Fire.generalRules.rulesStrings.1>
+  <VFET_Fire.generalRules.rulesStrings.2>subject_story-&gt;transforma la noche en un momento de actividad y seguridad, ahuyentando a los depredadores</VFET_Fire.generalRules.rulesStrings.2>
+  <VFET_Fire.generalRules.rulesStrings.3>subject_story-&gt;sentó las bases de la civilización con el control de este elemento</VFET_Fire.generalRules.rulesStrings.3>
+  <VFET_Fire.generalRules.rulesStrings.4>subject_gerund-&gt;dominando la llama</VFET_Fire.generalRules.rulesStrings.4>
+  <VFET_Agriculture.label>agricultura</VFET_Agriculture.label>
+  <VFET_Agriculture.description>Aprende a cultivar varios cultivos básicos. Desbloquea el trabajo de cultivar.</VFET_Agriculture.description>
+  <VFET_Agriculture.generalRules.rulesStrings.0>subject-&gt;nacimiento de la agricultura</VFET_Agriculture.generalRules.rulesStrings.0>
+  <VFET_Agriculture.generalRules.rulesStrings.1>subject_story-&gt;cambio la vida nómada para sembrar las semillas de su futuro</VFET_Agriculture.generalRules.rulesStrings.1>
+  <VFET_Agriculture.generalRules.rulesStrings.2>subject_story-&gt;nutre a la tierra para producir cosechas abundantes, asegurando la prosperidad</VFET_Agriculture.generalRules.rulesStrings.2>
+  <VFET_Agriculture.generalRules.rulesStrings.3>subject_story-&gt;funda los primeros asentamientos, alrededor del cual florecieron las comunidades</VFET_Agriculture.generalRules.rulesStrings.3>
+  <VFET_Agriculture.generalRules.rulesStrings.4>subject_gerund-&gt;cultivando sustancias desde el suelo</VFET_Agriculture.generalRules.rulesStrings.4>
+  <VFET_Cultivation.label>cultivo</VFET_Cultivation.label>
+  <VFET_Cultivation.description>Expande la variedad de cultivos con cultivos más específicos, más difíciles de sembrar, como la hojahumeante y la planta de psicoide</VFET_Cultivation.description>
+  <VFET_Cultivation.generalRules.rulesStrings.0>subject-&gt;diversifica los cultivos</VFET_Cultivation.generalRules.rulesStrings.0>
+  <VFET_Cultivation.generalRules.rulesStrings.1>subject_story-&gt;explora los cultivos de plantas exóticas, enriqueciendo su dieta y medicinas.</VFET_Cultivation.generalRules.rulesStrings.1>
+  <VFET_Cultivation.generalRules.rulesStrings.2>subject_story-&gt;desafió el cultivo de cultivos delicados, asegurando una variedad de sustento</VFET_Cultivation.generalRules.rulesStrings.2>
+  <VFET_Cultivation.generalRules.rulesStrings.3>subject_story-&gt;expandió el horizonte de la agricultura, abrazando la generosidad de la naturaleza</VFET_Cultivation.generalRules.rulesStrings.3>
+  <VFET_Cultivation.generalRules.rulesStrings.4>subject_gerund-&gt;expandiendo los jardines de la civilización</VFET_Cultivation.generalRules.rulesStrings.4>
+  <VFET_Medicine.label>medicina</VFET_Medicine.label>
+  <VFET_Medicine.description>Introduce los tratamientos con hierbas medicinales.</VFET_Medicine.description>
+  <VFET_Medicine.generalRules.rulesStrings.0>subject-&gt;bases de la curación</VFET_Medicine.generalRules.rulesStrings.0>
+  <VFET_Medicine.generalRules.rulesStrings.1>subject_story-&gt;reveló los poderes curativos de la naturaleza, mezclando hierbas en los primeros remedios</VFET_Medicine.generalRules.rulesStrings.1>
+  <VFET_Medicine.generalRules.rulesStrings.2>subject_story-&gt;calmó las dolencias de sus parientes con cataplasmas y pociones, nacidas de la naturaleza.</VFET_Medicine.generalRules.rulesStrings.2>
+  <VFET_Medicine.generalRules.rulesStrings.3>subject_story-&gt;pavimento el camino para las artes curativas, cerrando la brecha entre las dolencias y la salud</VFET_Medicine.generalRules.rulesStrings.3>
+  <VFET_Medicine.generalRules.rulesStrings.4>subject_gerund-&gt;tejió los primeros tratamientos del bienestar</VFET_Medicine.generalRules.rulesStrings.4>
+  <VFET_AnimalHandling.label>manejo de animales</VFET_AnimalHandling.label>
+  <VFET_AnimalHandling.description>Adquiere los conocimientos para manejar, tamear y acomodar los animales. Desbloquea los trabajos de adiestrar animales y despedazar.</VFET_AnimalHandling.description>
+  <VFET_AnimalHandling.generalRules.rulesStrings.0>subject-&gt;el vinculo entre bestia y humano</VFET_AnimalHandling.generalRules.rulesStrings.0>
+  <VFET_AnimalHandling.generalRules.rulesStrings.1>subject_story-&gt;forma alianzas con el reino animal, adiestrando a los salvajes para ser una compañía y ayudar</VFET_AnimalHandling.generalRules.rulesStrings.1>
+  <VFET_AnimalHandling.generalRules.rulesStrings.2>subject_story-&gt;controla la fuerza de las bestias, elevando el potencial de la tribu</VFET_AnimalHandling.generalRules.rulesStrings.2>
+  <VFET_AnimalHandling.generalRules.rulesStrings.3>subject_story-&gt;fusiono su destino con el de sus parientes animales, asegurando la supervivencia mutua</VFET_AnimalHandling.generalRules.rulesStrings.3>
+  <VFET_AnimalHandling.generalRules.rulesStrings.4>subject_gerund-&gt;fomentando los primeros compañeros</VFET_AnimalHandling.generalRules.rulesStrings.4>
+  <VFET_Mining.label>minería</VFET_Mining.label>
+  <VFET_Mining.description>Desarrolla métodos para extraer recursos de la tierra usando la fuerza. Desbloquea los trabajos de minería</VFET_Mining.description>
+  <VFET_Mining.generalRules.rulesStrings.0>subject-&gt;desterrando los secretos de la tierra</VFET_Mining.generalRules.rulesStrings.0>
+  <VFET_Mining.generalRules.rulesStrings.1>subject_story-&gt;profundizo en el seno de la tierra para reclamar sus riquezas ocultas</VFET_Mining.generalRules.rulesStrings.1>
+  <VFET_Mining.generalRules.rulesStrings.2>subject_story-&gt;creó las primeras herramientas para perforar la piedra, revelando los minerales de su interior</VFET_Mining.generalRules.rulesStrings.2>
+  <VFET_Mining.generalRules.rulesStrings.3>subject_story-&gt;sentó las bases para el avance del progreso con los materiales primas</VFET_Mining.generalRules.rulesStrings.3>
+  <VFET_Mining.generalRules.rulesStrings.4>subject_gerund-&gt;cincelo el camino a la prosperidad</VFET_Mining.generalRules.rulesStrings.4>
+  <VFET_Construction.label>construcción</VFET_Construction.label>
+  <VFET_Construction.description>Learn the absolute basic techniques of building and structural design. Unlocks the ability to build walls and roofs.
+Aprende las técnicas básicas de construcción y el diseño estructural. Desbloquea la habilidad de construir muros y techos</VFET_Construction.description>
+  <VFET_Construction.generalRules.rulesStrings.0>subject-&gt;refugio y estructura</VFET_Construction.generalRules.rulesStrings.0>
+  <VFET_Construction.generalRules.rulesStrings.1>subject_story-&gt;levanto los primeros muros contra los elementos, creando santuarios de la naturaleza</VFET_Construction.generalRules.rulesStrings.1>
+  <VFET_Construction.generalRules.rulesStrings.2>subject_story-&gt;construyendo lugares para las reuniones y para descansar, fomentando la comunidad y la seguridad</VFET_Construction.generalRules.rulesStrings.2>
+  <VFET_Construction.generalRules.rulesStrings.3>subject_story-&gt;se embarco en el viaje arquitectónico, sentando la piedra angular del progeso</VFET_Construction.generalRules.rulesStrings.3>
+  <VFET_Construction.generalRules.rulesStrings.4>subject_gerund-&gt;construyendo la cuna de la civilización</VFET_Construction.generalRules.rulesStrings.4>
+  <VFET_Furniture.label>muebles</VFET_Furniture.label>
+  <VFET_Furniture.description>Introduce la creación de muebles básicos para mejorar las condiciones de vida.</VFET_Furniture.description>
+  <VFET_Furniture.generalRules.rulesStrings.0>subject-&gt;confort por creaciones humanas</VFET_Furniture.generalRules.rulesStrings.0>
+  <VFET_Furniture.generalRules.rulesStrings.1>subject_story-&gt;talló los primeros símbolos del confort y la utilidad en el corazón de la naturaleza </VFET_Furniture.generalRules.rulesStrings.1>
+  <VFET_Furniture.generalRules.rulesStrings.2>subject_story-&gt;transformo los espacios con el arte de los muebles hecho a mano</VFET_Furniture.generalRules.rulesStrings.2>
+  <VFET_Furniture.generalRules.rulesStrings.3>subject_story-&gt;elevo la vida diaria, de sobrevivir a vivir, a través del toque de la creación</VFET_Furniture.generalRules.rulesStrings.3>
+  <VFET_Furniture.generalRules.rulesStrings.4>subject_gerund-&gt;formando las comodidades del hogar</VFET_Furniture.generalRules.rulesStrings.4>
+  <VFET_Tribalwear.label>vestimenta tribal</VFET_Tribalwear.label>
+  <VFET_Tribalwear.description>Aprendes a elaborar atuendos tribales para diversos propositos.</VFET_Tribalwear.description>
+  <VFET_Tribalwear.generalRules.rulesStrings.0>subject-&gt;tejiendo identidad y protección</VFET_Tribalwear.generalRules.rulesStrings.0>
+  <VFET_Tribalwear.generalRules.rulesStrings.1>subject_story-&gt;formo tejidos que mostraban la cultura y sirven como salvaguardia del mundo</VFET_Tribalwear.generalRules.rulesStrings.1>
+  <VFET_Tribalwear.generalRules.rulesStrings.2>subject_story-&gt;fusionó funcionalidad con tradición, vistiendo el espíritu de su gente.</VFET_Tribalwear.generalRules.rulesStrings.2>
+  <VFET_Tribalwear.generalRules.rulesStrings.3>subject_story-&gt;creo prendas hechas a mano que se convertirán en el sello de identidad de la tribu</VFET_Tribalwear.generalRules.rulesStrings.3>
+  <VFET_Tribalwear.generalRules.rulesStrings.4>subject_gerund-&gt;vistió la esencia de las personas</VFET_Tribalwear.generalRules.rulesStrings.4>
+  <VFET_Hunting.label>caza</VFET_Hunting.label>
+  <VFET_Hunting.description>Estableció los métodos para una caza efectiva y como procesar sus recursos. Desbloquea el trabajo de caza y permite elaborar pinchos arrojables.</VFET_Hunting.description>
+  <VFET_Hunting.generalRules.rulesStrings.0>subject-&gt;el dominio de la caza</VFET_Hunting.generalRules.rulesStrings.0>
+  <VFET_Hunting.generalRules.rulesStrings.1>subject_story-&gt;perfeccionó la danza primordial entre el predador y la presa, asegurando la sustentabilidad de la tribu</VFET_Hunting.generalRules.rulesStrings.1>
+  <VFET_Hunting.generalRules.rulesStrings.2>subject_story-&gt;creó herramientas de la persecución, aportando habilidad al desafío de la naturaleza</VFET_Hunting.generalRules.rulesStrings.2>
+  <VFET_Hunting.generalRules.rulesStrings.3>subject_story-&gt;aseguro el lugar encima de la cadena alimenticia, a través de la astucia y de la elaboración</VFET_Hunting.generalRules.rulesStrings.3>
+  <VFET_Hunting.generalRules.rulesStrings.4>subject_gerund-&gt;capturando la generosidad de la naturaleza</VFET_Hunting.generalRules.rulesStrings.4>
+  <VFET_Weapons.label>armas</VFET_Weapons.label>
+  <VFET_Weapons.description>Introduce un arsenal básico para la intentar defenderse de los enemigos.</VFET_Weapons.description>
+  <VFET_Weapons.generalRules.rulesStrings.0>subject-&gt;al borde de la supervivencia</VFET_Weapons.generalRules.rulesStrings.0>
+  <VFET_Weapons.generalRules.rulesStrings.1>subject_story-&gt;forjo las primeras armas, fortaleciendo a su tribu contra las amenazas</VFET_Weapons.generalRules.rulesStrings.1>
+  <VFET_Weapons.generalRules.rulesStrings.2>subject_story-&gt;balanceo las escalas de la naturaleza y del conflicto con las creaciones de armamento</VFET_Weapons.generalRules.rulesStrings.2>
+  <VFET_Weapons.generalRules.rulesStrings.3>subject_story-&gt;aseguro su supervivencia a través de la innovación de la defensa y de lo ofensivo</VFET_Weapons.generalRules.rulesStrings.3>
+  <VFET_Weapons.generalRules.rulesStrings.4>subject_gerund-&gt;armando a las manos del destino</VFET_Weapons.generalRules.rulesStrings.4>
+  <VFET_Bow.label>arco</VFET_Bow.label>
+  <VFET_Bow.description>Desbloqueas la habilidad de crear el elemento básico del combate a distancia, un arco corto.</VFET_Bow.description>
+  <VFET_Bow.generalRules.rulesStrings.0>subject-&gt;el arco de ascendencia</VFET_Bow.generalRules.rulesStrings.0>
+  <VFET_Bow.generalRules.rulesStrings.1>subject_story-&gt;estiro las cuerdas del progreso, lanzando flechas al horizonte</VFET_Bow.generalRules.rulesStrings.1>
+  <VFET_Bow.generalRules.rulesStrings.2>subject_story-&gt;domino el arco, combinando la paciencia, habilidad y la tecnología</VFET_Bow.generalRules.rulesStrings.2>
+  <VFET_Bow.generalRules.rulesStrings.3>subject_story-&gt;marco el comienzo de la era del combate a distancia, cambiando la dinámica de la caza y de la guerra</VFET_Bow.generalRules.rulesStrings.3>
+  <VFET_Bow.generalRules.rulesStrings.4>subject_gerund-&gt;extendiendo el alcance más allá de la comprensión</VFET_Bow.generalRules.rulesStrings.4>
+  <VFET_Culture.label>cultura</VFET_Culture.label>
+  <VFET_Culture.description>Desbloquea la habilidad de investigar, y así como desarrollar pensamientos ideológicos. Desbloquea el trabajo intelectual.</VFET_Culture.description>
+  <VFET_Culture.generalRules.rulesStrings.0>subject-&gt;el tapiz del pensamiento</VFET_Culture.generalRules.rulesStrings.0>
+  <VFET_Culture.generalRules.rulesStrings.1>subject_story-&gt;tejiendo el tejido de la cultura, enriqueciendo los hilos del conocimiento y de las creencias</VFET_Culture.generalRules.rulesStrings.1>
+  <VFET_Culture.generalRules.rulesStrings.2>subject_story-&gt;cultivando el crecimiento las actividades intelectuales, plantando las ideas del futuro</VFET_Culture.generalRules.rulesStrings.2>
+  <VFET_Culture.generalRules.rulesStrings.3>subject_story-&gt;embarcandose en la búsqueda de la comprensión, elevando a su tribu con sabiduría</VFET_Culture.generalRules.rulesStrings.3>
+  <VFET_Culture.generalRules.rulesStrings.4>subject_gerund-&gt;cultivando el jardín de la mente</VFET_Culture.generalRules.rulesStrings.4>
+</LanguageData>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFET_TribalGathering_Behaviour.roles.0.label>organizador</VFET_TribalGathering_Behaviour.roles.0.label>
+  <VFET_TribalGathering_Behaviour.spectatorGerund>participante</VFET_TribalGathering_Behaviour.spectatorGerund>
+  <VFET_TribalGathering_Behaviour.spectatorsLabel>Participantes</VFET_TribalGathering_Behaviour.spectatorsLabel>
+  <VFET_TribalGathering_Behaviour.stages.0.postAction.text>{0}: La introducción ha terminado y comienza la reunión tribal.</VFET_TribalGathering_Behaviour.stages.0.postAction.text>
+  <VFET_AdvanceToNeolithic_Behaviour.roles.0.label>organizador</VFET_AdvanceToNeolithic_Behaviour.roles.0.label>
+  <VFET_AdvanceToNeolithic_Behaviour.spectatorGerund>participante</VFET_AdvanceToNeolithic_Behaviour.spectatorGerund>
+  <VFET_AdvanceToNeolithic_Behaviour.spectatorsLabel>Participantes</VFET_AdvanceToNeolithic_Behaviour.spectatorsLabel>
+  <VFET_AdvanceToNeolithic_Behaviour.stages.0.postAction.text>{0}: La introducción ha terminado y el grupo están analizando los datos disponibles.</VFET_AdvanceToNeolithic_Behaviour.stages.0.postAction.text>
+  <VFET_AdvanceToMedieval_Behaviour.roles.0.label>organizador</VFET_AdvanceToMedieval_Behaviour.roles.0.label>
+  <VFET_AdvanceToMedieval_Behaviour.spectatorGerund>participante</VFET_AdvanceToMedieval_Behaviour.spectatorGerund>
+  <VFET_AdvanceToMedieval_Behaviour.spectatorsLabel>Participantes</VFET_AdvanceToMedieval_Behaviour.spectatorsLabel>
+  <VFET_AdvanceToMedieval_Behaviour.stages.0.postAction.text>{0}: La introducción ha terminado y el grupo están analizando los datos disponibles.</VFET_AdvanceToMedieval_Behaviour.stages.0.postAction.text>
+  <VFET_AdvanceToIndustrial_Behaviour.roles.0.label>organizador</VFET_AdvanceToIndustrial_Behaviour.roles.0.label>
+  <VFET_AdvanceToIndustrial_Behaviour.spectatorGerund>participante</VFET_AdvanceToIndustrial_Behaviour.spectatorGerund>
+  <VFET_AdvanceToIndustrial_Behaviour.spectatorsLabel>Participantes</VFET_AdvanceToIndustrial_Behaviour.spectatorsLabel>
+  <VFET_AdvanceToIndustrial_Behaviour.stages.0.postAction.text>{0}: La introducción ha terminado y el grupo están analizando los datos disponibles.</VFET_AdvanceToIndustrial_Behaviour.stages.0.postAction.text>
+  <VFET_AdvanceToSpacer_Behaviour.roles.0.label>organizador</VFET_AdvanceToSpacer_Behaviour.roles.0.label>
+  <VFET_AdvanceToSpacer_Behaviour.spectatorGerund>participante</VFET_AdvanceToSpacer_Behaviour.spectatorGerund>
+  <VFET_AdvanceToSpacer_Behaviour.spectatorsLabel>Participantes</VFET_AdvanceToSpacer_Behaviour.spectatorsLabel>
+  <VFET_AdvanceToSpacer_Behaviour.stages.0.postAction.text>{0}: La introducción ha terminado y el grupo están analizando los datos disponibles.</VFET_AdvanceToSpacer_Behaviour.stages.0.postAction.text>
+  <VFET_AdvanceToUltra_Behaviour.roles.0.label>organizador</VFET_AdvanceToUltra_Behaviour.roles.0.label>
+  <VFET_AdvanceToUltra_Behaviour.spectatorGerund>participante</VFET_AdvanceToUltra_Behaviour.spectatorGerund>
+  <VFET_AdvanceToUltra_Behaviour.spectatorsLabel>Participantes</VFET_AdvanceToUltra_Behaviour.spectatorsLabel>
+  <VFET_AdvanceToUltra_Behaviour.stages.0.postAction.text>{0}: La introducción ha terminado y el grupo están analizando los datos disponibles.</VFET_AdvanceToUltra_Behaviour.stages.0.postAction.text>
+</LanguageData>

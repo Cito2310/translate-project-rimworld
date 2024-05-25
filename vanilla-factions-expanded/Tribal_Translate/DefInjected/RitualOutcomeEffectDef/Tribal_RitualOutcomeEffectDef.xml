@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFET_TribalGathering_Outcome.description>Dependiendo de la calidad del ritual, los participantes recibirán entre 2 a 12 puntos de investigación cada uno, dividiéndolo entre los proyectos de investigación del momento. Se priorizará los proyectos tecnológico de nivel Animal, y no se asignara puntos a proyectos neolíticos hasta que todos los proyectos animales estén completados.\n\nAdicionalmente, los resultados positivos tendrán posibilidades de atraer hombres salvajes o animales de granja a la colonia.</VFET_TribalGathering_Outcome.description>
+  <VFET_TribalGathering_Outcome.comps.0.label>cantidad de participantes</VFET_TribalGathering_Outcome.comps.0.label>
+  <VFET_TribalGathering_Outcome.comps.1.label>Total de habilidad intelectual</VFET_TribalGathering_Outcome.comps.1.label>
+  <VFET_TribalGathering_Outcome.comps.2.label>empezar una fogata</VFET_TribalGathering_Outcome.comps.2.label>
+  <VFET_TribalGathering_Outcome.comps.2.expectedThingLabelTip>una fogata</VFET_TribalGathering_Outcome.comps.2.expectedThingLabelTip>
+  <VFET_TribalGathering_Outcome.outcomeChances.0.label>Ineficaz</VFET_TribalGathering_Outcome.outcomeChances.0.label>
+  <VFET_TribalGathering_Outcome.outcomeChances.0.description>La {0} fue ineficaz! Intentamos discutir sobre nuevos desarrollos para la tribu, pero todo evoluciono hacia una cuestión de alimento y refugio...\n\n2 puntos de investigación por participante será distribuido a los proyectos de investigación disponible.</VFET_TribalGathering_Outcome.outcomeChances.0.description>
+  <VFET_TribalGathering_Outcome.outcomeChances.1.label>Aburrido</VFET_TribalGathering_Outcome.outcomeChances.1.label>
+  <VFET_TribalGathering_Outcome.outcomeChances.1.description>La {0} fue aburrida. Había algunas ideas flotando por ahí, pero sin mucha sustancia. Al menos fue algo entretenido.\n\n4 puntos de investigación por participante será distribuido a los proyectos de investigación disponible.</VFET_TribalGathering_Outcome.outcomeChances.1.description>
+  <VFET_TribalGathering_Outcome.outcomeChances.2.label>Alentadora</VFET_TribalGathering_Outcome.outcomeChances.2.label>
+  <VFET_TribalGathering_Outcome.outcomeChances.2.description>La {0} fue alentadora. Algunas ideas discutidas fueron muy buenas! Probablemente estemos ante algo aquí.\n\n8 puntos de investigación por participante será distribuido a los proyectos de investigación disponible.</VFET_TribalGathering_Outcome.outcomeChances.2.description>
+  <VFET_TribalGathering_Outcome.outcomeChances.3.label>Inspiradora</VFET_TribalGathering_Outcome.outcomeChances.3.label>
+  <VFET_TribalGathering_Outcome.outcomeChances.3.description>La {0} fue inspiradora! La tribu esta cerca de progresar!\n\n12 puntos de investigación por participante será distribuido a los proyectos de investigación disponible.</VFET_TribalGathering_Outcome.outcomeChances.3.description>
+  <VFET_AdvanceToNeolithic_Outcome.description>Hemos completado todos los proyectos de investigación pre-neolítico, avanzando al nivel de la tecnología neolítica. Esto te permitirá elegir una Piedra Angular, un gran bono solo para tu civilización.</VFET_AdvanceToNeolithic_Outcome.description>
+  <VFET_AdvanceToNeolithic_Outcome.comps.0.label>cantidad de participantes</VFET_AdvanceToNeolithic_Outcome.comps.0.label>
+  <VFET_AdvanceToMedieval_Outcome.description>Hemos completado todos los proyectos de investigación neolítico, avanzando al nivel de la tecnología medieval. Esto te permitirá elegir una Piedra Angular, un gran bono solo para tu civilización.</VFET_AdvanceToMedieval_Outcome.description>
+  <VFET_AdvanceToMedieval_Outcome.comps.0.label>cantidad de participantes</VFET_AdvanceToMedieval_Outcome.comps.0.label>
+  <VFET_AdvanceToIndustrial_Outcome.description>Hemos completado todos los proyectos de investigación medieval, avanzando al nivel de la tecnología industrial. Esto te permitirá elegir una Piedra Angular, un gran bono solo para tu civilización.</VFET_AdvanceToIndustrial_Outcome.description>
+  <VFET_AdvanceToIndustrial_Outcome.comps.0.label>cantidad de participantes</VFET_AdvanceToIndustrial_Outcome.comps.0.label>
+  <VFET_AdvanceToSpacer_Outcome.description>Hemos completado todos los proyectos de investigación industrial, avanzando al nivel de la tecnología espacial. Esto te permitirá elegir una Piedra Angular, un gran bono solo para tu civilización.</VFET_AdvanceToSpacer_Outcome.description>
+  <VFET_AdvanceToSpacer_Outcome.comps.0.label>cantidad de participantes</VFET_AdvanceToSpacer_Outcome.comps.0.label>
+  <VFET_AdvanceToUltra_Outcome.description>Hemos completado todos los proyectos de investigación espacial, avanzando al nivel de la tecnología ultra. Esto te permitirá elegir una Piedra Angular, un gran bono solo para tu civilización.</VFET_AdvanceToUltra_Outcome.description>
+  <VFET_AdvanceToUltra_Outcome.comps.0.label>cantidad de participantes</VFET_AdvanceToUltra_Outcome.comps.0.label>
+</LanguageData>

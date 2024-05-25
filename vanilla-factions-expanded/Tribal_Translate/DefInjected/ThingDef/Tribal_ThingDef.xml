@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFET_FloorPainting.label>piso pintado</VFET_FloorPainting.label>
+  <VFET_FloorPainting.description>Una pintura de piso de estilo neolítico, representando formas artisticas. Incrementa la belleza de la colonia a medida que cambia el nivel tecnológico.</VFET_FloorPainting.description>
+  <VFET_FloorPainting.modExtensions.0.constructionSkillRequirement.reportStringOverride>piso pintado.</VFET_FloorPainting.modExtensions.0.constructionSkillRequirement.reportStringOverride>
+  <VFET_SittingSpot.label>lugar para sentarse</VFET_SittingSpot.label>
+  <VFET_SittingSpot.description>Un lugar para sentarse. No es muy cómodo, y es marginalmente mejor que nada. Se puede usar en mesas, estaciones de trabajo y en otra parte.</VFET_SittingSpot.description>
+  <VFET_ResearchSpot.label>lugar de investigación</VFET_ResearchSpot.label>
+  <VFET_ResearchSpot.description>Un lugar para pensar, antes de poder construir una mesa de investigación. Los investigadores pueden descubrir nuevas cosas.</VFET_ResearchSpot.description>
+  <VFET_AnimalTrap.label>trampa para animales</VFET_AnimalTrap.label>
+  <VFET_AnimalTrap.description>Un gran y afilado pincho bajo tensión, conectado a un disparador por contacto. Si un animal toca el disparador, el pincho salta y lo golpea. Como está oculto bajo el terreno, no se puede colocar cerca de otra trampa. Los animales no lo sentirán cuando estén tranquilos, pero son bastante obvios para los humanos y lo evitarán.</VFET_AnimalTrap.description>
+  <VFET_LargeFire.label>fogata grande</VFET_LargeFire.label>
+  <VFET_LargeFire.description>Produce una gran cantidad de calor y humo, se quema después de un cuadrum. La luz de la gran fogata es visible desde lejos. Si se esta quemando en el exterior, hay una grandes posibilidades de atraer a hombres salvajes, como también de atraer asaltantes. Como toda fuente de calor, también se puede colocar en un interior cerrado para calentarlo. Se puede recargar. Debido a su tamaño e inestabilidad, lanzara chispas a su alrededor, que pueden empezar un fuego.</VFET_LargeFire.description>
+  <VFET_Apparel_TribalLight.label>túnica tribal ligero</VFET_Apparel_TribalLight.label>
+  <VFET_Apparel_TribalLight.description>Una prenda que solo cubre el torso, creada usando herramientas neolíticas. Si bien puede parecer primitivas, son muy efectivas para aislar contra las altas temperaturas.
+</VFET_Apparel_TribalLight.description>
+  <VFET_Apparel_TribalHeavy.label>túnica tribal pesado</VFET_Apparel_TribalHeavy.label>
+  <VFET_Apparel_TribalHeavy.description>Una prenda que cubre todo el cuerpo, creada usando herramientas neolíticas. Si bien puede parecer primitivas, es muy efectiva aislando de las bajas temperaturas. Además provee una pequeña protección en comparación al atuendo tribal normal.</VFET_Apparel_TribalHeavy.description>
+  <VFET_Apparel_TribalWar.label>túnica tribal de guerra</VFET_Apparel_TribalWar.label>
+  <VFET_Apparel_TribalWar.description>Una prenda que cubre todo el cuerpo, creada usando herramientas neolíticas. Si bien puede parecer primitivas, es muy efectiva aislando de las bajas temperaturas. Además provee una pequeña protección en comparación al atuendo tribal normal.</VFET_Apparel_TribalWar.description>
+  <VFET_LargeFireSpark.label>chispa</VFET_LargeFireSpark.label>
+  <VFET_Chunk.label>trozo</VFET_Chunk.label>
+  <VFET_Chunk.description>Un trozo de piedra, cuidadosamente elegido para tener el mayor potencial destructivo.</VFET_Chunk.description>
+  <VFET_Chunk.tools.rock.label>roca</VFET_Chunk.tools.rock.label>
+  <VFET_Stake.label>estaca</VFET_Stake.label>
+  <VFET_Stake.description>Un tronco de madera afilado. Genera un daño sustancial, pero es propenso a romperse y se deteriora muy rápido. Bueno para matar sanguífagos.</VFET_Stake.description>
+  <VFET_Stake.tools.shaft.label>mango</VFET_Stake.tools.shaft.label>
+  <VFET_Stake.tools.point.label>punto</VFET_Stake.tools.point.label>
+  <VFET_Throwspikes.label>pinchos arrojables</VFET_Throwspikes.label>
+  <VFET_Throwspikes.description>Los pinchos arrojables son una pequeños palos afilados de ambos lados. Tardan un poco en lanzarse, pero generan un daño razonable al impactar. Esta arma representa un conjunto de pinchos arrojables que se pueden lanzar una y otra vez.</VFET_Throwspikes.description>
+  <VFET_Throwspikes.tools.limb.label>rama</VFET_Throwspikes.tools.limb.label>
+  <VFET_Throwspikes.verbs.Verb_Shoot.label>pinchos arrojables</VFET_Throwspikes.verbs.Verb_Shoot.label>
+  <VFET_ThrowspikesThrown.label>pinchos arrojables</VFET_ThrowspikesThrown.label>
+</LanguageData>

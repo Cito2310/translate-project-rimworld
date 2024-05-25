@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFET_NoExpectations.stages.no_expectations.label>sin expectativas</VFET_NoExpectations.stages.no_expectations.label>
+  <VFET_NoExpectations.stages.no_expectations.description>Expectativas? Que es eso?</VFET_NoExpectations.stages.no_expectations.description>
+  <VFET_Ineffective.stages.ineffective_tribal_gathering.label>reunión tribal ineficaz</VFET_Ineffective.stages.ineffective_tribal_gathering.label>
+  <VFET_Ineffective.stages.ineffective_tribal_gathering.description>Intentamos discutir sobre nuevos desarrollos para la tribu, pero todo evoluciono hacia una cuestión de alimento y refugio...</VFET_Ineffective.stages.ineffective_tribal_gathering.description>
+  <VFET_Uninspiring.stages.uninspiring_tribal_gathering.label>reunión tribal aburrida</VFET_Uninspiring.stages.uninspiring_tribal_gathering.label>
+  <VFET_Uninspiring.stages.uninspiring_tribal_gathering.description>Había algunas ideas flotando por ahí, pero sin mucha sustancia. Al menos fue algo entretenido.</VFET_Uninspiring.stages.uninspiring_tribal_gathering.description>
+  <VFET_Encouraging.stages.encouraging_tribal_gathering.label>reunión tribal alentadora</VFET_Encouraging.stages.encouraging_tribal_gathering.label>
+  <VFET_Encouraging.stages.encouraging_tribal_gathering.description>Algunas ideas discutidas fueron muy buenas! Probablemente estemos ante algo aquí.</VFET_Encouraging.stages.encouraging_tribal_gathering.description>
+  <VFET_Inspiring.stages.inspiring_tribal_gathering.label>reunión tribal inspiradora</VFET_Inspiring.stages.inspiring_tribal_gathering.label>
+  <VFET_Inspiring.stages.inspiring_tribal_gathering.description>La tribu esta cerca de progresar!</VFET_Inspiring.stages.inspiring_tribal_gathering.description>
+</LanguageData>

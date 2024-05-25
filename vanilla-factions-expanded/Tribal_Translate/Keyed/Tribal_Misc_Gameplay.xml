@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFET.AvailableCornerstonePoint>Disponible punto de piedra angular</VFET.AvailableCornerstonePoint>
+  <VFET.AvailableCornerstonePoints>Disponible punto de piedra angular: {0}</VFET.AvailableCornerstonePoints>
+  <VFET.AvailableCornerstonePointDesc>Puedes gastar un punto de piedra angular para obtener un beneficio permanente para toda la colonia que te ayudará a dar forma a tu civilización.</VFET.AvailableCornerstonePointDesc>
+  <VFET.Cornerstones>Piedras Angulares</VFET.Cornerstones>
+  <VFET.CustomizeCornerstones>Personalizar Piedras Angulares</VFET.CustomizeCornerstones>
+  <VFET.Ethos>Ethos</VFET.Ethos>
+  <VFET.EthosUnlocked>Bloquea o desbloquea el Ethos de la facción. Cuando está bloqueado, el texto de Ethos no se regenerará automáticamente cuando desbloquees una nueva piedra angular.\n\nEl bloqueo de el Ethos está actualmente desactivado. El texto del ethos puede regenerarse automáticamente.</VFET.EthosUnlocked>
+  <VFET.EthosLocked>Bloquea o desbloquea el Ethos de la facción. Cuando está bloqueado, el texto de Ethos no se regenerará automáticamente cuando desbloquees una nueva piedra angular.\n\nEl bloqueo de el Ethos está actualmente activado. El texto del ethos puede no regenerarse automáticamente.</VFET.EthosLocked>
+  <VFET.CornerstonesExplanation>Ganas puntos de piedra angular al avanzar de era tecnológica</VFET.CornerstonesExplanation>
+  <VFET.EthosTooltip>El ethos de tu facción. Este texto no tiene impacto en el gamplay, pero esta asociado a las piedras angulares.</VFET.EthosTooltip>
+  <VFET.EditEthos>Editar ethos</VFET.EditEthos>
+  <VFET.UnlockCornerstone>Desbloquear piedra angular</VFET.UnlockCornerstone>
+  <VFET.StatsReport_Cornerstones>Piedras angulares relevantes</VFET.StatsReport_Cornerstones>
+  <VFET.WorkDisabledByMissingResearch>Investiga {0} para desbloquearlo</VFET.WorkDisabledByMissingResearch>
+  <VFET.FormIdeology>Formar ideología</VFET.FormIdeology>
+  <VFET.FormIdeologyDesc>¿En que deberían creer tus colonos? Estas creencias afectan el gameplay y lo visual. Podrás reclutar a otros según tus creencias, o adoptar sus creencias.\n\nElegir el clásico te permitirá jugar sin el sistema ideológico. Todo el contenido de la expansión permanecerá activado.\n\n\nElegir el fluido te permitirá una ideología básica y desarrollarla a través del tiempo.\n\n\nElegir fijo te permitirá personalizar toda la ideología y cada aspecto de esta. Esto puede tomar algo de tiempo.</VFET.FormIdeologyDesc>
+  <VFET.WildMenJoin>Un pequeño grupo de hombres salvajes, decidieron unirse a ustedes.</VFET.WildMenJoin>
+  <VFET.WildMenRetreat>Debido a la incertidumbre de poder vencerte, los hombres salvajes decidieron retirarse.</VFET.WildMenRetreat>
+  <VFET.WildMenJoinTitle>Hombres Salvajes te preguntan para unirse</VFET.WildMenJoinTitle>
+  <VFET.WildMenJoinDesc>Hombres salvajes de una tribu cercana encontraron su camino hacia {0}. Después de ver tus números, solicitaron unirse a ustedes. Creen que juntos tenéis más posibilidades contra los elementos.\n\nPuedes rechazarlos, pero es posible que tomen represalias.</VFET.WildMenJoinDesc>
+  <VFET.WildMenRaid>Asalto de hombres salvajes</VFET.WildMenRaid>
+  <VFET.WildMenRaidDesc>Hombres salvajes de una tribu cercana encontraron su camino hacia {0}. Después de ver tus números, decidieron asaltarte. Puedes capturar y reclutar a los sobrevivientes.</VFET.WildMenRaidDesc>
+  <VFET.Reject>Rechazar</VFET.Reject>
+  <VFET.WorkTypeName> tipo de trabajo de {0}</VFET.WorkTypeName>
+  <VFET_WildmanLetterLabel>Hombre salvaje se une</VFET_WildmanLetterLabel>
+  <VFET_WildmanLetter>Un hombre salvaje ha decidido unirse a tu colonia</VFET_WildmanLetter>
+  <VFET_AnimalsLetterLabel>Llegaron animales de granja</VFET_AnimalsLetterLabel>
+  <VFET_AnimalsLetter>Un grupo de animales de granja se han visto atraído por tu colonia y se unieron</VFET_AnimalsLetter>
+  <VFET_DiscoveryLabel>Descubierto {0}!</VFET_DiscoveryLabel>
+  <VFET_Discovery>Un nuevo proyecto de investigación fue descubierto durante una reunión tribal: {0}!\n\n{1}</VFET_Discovery>
+  <VFET.AnimalTrapSprung>Se ha activado una trampa animal en {0}</VFET.AnimalTrapSprung>
+  <VFET.LightLargeFire>Prender gran fogata</VFET.LightLargeFire>
+  <VFET.ExtinguishLargeFire>Extinguir gran fogata</VFET.ExtinguishLargeFire>
+  <VFET.LightLargeFireDesc>Cuando se quema, emitirá una gran humareda, teniendo posibilidades de atraer a hombres salvajes. Es muy inestable y puede prender fuego a todo lo que le rodea.</VFET.LightLargeFireDesc>
+  <VFET.ResearchLeft_Neolithic>Aún deben completarse algunas investigaciones sobre tecnología Animal.</VFET.ResearchLeft_Neolithic>
+  <Optional>opcional</Optional>
+  <RitualTargetGatherSpotInfo>Cualquier lugar de reunión, como una mesa.</RitualTargetGatherSpotInfo>
+  <VFET.MustPlaceOnFloorOrStonyTerrain>Debe colocarse sobre un suelo o terreno pedregoso.</VFET.MustPlaceOnFloorOrStonyTerrain>
+  <VFET.StatsReport_BeautyMultiplier>Multiplicador de belleza por colonia con nivel tecnológico {0}</VFET.StatsReport_BeautyMultiplier>
+  <VFET.NotAllReseachProjectsResearched>Requisitos no cumplidos: No se han investigado todos los proyectos de investigación de nivel tecnológico anterior.</VFET.NotAllReseachProjectsResearched>
+  <VFET.ManInBlackLabelReplacement>Hombre salvaje de negro</VFET.ManInBlackLabelReplacement>
+  <VFET.CustomizeNPCIdeologion>Personalizar NPC ideología</VFET.CustomizeNPCIdeologion>
+  <VFET.CustomizeNPCIdeologionDesc>Tu ideología se personalizará al investigar Cultura.</VFET.CustomizeNPCIdeologionDesc>
+</LanguageData>

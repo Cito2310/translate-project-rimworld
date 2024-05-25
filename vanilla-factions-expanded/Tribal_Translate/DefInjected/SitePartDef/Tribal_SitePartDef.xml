@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFET_WildMenSite.label>grupo de hombres salvajes</VFET_WildMenSite.label>
+  <VFET_WildMenSite.description>Un grupo de hombres salvajes intentan formar una tribu.</VFET_WildMenSite.description>
+  <VFET_WildMenSite.approachingReportString>Visitando {0}</VFET_WildMenSite.approachingReportString>
+  <VFET_WildMenSite.approachOrderString>Visitar {0}</VFET_WildMenSite.approachOrderString>
+  <VFET_WildMenSite.arrivedLetter>Llegando una reunión de hombres salvajes</VFET_WildMenSite.arrivedLetter>
+</LanguageData>
