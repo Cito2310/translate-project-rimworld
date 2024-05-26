@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VisitorGroupSpacerCruise.label>grupo visitante de un crucero espacial</VisitorGroupSpacerCruise.label>
+  <VisitorGroupSpacerLuxury.label>grupo visitante de un crucero espacial de lujo</VisitorGroupSpacerLuxury.label>
+  <VisitorGroupMax.label>grupo visitante maximo</VisitorGroupMax.label>
+  <VisitorGroupSelectFaction.label>grupo visitante (seleccionar facción)</VisitorGroupSelectFaction.label>
+  <HappyGuestJoins.label>invitados felices se unen</HappyGuestJoins.label>
+</LanguageData>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Hospitality_Faction.label>facción</Hospitality_Faction.label>
+  <Entertain.headerTip>Entretenerse</Entertain.headerTip>
+  <MakeFriends.headerTip>Hacer amigos</MakeFriends.headerTip>
+  <AccommodationArea.label>área para acomodarse</AccommodationArea.label>
+  <ShoppingArea.label>área de ventas</ShoppingArea.label>
+  <FriendsForRecruiting.headerTip>Amigos en la colonia</FriendsForRecruiting.headerTip>
+  <Hospitality.headerTip>Hospitalidad</Hospitality.headerTip>
+</LanguageData>

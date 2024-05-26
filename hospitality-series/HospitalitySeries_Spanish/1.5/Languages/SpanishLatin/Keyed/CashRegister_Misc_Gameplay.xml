@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MustPlaceOnTable>Debe colocarse en una mesa.</MustPlaceOnTable>
+  <MustPlaceOnFreeSurface>Debe colocarse en una superficie limpia</MustPlaceOnFreeSurface>
+  <TabRegisterShifts>Turnos</TabRegisterShifts>
+  <TabRegisterShiftsAdd>+</TabRegisterShiftsAdd>
+  <TabRegisterShiftsRemove>×</TabRegisterShiftsRemove>
+  <TabRegisterShiftsEmpty>Ninguno</TabRegisterShiftsEmpty>
+  <TabRegisterShiftsAssign>Asignar</TabRegisterShiftsAssign>
+  <TabRegisterShiftsRejectedMissingMods>Ningún mod usa esta registradora</TabRegisterShiftsRejectedMissingMods>
+  <TabRegisterShiftsRejectedNoWork>No puede hacer este tipo de trabajo</TabRegisterShiftsRejectedNoWork>
+  <TabRegisterShiftsStandby>Quedarse</TabRegisterShiftsStandby>
+  <TabRegisterShiftsStandbyDesc>Los colonos con un turno activo esperarán aquí. Sólo las tareas más importantes tienen prioridad.</TabRegisterShiftsStandbyDesc>
+  <InactiveIfEveryoneIsSleeping>Inactivo cuando todos duermen</InactiveIfEveryoneIsSleeping>
+  <InactiveIfEveryoneIsSleepingDesc>Esta registradora y todos sus turnos están inactivos cuando todos los colonos asignados estén durmiendo. También si están derribado y viajando.</InactiveIfEveryoneIsSleepingDesc>
+  <RegisterRadiusTitle>Radio</RegisterRadiusTitle>
+  <RegisterRadiusValue>Radio</RegisterRadiusValue>
+  <RegisterRadiusIncludeRegion>Incluir habitación</RegisterRadiusIncludeRegion>
+</LanguageData>
