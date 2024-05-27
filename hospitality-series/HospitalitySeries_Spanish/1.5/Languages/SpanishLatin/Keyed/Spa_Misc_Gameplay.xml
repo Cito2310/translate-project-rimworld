@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HospitalitySpa_VendingMachine>Máquina expendedora</HospitalitySpa_VendingMachine>
+  <HospitalitySpa_VendingMachineContains>Contiene</HospitalitySpa_VendingMachineContains>
+  <HospitalitySpa_VendingMachineTotal>Duración de las ganancias:</HospitalitySpa_VendingMachineTotal>
+  <HospitalitySpa_VendingMachineToggleDesc>Los visitantes pueden usar esta instalación</HospitalitySpa_VendingMachineToggleDesc>
+  <HospitalitySpa_SetPricing>Establecer la entrada gratuita</HospitalitySpa_SetPricing>
+  <HospitalitySpa_Free>Entrada gratuita</HospitalitySpa_Free>
+  <HospitalitySpa_Low>Entrada a un precio bajo</HospitalitySpa_Low>
+  <HospitalitySpa_Medium>Entrada a un precio por defecto</HospitalitySpa_Medium>
+  <HospitalitySpa_High>Entrada a un precio alto</HospitalitySpa_High>
+  <HospitalitySpa_EmptyAfterHours>Recolectar el dinero de estas instalaciones después de X horas</HospitalitySpa_EmptyAfterHours>
+  <HospitalitySpa_EmptyAfterHoursTooltip>Si el dinero de las instalaciones no es recolectado después de este numero de horas, alguien era a recolectarlo.</HospitalitySpa_EmptyAfterHoursTooltip>
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GuestExpensiveVendingmachine.stages.expensive_vendingmachine.label>máquina expendedora cara</GuestExpensiveVendingmachine.stages.expensive_vendingmachine.label>
+  <GuestExpensiveVendingmachine.stages.expensive_vendingmachine.description>He pagado mucho en una máquina expendedora.</GuestExpensiveVendingmachine.stages.expensive_vendingmachine.description>
+  <GuestCheapVendingmachine.stages.cheap_vendingmachine.label>máquina expendedora barata</GuestCheapVendingmachine.stages.cheap_vendingmachine.label>
+  <GuestCheapVendingmachine.stages.cheap_vendingmachine.description>La máquina expendedora estaba muy barata.</GuestCheapVendingmachine.stages.cheap_vendingmachine.description>
+  <GuestFreeVendingmachine.stages.free_vendingmachine.label>máquina expendedora gratuita</GuestFreeVendingmachine.stages.free_vendingmachine.label>
+  <GuestFreeVendingmachine.stages.free_vendingmachine.description>No he pagado nada en la máquina expendedora.</GuestFreeVendingmachine.stages.free_vendingmachine.description>
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Storefront_BrowseItems.reportString>Viendo mercadería.</Storefront_BrowseItems.reportString>
+  <Storefront_BuyItem.reportString>Comprando TargetA.</Storefront_BuyItem.reportString>
+  <Storefront_StandBy.reportString>Esperando trabajo de venta.</Storefront_StandBy.reportString>
+  <Storefront_Sell.reportString>Vendiendo TargetB a TargetA.</Storefront_Sell.reportString>
+</LanguageData>

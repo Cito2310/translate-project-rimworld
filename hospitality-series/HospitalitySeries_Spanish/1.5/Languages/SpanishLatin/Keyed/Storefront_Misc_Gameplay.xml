@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <StoreMessageIncomeToday>Tu tienda ha ganado {0} hoy.</StoreMessageIncomeToday>
+  <TabRegisterStore>Tienda</TabRegisterStore>
+  <StoreDefaultName>tienda {0}</StoreDefaultName>
+  <StoreTooltipRename>Renombrar esta tienda.</StoreTooltipRename>
+  <TabRegisterOpened>Abierto</TabRegisterOpened>
+  <TabRegisterOpenedTooltip>Si esta activado, los clientes puedes visitar si hay un turno activado.</TabRegisterOpenedTooltip>
+  <TabRegisterRadius>Radio</TabRegisterRadius>
+  <TabRegisterActiveStaff>Personal activo:</TabRegisterActiveStaff>
+  <TabRegisterCustomers>Clientes:</TabRegisterCustomers>
+  <TabRegisterStocked>Almacenado:</TabRegisterStocked>
+  <TabRegisterEarnedYesterday>Ganancias de ayer:</TabRegisterEarnedYesterday>
+  <TabRegisterEarnedToday>Ganancias de hoy:</TabRegisterEarnedToday>
+  <AlertNoRegister>Sin registradora</AlertNoRegister>
+  <AlertNoRegisterExplanation>Para abrir tu tienda, necesitas al menos una registradora. Puedes construirla desde la pestaña de producción.</AlertNoRegisterExplanation>
+  <AlertNoCashier>Sin cajero</AlertNoCashier>
+  <AlertNoCashierExplanation>Para empezar a funcionar tu tienda, necesitas al menos un turno, una registradora y un cajero capacitado.</AlertNoCashierExplanation>
+</LanguageData>
