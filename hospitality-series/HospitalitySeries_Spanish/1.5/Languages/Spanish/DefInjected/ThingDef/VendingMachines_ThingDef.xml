@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VendingMachine.label>máquina expendedora</VendingMachine.label>
+  <VendingMachine.description>Una máquina expendedora para los visitantes.</VendingMachine.description>
+  <MedievalVendingMachine.label>máquina expendedora medieval</MedievalVendingMachine.label>
+  <MedievalVendingMachine.description>Una máquina expendedora para los visitantes que no requiere energia.</MedievalVendingMachine.description>
+</LanguageData>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Sentence_CharmAttemptAccepted.rulePack.rulesStrings.0>sent-&gt;[RECIPIENT_nameDef] aplaudió a [RECIPIENT_possessive] con entusiasmo.</Sentence_CharmAttemptAccepted.rulePack.rulesStrings.0>
+  <Sentence_CharmAttemptAccepted.rulePack.rulesStrings.1>sent-&gt;[RECIPIENT_nameDef] sonríe.</Sentence_CharmAttemptAccepted.rulePack.rulesStrings.1>
+  <Sentence_CharmAttemptAccepted.rulePack.rulesStrings.2>sent-&gt;[RECIPIENT_nameDef] asintió con la cabeza.</Sentence_CharmAttemptAccepted.rulePack.rulesStrings.2>
+  <Sentence_CharmAttemptAccepted.rulePack.rulesStrings.3>sent-&gt;[RECIPIENT_nameDef] estaba ansioso de escuchar más.</Sentence_CharmAttemptAccepted.rulePack.rulesStrings.3>
+  <Sentence_CharmAttemptAccepted.rulePack.rulesStrings.4>sent-&gt;[RECIPIENT_nameDef] se muestra excitado.</Sentence_CharmAttemptAccepted.rulePack.rulesStrings.4>
+  <Sentence_CharmAttemptAccepted.rulePack.rulesStrings.5>sent-&gt;[RECIPIENT_nameDef] parecía alagado.</Sentence_CharmAttemptAccepted.rulePack.rulesStrings.5>
+  <Sentence_CharmAttemptAccepted.rulePack.rulesStrings.6>sent-&gt;[RECIPIENT_nameDef] miró a [INITIATOR_nameDef] con asombro.</Sentence_CharmAttemptAccepted.rulePack.rulesStrings.6>
+  <Sentence_CharmAttemptRejected.rulePack.rulesStrings.0>sent-&gt;[RECIPIENT_nameDef] se molesto</Sentence_CharmAttemptRejected.rulePack.rulesStrings.0>
+  <Sentence_CharmAttemptRejected.rulePack.rulesStrings.1>sent-&gt;[RECIPIENT_nameDef] sacudió con desaprobación su[RECIPIENT_possessive] cabeza.</Sentence_CharmAttemptRejected.rulePack.rulesStrings.1>
+  <Sentence_CharmAttemptRejected.rulePack.rulesStrings.2>sent-&gt;a [RECIPIENT_nameDef] no podría importarle menos.</Sentence_CharmAttemptRejected.rulePack.rulesStrings.2>
+  <Sentence_CharmAttemptRejected.rulePack.rulesStrings.3>sent-&gt;[RECIPIENT_nameDef] ya tuvo suficiente de esto.</Sentence_CharmAttemptRejected.rulePack.rulesStrings.3>
+  <Sentence_CharmAttemptRejected.rulePack.rulesStrings.4>sent-&gt;[RECIPIENT_nameDef] miró a su alrededor con aburrimiento.</Sentence_CharmAttemptRejected.rulePack.rulesStrings.4>
+  <Sentence_CharmAttemptRejected.rulePack.rulesStrings.5>sent-&gt;[RECIPIENT_nameDef] mencionó que se iría pronto.</Sentence_CharmAttemptRejected.rulePack.rulesStrings.5>
+  <Sentence_CharmAttemptRejected.rulePack.rulesStrings.6>sent-&gt;[RECIPIENT_nameDef] volteo [RECIPIENT_possessive] ojos.</Sentence_CharmAttemptRejected.rulePack.rulesStrings.6>
+</LanguageData>

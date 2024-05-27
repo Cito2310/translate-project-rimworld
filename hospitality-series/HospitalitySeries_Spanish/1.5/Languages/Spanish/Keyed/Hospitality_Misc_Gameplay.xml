@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RecruitAngerMultiple>{0} molesto {1} {2}x en esta fila.</RecruitAngerMultiple>
+  <RecruitFactionAnger>{0} de {1} esta molesto contigo por reclutar a {2} ({3}).</RecruitFactionAnger>
+  <RecruitFactionAngerLeaderless>Los miembros de {0} nunca volvieron a ver a su delegación ({2}).</RecruitFactionAngerLeaderless>
+  <LostGroupFactionAnger>{0} de {1} nunca volvieron a saber de esta delegación ({2}).</LostGroupFactionAnger>
+  <LostGroupFactionAngerLeaderless>Los miembros de {0} se enfadaron por reclutar a ({1}).</LostGroupFactionAngerLeaderless>
+  <RecruitFactionPlease>{0} de {1} se alegraron de que les hayas quitado a {2} ({3}).</RecruitFactionPlease>
+  <RecruitFactionPleaseLeaderless>Los miembros de {0} se alegran de que les hayas quitado a {1} ({2}).</RecruitFactionPleaseLeaderless>
+  <MessageGuestRecruitSuccess>{0} felizmente a decidido unirse a tu colonia!</MessageGuestRecruitSuccess>
+  <MessageGuestForcedRecruit>{0} ha sido forzado a unirse a tu colonia!</MessageGuestForcedRecruit>
+  <LetterLabelRecruitFactionChiefAnger>Jefe enfadada</LetterLabelRecruitFactionChiefAnger>
+  <LetterLabelRecruitFactionAnger>Facción enfadada</LetterLabelRecruitFactionAnger>
+  <LetterLabelRecruitFactionChiefPlease>Jefe agradecido</LetterLabelRecruitFactionChiefPlease>
+  <LetterLabelRecruitFactionPlease>Facción agradecida</LetterLabelRecruitFactionPlease>
+  <GuestCanBeRecruitedNow>{PAWN_labelShort} tiene suficiente amigos para ser reclutado.</GuestCanBeRecruitedNow>
+  <TextMote_CharmFail>Ofendido</TextMote_CharmFail>
+  <TextMote_CharmSuccess>Encantado</TextMote_CharmSuccess>
+  <VisitorsLeavingGreat>Están increíblemente asombrados de tu hospitalidad (Puntuación: {1})</VisitorsLeavingGreat>
+  <VisitorsLeavingGood>Disfrutaron de la estadía! (Puntuación: {1})</VisitorsLeavingGood>
+  <VisitorsLeavingNormal>Su estancia estuvo bien. (Puntuación: {1})</VisitorsLeavingNormal>
+  <VisitorsLeavingBad>Esperaban mucho mas de ti. (Puntuación: {1})</VisitorsLeavingBad>
+  <VisitorsLeavingAwful>Están bastante decepcionados de su estadía. (Puntuación: {1})</VisitorsLeavingAwful>
+  <MessageVisitorsLeavingCold>Los visitantes de {0} se han ido debido a que hace mucho frio.</MessageVisitorsLeavingCold>
+  <VisitorsSentAway>Los has enviado de vuelta.</VisitorsSentAway>
+  <VisitorsReturnSoon>Los visitantes volverán a visitarte en algunos días.</VisitorsReturnSoon>
+  <VisitorsReturnWhile>Los visitantes volverán dentro de un tiempo.</VisitorsReturnWhile>
+  <VisitorsReturnNotSoon>No volverán pronto</VisitorsReturnNotSoon>
+  <VisitorsReturnNot>Ellos han tenido suficiente de ti.</VisitorsReturnNot>
+  <VisitorsArrivedTitle>Los visitantes de {FACTION_name} han llegado a {WORLDOBJECT_label} (from {1})</VisitorsArrivedTitle>
+  <VisitorsArrivedDesc>Tienen miedos de entrar en tu territorio por las siguientes razones:\n{1}\nSi los rechazas puede que se queden en el área y vuelvan más tarde.</VisitorsArrivedDesc>
+  <VisitorsArrivedAccept>Asegurar seguridad</VisitorsArrivedAccept>
+  <VisitorsArrivedRefuse>Rechazar</VisitorsArrivedRefuse>
+  <VisitorsArrivedRefuseUntilBeds>Rechazar visitantes hasta que tenga camas para visitantes</VisitorsArrivedRefuseUntilBeds>
+  <VisitorsArrivedReasonNoBeds>No hay camas para invitados</VisitorsArrivedReasonNoBeds>
+  <VisitorsArrivedDontAskAgain>Siempre permitir que vengan (no volver a preguntar esto)</VisitorsArrivedDontAskAgain>
+  <LetterLabelPawnBecameGuest>{PAWN_labelShort} se convirtió en un visitante</LetterLabelPawnBecameGuest>
+  <LetterLabelPawnJoinedGroup>{PAWN_labelShort} se unió a los visitantes</LetterLabelPawnJoinedGroup>
+  <RescuedPawnBecameGuest>{PAWN_nameDef}, que fue rescatado, ahora es un invitado y {PAWN_pronoun} se quedará durante unas horas. Puedes esperar, enviarlo a {PAWN_objective} casa o reclutarlo {PAWN_objective}.\n\nCuando {PAWN_labelShort} deje el mapa, {PAWN_possessive} facción te agradecerá.</RescuedPawnBecameGuest>
+  <RescuedPawnJoinedGroup>{PAWN_nameDef}, que fue rescatado, se ha unido al grupo visitante de {PAWN_possessive} facción. Cuando {PAWN_pronoun} deje el mapa a salvo, estos te agracerán.</RescuedPawnJoinedGroup>
+  <DownedPawnBecameGuest>{PAWN_nameDef} ahora es un invitado y {PAWN_pronoun} se quedara durante algunas horas. Puedes esperar, enviarlo a {PAWN_objective} casa o reclutarlo {PAWN_objective}.</DownedPawnBecameGuest>
+  <DownedPawnJoinedGroup>{PAWN_nameDef} se ha unido al grupo visitante de {PAWN_possessive} facción.</DownedPawnJoinedGroup>
+  <LetterLabelHappyGuestJoins>{PAWN_labelShort} quiere quedarse</LetterLabelHappyGuestJoins>
+  <HappyGuestJoins>{PAWN_labelShort} de {0} hizo un trato con {PAWN_possessive} facción para poder unirse a ustedes como embajador. No empeoraras las relaciones con {PAWN_possessive} facción.\n\nTienes tiempo para decidir que hacer antes de que se vayan.</HappyGuestJoins>
+  <GuestBoughtItem>Un miembro de {FACTION_name} compró {ITEM_label} por {1} de plata.</GuestBoughtItem>
+  <GuestTookFreeItem>Un miembro de {FACTION_name} ha tomado {ITEM_label} gratis.</GuestTookFreeItem>
+  <InviteGuests>Invitar a un visitante</InviteGuests>
+  <GuestsCantBeHostile>no puede ser hostil</GuestsCantBeHostile>
+  <GuestsDontWantToCome>actualmente no esta interesado en visitarte</GuestsDontWantToCome>
+  <GuestsAlreadyComing>ya están viniendo y llegaran en {0}
+</GuestsAlreadyComing>
+  <GuestsOnTheirWay>Enviaron una delegación. Se espera que llegaran en {0}.</GuestsOnTheirWay>
+  <AreaToStay>Área permitida</AreaToStay>
+  <AreaToBuy>Área de tienda</AreaToBuy>
+  <AreaNoShopping>No hay tienda</AreaNoShopping>
+  <AreaToStayTooltip>Aquí es donde los invitados pueden dormir y pasar el rato.</AreaToStayTooltip>
+  <AreaToBuyTooltip>Los invitados pueden comprar los objetos de esta zona. Tiene que estar dentro de la zona de comodidades.</AreaToBuyTooltip>
+  <FriendsRequirement>Suficientes amigos para reclutar: {0}/{1}</FriendsRequirement>
+  <SeniorityRequirement>Suficientes amigos nobles para reclutar: {0}/{1}</SeniorityRequirement>
+  <RecruitmentPenalty>Daño a las relaciones por reclutar: {0} ({1} forzado)</RecruitmentPenalty>
+  <ImproveRelationship>Intentar entretener</ImproveRelationship>
+  <MakeFriends>Intentar crear una amistad</MakeFriends>
+  <LeaveAlone>Dejar en paz</LeaveAlone>
+  <FactionGoodwill>Buena voluntad de la facción</FactionGoodwill>
+  <Hospitality>Hospitalidad</Hospitality>
+  <MakeDefault>Hacer por Defecto</MakeDefault>
+  <SendAway>Despedir...</SendAway>
+  <SendAwayQuestion>¿Estas seguro en despedir a los visitantes de {FACTION_name}?\nSi los despides inmediatamente después de llegar, esto no afectara a las relaciones.</SendAwayQuestion>
+  <Recruit>Reclutar...</Recruit>
+  <CantRecruit>Este invitado no se puede reclutar (por ahora).</CantRecruit>
+  <CantForceRecruit>Este invitado no puede ser reclutado por la fuerza.</CantForceRecruit>
+  <RecruitQuestion>Puedes reclutar a {PAWN_nameDef}.\n\n{PAWN_pronoun} ya tiene suficientes amigos, el único costo son {0} puntos de amistad con {PAWN_possessive} facción.{1}\n\n¿Estas seguro que deseas reclutar {PAWN_objective}?</RecruitQuestion>
+  <ForceRecruit>Reclutar por la fuerza...</ForceRecruit>
+  <ForceRecruitQuestion>Puedes reclutar a {PAWN_nameDef} de forma inmediata.\n\n{PAWN_pronoun} no posee suficientes amigos como para unirse por {PAWN_possessive} propia voluntad, esto costara {0} puntos de amistad con {PAWN_possessive} facción. Esto será menor si {PAWN_pronoun} tienen más amistades. {1}{2}\n\n¿Estas seguro?</ForceRecruitQuestion>
+  <ForceRecruitWarning>\n\nEsto hará que se vuelvan hostiles de forma inmediata.</ForceRecruitWarning>
+  <ForceAcidifierWarning>\n\nActivará {PAWN_possessive} acidificador mortal.</ForceAcidifierWarning>
+  <NotEnoughFriends>A [PAWN_nameDef] no le agradan lo suficientes tus colonos (opinión &gt; {0}).</NotEnoughFriends>
+  <CanNowBeRecruited>[PAWN_nameDef] puede ser reclutado.</CanNowBeRecruited>
+  <OnlyJoinsByForce>[PAWN_nameDef] sólo puede unirse por la fuerza.</OnlyJoinsByForce>
+  <CanNeverRecruit>[PAWN_nameDef] no puede ser reclutado.</CanNeverRecruit>
+  <IsATrader>[PAWN_nameDef] es parte de una caravana comercial y no es un invitado</IsATrader>
+  <ImproveTooltip>Tu diplomático intenta aumentar temporalmente el animo de los visitantes. Un buen diplomático puede mejorar su efectividad en esto. Los malos diplomáticos pueden provocar que los visitantes se enfaden.</ImproveTooltip>
+  <TryRecruitTooltip>Tu diplomático intenta presentar a los invitados otros colonos. Un buen diplomático puede mejorar su efectividad en esto. Los malos diplomáticos pueden provocar que los visitantes se enfaden. Si los visitantes tienen amigos suficientes, se pueden unir a tu colonia</TryRecruitTooltip>
+  <RecruitTooltip>Tu invitado ya tiene suficiente amigos en tu colonia y ya puedes reclutarlo. Al reclutarlo dañara tus relaciones con su facción.</RecruitTooltip>
+  <MakeDefaultTooltip>Aplica las áreas y la configuración de entretenimiento a todos los visitantes actuales y futuros.</MakeDefaultTooltip>
+  <ForceRecruitTooltip>En lugar de esperar a que tus diplomáticos convenzan a este visitante, también puede obligarlo a quedarse. Sin embargo, el daño a la relación con esta facción será mucho mayor.</ForceRecruitTooltip>
+  <SendAwayTooltip>Pedir a este grupo de visitantes que vuelvan a su casa.</SendAwayTooltip>
+  <BedsFilled>Camas en uso: {0}/{1}</BedsFilled>
+  <MapSettings>Configuraciones del mapa...</MapSettings>
+  <GuestsWelcome>Permitir nuevos visitantes</GuestsWelcome>
+  <GuestsWelcomeTooltip>Si esta desactivado, no llegaran nuevos grupos de visitantes a esta colonia.</GuestsWelcomeTooltip>
+  <RefuseGuestsUntilBeds>Rechazar visitantes hasta que se construyan cama</RefuseGuestsUntilBeds>
+  <RefuseGuestsUntilBedsTooltip>si esta activado, no llegaran nuevos grupos de visitantes hasta que se hayan construidos camas para visitantes.</RefuseGuestsUntilBedsTooltip>
+  <GuestsCanTakeFoodForFree>Los visitantes pueden tomar la comida de forma gratuita</GuestsCanTakeFoodForFree>
+  <GuestsCanTakeFoodForFreeTooltip>Si esto esta activado, los visitantes tomaran y comerán los alimentos de tu almacen de forma gratuita.</GuestsCanTakeFoodForFreeTooltip>
+  <GuestsAskForSafety>Los visitantes preguntan si es seguro venir</GuestsAskForSafety>
+  <GuestsAskForSafetyTooltip>Si esta desactivado, los visitantes no te preguntaran si pueden venir al haber amenazas presentes.</GuestsAskForSafetyTooltip>
+  <StatsReport_MissingFriends>Amigos perdidos</StatsReport_MissingFriends>
+  <Hospitality_VendingMachine>Maquina expendedora</Hospitality_VendingMachine>
+  <Hospitality_VendingMachinePrice>Precio:</Hospitality_VendingMachinePrice>
+  <Hospitality_VendingMachineContains>Contenidos:</Hospitality_VendingMachineContains>
+  <Hospitality_VendingMachineToggleDesc>Permitir que los visitantes usen esto.</Hospitality_VendingMachineToggleDesc>
+  <Hospitality_VendingMachineThreshold>Vaciar:</Hospitality_VendingMachineThreshold>
+  <Hospitality_VendingMachineContent>Cotenido</Hospitality_VendingMachineContent>
+  <GuestBedFormat>visitante {0}</GuestBedFormat>
+  <CommandBedSetAsGuestLabel>Para visitantes</CommandBedSetAsGuestLabel>
+  <CommandBedSetAsGuestDesc>Esta cama es para invitados.</CommandBedSetAsGuestDesc>
+  <BedGizmoAttractiveness>Atractivo:</BedGizmoAttractiveness>
+  <BedSatisfiedTitles>Estos títulos reales aceptarán esta cama:</BedSatisfiedTitles>
+  <BedroomMustBeSingle>Solo una cama</BedroomMustBeSingle>
+  <NextTitleRequirements>Requisitos para el siguiente título:\n- {0}</NextTitleRequirements>
+  <AlertCantClaimBed>Visitante no puede reclamar una cama</AlertCantClaimBed>
+  <AlertCantClaimBedDesc>Estos visitantes no pueden reclamar las camas:\n\n{0}\nProvee camas gratuitas o más baratas, o regálales a los visitantes algo de plata.\nLas facciones con una mejor relación traerán más plata.</AlertCantClaimBedDesc>
+  <AlertNotEnoughBeds>Sin camas para visitantes suficientes</AlertNotEnoughBeds>
+  <AlertNotEnoughBedsDesc>No hay suficientes camas para los siguientes peones:\n\n{0}\nProvee más camas para los visitantes.</AlertNotEnoughBedsDesc>
+  <AlertHasNoFood>Los visitantes no tienen nada que comer</AlertHasNoFood>
+  <AlertHasNoFoodDesc>Estos visitantes no tienen nada que comer:\n\n{0}\nPon a la venta algo de comida, establece un dispensador de nutriente como maquina expendedora o regala a tus visitantes algo de plata o raciones. También puedes permitir a tus visitantes que tomen comida de forma gratuita.\nLas facciones con buenas relaciones vendrán con más plata.</AlertHasNoFoodDesc>
+  <DisableLimits>Desactivar limites de las opciones</DisableLimits>
+  <DisableLimitsDesc>Cuando esta opción está activada, puedes modificar las configuraciones por encima de lo recomendado para un juego justo.</DisableLimitsDesc>
+  <DisableVisitors>Desactivar visitantes</DisableVisitors>
+  <DisableVisitorsDesc>En realidad odias a los visitantes y te preguntas por qué tienes este mod.</DisableVisitorsDesc>
+  <DisableGuestsHelping>Desactivar ayuda de los visitantes</DisableGuestsHelping>
+  <DisableGuestsHelpingDesc>Si esta activado, los visitantes no harán ningún trabajo en tu colonia.</DisableGuestsHelpingDesc>
+  <DisableArtAndCraft>Desactivar que los visitantes ayuden con el arte y la fabricación</DisableArtAndCraft>
+  <DisableArtAndCraftDesc>Si esta activado, los visitantes no harán ningún trabajo artístico o fabricación.</DisableArtAndCraftDesc>
+  <DisableOperations>Desactivar que los visitantes ayuden con las operaciones</DisableOperations>
+  <DisableOperationsDesc>Si esta activado, los visitantes no harán ninguna operación medica.</DisableOperationsDesc>
+  <DisableMedical>Desactivar que los visitantes traten a los colonos</DisableMedical>
+  <DisableMedicalDesc>Si esta activado, los visitantes no harán ningún trabajo medico.</DisableMedicalDesc>
+  <DisableGifts>Desactivar que los visitantes dejen regalos</DisableGifts>
+  <DisableGiftsDesc>Si esta activado, los visitantes nunca dejaran objetos cuando estén satisfechos.</DisableGiftsDesc>
+  <MinGuestWorkSkill>Habilidad mínima para trabajar</MinGuestWorkSkill>
+  <MinGuestWorkSkillDesc>La habilidad mínima que los visitantes necesitan para poder ayudarte en las tareas. (recomendado: 7)</MinGuestWorkSkillDesc>
+  <GuestGroupSize>Tamaño de los grupos de visitantes</GuestGroupSize>
+  <GuestGroupSizeDesc>El tamaño que tendrán los grupos de visitantes. (recomendado: 1-16)</GuestGroupSizeDesc>
+  <MaxIncidentsPer3Days>Cantidad máxima de grupos que pueden venir en 3 días</MaxIncidentsPer3Days>
+  <!-- >The maximum amount of guest groups that can come within 3 days. (recommended: 5) -->
+  <MaxIncidentsPer3DaysDesc>La cantidad maxima de grupos de visitantes que pueden llegar en 3 días. (recomendado: 5)</MaxIncidentsPer3DaysDesc>
+  <SilverMultiplier>Multiplicador de plata</SilverMultiplier>
+  <SilverMultiplierDesc>La escala del aumento de la cantidad de plata que traen los invitados. Cuanto mayor la relación con la facción traerán más plata. (recomendado: 1)</SilverMultiplierDesc>
+  <DisableGuestsTab>Desactivar pestaña de invitados</DisableGuestsTab>
+  <DisableGuestsTabDesc>Esconde la pestaña de invitados de la barra principal.</DisableGuestsTabDesc>
+  <EnableBuyNotification>Activar notificaciones de compra</EnableBuyNotification>
+  <EnableBuyNotificationDesc>Recibirás un mensaje cuando los visitantes compran algo. Se puede revisar en el historial de mensajes.</EnableBuyNotificationDesc>
+  <EnableRecruitNotification>Activar notificación de amigos suficientes</EnableRecruitNotification>
+  <EnableRecruitNotificationDesc>Recibirás un mensaje cuando algún invitado tiene suficientes amigos para ser reclutado.</EnableRecruitNotificationDesc>
+  <DisableFriendlyGearDrops>Sin soltar inventario de los aliados</DisableFriendlyGearDrops>
+  <DisableFriendlyGearDropsDesc>Cuando un peón amigo es derribado, ya no dejará caer su inventario.</DisableFriendlyGearDropsDesc>
+  <UseIcon>Mostrar icono de la pestaña de invitados</UseIcon>
+  <UseIconDesc>Mostrar un icono en la pestaña de invitados en vez del texto</UseIconDesc>
+  <Hospitality_RecommendedOn>Se recomienda dejar esta configuración activada.</Hospitality_RecommendedOn>
+  <Hospitality_RecommendedOff>Se recomienda dejar esta configuración desactivada.</Hospitality_RecommendedOff>
+  <Hospitality_RecommendedRange>Se recomienda dejar esta configuración entre {0} y {1}.</Hospitality_RecommendedRange>
+</LanguageData>

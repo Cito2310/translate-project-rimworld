@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ErrorRequiresCashRegister>Ahora Gastronomy requiere el mod "Cash Register".\n\nTuve que crearlo para poder trabajar en nuevas funcionalidades. Perdón por las inconvinientes.\n\nSi agrega el mod 'Cash Register', Gastronomy seguirá funcionando como antes.\n\n\n-- Saludos, Orion</ErrorRequiresCashRegister>
+  <MessageIncomeToday>Tu restaurante hoy ha ganado {0}.</MessageIncomeToday>
+  <TabRegisterRestaurant>Comedor</TabRegisterRestaurant>
+  <RestaurantDefaultName>restaurante {0}</RestaurantDefaultName>
+  <RestaurantTooltipSelect>Seleccionar el restaurante para conectar a esta registradora.</RestaurantTooltipSelect>
+  <RestaurantTooltipRename>Renombrar este restaurante.</RestaurantTooltipRename>
+  <RestaurantTooltipAdd>Añadir otro restaurante.</RestaurantTooltipAdd>
+  <RestaurantTooltipRemove>Eliminar este restaurante.</RestaurantTooltipRemove>
+  <RestaurantDialogConfirmRemove>¿Estas seguro que deseas eliminar '{0}'?</RestaurantDialogConfirmRemove>
+  <TabRegisterOpened>Abierto</TabRegisterOpened>
+  <TabRegisterOpenedTooltip>Cuando está activado, los usuarios pueden realizar pedidos mientras un turno este activo.</TabRegisterOpenedTooltip>
+  <TabRegisterGuests>Permitir visitantes</TabRegisterGuests>
+  <TabRegisterGuestsTooltip>Cuando este activado los visitantes podrán pedir.</TabRegisterGuestsTooltip>
+  <TabRegisterColonists>Permitir colonos</TabRegisterColonists>
+  <TabRegisterColonistsTooltip>Cuando este activado los colonos podrán pedir.</TabRegisterColonistsTooltip>
+  <TabRegisterPrisoners>Permitir prisioneros</TabRegisterPrisoners>
+  <TabRegisterPrisonersTooltip>Cuando este activado los prisioneros podrán pedir.</TabRegisterPrisonersTooltip>
+  <TabRegisterSlaves>Permitir esclavos</TabRegisterSlaves>
+  <TabRegisterSlavesTooltip>Cuando este activado los esclavos podrán pedir.</TabRegisterSlavesTooltip>
+  <TabRegisterGuestPrice>Precio para visitantes: {0}</TabRegisterGuestPrice>
+  <TabRegisterGuestPriceTooltip>Un multiplicador del precio de mercado. Puedes ver los precios individuales cuando apuntas al objeto almacenado. Este multiplicador afectara al estado de animo de los clientes.</TabRegisterGuestPriceTooltip>
+  <TabRegisterGuestPriceFree>Gratis</TabRegisterGuestPriceFree>
+  <TabRegisterDebtTooltip>{0}: {1} (click para limpiar)</TabRegisterDebtTooltip>
+  <TabRegisterRadius>Radio</TabRegisterRadius>
+  <TabRegisterActiveStaff>Personal activo:</TabRegisterActiveStaff>
+  <TabRegisterSeats>Sillas:</TabRegisterSeats>
+  <TabRegisterPatrons>Clientes:</TabRegisterPatrons>
+  <TabRegisterTotalOrders>Pedidos totales:</TabRegisterTotalOrders>
+  <TabRegisterNeedsServing>Pedidos que necesitan entregarse:</TabRegisterNeedsServing>
+  <TabRegisterNeedsCooking>Pedidos que necesitan cocinarse:</TabRegisterNeedsCooking>
+  <TabRegisterStocked>Alimentos almacenados:</TabRegisterStocked>
+  <TabRegisterDebts>Facturas sin pagar:</TabRegisterDebts>
+  <TabRegisterEarnedYesterday>Ganancias de ayer:</TabRegisterEarnedYesterday>
+  <TabRegisterEarnedToday>Ganancias de hoy:</TabRegisterEarnedToday>
+  <CommandToggleDining>Comedor</CommandToggleDining>
+  <CommandToggleDiningDesc>Si esta activado, este lugar será usado como comedor.</CommandToggleDiningDesc>
+  <CommandSetDeco>Cambiar decoración</CommandSetDeco>
+  <CommandSetDecoDesc>Cambiar la decoración de la mesa.</CommandSetDecoDesc>
+  <JobDineGoReportSpecific>Comiendo en {0}.</JobDineGoReportSpecific>
+  <JobDineGoReport>Comiendo en un restaurante.</JobDineGoReport>
+  <AlertNoRegister>Sin registradora</AlertNoRegister>
+  <AlertNoRegisterExplanation>Has abierto tu restaurante, necesitas al menos una registradora. Se puede construir de la pestaña de producción.</AlertNoRegisterExplanation>
+  <AlertNoWaiter>Sin mesero</AlertNoWaiter>
+  <AlertNoWaiterExplanation>Para que tu restaurante este funcionando, necesitaran al menos un turno, una registradora y un mesero capacitado.</AlertNoWaiterExplanation>
+</LanguageData>

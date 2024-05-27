@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RecruitRelationshipDamage.label>reclutar daño las relaciones</RecruitRelationshipDamage.label>
+  <RecruitRelationshipDamage.description>Se daño la relación con la facción de esta persona al reclutarlo.</RecruitRelationshipDamage.description>
+  <ForcedRecruitRelationshipDamage.label>reclutamiento forzoso daño la relación</ForcedRecruitRelationshipDamage.label>
+  <ForcedRecruitRelationshipDamage.description>Se daño la relación con la facción de esta persona al reclutarlo forzosamente.</ForcedRecruitRelationshipDamage.description>
+  <RecruitEffectivity.label>factor para reclutar</RecruitEffectivity.label>
+  <RecruitEffectivity.description>La eficacia al tratar de encantar a las visitantes para que se unan a tu facción.</RecruitEffectivity.description>
+</LanguageData>

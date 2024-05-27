@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CharmGuest.reportString>Intentando reclutar a TargetA.</CharmGuest.reportString>
+  <GuestImproveRelationship.reportString>Intentando mejorar las relaciones con la facción de TargetA.</GuestImproveRelationship.reportString>
+  <BuyItem.reportString>Revisando a TargetA.</BuyItem.reportString>
+  <BrowseItems.reportString>Mirando mercadería.</BrowseItems.reportString>
+  <ClaimGuestBed.reportString>Reclamando cama.</ClaimGuestBed.reportString>
+  <VendingMachine_EmptyVendingMachine.reportString>Vaciando maquina expendedora.</VendingMachine_EmptyVendingMachine.reportString>
+  <ScroungeFood.reportString>Buscando comida de TargetA.</ScroungeFood.reportString>
+  <SwipeFood.reportString>Robando la comida de TargetA.</SwipeFood.reportString>
+</LanguageData>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Gastronomy_1_3_1_0.content>\n		- New: You can now add new restaurants via the register. Each needs at least one register.\n		|- New: Registers now have a radius. Only tables and food inside the radius will be served.\n		|- New: Japanese translation (thanks to Melnus)\n		|- Tweak: Waiting and serving gives social XP (thanks to Mitchell-Brown)\n		|img:images/Patron\n		|caption:Updating Gastronomy takes a lot of time. To sustain my mod development, I'm running a Patreon page that I need your help with. You can join my community for direct support, discussing my mods and giving feedback. So if you feel curious, grateful or generous, please take a look by clicking the link above!\n		|If this mod update causes issues, don't hesitate to contact me (and remember to include the Ctrl-F12 error log!).</Gastronomy_1_3_1_0.content>
+</LanguageData>

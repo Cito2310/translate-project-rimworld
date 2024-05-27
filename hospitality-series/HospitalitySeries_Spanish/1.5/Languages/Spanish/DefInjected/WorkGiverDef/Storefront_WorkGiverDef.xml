@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Storefront_StandBy.label>esperar</Storefront_StandBy.label>
+  <Storefront_StandBy.gerund>esperando</Storefront_StandBy.gerund>
+  <Storefront_StandBy.verb>esperar</Storefront_StandBy.verb>
+  <Storefront_Sell.label>vender</Storefront_Sell.label>
+  <Storefront_Sell.gerund>vendiendo</Storefront_Sell.gerund>
+  <Storefront_Sell.verb>vender</Storefront_Sell.verb>
+</LanguageData>

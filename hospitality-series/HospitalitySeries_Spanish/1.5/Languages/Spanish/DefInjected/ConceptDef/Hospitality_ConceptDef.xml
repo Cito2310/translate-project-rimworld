@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GuestBeds.label>Camas para invitados</GuestBeds.label>
+  <GuestBeds.helpText>Los invitados prefieren dormir en camas.\n\nPuedes convertir las camas en camas para huésped usando el botón "Para huésped"</GuestBeds.helpText>
+  <RecruitGuest.label>Reclutar invitado</RecruitGuest.label>
+  <RecruitGuest.helpText>Puedes reclutar a este invitado.\n\nReclutar a un invitado te costara relaciones con su facción. Asegúrate de tener a un colono con buenas habilidades sociales asignado para la negociación.</RecruitGuest.helpText>
+  <GuestWork.label>Visitantes pueden ayudarte</GuestWork.label>
+  <GuestWork.helpText>Los visitantes felices ayudarán con el trabajo si tienen las habilidades suficientes. Puedes desactivar esto o aumentar la habilidad requerida en las opciones del mod.</GuestWork.helpText>
+  <Hospitality.label>Hospitalidad</Hospitality.label>
+  <Hospitality.helpText>Cuando llegue un grupo de visitantes, utilizarán tus instalaciones para divertirse, dormirán en las camas de invitados y comprarán artículos en las áreas permitidas.\n\nSi disfrutaron su visita, esto aumentará tu reputación con su facción.</Hospitality.helpText>
+</LanguageData>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GuestDiplomacy.label>mejorar relaciones</GuestDiplomacy.label>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.0>r_logentry-&gt;[INITIATOR_nameDef] a tenido una conversación diplomática con [RECIPIENT_nameDef] sobre [TalkTopicLight].</GuestDiplomacy.logRulesInitiator.rulesStrings.0>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.1>r_logentry-&gt;[INITIATOR_nameDef] discute la relevancia política de [subject] con [RECIPIENT_nameDef].</GuestDiplomacy.logRulesInitiator.rulesStrings.1>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.2>r_logentry-&gt;[INITIATOR_nameDef] [complimented] la [PersonalCharacteristic] de [RECIPIENT_nameDef].</GuestDiplomacy.logRulesInitiator.rulesStrings.2>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.3>r_logentry-&gt;[INITIATOR_nameDef] [complimented] la facción de [RECIPIENT_nameDef].</GuestDiplomacy.logRulesInitiator.rulesStrings.3>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.4>r_logentry-&gt;[INITIATOR_nameDef] [complimented] la relación con [RECIPIENT_factionName].</GuestDiplomacy.logRulesInitiator.rulesStrings.4>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.5>r_logentry-&gt;[INITIATOR_nameDef] mando saludo a [PersonFamily] de [RECIPIENT_nameDef].</GuestDiplomacy.logRulesInitiator.rulesStrings.5>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.6>r_logentry-&gt;[INITIATOR_nameDef] intento conectar con [RECIPIENT_nameDef] compartiendo sobre su [opinion].</GuestDiplomacy.logRulesInitiator.rulesStrings.6>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.7>opinion-&gt;apoyo a [ConceptPositive]</GuestDiplomacy.logRulesInitiator.rulesStrings.7>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.8>opinion-&gt;disgusto por [ConceptNegative]</GuestDiplomacy.logRulesInitiator.rulesStrings.8>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.9>opinion-&gt;miedo a [ConceptNegative]</GuestDiplomacy.logRulesInitiator.rulesStrings.9>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.10>opinion-&gt;opinión acerca de [ConceptAny]</GuestDiplomacy.logRulesInitiator.rulesStrings.10>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.11>opinion-&gt;anhelo por [ConceptPositive]</GuestDiplomacy.logRulesInitiator.rulesStrings.11>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.12>complimented-&gt;alabó</GuestDiplomacy.logRulesInitiator.rulesStrings.12>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.13>complimented-&gt;elogió</GuestDiplomacy.logRulesInitiator.rulesStrings.13>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.14>complimented-&gt;alabó</GuestDiplomacy.logRulesInitiator.rulesStrings.14>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.15>complimented-&gt;aplaudió</GuestDiplomacy.logRulesInitiator.rulesStrings.15>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.16>complimented-&gt;celebró</GuestDiplomacy.logRulesInitiator.rulesStrings.16>
+  <CharmGuestAttempt.label>intento atraer</CharmGuestAttempt.label>
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.0>r_logentry-&gt;[INITIATOR_nameDef] [saidwords] [RECIPIENT_nameDef].</CharmGuestAttempt.logRulesInitiator.rulesStrings.0>
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.1>r_logentry-&gt;[INITIATOR_nameDef] le dijo a [RECIPIENT_nameDef] sobre todas las [ConceptPositive] de [INITIATOR_factionName].</CharmGuestAttempt.logRulesInitiator.rulesStrings.1>
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.2>r_logentry-&gt;[INITIATOR_nameDef] le dijo a [RECIPIENT_nameDef] cosas [adjwords] sobre otros colonos.</CharmGuestAttempt.logRulesInitiator.rulesStrings.2>
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.3>r_logentry-&gt;[INITIATOR_nameDef] presento a [RECIPIENT_nameDef] a otros colonos.</CharmGuestAttempt.logRulesInitiator.rulesStrings.3>
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.4>saidwords-&gt;le dijo palabras [adjwords] a</CharmGuestAttempt.logRulesInitiator.rulesStrings.4>
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.5>saidwords-&gt;expreso [ConceptPositive] hacia</CharmGuestAttempt.logRulesInitiator.rulesStrings.5>
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.6>saidwords-&gt;hizo gestos [adjwords] hacia</CharmGuestAttempt.logRulesInitiator.rulesStrings.6>
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.7>adjwords-&gt;intrigantes</CharmGuestAttempt.logRulesInitiator.rulesStrings.7>
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.8>adjwords-&gt;amables</CharmGuestAttempt.logRulesInitiator.rulesStrings.8>
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.9>adjwords-&gt;atractivas</CharmGuestAttempt.logRulesInitiator.rulesStrings.9>
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.10>adjwords-&gt;amigables</CharmGuestAttempt.logRulesInitiator.rulesStrings.10>
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.11>adjwords-&gt;encantadores</CharmGuestAttempt.logRulesInitiator.rulesStrings.11>
+  <ScroungeFoodAttempt.label>buscar comida</ScroungeFoodAttempt.label>
+  <ScroungeFoodAttempt.logRulesInitiator.rulesStrings.0>r_logentry-&gt;[INITIATOR_nameDef] le rogó a [RECIPIENT_nameDef] algo de comida.</ScroungeFoodAttempt.logRulesInitiator.rulesStrings.0>
+  <ScroungeFoodAttempt.logRulesInitiator.rulesStrings.1>r_logentry-&gt;[INITIATOR_nameDef] le pidió a [RECIPIENT_nameDef] algo para comer.</ScroungeFoodAttempt.logRulesInitiator.rulesStrings.1>
+  <ScroungeFoodAttempt.logRulesInitiator.rulesStrings.2>r_logentry-&gt;[INITIATOR_nameDef] miro fijamente la comida de [RECIPIENT_nameDef] con nostalgia</ScroungeFoodAttempt.logRulesInitiator.rulesStrings.2>
+</LanguageData>

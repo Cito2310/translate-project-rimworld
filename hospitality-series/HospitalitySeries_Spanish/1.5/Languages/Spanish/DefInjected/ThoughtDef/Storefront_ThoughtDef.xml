@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Storefront_Serviced.stages.awful_service.label>servicio terrible</Storefront_Serviced.stages.awful_service.label>
+  <Storefront_Serviced.stages.bad_service.label>mal servicio</Storefront_Serviced.stages.bad_service.label>
+  <Storefront_Serviced.stages.decent_service.label>servicio decente</Storefront_Serviced.stages.decent_service.label>
+  <Storefront_Serviced.stages.good_service.label>buen servicio</Storefront_Serviced.stages.good_service.label>
+  <Storefront_Serviced.stages.excellent_service.label>excelente servicio</Storefront_Serviced.stages.excellent_service.label>
+  <Storefront_HadToWait.stages.had_to_wait_to_be_served.label>tuve que esperar hasta ser atendido</Storefront_HadToWait.stages.had_to_wait_to_be_served.label>
+  <Storefront_HadToWait.stages.had_to_wait_to_be_served.description>He estado un gran tiempo en la tienda</Storefront_HadToWait.stages.had_to_wait_to_be_served.description>
+  <Storefront_ServicedMood.stages.had_awful_service.label>he tenido un pésimo servicio</Storefront_ServicedMood.stages.had_awful_service.label>
+  <Storefront_ServicedMood.stages.had_awful_service.description>Me han tratado de forma pésima.</Storefront_ServicedMood.stages.had_awful_service.description>
+  <Storefront_ServicedMood.stages.had_bad_service.label>he tenido un mal servicio</Storefront_ServicedMood.stages.had_bad_service.label>
+  <Storefront_ServicedMood.stages.had_bad_service.description>Me han tratado de bastante mal.</Storefront_ServicedMood.stages.had_bad_service.description>
+  <Storefront_ServicedMood.stages.had_decent_service.label>he tenido un servicio decente</Storefront_ServicedMood.stages.had_decent_service.label>
+  <Storefront_ServicedMood.stages.had_decent_service.description>Me han tratado de forma decente.</Storefront_ServicedMood.stages.had_decent_service.description>
+  <Storefront_ServicedMood.stages.had_good_service.label>he tenido un buen servicio</Storefront_ServicedMood.stages.had_good_service.label>
+  <Storefront_ServicedMood.stages.had_good_service.description>Me han tratado muy bien.</Storefront_ServicedMood.stages.had_good_service.description>
+  <Storefront_ServicedMood.stages.had_excellent_service.label>he tenido un excelente servicio</Storefront_ServicedMood.stages.had_excellent_service.label>
+  <Storefront_ServicedMood.stages.had_excellent_service.description>Me han tratado de forma excepcional.</Storefront_ServicedMood.stages.had_excellent_service.description>
+</LanguageData>

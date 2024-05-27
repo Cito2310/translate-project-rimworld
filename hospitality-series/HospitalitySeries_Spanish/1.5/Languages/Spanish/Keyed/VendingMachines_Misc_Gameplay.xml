@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VendingMachines_VendingMachine>Maquina expendedora</VendingMachines_VendingMachine>
+  <VendingMachines_VendingMachineContains>Contiene:</VendingMachines_VendingMachineContains>
+  <VendingMachines_VendingMachineTotal>Duración de las ganancias:</VendingMachines_VendingMachineTotal>
+  <VendingMachines_VendingMachineToggleDesc>Permitir que los visitantes usen esta instalación</VendingMachines_VendingMachineToggleDesc>
+  <VendingMachines_SetPricing>Establecer precios</VendingMachines_SetPricing>
+  <VendingMachines_Free>Dar gratis</VendingMachines_Free>
+  <VendingMachines_Low>Dar un 25% de descuento</VendingMachines_Low>
+  <VendingMachines_Medium>Precios por defecto</VendingMachines_Medium>
+  <VendingMachines_High>Hacer un 25% más caro</VendingMachines_High>
+  <EmptyAfterHours>Vaciar máquina expendedora cada X horas</EmptyAfterHours>
+  <EmptyAfterHoursTooltip>Si la máquinas expendedoras no es vaciada antes de este tiempo, alguien ira a vaciarla.</EmptyAfterHoursTooltip>
+</LanguageData>

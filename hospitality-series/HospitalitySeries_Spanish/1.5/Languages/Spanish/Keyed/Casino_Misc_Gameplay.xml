@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HospitalityCasino_VendingMachine>máquina tragamonedas</HospitalityCasino_VendingMachine>
+  <HospitalityCasino_VendingMachineContains>Contiene:</HospitalityCasino_VendingMachineContains>
+  <HospitalityCasino_VendingMachineTotal>Duración de las ganancias:</HospitalityCasino_VendingMachineTotal>
+  <HospitalityCasino_VendingMachineToggleDesc>Permitir que los invitados usen esta instalación.</HospitalityCasino_VendingMachineToggleDesc>
+  <HospitalityCasino_SetPricing>Establecer Precios</HospitalityCasino_SetPricing>
+  <HospitalityCasino_Free>Juego gratis</HospitalityCasino_Free>
+  <HospitalityCasino_Low>Apuesta baja - corte de la casa baja</HospitalityCasino_Low>
+  <HospitalityCasino_Medium>Apuesta por defecto - corte de la casa por defecto</HospitalityCasino_Medium>
+  <HospitalityCasino_High>Apuesta alta- corte de la casa alta</HospitalityCasino_High>
+  <HospitalityCasino_EmptyAfterHours>Las máquinas tragamonedas se vaciarán después de X horas</HospitalityCasino_EmptyAfterHours>
+  <HospitalityCasino_EmptyAfterHoursTooltip>Si una máquina tragamonedas no se ha vaciado después de este número de horas, alguien irá a vaciarla.</HospitalityCasino_EmptyAfterHoursTooltip>
+</LanguageData>

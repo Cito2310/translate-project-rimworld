@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Recruiter.label>reclutar visitantes y prisioneros</Recruiter.label>
+  <Recruiter.gerund>reclutando</Recruiter.gerund>
+  <Recruiter.verb>reclutar</Recruiter.verb>
+  <Diplomat.label>entretener visistantes</Diplomat.label>
+  <Diplomat.gerund>atraer</Diplomat.gerund>
+  <Diplomat.verb>atraer</Diplomat.verb>
+  <Hospitality_WithdrawVendingMachineEarnings.label>vaciar maquina expendedora</Hospitality_WithdrawVendingMachineEarnings.label>
+  <Hospitality_WithdrawVendingMachineEarnings.gerund>vaciando maquina expendedora</Hospitality_WithdrawVendingMachineEarnings.gerund>
+  <Hospitality_WithdrawVendingMachineEarnings.verb>vaciar maquina expendedora</Hospitality_WithdrawVendingMachineEarnings.verb>
+</LanguageData>

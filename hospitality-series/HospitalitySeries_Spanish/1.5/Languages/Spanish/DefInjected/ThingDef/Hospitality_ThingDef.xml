@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SleepingSpotGuest.label>lugar para dormir para visitantes</SleepingSpotGuest.label>
+  <SleepingSpotGuest.description>Designa un lugar en el suelo donde la gente dormirá. No es cómodo.</SleepingSpotGuest.description>
+  <DoubleSleepingSpotGuest.label>lugar doble para dormir para visitantes</DoubleSleepingSpotGuest.label>
+  <DoubleSleepingSpotGuest.description>Designa un lugar en el suelo donde dos personas deben dormir juntas. No es cómodo.</DoubleSleepingSpotGuest.description>
+  <BedGuest.label>cama para visitantes</BedGuest.label>
+  <BedGuest.description>Un cómodo colchón con sábanas sobre una estructura para descansar.</BedGuest.description>
+  <DoubleBedGuest.label>cama doble para visitantes</DoubleBedGuest.label>
+  <DoubleBedGuest.description>Una sencilla cama del doble ancho en la que caben dos personas.</DoubleBedGuest.description>
+  <RoyalBedGuest.label>cama real para visitantes</RoyalBedGuest.label>
+  <RoyalBedGuest.description>Una lujosa cama con incrustaciones de oro digna de la realeza. Muy cómoda y hermosa, es una obra de arte en sí misma. Tiene capacidad para dos personas.</RoyalBedGuest.description>
+  <HospitalBedGuest.label>cama hospitalaria para visitantes</HospitalBedGuest.label>
+  <HospitalBedGuest.description>Una cama especialmente diseñada para su uso en hospitales. Ajustable a un paciente y dotada de equipos integrados, mejora los resultados médicos con respecto a las camas normales.</HospitalBedGuest.description>
+  <BedrollGuest.label>saco de dormir para visitantes</BedrollGuest.label>
+  <BedrollGuest.description>Una cama simple que se apoya en el suelo, generalmente hecha de tela o cuero, a menudo forrada con piel. Es ligero y puede enrollarse para facilitar el transporte, pero no es tan cómodo como una cama típica. Las caravanas pueden utilizar sacos de dormir mientras viajan para dormir mejor.</BedrollGuest.description>
+  <BedrollDoubleGuest.label>saco de dormir doble para visitantes</BedrollDoubleGuest.label>
+  <BedrollDoubleGuest.description>Una simple cama doble que se apoya en el suelo, generalmente hecha de tela o cuero, a menudo forrada con piel. Es ligero y puede enrollarse para facilitar el transporte, pero no es tan cómodo como una cama típica. Las caravanas pueden utilizar sacos de dormir mientras viajan para dormir mejor.</BedrollDoubleGuest.description>
+  <DeathrestCasketGuest.label>sarcófago de mortisueño para visitantes</DeathrestCasketGuest.label>
+  <DeathrestCasketGuest.description>Un sarcófago médico que acelera el proceso del mortisueño. Puede conectarse a otros dispositivos que confieren bonificaciones adicionales al mortisueño. El número de dispositivos que se pueden conectar depende de la capacidad de reanimación de la persona, que se puede ver al seleccionarla.\n\nSolo los que tienen el gen de mortisueño pueden usar el sarcófago de mortisueño.</DeathrestCasketGuest.description>
+  <BabySleepingSpotGuest.label>lugar para dormir (bebés) para visitantes</BabySleepingSpotGuest.label>
+  <BabySleepingSpotGuest.description>Designa un lugar en el suelo donde la gente debe dejar a un bebé. No es cómodo.</BabySleepingSpotGuest.description>
+  <CribGuest.label>cuna para visitantes</CribGuest.label>
+  <CribGuest.description>Una acogedora cama con laterales enrejados seguros, perfecta para un bebé dormilón. Una cuna de alta calidad hará feliz al bebé. Se pueden colocar varias cunas en un dormitorio sin convertirlo en una barraca.</CribGuest.description>
+</LanguageData>

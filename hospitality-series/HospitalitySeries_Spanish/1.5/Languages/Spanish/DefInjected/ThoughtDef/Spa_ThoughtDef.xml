@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ExpensiveSpa.stages.expensive_spa.label>spa caro</ExpensiveSpa.stages.expensive_spa.label>
+  <ExpensiveSpa.stages.expensive_spa.description>Tuve que pagar bastante por este spa.</ExpensiveSpa.stages.expensive_spa.description>
+  <CheapSpa.stages.cheap_spa.label>spa barato</CheapSpa.stages.cheap_spa.label>
+  <CheapSpa.stages.cheap_spa.description>Este spa esta a un precio muy bueno.</CheapSpa.stages.cheap_spa.description>
+</LanguageData>

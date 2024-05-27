@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Gastronomy_StandBy.label>esperar</Gastronomy_StandBy.label>
+  <Gastronomy_StandBy.gerund>esperando</Gastronomy_StandBy.gerund>
+  <Gastronomy_StandBy.verb>esperar</Gastronomy_StandBy.verb>
+  <Gastronomy_TakeOrder.label>tomar pedidos</Gastronomy_TakeOrder.label>
+  <Gastronomy_TakeOrder.gerund>tomando pedido</Gastronomy_TakeOrder.gerund>
+  <Gastronomy_TakeOrder.verb>tomar pedido</Gastronomy_TakeOrder.verb>
+  <Gastronomy_Serve.label>atender</Gastronomy_Serve.label>
+  <Gastronomy_Serve.gerund>atendiendo</Gastronomy_Serve.gerund>
+  <Gastronomy_Serve.verb>atender</Gastronomy_Serve.verb>
+  <Gastronomy_MakeTable.label>preparar mesas</Gastronomy_MakeTable.label>
+  <Gastronomy_MakeTable.gerund>preparar mesa</Gastronomy_MakeTable.gerund>
+  <Gastronomy_MakeTable.verb>preparar mesa</Gastronomy_MakeTable.verb>
+</LanguageData>

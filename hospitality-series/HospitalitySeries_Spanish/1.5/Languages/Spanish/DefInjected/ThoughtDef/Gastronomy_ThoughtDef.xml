@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Gastronomy_Serviced.stages.awful_service.label>pésimo servicio</Gastronomy_Serviced.stages.awful_service.label>
+  <Gastronomy_Serviced.stages.bad_service.label>mal servicio</Gastronomy_Serviced.stages.bad_service.label>
+  <Gastronomy_Serviced.stages.decent_service.label>servicio decente</Gastronomy_Serviced.stages.decent_service.label>
+  <Gastronomy_Serviced.stages.good_service.label>buen servicio</Gastronomy_Serviced.stages.good_service.label>
+  <Gastronomy_Serviced.stages.excellent_service.label>servicio excelente</Gastronomy_Serviced.stages.excellent_service.label>
+  <Gastronomy_HadToWait.stages.had_to_wait_for_food.label>tuvo que esperar por la comida</Gastronomy_HadToWait.stages.had_to_wait_for_food.label>
+  <Gastronomy_HadToWait.stages.had_to_wait_for_food.description>A tenido que esperar bastante en el restaurante.</Gastronomy_HadToWait.stages.had_to_wait_for_food.description>
+  <Gastronomy_ServicedMood.stages.had_awful_service.label>tuvo un servicio pésimo</Gastronomy_ServicedMood.stages.had_awful_service.label>
+  <Gastronomy_ServicedMood.stages.had_awful_service.description>Me han tratado de forma pésima.</Gastronomy_ServicedMood.stages.had_awful_service.description>
+  <Gastronomy_ServicedMood.stages.had_bad_service.label>tuvo un mal servicio</Gastronomy_ServicedMood.stages.had_bad_service.label>
+  <Gastronomy_ServicedMood.stages.had_bad_service.description>Me han tratado de mala manera.</Gastronomy_ServicedMood.stages.had_bad_service.description>
+  <Gastronomy_ServicedMood.stages.had_decent_service.label>tuvo un servicio decente</Gastronomy_ServicedMood.stages.had_decent_service.label>
+  <Gastronomy_ServicedMood.stages.had_decent_service.description>Me han tratado de forma decente.</Gastronomy_ServicedMood.stages.had_decent_service.description>
+  <Gastronomy_ServicedMood.stages.had_good_service.label>tuvo un buen servicio</Gastronomy_ServicedMood.stages.had_good_service.label>
+  <Gastronomy_ServicedMood.stages.had_good_service.description>Me han tratado bastante bien.</Gastronomy_ServicedMood.stages.had_good_service.description>
+  <Gastronomy_ServicedMood.stages.had_excellent_service.label>tuvo un excelente servicio</Gastronomy_ServicedMood.stages.had_excellent_service.label>
+  <Gastronomy_ServicedMood.stages.had_excellent_service.description>Me han tratado de forma excepcional.</Gastronomy_ServicedMood.stages.had_excellent_service.description>
+  <Gastronomy_BoughtFood.stages.received_free_food.label>recibió comida gratuita</Gastronomy_BoughtFood.stages.received_free_food.label>
+  <Gastronomy_BoughtFood.stages.received_free_food.description>La comida es gratis!</Gastronomy_BoughtFood.stages.received_free_food.description>
+  <Gastronomy_BoughtFood.stages.received_very_cheap_food.label>recibió comida muy barata</Gastronomy_BoughtFood.stages.received_very_cheap_food.label>
+  <Gastronomy_BoughtFood.stages.received_very_cheap_food.description>La comida es muy barata.</Gastronomy_BoughtFood.stages.received_very_cheap_food.description>
+  <Gastronomy_BoughtFood.stages.received_cheap_food.label>recibió comida barata</Gastronomy_BoughtFood.stages.received_cheap_food.label>
+  <Gastronomy_BoughtFood.stages.received_cheap_food.description>La comida es barata.</Gastronomy_BoughtFood.stages.received_cheap_food.description>
+  <Gastronomy_BoughtFood.stages.received_food.label>recibió comida</Gastronomy_BoughtFood.stages.received_food.label>
+  <Gastronomy_BoughtFood.stages.received_food.description>La comida es asequible</Gastronomy_BoughtFood.stages.received_food.description>
+  <Gastronomy_BoughtFood.stages.received_expensive_food.label>recibió comida cara</Gastronomy_BoughtFood.stages.received_expensive_food.label>
+  <Gastronomy_BoughtFood.stages.received_expensive_food.description>La comida esta cara.</Gastronomy_BoughtFood.stages.received_expensive_food.description>
+  <Gastronomy_BoughtFood.stages.received_very_expensive_food.label>recibió comida muy cara</Gastronomy_BoughtFood.stages.received_very_expensive_food.label>
+  <Gastronomy_BoughtFood.stages.received_very_expensive_food.description>La comida esta muy cara.</Gastronomy_BoughtFood.stages.received_very_expensive_food.description>
+</LanguageData>

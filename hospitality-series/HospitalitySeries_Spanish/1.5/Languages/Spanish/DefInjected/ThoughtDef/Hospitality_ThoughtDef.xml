@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GuestClaimedBed.stages.free_bed.label>cama gratis</GuestClaimedBed.stages.free_bed.label>
+  <GuestClaimedBed.stages.free_bed.description>Mi cama es gratis así que no me puedo quejar</GuestClaimedBed.stages.free_bed.description>
+  <GuestClaimedBed.stages.extremely_overpriced_bed.label>cama extremadamente cara</GuestClaimedBed.stages.extremely_overpriced_bed.label>
+  <GuestClaimedBed.stages.extremely_overpriced_bed.description>Mi cama es absurdamente cara para lo que es.</GuestClaimedBed.stages.extremely_overpriced_bed.description>
+  <GuestClaimedBed.stages.overpriced_bed.label>cama cara</GuestClaimedBed.stages.overpriced_bed.label>
+  <GuestClaimedBed.stages.overpriced_bed.description>Mi cama es muy cara para lo que es.</GuestClaimedBed.stages.overpriced_bed.description>
+  <GuestClaimedBed.stages.lame_bed.label>cama algo cara</GuestClaimedBed.stages.lame_bed.label>
+  <GuestClaimedBed.stages.lame_bed.description>Mi cama no vale su precio.</GuestClaimedBed.stages.lame_bed.description>
+  <GuestClaimedBed.stages.appropriate_bed.label>cama apropiada</GuestClaimedBed.stages.appropriate_bed.label>
+  <GuestClaimedBed.stages.appropriate_bed.description>El precio para esta cama esta bien.</GuestClaimedBed.stages.appropriate_bed.description>
+  <GuestClaimedBed.stages.good_value_bed.label>cama a buen precio</GuestClaimedBed.stages.good_value_bed.label>
+  <GuestClaimedBed.stages.good_value_bed.description>Hice un buen trato por mi cama</GuestClaimedBed.stages.good_value_bed.description>
+  <GuestClaimedBed.stages.great_value_bed.label>cama a un excelente precio</GuestClaimedBed.stages.great_value_bed.label>
+  <GuestClaimedBed.stages.great_value_bed.description>Hice un excelente trato por mi cama.</GuestClaimedBed.stages.great_value_bed.description>
+  <GuestAngered.stages.angered_by_recruitment.label>furioso por reclutamiento</GuestAngered.stages.angered_by_recruitment.label>
+  <GuestAngered.stages.angered_by_recruitment.description>¡Estos tipos están tratando de robarnos a nuestros miembros!</GuestAngered.stages.angered_by_recruitment.description>
+  <GuestRecruitmentForced.stages.involuntarily_recruited.label>reclutado involuntariamante</GuestRecruitmentForced.stages.involuntarily_recruited.label>
+  <GuestRecruitmentForced.stages.involuntarily_recruited.description>No estoy seguro de si debería estar aquí.</GuestRecruitmentForced.stages.involuntarily_recruited.description>
+  <GuestOffendedRelationship.stages.insulted_by_colonist.label>insultado por colono</GuestOffendedRelationship.stages.insulted_by_colonist.label>
+  <GuestOffendedRelationship.stages.insulted_by_colonist.description>Estos chicos son unos perdedores!</GuestOffendedRelationship.stages.insulted_by_colonist.description>
+  <GuestOffendedRelationship.stages.insulted_by_colonist.labelSocial>me han insultado</GuestOffendedRelationship.stages.insulted_by_colonist.labelSocial>
+  <GuestPleasedRelationship.stages.charmed_by_colonist.label>seducido por colono</GuestPleasedRelationship.stages.charmed_by_colonist.label>
+  <GuestPleasedRelationship.stages.charmed_by_colonist.description>Estas personas son buenas!</GuestPleasedRelationship.stages.charmed_by_colonist.description>
+  <GuestPleasedRelationship.stages.charmed_by_colonist.labelSocial>me han seducido</GuestPleasedRelationship.stages.charmed_by_colonist.labelSocial>
+  <EndorsedByRecruiter.stages.endorsed_by_recruiter.label>respaldado por reclutador</EndorsedByRecruiter.stages.endorsed_by_recruiter.label>
+  <EndorsedByRecruiter.stages.endorsed_by_recruiter.description>Esta persona me ha recomendado.</EndorsedByRecruiter.stages.endorsed_by_recruiter.description>
+  <EndorsedByRecruiter.stages.endorsed_by_recruiter.labelSocial>me han respaldado</EndorsedByRecruiter.stages.endorsed_by_recruiter.labelSocial>
+  <GuestDismissiveAttitude.stages.tired_of_talking.label>cansado de hablar</GuestDismissiveAttitude.stages.tired_of_talking.label>
+  <GuestDismissiveAttitude.stages.tired_of_talking.description>Ya termine de hablar por ahora. Déjame en paz.</GuestDismissiveAttitude.stages.tired_of_talking.description>
+  <GuestExpensiveFood.stages.expensive_food.label>comida cara</GuestExpensiveFood.stages.expensive_food.label>
+  <GuestExpensiveFood.stages.expensive_food.description>Tuve que pagar demasiado por la comida.</GuestExpensiveFood.stages.expensive_food.description>
+  <GuestCheapFood.stages.cheap_food.label>comida barata</GuestCheapFood.stages.cheap_food.label>
+  <GuestCheapFood.stages.cheap_food.description>He comprado la comida a un muy buen precio en el dispensador</GuestCheapFood.stages.cheap_food.description>
+  <GuestCantAffordBed.stages.cant_afford_a_bed.label>no puedo permitirme una cama</GuestCantAffordBed.stages.cant_afford_a_bed.label>
+  <GuestCantAffordBed.stages.cant_afford_a_bed.description>no puedo permitirme ninguna cama.</GuestCantAffordBed.stages.cant_afford_a_bed.description>
+  <GuestHasNoFood.stages.no_food.label>no hay comida</GuestHasNoFood.stages.no_food.label>
+  <GuestHasNoFood.stages.no_food.description>No tengo nada que comer.</GuestHasNoFood.stages.no_food.description>
+  <GuestBedCount.stages.no_guest_beds.label>no hay camas para visitantes</GuestBedCount.stages.no_guest_beds.label>
+  <GuestBedCount.stages.no_guest_beds.description>Ellos ni siquiera tienen camas.</GuestBedCount.stages.no_guest_beds.description>
+  <GuestBedCount.stages.not_enough_guest_beds.label>no hay suficiente camas para visitantes</GuestBedCount.stages.not_enough_guest_beds.label>
+  <GuestBedCount.stages.not_enough_guest_beds.description>Debería haber más camas para los visitantes.</GuestBedCount.stages.not_enough_guest_beds.description>
+  <GuestBedCount.stages.enough_beds.label>camas suficientes</GuestBedCount.stages.enough_beds.label>
+  <GuestBedCount.stages.enough_beds.description>Hay suficientes camas en la habitación para todos.</GuestBedCount.stages.enough_beds.description>
+  <GuestBedCount.stages.lots_of_beds.label>muchas camas</GuestBedCount.stages.lots_of_beds.label>
+  <GuestBedCount.stages.lots_of_beds.description>Wow, hay tantas camas!</GuestBedCount.stages.lots_of_beds.description>
+</LanguageData>
