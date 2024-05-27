@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>Hospitality Series - Traducción al Español y Español Latino</name>
+    <author>Cito2310</author>
+    <packageId>Cito2310.HospitalitySeriesSpanish</packageId>
+    <supportedVersions>
+        <li>1.5</li>
+    </supportedVersions>
+
+    <modDependencies>
+
+    </modDependencies>
+
+    <loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Royalty</li>
+		<li>Ludeon.RimWorld.Ideology</li>
+		<li>Ludeon.RimWorld.Biotech</li>
+		<li>brrainz.harmony</li>
+		<li>unlimitedhugs.hugslib</li>
+		<li>orion.hospitality</li>
+		<li>orion.cashregister</li>
+		<li>adamas.vendingmachines</li>
+		<li>orion.gastronomy</li>
+		<li>adamas.hospitalitycasino</li>
+		<li>adamas.hospitalityspa</li>
+		<li>adamas.hospitalitystorefront</li>
+	</loadAfter>
+
+    <description>
+Agrega una traducción al español de toda la serie de mod "Hospitality".
+
+INCLUYE
+- Hospitality
+- Gastronomy
+- Cash Register
+- Hospitality: Vending Machines
+- Hospitality: Spa
+- Hospitality: Casino
+- Hospitality: Storefront
+    </description>
+
+</ModMetaData>
