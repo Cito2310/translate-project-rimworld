@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEP_WarcasketTrait.degreeDatas.warcasket.label>ataúd de guerra</VFEP_WarcasketTrait.degreeDatas.warcasket.label>
+  <VFEP_WarcasketTrait.degreeDatas.warcasket.description>{PAWN_nameDef} esta siendo sepultado en un ataúd de guerra. No sentirá más dolor debido a esto, ya no sufrirá shock por dolor o quedará inconsciente por el dolor. Debido a lo voluminoso que es la armadura y a la gran cantidad de energía que necesita, {PAWN_nameDef} no es capaz de realizar ningún trabajo.</VFEP_WarcasketTrait.degreeDatas.warcasket.description>
+  <VFEP_Shellcasket.degreeDatas.shellcasket.label>ataúd</VFEP_Shellcasket.degreeDatas.shellcasket.label>
+  <VFEP_Shellcasket.degreeDatas.shellcasket.description>{PAWN_nameDef} fue sepultado en un ataúd de guerra y luego fue brutalmente sacado de uno. El daño neuronal y nervioso causado por la desconexión es tan severo que {PAWN_nameDef} sufre un dolor constante y agonizante, apenas puede ordenar sus ideas. Sólo instalar a {PAWN_nameDef} nuevamente en un ataúd de guerra puede curar los síntomas.</VFEP_Shellcasket.degreeDatas.shellcasket.description>
+</LanguageData>

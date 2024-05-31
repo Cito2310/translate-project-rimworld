@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEP_Warcaskets.label>ataúdes de guerra.</VFEP_Warcaskets.label>
+  <VFEP_Warcaskets.description>Construir forja de ataúdes de guerra para poder fabricar las partes básicas de los ataúdes de guerra y equipar a los colonos con los ataúdes de guerra.</VFEP_Warcaskets.description>
+  <VFEP_Warcaskets.generalRules.rulesStrings.0>subject-&gt;desarrollo la infantería mecanizada</VFEP_Warcaskets.generalRules.rulesStrings.0>
+  <VFEP_Warcaskets.generalRules.rulesStrings.1>subject_story-&gt;iniciando la era de los ataúdes de guerra, transformando a los soldados a pie a titanes para la guerra</VFEP_Warcaskets.generalRules.rulesStrings.1>
+  <VFEP_Warcaskets.generalRules.rulesStrings.2>subject_story-&gt;dominando el arte de la fabricación los ataúdes de guerra, fusionando el metal y el poder en una fuerza singular</VFEP_Warcaskets.generalRules.rulesStrings.2>
+  <VFEP_Warcaskets.generalRules.rulesStrings.3>subject_story-&gt;marco el comienzo de la nueva era de la guerra, donde la línea entre el hombre y la maquina se desvanece.</VFEP_Warcaskets.generalRules.rulesStrings.3>
+  <VFEP_Warcaskets.generalRules.rulesStrings.4>subject_gerund-&gt;pionero en el combate del futuro</VFEP_Warcaskets.generalRules.rulesStrings.4>
+  <VFEP_AdvancedWarcaskets.label>ataúdes de guerra avanzado</VFEP_AdvancedWarcaskets.label>
+  <VFEP_AdvancedWarcaskets.description>Construir variantes mejoradas de los ataúdes de guerra, que se inclinan por la velocidad, la protección o algo más balanceado.</VFEP_AdvancedWarcaskets.description>
+  <VFEP_AdvancedWarcaskets.generalRules.rulesStrings.0>subject-&gt;evolución de ataúd de guerra</VFEP_AdvancedWarcaskets.generalRules.rulesStrings.0>
+  <VFEP_AdvancedWarcaskets.generalRules.rulesStrings.1>subject_story-&gt;refinando el diseño del ataúd de guerra en la velocidad, durabilidad y en la versatilidad, estableciendo nuevos estándares en la guerra mecanizada</VFEP_AdvancedWarcaskets.generalRules.rulesStrings.1>
+  <VFEP_AdvancedWarcaskets.generalRules.rulesStrings.2>subject_story-&gt;creando maquinas de guerras capaces de bailar en el campo de batalla con una gracia mortal</VFEP_AdvancedWarcaskets.generalRules.rulesStrings.2>
+  <VFEP_AdvancedWarcaskets.generalRules.rulesStrings.3>subject_story-&gt;equilibro la trinidad de velocidad, protección y poder de fuego en una sinfonía de destrucción</VFEP_AdvancedWarcaskets.generalRules.rulesStrings.3>
+  <VFEP_AdvancedWarcaskets.generalRules.rulesStrings.4>subject_gerund-&gt;mejorando la anatomía de la guerra</VFEP_AdvancedWarcaskets.generalRules.rulesStrings.4>
+  <VFEP_SpecialisedWarcaskets.label>ataúdes de guerra especializados</VFEP_SpecialisedWarcaskets.label>
+  <VFEP_SpecialisedWarcaskets.description>Fabricar ataúdes de guerra diseñados con roles específicos.</VFEP_SpecialisedWarcaskets.description>
+  <VFEP_SpecialisedWarcaskets.generalRules.rulesStrings.0>subject-&gt;soluciones de combate personalizados</VFEP_SpecialisedWarcaskets.generalRules.rulesStrings.0>
+  <VFEP_SpecialisedWarcaskets.generalRules.rulesStrings.1>subject_story-&gt;diseñando ataúdes de guerra con roles específicos, desde asesinos silenciosos hasta juggernauts imparables</VFEP_SpecialisedWarcaskets.generalRules.rulesStrings.1>
+  <VFEP_SpecialisedWarcaskets.generalRules.rulesStrings.2>subject_story-&gt;rompiendo los moldes de la guerra tradicional, introduciendo nuevas unidades con técnicas y tácticas específicas</VFEP_SpecialisedWarcaskets.generalRules.rulesStrings.2>
+  <VFEP_SpecialisedWarcaskets.generalRules.rulesStrings.3>subject_story-&gt;elevando el programa de los ataúdes de guerra a nuevas alturas con máquinas de guerras hechas a medida</VFEP_SpecialisedWarcaskets.generalRules.rulesStrings.3>
+  <VFEP_SpecialisedWarcaskets.generalRules.rulesStrings.4>subject_gerund-&gt;especializando a la guerra mecanizada</VFEP_SpecialisedWarcaskets.generalRules.rulesStrings.4>
+  <VFEP_SpacerWarcaskets.label>ataúdes de guerra espacial</VFEP_SpacerWarcaskets.label>
+  <VFEP_SpacerWarcaskets.description>Manufacturando ataúdes de guerra de la era Espacial, el pináculo de tecnología de guerra.</VFEP_SpacerWarcaskets.description>
+  <VFEP_SpacerWarcaskets.generalRules.rulesStrings.0>subject-&gt;pináculo de la guerra mecanizada</VFEP_SpacerWarcaskets.generalRules.rulesStrings.0>
+  <VFEP_SpacerWarcaskets.generalRules.rulesStrings.1>subject_story-&gt;creando ataúdes de guerra con la dureza de la tecnología de la era Espacial, encarnando el zenit de ingeniería militar</VFEP_SpacerWarcaskets.generalRules.rulesStrings.1>
+  <VFEP_SpacerWarcaskets.generalRules.rulesStrings.2>subject_story-&gt;fusionando la vanguardia de la tecnología de la era espacial con el antiguo arte de la guerra, creando máquinas de batalla incomparables.</VFEP_SpacerWarcaskets.generalRules.rulesStrings.2>
+  <VFEP_SpacerWarcaskets.generalRules.rulesStrings.3>subject_story-&gt;redefiniendo la guerra con los ataúdes de guerra con leyendas reencarnadas</VFEP_SpacerWarcaskets.generalRules.rulesStrings.3>
+  <VFEP_SpacerWarcaskets.generalRules.rulesStrings.4>subject_gerund-&gt;alcanzando la cúspide de la evolución del combate</VFEP_SpacerWarcaskets.generalRules.rulesStrings.4>
+  <VFEP_WarcasketRemoval.label>remover ataúd de combate</VFEP_WarcasketRemoval.label>
+  <VFEP_WarcasketRemoval.description>Desbloquea la operación "remover ataúd de guerra" removiendo al colono de su ataúd de guerra, perdiendo ambos brazos y piernas, y dejando al ataúd de guerra en chatarra.</VFEP_WarcasketRemoval.description>
+  <VFEP_WarcasketRemoval.generalRules.rulesStrings.0>subject-&gt;el costo de la guerra</VFEP_WarcasketRemoval.generalRules.rulesStrings.0>
+  <VFEP_WarcasketRemoval.generalRules.rulesStrings.1>subject_story-&gt;desarrollando técnicas para poder recuperar a los guerreros de sus cárcel de metal, una victoria agridulce sobre la maquina</VFEP_WarcasketRemoval.generalRules.rulesStrings.1>
+  <VFEP_WarcasketRemoval.generalRules.rulesStrings.2>subject_story-&gt;enfrentó la sombría realidad de extraer el núcleo humano de la máquina de guerra, sacrificando las extremidades por la vida</VFEP_WarcasketRemoval.generalRules.rulesStrings.2>
+  <VFEP_WarcasketRemoval.generalRules.rulesStrings.3>subject_story-&gt;convirtiendo la promesa del poder mecanizado en el dolor de la pérdida, y cada retiro de un ataúd de guerra es un recordatorio del costo de la guerra</VFEP_WarcasketRemoval.generalRules.rulesStrings.3>
+  <VFEP_WarcasketRemoval.generalRules.rulesStrings.4>subject_gerund-&gt;desentrañando el vínculo entre la carne y el acero</VFEP_WarcasketRemoval.generalRules.rulesStrings.4>
+  <VFEP_WarcasketWeaponry.label>armamento de ataúd de guerra</VFEP_WarcasketWeaponry.label>
+  <VFEP_WarcasketWeaponry.description>Construye armas diseñadas para ser montadas en ataúdes de guerras.</VFEP_WarcasketWeaponry.description>
+  <VFEP_WarcasketWeaponry.generalRules.rulesStrings.0>subject-&gt;innovación armamentistica</VFEP_WarcasketWeaponry.generalRules.rulesStrings.0>
+  <VFEP_WarcasketWeaponry.generalRules.rulesStrings.1>subject_story-&gt;diseñando armamentos devastadores para ataúdes de guerra, convirtiéndolos en arsenales ambulantes</VFEP_WarcasketWeaponry.generalRules.rulesStrings.1>
+  <VFEP_WarcasketWeaponry.generalRules.rulesStrings.2>subject_story-&gt;cerrando el espacio entre el poder de la artillería y la flexibilidad de la infantería</VFEP_WarcasketWeaponry.generalRules.rulesStrings.2>
+  <VFEP_WarcasketWeaponry.generalRules.rulesStrings.3>subject_story-&gt;otorgó a los ataúdes de guerra la potencia para diezmar, defender y dominar</VFEP_WarcasketWeaponry.generalRules.rulesStrings.3>
+  <VFEP_WarcasketWeaponry.generalRules.rulesStrings.4>subject_gerund-&gt;armando a los gigantes de guerra</VFEP_WarcasketWeaponry.generalRules.rulesStrings.4>
+  <VFEP_SpacerWarcasketWeaponry.label>armamento espacial de ataúd de guerra</VFEP_SpacerWarcasketWeaponry.label>
+  <VFEP_SpacerWarcasketWeaponry.description>Utiliza la nueva tecnología espacial para crear armas gigantes diseñadas para usarlas con ataúdes de guerra.</VFEP_SpacerWarcasketWeaponry.description>
+  <VFEP_SpacerWarcasketWeaponry.generalRules.rulesStrings.0>subject-&gt;armamento de grado espacial</VFEP_SpacerWarcasketWeaponry.generalRules.rulesStrings.0>
+  <VFEP_SpacerWarcasketWeaponry.generalRules.rulesStrings.1>subject_story-&gt;aprovechó los misterios de la tecnología espacial para crear armas de potencia inigualable para los ataúdes de guerra</VFEP_SpacerWarcasketWeaponry.generalRules.rulesStrings.1>
+  <VFEP_SpacerWarcasketWeaponry.generalRules.rulesStrings.2>subject_story-&gt;marcó el comienzo de la era donde los ataúdes de guerra ejercían el poder de poder alterar el curso de la guerra con un simple disparo</VFEP_SpacerWarcasketWeaponry.generalRules.rulesStrings.2>
+  <VFEP_SpacerWarcasketWeaponry.generalRules.rulesStrings.3>subject_story-&gt;uniendo el arte de la guerra con la ciencia de la estrellas, creando armamentos nacidos del cosmos</VFEP_SpacerWarcasketWeaponry.generalRules.rulesStrings.3>
+  <VFEP_SpacerWarcasketWeaponry.generalRules.rulesStrings.4>subject_gerund-&gt;ejerciendo la ira de las estrellas</VFEP_SpacerWarcasketWeaponry.generalRules.rulesStrings.4>
+  <VFEP_SweatFermentation.label>fermentación de sudor</VFEP_SweatFermentation.label>
+  <VFEP_SweatFermentation.description>Crea trajes que combinan la destilación de alcohol y la síntesis de pasta nutritiva para producir ron reciclando los desechos humanos.</VFEP_SweatFermentation.description>
+  <VFEP_SweatFermentation.generalRules.rulesStrings.0>subject-&gt;ingenio bioquímico</VFEP_SweatFermentation.generalRules.rulesStrings.0>
+  <VFEP_SweatFermentation.generalRules.rulesStrings.1>subject_story-&gt;convirtiendo el ciclo de los desechos en un recurso de sustento y espíritu, creando ron con el sudor de su trabajo</VFEP_SweatFermentation.generalRules.rulesStrings.1>
+  <VFEP_SweatFermentation.generalRules.rulesStrings.2>subject_story-&gt;desdibujaron la línea entre la destilación y la desesperación, encontrando innovación en lo no convencional</VFEP_SweatFermentation.generalRules.rulesStrings.2>
+  <VFEP_SweatFermentation.generalRules.rulesStrings.3>subject_story-&gt;creando un ciclo autosuficiente de trabajo, desperdicio y whisky, alimentando tanto el cuerpo y la moral</VFEP_SweatFermentation.generalRules.rulesStrings.3>
+  <VFEP_SweatFermentation.generalRules.rulesStrings.4>subject_gerund-&gt;brebajes resilientes a partir de desechos</VFEP_SweatFermentation.generalRules.rulesStrings.4>
+</LanguageData>

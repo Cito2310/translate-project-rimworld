@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEPirates.EntombingWarning>Sepultar colonos en un ataúd de guerra es una operación permanente y no se puede revertir sin dolorosas consecuencias.</VFEPirates.EntombingWarning>
+  <VFEM.MissingMaterials>Materiales faltantes: {0}</VFEM.MissingMaterials>
+  <VFEP.Occupied>Ocupado</VFEP.Occupied>
+  <VFEP.WarcasketCannotBeRemoved>El ataúd de guerra no puede ser removido</VFEP.WarcasketCannotBeRemoved>
+  <VFEP_NextSpawnedRumIn>Produciendo ron con los fluidos corporales</VFEP_NextSpawnedRumIn>
+  <VFEP.MessagePawnArrived>{PAWN_nameDef} han llegado.</VFEP.MessagePawnArrived>
+  <VFEP.RequiresWarcasket>Requiere ataúd de guerra</VFEP.RequiresWarcasket>
+  <VFEP.ExplodeIn>Explotará en</VFEP.ExplodeIn>
+  <VFEP.ChooseCurses>Seleccionar Tus Maldiciones</VFEP.ChooseCurses>
+  <VFEP.ChooseCurses.Desc>Cuantas más maldiciones selecciones, más peones te permitirá tener tu narrador y más raros serán los eventos de gran amenaza.</VFEP.ChooseCurses.Desc>
+  <VFEP.DesiredPopMax>Población máxima deseada: {0}</VFEP.DesiredPopMax>
+  <VFEP.DaysBigThreats>Días entre Grandes Amenazas: {0}</VFEP.DaysBigThreats>
+  <VFEP.WarcasketCustom>Personalización de Ataúd de Guerra</VFEP.WarcasketCustom>
+  <VFEP.WarcasketText>Cuando presiones Aceptar, un artesano que hayas elegido traerá los recursos al armazón y comenzará a ensamblar un ataúd de guerra. La velocidad del ensamblaje depende de la habilidad de fabricación de tu artesano.\nUna vez que se complete el proceso, el ataúd de guerra abandonará la plataforma. Ten cuidado, ya que el peón que esta en la plataforma aún puede morir de hambre cuando esté en la plataforma; deberías priorizar el ensamblaje del ataúd de guerra sobre otras tareas.</VFEP.WarcasketText>
+  <VFEP.WorkAmount>Cantidad de Trabajo:</VFEP.WorkAmount>
+  <VFEP.Crafter>Creador:</VFEP.Crafter>
+  <VFEP.Helmet>Casco</VFEP.Helmet>
+  <VFEP.Shoulderpads>Hombreras:</VFEP.Shoulderpads>
+  <VFEP.ArmorFrame>Armazón de Armadura:</VFEP.ArmorFrame>
+  <VFEP.TotalCost>Coste Total:</VFEP.TotalCost>
+  <VFEP.ResourceCost>Costes en Recursos:</VFEP.ResourceCost>
+  <VFEP.ResearchText>Investiga más tecnología de ataúdes de guerra para desbloquear más piezas de armadura.</VFEP.ResearchText>
+  <VFEP.NoWarcaskets>Investiga ataúd de guerra para aprender a usar esta forja.</VFEP.NoWarcaskets>
+  <VFEP.NotEnoughFuel>No tiene suficiente quimicombustible para el salto de poder.</VFEP.NotEnoughFuel>
+  <VFEP.SiegeModeOff>Apagar modo asedio</VFEP.SiegeModeOff>
+  <VFEP.SiegeModeOn>Activar modo asedio</VFEP.SiegeModeOn>
+  <VFEPirates.CannotEntomb>No puede sepultar en un ataúd de guerra: {0}</VFEPirates.CannotEntomb>
+  <VFEPirates.EntombInWarcasket>Sepultar en un ataúd de guerra</VFEPirates.EntombInWarcasket>
+  <VFEP.EntombInIncapableOfViolenceWarning>(Advertencia: {PAWN_nameDef}) no es capaz de ejercer violencia, si lo haces {PAWN_objective} será inútil.)</VFEP.EntombInIncapableOfViolenceWarning>
+  <VFEP.ActivateShield>Activar campo de escudo</VFEP.ActivateShield>
+  <VFEP.ActivateShieldDesc>Haga clic para activar el campo de escudo. Dura 10 segundos y luego tiene 90 segundos de enfriamiento.</VFEP.ActivateShieldDesc>
+  <VFEP.DeployWarDrone>Despliega un pequeño drone de combate de su espalda. Este drone se puede controlar y provee de fuego, pero se destruirá de forma automática después 60 segundos.</VFEP.DeployWarDrone>
+  <VFEP.DeploySpidermineDesc>Dispara a una larga distancia una mina araña que correrá hacia los enemigos cercanos y explotara tan pronto como llegue a ellos.</VFEP.DeploySpidermineDesc>
+  <VFEP.Cancel>Cancelar</VFEP.Cancel>
+  <VFEP.ChildrenCannotUseThis>Los niños no pueden usar esto.</VFEP.ChildrenCannotUseThis>
+</LanguageData>

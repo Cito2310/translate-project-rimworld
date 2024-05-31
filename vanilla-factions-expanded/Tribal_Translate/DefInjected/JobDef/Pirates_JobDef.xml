@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEP_EntombIn.reportString>sepultandose en TargetA.</VFEP_EntombIn.reportString>
+  <VFEP_DoWelding.reportString>Soldando a TargetB en TargetA.</VFEP_DoWelding.reportString>
+  <VFEP_EquipFromWeaponBox.reportString>Equipando TargetA.</VFEP_EquipFromWeaponBox.reportString>
+  <VFEP_GotoAndExplode.reportString>moviendose.</VFEP_GotoAndExplode.reportString>
+</LanguageData>

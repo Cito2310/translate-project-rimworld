@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEP_Scrapper.label>chatarrero</VFEP_Scrapper.label>
+  <VFEP_Footsoldier.label>infantería</VFEP_Footsoldier.label>
+  <VFEP_Veteran.label>veterano</VFEP_Veteran.label>
+  <VFEP_Veteran_Melee.label>veterano</VFEP_Veteran_Melee.label>
+  <VFEP_HeavyWeaponsPlatform.label>plataforma de armas pesadas</VFEP_HeavyWeaponsPlatform.label>
+  <VFEP_Hussar.label>hussar</VFEP_Hussar.label>
+  <VFEP_Pyro.label>pyro</VFEP_Pyro.label>
+  <VFEP_Artillery.label>artillería</VFEP_Artillery.label>
+  <VFEP_Private.label>privado</VFEP_Private.label>
+  <VFEP_Corporal.label>cabo</VFEP_Corporal.label>
+  <VFEP_Sergeant.label>sargento</VFEP_Sergeant.label>
+  <VFEP_SergeantMajor.label>sargento mayor</VFEP_SergeantMajor.label>
+  <VFEP_Lieutenant.label>teniente</VFEP_Lieutenant.label>
+  <VFEP_Captain.label>capitán</VFEP_Captain.label>
+  <VFEP_Major.label>comandante</VFEP_Major.label>
+  <VFEP_General.label>general</VFEP_General.label>
+  <VFEP_General_Melee.label>general</VFEP_General_Melee.label>
+  <VFEP_PirateColonist.label>pirata</VFEP_PirateColonist.label>
+  <VFEP_Mech_Wardrone.label>drone de combate</VFEP_Mech_Wardrone.label>
+  <VFEP_Mech_Spidermine.label>mina araña</VFEP_Mech_Spidermine.label>
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEP_SiegeMode.label>modo asedio</VFEP_SiegeMode.label>
+  <VFEP_SiegeMode.description>modo asedio.</VFEP_SiegeMode.description>
+  <VFEP_SiegeMode.labelNoun>modo asedio</VFEP_SiegeMode.labelNoun>
+  <VFEP_RumAsIngredient.label>bebió un cóctel a base de ron</VFEP_RumAsIngredient.label>
+  <VFEP_RumAsIngredient.description>Este colono bebió un cóctel que poseía ron como uno de sus ingredientes. Se redujo la tasa de hambre en un 15%.</VFEP_RumAsIngredient.description>
+  <VFEP_KillItself.label>suicidarse</VFEP_KillItself.label>
+  <VFEP_KillItself.description>.</VFEP_KillItself.description>
+  <VFEP_KillItself.stages.minor.label>menor</VFEP_KillItself.stages.minor.label>
+</LanguageData>

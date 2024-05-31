@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEP_GauntletStrat.arrivalTextEnemy>Un grupo de {0} de {1} llegaran en naves armadas y se estrellarán encima de tu colonia. Las naves armadas proveerán de fuego de cobertura y necesitaras destruirlo de forma inmediata.</VFEP_GauntletStrat.arrivalTextEnemy>
+  <VFEP_GauntletStrat.arrivalTextFriendly>Están cayendo y necesitarán tu ayuda de forma inmediata.</VFEP_GauntletStrat.arrivalTextFriendly>
+  <VFEP_GauntletStrat.letterLabelEnemy>Asalto</VFEP_GauntletStrat.letterLabelEnemy>
+  <VFEP_GauntletStrat.letterLabelFriendly>Aliados</VFEP_GauntletStrat.letterLabelFriendly>
+</LanguageData>

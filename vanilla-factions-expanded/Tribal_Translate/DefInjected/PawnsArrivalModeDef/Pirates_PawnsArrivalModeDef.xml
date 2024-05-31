@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEP_GauntletDrop.textEnemy>Un grupo de {0} de {1} llegaran en naves armadas y se estrellarán encima de tu colonia. Las naves armadas proveerán de un fuego de cobertura y deberás destruirlo de forma inmediata.</VFEP_GauntletDrop.textEnemy>
+  <VFEP_GauntletDrop.textFriendly>Un grupo de aliados de {0} de {1} llegaran en naves armadas y se estrellarán encima de tu colonia. Las naves armadas pueden proveer de fuego de cobertura.</VFEP_GauntletDrop.textFriendly>
+  <VFEP_GauntletDrop.textWillArrive>({0_pawnsPluralDef} llegaran en naves armadas justo encima tuyo.)</VFEP_GauntletDrop.textWillArrive>
+</LanguageData>

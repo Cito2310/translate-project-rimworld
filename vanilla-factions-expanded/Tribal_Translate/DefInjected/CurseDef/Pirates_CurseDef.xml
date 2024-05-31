@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEP_CurseOfMind.label>Maldición de la Mente</VFEP_CurseOfMind.label>
+  <VFEP_CurseOfMind.description>Todos los efectos de animo se duplican.</VFEP_CurseOfMind.description>
+  <VFEP_CurseOfDarkness.label>Maldición de la Oscuridad</VFEP_CurseOfDarkness.label>
+  <VFEP_CurseOfDarkness.description>La oscuridad se intensificó. Cualquier mosaico con 0% de luz es completamente negro.</VFEP_CurseOfDarkness.description>
+  <VFEP_CurseOfPestilence.label>Maldición de la Pestilencia</VFEP_CurseOfPestilence.label>
+  <VFEP_CurseOfPestilence.description>La velocidad de inmunización se reduce a la mitad.</VFEP_CurseOfPestilence.description>
+  <VFEP_CurseOfSteel.label>Maldición de Acero</VFEP_CurseOfSteel.label>
+  <VFEP_CurseOfSteel.description>Todo el daño en el juego se duplica.</VFEP_CurseOfSteel.description>
+  <VFEP_CurseOfGreed.label>Maldición de la Avaricia</VFEP_CurseOfGreed.label>
+  <VFEP_CurseOfGreed.description>Todos los recursos mineros producen oro en lugar de lo que normalmente producirían.</VFEP_CurseOfGreed.description>
+  <VFEP_CurseOfTheStabbed.label>Maldición de la Apuñalada</VFEP_CurseOfTheStabbed.label>
+  <VFEP_CurseOfTheStabbed.description>El tiempo de enfriamiento se todos los ataques cuerpo a cuerpo se reducen a la mitad.</VFEP_CurseOfTheStabbed.description>
+  <VFEP_CurseOfFire.label>Maldición del Fuego</VFEP_CurseOfFire.label>
+  <VFEP_CurseOfFire.description>La lluvia ya no se activa cuando el mapa se quema.</VFEP_CurseOfFire.description>
+  <VFEP_CurseOfConfetti.label>Maldición del Confetti</VFEP_CurseOfConfetti.label>
+  <VFEP_CurseOfConfetti.description>Matar a un colono genera confetti y el sonido del cumpleaño Yay!</VFEP_CurseOfConfetti.description>
+  <VFEP_CurseOfTheBoomalopes.label>Maldición de los Bumalopes</VFEP_CurseOfTheBoomalopes.label>
+  <VFEP_CurseOfTheBoomalopes.description>Los animales explotaran al morir.</VFEP_CurseOfTheBoomalopes.description>
+  <VFEP_CurseOfTheBeaten.label>Maldición del Vencido</VFEP_CurseOfTheBeaten.label>
+  <VFEP_CurseOfTheBeaten.description>Ya no podrás atender sin medicina.</VFEP_CurseOfTheBeaten.description>
+  <VFEP_CurseOfTheArmored.label>Maldición de la Armadura</VFEP_CurseOfTheArmored.label>
+  <VFEP_CurseOfTheArmored.description>La penetración de las armas se reduce a la mitad.</VFEP_CurseOfTheArmored.description>
+  <VFEP_CurseOfAging.label>Maldición del Envejecimiento</VFEP_CurseOfAging.label>
+  <VFEP_CurseOfAging.description>Los colonos envejecen 10 veces más rápido.</VFEP_CurseOfAging.description>
+  <VFEP_CurseOfBandana.label>Maldición de la Bandana</VFEP_CurseOfBandana.label>
+  <VFEP_CurseOfBandana.description>El tiempo de enfriamiento de las armas se reducen al 90%.</VFEP_CurseOfBandana.description>
+  <VFEP_CurseOfTheEyePatch.label>Maldición del Parche en el Ojo</VFEP_CurseOfTheEyePatch.label>
+  <VFEP_CurseOfTheEyePatch.description>El Rango de precisión se reduce a la mitad.</VFEP_CurseOfTheEyePatch.description>
+  <VFEP_CurseOfGluttony.label>Maldición de la Glotonería</VFEP_CurseOfGluttony.label>
+  <VFEP_CurseOfGluttony.description>La tasa del hambre aumentara el doble de rápido.</VFEP_CurseOfGluttony.description>
+  <VFEP_CurseOfInfestation.label>Maldición de Infestación</VFEP_CurseOfInfestation.label>
+  <VFEP_CurseOfInfestation.description>Las infestaciones serán el doble de grande.</VFEP_CurseOfInfestation.description>
+  <VFEP_CurseOfInstakill.label>Maldición de la Instamuerte</VFEP_CurseOfInstakill.label>
+  <VFEP_CurseOfInstakill.description>Cada vez que un peón es derribado, este muere.</VFEP_CurseOfInstakill.description>
+  <VFEP_CurseOfBlind.label>Maldición del Ciego</VFEP_CurseOfBlind.label>
+  <VFEP_CurseOfBlind.description>No ves ninguna letra cuando suceden los eventos. Todavía aparecen en la pestaña Historial.</VFEP_CurseOfBlind.description>
+</LanguageData>

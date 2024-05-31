@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEP_MechanicalJoint.label>articulación</VFEP_MechanicalJoint.label>
+  <VFEP_Turret.label>torreta</VFEP_Turret.label>
+  <VFEP_Propeller.label>propulsor</VFEP_Propeller.label>
+  <VFEP_TurretBase.label>base de torreta</VFEP_TurretBase.label>
+  <VFEP_Base.label>base básica</VFEP_Base.label>
+  <VFEP_Frame.label>armazón</VFEP_Frame.label>
+  <VFEP_MechanicalLeg.label>pierna mecánica</VFEP_MechanicalLeg.label>
+</LanguageData>

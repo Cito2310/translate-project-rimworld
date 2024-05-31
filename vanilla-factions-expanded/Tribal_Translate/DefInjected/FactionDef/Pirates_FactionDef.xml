@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEP_Junkers.label>chatarreros</VFEP_Junkers.label>
+  <VFEP_Junkers.description>Una confederación flexible formada por bandas de piratas que acordaron que es mejor luchar contra extranjeros que contra si mismo.\nLos piratas no siembran, ni construyen y rara vez comercian. Son impulsados por la cultura de sangre-y-honor, dandole un gran valor a la fuerza y rudeza personal, se enriquecen asaltando y robando a sus vecinos más productivos.\nLos Chatarreros utilizan las tecnología de los ataúdes de guerra, encerrándose en tumbas de metal, y con ellas asaltan, roban, saquean e inevitablemente mueren. Rara vez usan armas de cuerpo a cuerpo, prefieren mantener la distancia con sus enemigos y utilizar el poderoso armamento de los ataúdes de guerra.</VFEP_Junkers.description>
+  <VFEP_Junkers.leaderTitle>khan</VFEP_Junkers.leaderTitle>
+  <VFEP_Junkers.pawnSingular>chatarrero</VFEP_Junkers.pawnSingular>
+  <VFEP_Junkers.pawnsPlural>chatarreros</VFEP_Junkers.pawnsPlural>
+  <VFEP_Mercenaries.label>mercenarios</VFEP_Mercenaries.label>
+  <VFEP_Mercenaries.description>Una organización paramilitar sancionadas y gobernadas por figuras políticas y megacorporaciones.\nLos Mercenarios no siembran, ni construyen y rara vez comercian. Son impulsados por la cultura de sangre-y-honor, dandole un gran valor a la fuerza y rudeza personal, se enriquecen asaltando y robando a sus vecinos más productivos\nLos Mercenarios utilizan armas y armaduras de tecnología espacial para eliminar los objetivos de sus jefes corporativos. No le agradan los piratas, se los puede comunicar y entablar una relación con los Mercenarios, pero no suelen tener mucho que ofrecer en lo comercial e científico.</VFEP_Mercenaries.description>
+  <VFEP_Mercenaries.leaderTitle>general</VFEP_Mercenaries.leaderTitle>
+  <VFEP_Mercenaries.pawnSingular>mercenario</VFEP_Mercenaries.pawnSingular>
+  <VFEP_Mercenaries.pawnsPlural>mercenarios</VFEP_Mercenaries.pawnsPlural>
+  <VFEP_PlayerPirate.label>Nueva Cala</VFEP_PlayerPirate.label>
+  <VFEP_PlayerPirate.description>Una pequeña cala pirata.</VFEP_PlayerPirate.description>
+  <VFEP_PlayerPirate.leaderTitle>lider</VFEP_PlayerPirate.leaderTitle>
+  <VFEP_PlayerPirate.pawnSingular>pirata</VFEP_PlayerPirate.pawnSingular>
+  <VFEP_PlayerPirate.pawnsPlural>piratas</VFEP_PlayerPirate.pawnsPlural>
+</LanguageData>
