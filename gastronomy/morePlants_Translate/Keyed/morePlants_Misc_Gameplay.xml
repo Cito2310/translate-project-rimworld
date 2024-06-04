@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCE_AquaticGrowingZone>Zona de Cultivo Acuático</VCE_AquaticGrowingZone>
+  <VCE_AquaticGrowingZoneDesc>Crea una zona donde los colonos intentarán cultivar plantas acuáticas. Las plantas acuáticas ignoraran la fertilidad del terreno, pero tardará mucho tiempo en sembrarse y cosecharse.\n\nEsta zona no puede ser colocada en las aguas oceánicas (salado)</VCE_AquaticGrowingZoneDesc>
+  <VCE_SandyGrowingZone>Zona de Cultivo en Arena</VCE_SandyGrowingZone>
+  <VCE_SandyGrowingZoneDesc>Crea una zona donde los colonos intentarán cultivar plantas en un terreno arenoso. Las plantas en arena ignoran la fertilidad del terreno, pero tardará mucho tiempo en sembrarse y cosecharse.</VCE_SandyGrowingZoneDesc>
+  <VCE_NotInEquator>No es una zona ecuatorial (en este planeta, por debajo de la latitud {0}). Creciendo con normalidad.</VCE_NotInEquator>
+  <VCE_InEquator>En zona ecuatorial, crece un 30% más rápido.</VCE_InEquator>
+  <VCE_NeedsShade>Esta planta necesita crecer en la sombra: en el exterior, pero bajo techo.</VCE_NeedsShade>
+  <VCE_Pollinated>Se encontró un apiario en las cercanía</VCE_Pollinated>
+  <VCE_NotPollinated>No hay apiario en el radio de 6 casillas (calculado en la siembra)</VCE_NotPollinated>
+  <VCE_CarrotsNearby>Zanahorias plantadas en las cercanías: {0}/100</VCE_CarrotsNearby>
+  <VCE_BeansNearby>Judías verdes plantadas en las cercanías: {0}/100</VCE_BeansNearby>
+  <VCE_StuntedGrowthFertility>Crecimiento reducido por no estar en un terreno pedregoso</VCE_StuntedGrowthFertility>
+  <VCE_StoppedGrowthFertility>Crecimiento imposible por estar en un terreno demasiado fértil</VCE_StoppedGrowthFertility>
+  <VCE_WaterNearby>Hay un cuerpo de agua en las cercanías impidiendo que la planta crezca</VCE_WaterNearby>
+  <VCE_NoWaterNearby>No hay un cuerpo de agua en las cercanías impidiendo que la planta crezca</VCE_NoWaterNearby>
+  <VCE_NoSeaTilesNearby>Esta muy lejos del mar, no tendrá el bono de crecimiento</VCE_NoSeaTilesNearby>
+  <VCE_SeaTilesNearby>{0} casillas de mar cercano, provee un bono de {0}% de crecimiento</VCE_SeaTilesNearby>
+</LanguageData>

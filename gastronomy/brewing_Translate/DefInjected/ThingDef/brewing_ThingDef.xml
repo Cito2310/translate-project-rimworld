@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VBE_UnfermentedCider.label>sidra sin fermentar</VBE_UnfermentedCider.label>
+  <VBE_UnfermentedCider.description>Sidra sin fermentar dentro de una botella hermética. Si se la deja desarrollar una bacteria resultara en una bebida alcohólica débil.</VBE_UnfermentedCider.description>
+  <VBE_Cider.label>Sidra</VBE_Cider.label>
+  <VBE_Cider.description>Una bebida apenas alcohólica destinada a ser refrescante y afrutada. Por más que alguien intente, es imposible emborracharse solo con sidra, pero es popular por quienes tienen una adicción. Como anécdota, muchos lo elogian por sus supuestas propiedades antioxidantes.</VBE_Cider.description>
+  <VBE_Cider.ingestible.ingestCommandString>Beber {0}</VBE_Cider.ingestible.ingestCommandString>
+  <VBE_Cider.ingestible.ingestReportString>Bebiendo {0}.</VBE_Cider.ingestible.ingestReportString>
+  <VBE_Cider.tools.bottle.label>botella</VBE_Cider.tools.bottle.label>
+  <VBE_Cider.tools.neck.label>cuello</VBE_Cider.tools.neck.label>
+  <VBE_Bar.label>bar</VBE_Bar.label>
+  <VBE_Bar.description>Una encimera algo ornamentada que almacena una gran cantidad de diferentes recipientes y herramientas para crear una variedad de bebidas. Una caja de hielo, una serie de grifos, mangueras y carbonatadores, asiendo que la cerveza se hará mucho más rápido que en una cervecería.</VBE_Bar.description>
+  <VBE_SodaFountain.label>fuente de soda</VBE_SodaFountain.label>
+  <VBE_SodaFountain.description>Una maquina todo en una que fabrica sodas. El sirope se mezcla con agua, se carbonata y se enfría antes de dispensarla en botellas estirilizadas.</VBE_SodaFountain.description>
+  <VBE_AmbrandyDistillery.label>destilería de ambrandi</VBE_AmbrandyDistillery.label>
+  <VBE_AmbrandyDistillery.description>Una destilería dorada muy delicada que añeja el mosto de ambrosia hasta convertirlo en una bebida.</VBE_AmbrandyDistillery.description>
+  <VBE_WhiskeyCask.label>barril de whisky</VBE_WhiskeyCask.label>
+  <VBE_WhiskeyCask.description>Un enorme barril que añeja una gran cantidad de whisky a la vez. Los sabores amaderado se imparten a la mezcla del barril, a la vez que el barril absorbe una parte del liquido durante el proceso de fermentación. La luz del sol puede reducir la velocidad de fermentación o incluso arruinarlo totalmente.</VBE_WhiskeyCask.description>
+  <VBE_TequilaBarrel.label>barril de tequila</VBE_TequilaBarrel.label>
+  <VBE_TequilaBarrel.description>Una unidad que combina un alambique y un fermentador, perfecto para guardar detrás de la barra en un bar cálido, pero no funciona muy bien bajo la lluvia.</VBE_TequilaBarrel.description>
+  <VBE_VodkaDrum.label>tambor de vodka</VBE_VodkaDrum.label>
+  <VBE_VodkaDrum.description>Un recipiente económico destinado a almacenar agua y mosto para una rápida fermentación.</VBE_VodkaDrum.description>
+  <VBE_GinStill.label>alambique de gin</VBE_GinStill.label>
+  <VBE_GinStill.description>Un dispositivo de destilación industrial de metal, destinado a purificar y fermentar el gin hasta ser una bebida. Su diseño metálico hace que el envejecimiento sea posible en un amplio rango de temperaturas y condiciones.</VBE_GinStill.description>
+  <VBE_AmbrandyAwful.label>ambrandi (pesimo)</VBE_AmbrandyAwful.label>
+  <VBE_AmbrandyAwful.description>También conocido como "rayos de sol liquido" el ambrandi es doblemente fermentado, destilado en un licor de gran calibre. Se conoce que los aristócratas del Mundobrillante envián milicias privadas para apoyar los envíos de estas botellas.\n\nMás allá que su sabor puede provocar algunas lagrimas, algunos estudios han encontrado que este licor cuando esta muy añejo causa una estimulación en una sección del cerebro humano conocido por la creatividad artística y expresiva, al mismo tiempo desinhibe la sección del cerebro que controla las emociones.\n\nIncluso que la botella en sí es tan bella como para admirarla, cuando se golpea la luz que se refleja en el liquido dorado se asemeja a un baile, como el fuego de las fogatas. Si bien, el ambrandi se puede mezclar en cocteles, los pocos privilegiados que lo han bebido dicen que es mejor solo.</VBE_AmbrandyAwful.description>
+  <VBE_AmbrandyAwful.ingestible.ingestCommandString>Beber {0}</VBE_AmbrandyAwful.ingestible.ingestCommandString>
+  <VBE_AmbrandyAwful.ingestible.ingestReportString>Bebiendo {0}.</VBE_AmbrandyAwful.ingestible.ingestReportString>
+  <VBE_AmbrandyPoor.label>ambrandi (pobre)</VBE_AmbrandyPoor.label>
+  <VBE_AmbrandyPoor.description>También conocido como "rayos de sol liquido" el ambrandi es doblemente fermentado, destilado en un licor de gran calibre. Se conoce que los aristócratas del Mundobrillante envián milicias privadas para apoyar los envíos de estas botellas.\n\nMás allá que su sabor puede provocar algunas lagrimas, algunos estudios han encontrado que este licor cuando esta muy añejo causa una estimulación en una sección del cerebro humano conocido por la creatividad artística y expresiva, al mismo tiempo desinhibe la sección del cerebro que controla las emociones.\n\nIncluso que la botella en sí es tan bella como para admirarla, cuando se golpea la luz que se refleja en el liquido dorado se asemeja a un baile, como el fuego de las fogatas. Si bien, el ambrandi se puede mezclar en cocteles, los pocos privilegiados que lo han bebido dicen que es mejor solo.</VBE_AmbrandyPoor.description>
+  <VBE_AmbrandyPoor.ingestible.ingestCommandString>Beber {0}</VBE_AmbrandyPoor.ingestible.ingestCommandString>
+  <VBE_AmbrandyPoor.ingestible.ingestReportString>Bebiendo {0}.</VBE_AmbrandyPoor.ingestible.ingestReportString>
+  <VBE_AmbrandyNormal.label>ambrandi (normal)</VBE_AmbrandyNormal.label>
+  <VBE_AmbrandyNormal.description>También conocido como "rayos de sol liquido" el ambrandi es doblemente fermentado, destilado en un licor de gran calibre. Se conoce que los aristócratas del Mundobrillante envián milicias privadas para apoyar los envíos de estas botellas.\n\nMás allá que su sabor puede provocar algunas lagrimas, algunos estudios han encontrado que este licor cuando esta muy añejo causa una estimulación en una sección del cerebro humano conocido por la creatividad artística y expresiva, al mismo tiempo desinhibe la sección del cerebro que controla las emociones.\n\nIncluso que la botella en sí es tan bella como para admirarla, cuando se golpea la luz que se refleja en el liquido dorado se asemeja a un baile, como el fuego de las fogatas. Si bien, el ambrandi se puede mezclar en cocteles, los pocos privilegiados que lo han bebido dicen que es mejor solo.</VBE_AmbrandyNormal.description>
+  <VBE_AmbrandyNormal.ingestible.ingestCommandString>Beber {0}</VBE_AmbrandyNormal.ingestible.ingestCommandString>
+  <VBE_AmbrandyNormal.ingestible.ingestReportString>Bebiendo {0}.</VBE_AmbrandyNormal.ingestible.ingestReportString>
+  <VBE_AmbrandyGood.label>ambrandi (bueno)</VBE_AmbrandyGood.label>
+  <VBE_AmbrandyGood.description>También conocido como "rayos de sol liquido" el ambrandi es doblemente fermentado, destilado en un licor de gran calibre. Se conoce que los aristócratas del Mundobrillante envián milicias privadas para apoyar los envíos de estas botellas.\n\nMás allá que su sabor puede provocar algunas lagrimas, algunos estudios han encontrado que este licor cuando esta muy añejo causa una estimulación en una sección del cerebro humano conocido por la creatividad artística y expresiva, al mismo tiempo desinhibe la sección del cerebro que controla las emociones.\n\nIncluso que la botella en sí es tan bella como para admirarla, cuando se golpea la luz que se refleja en el liquido dorado se asemeja a un baile, como el fuego de las fogatas. Si bien, el ambrandi se puede mezclar en cocteles, los pocos privilegiados que lo han bebido dicen que es mejor solo.</VBE_AmbrandyGood.description>
+  <VBE_AmbrandyGood.ingestible.ingestCommandString>Beber {0}</VBE_AmbrandyGood.ingestible.ingestCommandString>
+  <VBE_AmbrandyGood.ingestible.ingestReportString>Bebiendo {0}.</VBE_AmbrandyGood.ingestible.ingestReportString>
+  <VBE_AmbrandyExcellent.label>ambrandi (excelente)</VBE_AmbrandyExcellent.label>
+  <VBE_AmbrandyExcellent.description>También conocido como "rayos de sol liquido" el ambrandi es doblemente fermentado, destilado en un licor de gran calibre. Se conoce que los aristócratas del Mundobrillante envián milicias privadas para apoyar los envíos de estas botellas.\n\nMás allá que su sabor puede provocar algunas lagrimas, algunos estudios han encontrado que este licor cuando esta muy añejo causa una estimulación en una sección del cerebro humano conocido por la creatividad artística y expresiva, al mismo tiempo desinhibe la sección del cerebro que controla las emociones.\n\nIncluso que la botella en sí es tan bella como para admirarla, cuando se golpea la luz que se refleja en el liquido dorado se asemeja a un baile, como el fuego de las fogatas. Si bien, el ambrandi se puede mezclar en cocteles, los pocos privilegiados que lo han bebido dicen que es mejor solo.</VBE_AmbrandyExcellent.description>
+  <VBE_AmbrandyExcellent.ingestible.ingestCommandString>Beber {0}</VBE_AmbrandyExcellent.ingestible.ingestCommandString>
+  <VBE_AmbrandyExcellent.ingestible.ingestReportString>Bebiendo {0}.</VBE_AmbrandyExcellent.ingestible.ingestReportString>
+  <VBE_AmbrandyMasterwork.label>ambrandi (obra de maestra)</VBE_AmbrandyMasterwork.label>
+  <VBE_AmbrandyMasterwork.description>También conocido como "rayos de sol liquido" el ambrandi es doblemente fermentado, destilado en un licor de gran calibre. Se conoce que los aristócratas del Mundobrillante envián milicias privadas para apoyar los envíos de estas botellas.\n\nMás allá que su sabor puede provocar algunas lagrimas, algunos estudios han encontrado que este licor cuando esta muy añejo causa una estimulación en una sección del cerebro humano conocido por la creatividad artística y expresiva, al mismo tiempo desinhibe la sección del cerebro que controla las emociones.\n\nIncluso que la botella en sí es tan bella como para admirarla, cuando se golpea la luz que se refleja en el liquido dorado se asemeja a un baile, como el fuego de las fogatas. Si bien, el ambrandi se puede mezclar en cocteles, los pocos privilegiados que lo han bebido dicen que es mejor solo.</VBE_AmbrandyMasterwork.description>
+  <VBE_AmbrandyMasterwork.ingestible.ingestCommandString>Beber {0}</VBE_AmbrandyMasterwork.ingestible.ingestCommandString>
+  <VBE_AmbrandyMasterwork.ingestible.ingestReportString>Bebiendo {0}.</VBE_AmbrandyMasterwork.ingestible.ingestReportString>
+  <VBE_AmbrandyLegendary.label>ambrandi (legendario)</VBE_AmbrandyLegendary.label>
+  <VBE_AmbrandyLegendary.description>También conocido como "rayos de sol liquido" el ambrandi es doblemente fermentado, destilado en un licor de gran calibre. Se conoce que los aristócratas del Mundobrillante envián milicias privadas para apoyar los envíos de estas botellas.\n\nMás allá que su sabor puede provocar algunas lagrimas, algunos estudios han encontrado que este licor cuando esta muy añejo causa una estimulación en una sección del cerebro humano conocido por la creatividad artística y expresiva, al mismo tiempo desinhibe la sección del cerebro que controla las emociones.\n\nIncluso que la botella en sí es tan bella como para admirarla, cuando se golpea la luz que se refleja en el liquido dorado se asemeja a un baile, como el fuego de las fogatas. Si bien, el ambrandi se puede mezclar en cocteles, los pocos privilegiados que lo han bebido dicen que es mejor solo.</VBE_AmbrandyLegendary.description>
+  <VBE_AmbrandyLegendary.ingestible.ingestCommandString>Beber {0}</VBE_AmbrandyLegendary.ingestible.ingestCommandString>
+  <VBE_AmbrandyLegendary.ingestible.ingestReportString>Bebiendo {0}.</VBE_AmbrandyLegendary.ingestible.ingestReportString>
+  <VBE_Gin.label>gin</VBE_Gin.label>
+  <VBE_Gin.description>Una bebida espirituosa incolora particularmente suave, el aroma de esta botella es similar al de los pinos, con sutiles notas frutales. Este licor tiene la reputación de alegrar el corazón al beberla, y provocar lo conocido como "borrachera de gin", durante la cual uno tiene más empatía y comprensión.</VBE_Gin.description>
+  <VBE_Gin.ingestible.ingestCommandString>Beber {0}</VBE_Gin.ingestible.ingestCommandString>
+  <VBE_Gin.ingestible.ingestReportString>Bebiendo {0}.</VBE_Gin.ingestible.ingestReportString>
+  <VBE_Gin.tools.bottle.label>botella</VBE_Gin.tools.bottle.label>
+  <VBE_Gin.tools.neck.label>cuello</VBE_Gin.tools.neck.label>
+  <VBE_Tequila.label>tequila</VBE_Tequila.label>
+  <VBE_Tequila.description>Un licor fermentado hecho con la savia de agave, la favorita de los salvajes, bandidos y cazadores de muffalos. Incluye un snack en el fondo de la botella altamente proteica que se cree que da suerte. Se sabe que los bebedores son excelente en el combate a distancia.</VBE_Tequila.description>
+  <VBE_Tequila.ingestible.ingestCommandString>Beber {0}</VBE_Tequila.ingestible.ingestCommandString>
+  <VBE_Tequila.ingestible.ingestReportString>Bebiendo {0}.</VBE_Tequila.ingestible.ingestReportString>
+  <VBE_Tequila.tools.bottle.label>botella</VBE_Tequila.tools.bottle.label>
+  <VBE_Tequila.tools.neck.label>cuello</VBE_Tequila.tools.neck.label>
+  <VBE_Vodka.label>vodka</VBE_Vodka.label>
+  <VBE_Vodka.description>Un alcohol limpio e insípido que se obtiene de la patata fermentada. Si bien el vodka puede beber solo, es conocido por mezclarse en cócteles y por causar un nivel muy alto de esquiva de quienes lo beben.</VBE_Vodka.description>
+  <VBE_Vodka.ingestible.ingestCommandString>Beber {0}</VBE_Vodka.ingestible.ingestCommandString>
+  <VBE_Vodka.ingestible.ingestReportString>Bebiendo {0}.</VBE_Vodka.ingestible.ingestReportString>
+  <VBE_Vodka.tools.bottle.label>botella</VBE_Vodka.tools.bottle.label>
+  <VBE_Vodka.tools.neck.label>cuello</VBE_Vodka.tools.neck.label>
+  <VBE_Whiskey.label>whisky</VBE_Whiskey.label>
+  <VBE_Whiskey.description>Un licor potente destilado de los granos fermentados. Los sabores del barril donde fue añejado suelen ser más pronunciado que los otros sabores. Se siente un sabor amaderado, algo ahumado. El whisky se asocia al estereotipo de trabajadores rudos.</VBE_Whiskey.description>
+  <VBE_Whiskey.ingestible.ingestCommandString>Beber {0}</VBE_Whiskey.ingestible.ingestCommandString>
+  <VBE_Whiskey.ingestible.ingestReportString>Bebiendo {0}.</VBE_Whiskey.ingestible.ingestReportString>
+  <VBE_Whiskey.tools.bottle.label>botella</VBE_Whiskey.tools.bottle.label>
+  <VBE_Whiskey.tools.neck.label>cuello</VBE_Whiskey.tools.neck.label>
+  <VBE_DoubleWhiskey.label>whisky añejo</VBE_DoubleWhiskey.label>
+  <VBE_DoubleWhiskey.description>Este whisky es el resultado de volver a añejar el whisky en otro barril. Los perfiles de sabor son mucho más fuertes y la quemadura en la garganta se reduce bastante. El mayor tiempo de añejamiento generalmente provoca en sus consumidores una sensación de más clase y mercantilismo.</VBE_DoubleWhiskey.description>
+  <VBE_DoubleWhiskey.ingestible.ingestCommandString>Beber {0}</VBE_DoubleWhiskey.ingestible.ingestCommandString>
+  <VBE_DoubleWhiskey.ingestible.ingestReportString>Bebiendo {0}.</VBE_DoubleWhiskey.ingestible.ingestReportString>
+  <VBE_DoubleWhiskey.tools.bottle.label>botella</VBE_DoubleWhiskey.tools.bottle.label>
+  <VBE_DoubleWhiskey.tools.neck.label>cuello</VBE_DoubleWhiskey.tools.neck.label>
+  <VBE_HotCoffee.label>café</VBE_HotCoffee.label>
+  <VBE_HotCoffee.description>Una bebida caliente y amarga que usualmente se complementa con azúcar y leche. Es una de las favoritas de los estudiantes y trabajadores de oficinas, cruzo toda la galaxia por su alta cantidad de cafeína y su aroma agradable.</VBE_HotCoffee.description>
+  <VBE_HotCoffee.ingestible.ingestCommandString>Beber {0}</VBE_HotCoffee.ingestible.ingestCommandString>
+  <VBE_HotCoffee.ingestible.ingestReportString>Bebiendo {0}.</VBE_HotCoffee.ingestible.ingestReportString>
+  <VBE_IceCoffee.label>café congelado</VBE_IceCoffee.label>
+  <VBE_IceCoffee.description>Un café helado. Este café es muy apreciado en lugares cálidos, además reduce los sabores amargos y resalta un sabor muy sutil a nuez. Al igual que su contraparte caliente, es muy consumido por los estudiantes y los profesionales.</VBE_IceCoffee.description>
+  <VBE_IceCoffee.ingestible.ingestCommandString>Beber {0}</VBE_IceCoffee.ingestible.ingestCommandString>
+  <VBE_IceCoffee.ingestible.ingestReportString>Bebiendo {0}.</VBE_IceCoffee.ingestible.ingestReportString>
+  <VBE_EnergyDrink.label>bebida energizante</VBE_EnergyDrink.label>
+  <VBE_EnergyDrink.description>Una bebida agria y carbonatada con un toque amargo. Es una combinación de azúcar y cafeína que da una ráfaga de energía, pero provocara una caída después. Tiene un regusto notable a radiación.</VBE_EnergyDrink.description>
+  <VBE_EnergyDrink.ingestible.ingestCommandString>Beber {0}</VBE_EnergyDrink.ingestible.ingestCommandString>
+  <VBE_EnergyDrink.ingestible.ingestReportString>Bebiendo {0}.</VBE_EnergyDrink.ingestible.ingestReportString>
+  <VBE_Juice.label>jugo</VBE_Juice.label>
+  <VBE_Juice.description>Jugo de fruta agridulce, se puede preparar a base de una sola fruta o de una variedad, también conocido como un jugo multifruta. Muchas bebidas se preparan o mezclan con el jugo. Si bien no es más nutritivo que la fruta es mucho más fácil de almacenar y transportar.</VBE_Juice.description>
+  <VBE_Soda.label>soda</VBE_Soda.label>
+  <VBE_Soda.description>Una bebida muy dulce y con un toque cítrico que se disfruta mejor frío. Si bien no es nada nutritiva, el subidón de azúcar es bienvenido y la efervescencia es muy refrescante.</VBE_Soda.description>
+  <VBE_Soda.ingestible.ingestCommandString>Beber {0}</VBE_Soda.ingestible.ingestCommandString>
+  <VBE_Soda.ingestible.ingestReportString>Bebiendo {0}.</VBE_Soda.ingestible.ingestReportString>
+  <VBE_Soda.tools.bottle.label>botella</VBE_Soda.tools.bottle.label>
+  <VBE_Soda.tools.neck.label>cuello</VBE_Soda.tools.neck.label>
+  <VBE_Tea.label>té</VBE_Tea.label>
+  <VBE_Tea.description>Una bebida agradable y aromática que se prepara poniendo una bolsa de hojas de té en agua hirviendo. Los perfiles de sabor del té pueden variar, algunos más cítricos, hasta otros más amargos y dulce. El té ha sido una de las bebidas favoritas de los humanos desde la antigüedad y se cree que posee muchas propiedades medicinales.</VBE_Tea.description>
+  <VBE_Tea.ingestible.ingestCommandString>Beber {0}</VBE_Tea.ingestible.ingestCommandString>
+  <VBE_Tea.ingestible.ingestReportString>Bebiendo {0}.</VBE_Tea.ingestible.ingestReportString>
+  <VBE_SimpleCocktail.label>cóctel simple</VBE_SimpleCocktail.label>
+  <VBE_SimpleCocktail.description>Un cóctel simple hecho muy rápidamente mezclando dos ingredientes.</VBE_SimpleCocktail.description>
+  <VBE_FineCocktail.label>cóctel bueno</VBE_FineCocktail.label>
+  <VBE_FineCocktail.description>Un cóctel bueno y complejo, mezclando de forma precisa múltiple ingredientes.</VBE_FineCocktail.description>
+  <VBE_LavishCocktail.label>cóctel de lujo</VBE_LavishCocktail.label>
+  <VBE_LavishCocktail.description>Una obra maestra del barman encarnado, este cóctel se creo mezclando una gran variedad de ingredientes y se enfrió a la perfección antes de agitarlo y servirlo.</VBE_LavishCocktail.description>
+  <VBE_GourmetCocktail.label>cóctel gourmet</VBE_GourmetCocktail.label>
+  <VBE_GourmetCocktail.description>Un verdadero milagro de la coctelería. En este cóctel, todos los factores, desde la temperatura del vidrio, la elección del instrumento y el tipo de guarnición se ha calculado con extrema precisión para obtener el máximo sabor y cuerpo posible.</VBE_GourmetCocktail.description>
+  <VBE_SodaSyrup.label>sirope de soda</VBE_SodaSyrup.label>
+  <VBE_SodaSyrup.description>Una mezcla espesa y con un sabor dulce desagradable hecho al hervir ácido cítrico y azúcar junto, esta ultima usualmente obtenida de la caña de azúcar o de sirope de maíz. Debe cortarse con agua y carbonatarse antes de su consumo.</VBE_SodaSyrup.description>
+  <VBE_AmbrandyMush.label>masa de ambrosía</VBE_AmbrandyMush.label>
+  <VBE_AmbrandyMush.description>Ambrosía cortada y prensada, que se puede dejar madurar hasta convertirse en mosto para luego ser destilada en un licor extremadamente fino.</VBE_AmbrandyMush.description>
+  <VBE_AmbrandyMust.label>mosto de ambrandi</VBE_AmbrandyMust.label>
+  <VBE_AmbrandyMust.description>La masa de ambrosía completamente madura que se licua hasta obtener un jugo espeso y se deja fermentar. Listo para ser destilado en una bebida.</VBE_AmbrandyMust.description>
+  <VBE_WhiskeyMash.label>masa de whisky</VBE_WhiskeyMash.label>
+  <VBE_WhiskeyMash.description>Una mezcla de líquidos y pulpa de maíz. Listo para añejar.</VBE_WhiskeyMash.description>
+  <VBE_TequilaMust.label>mosto de tequila</VBE_TequilaMust.label>
+  <VBE_TequilaMust.description>na mezcla de jugo de agave o tuna picada y carne de insecto, listo para ser cortada y ser fermentada en barriles.</VBE_TequilaMust.description>
+  <VBE_VodkaMash.label>masa de vodka</VBE_VodkaMash.label>
+  <VBE_VodkaMash.description>Una masa pegajosa de patatas crudas, listo para ser fermentadas.</VBE_VodkaMash.description>
+  <VBE_GinMush.label>masa de gin</VBE_GinMush.label>
+  <VBE_GinMush.description>Una masa clara formada por jugo de bayas y varios granos, listo para fermentar.</VBE_GinMush.description>
+  <VBE_RawCoffee.label>granos de café</VBE_RawCoffee.label>
+  <VBE_RawCoffee.description>Los huesos de las bayas de café también conocidas como "granos de café". Se pueden tostar para resaltar un sabor más robusto y amargo, además de la cafeína natural.</VBE_RawCoffee.description>
+  <VBE_RawTea.label>hojas de té</VBE_RawTea.label>
+  <VBE_RawTea.description>Las hojas de la planta de té. Se pueden hervir y preparar una variedad de bebidas terrosas y calmantes.</VBE_RawTea.description>
+  <VBE_RawTobacco.label>hojas de tabaco</VBE_RawTobacco.label>
+  <VBE_RawTobacco.description>Las hojas de la planta de tabaco. Estas hojas se pueden secar con facilidad y ser enrolladas para fumar, proveen de un efecto estimulante en la mente.</VBE_RawTobacco.description>
+  <VBE_Cigarettes.label>cigarrillos</VBE_Cigarettes.label>
+  <VBE_Cigarettes.description>Unos tubos de papel pequeño que se llenan con hojas de tabaco picadas. Ofrece una breve euforia además de una estimulación mental, es muy adictivo. El olor a acre es desagradable al principio, pero se vuelve más placentero a medida que el fumador se vuelve más adicto. Se puede fabricar sin equipamiento, solo en un lugar de artesanía.</VBE_Cigarettes.description>
+  <VBE_Cigarettes.ingestible.ingestCommandString>Fumar {0}</VBE_Cigarettes.ingestible.ingestCommandString>
+  <VBE_Cigarettes.ingestible.ingestReportString>Fumando {0}.</VBE_Cigarettes.ingestible.ingestReportString>
+  <VBE_Cigarettes.ingestible.ingestReportStringEat>Consumiendo {0}.</VBE_Cigarettes.ingestible.ingestReportStringEat>
+  <VBE_Cigars.label>puros</VBE_Cigars.label>
+  <VBE_Cigars.description>Una hoja de tabaco seca enrrollada junto a otras hojas de tabacos y finalizada con una envoltura dorada. Los puros suelen representar la elegancia y, por lo general, solo son asequibles por quienes se codean con la elite del mundo-brillante con regularidad. Los puros suelen estar aromatizados con sabores cítricos o vainilla, para tapar su sabor a acre.</VBE_Cigars.description>
+  <VBE_Cigars.ingestible.ingestCommandString>Fumar {0}</VBE_Cigars.ingestible.ingestCommandString>
+  <VBE_Cigars.ingestible.ingestReportString>Fumando {0}.</VBE_Cigars.ingestible.ingestReportString>
+  <VBE_Cigars.ingestible.ingestReportStringEat>Consumiendo {0}.</VBE_Cigars.ingestible.ingestReportStringEat>
+  <VBE_Plant_Coffee.label>planta de café</VBE_Plant_Coffee.label>
+  <VBE_Plant_Coffee.description>Un arbusto bajo de origen tropical, que se llenan de pequeñas bayas rojas al crecer. Los huesos de las bayas se llaman coloquialmente como "granos de café" y se pueden tostar para obtener un sabor más fuerte y amargo, además de su cafeína natural. Este genero en particular ha sido criado selectivamente para una maduración rápida en comparación con sus contrapartes más antiguas. </VBE_Plant_Coffee.description>
+  <VBE_Plant_Tea.label>planta de té</VBE_Plant_Tea.label>
+  <VBE_Plant_Tea.description>Un arbusto muy frondoso particularmente fácil de cultivar. Desde el comienzo de la humanidad se descubrió que si sumergías las hojas de esta planta en agua hirviendo se obtendría una variedad de té terrosos y calmantes. Este genero en especial fue criado selectivamente para madurar mucho más rápido que sus contrapartes más antiguas. </VBE_Plant_Tea.description>
+  <VBE_Plant_Tobacco.label>planta de tabaco</VBE_Plant_Tobacco.label>
+  <VBE_Plant_Tobacco.description>Una planta baja con hojas anchas que crece en climas cálidos. Las hojas de tabaco se secan con facilidad, para luego ser enrollada y fumada, proporcionando un efecto estimulante.</VBE_Plant_Tobacco.description>
+</LanguageData>

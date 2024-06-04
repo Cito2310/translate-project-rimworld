@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCE_HarvestAquatic.label>cosechar cultivo acuático</VCE_HarvestAquatic.label>
+  <VCE_HarvestAquatic.gerund>cosechando cultivo acuático</VCE_HarvestAquatic.gerund>
+  <VCE_HarvestAquatic.verb>cosechar cultivo acuático</VCE_HarvestAquatic.verb>
+  <VCE_SowAquatic.label>sembrar cultivo acuático</VCE_SowAquatic.label>
+  <VCE_SowAquatic.gerund>sembrando cultivo acuático</VCE_SowAquatic.gerund>
+  <VCE_SowAquatic.verb>sembrar cultivo acuático</VCE_SowAquatic.verb>
+  <VCE_HarvestSandy.label>cosechar cultivo de arena</VCE_HarvestSandy.label>
+  <VCE_HarvestSandy.gerund>cosechando cultivo de arena</VCE_HarvestSandy.gerund>
+  <VCE_HarvestSandy.verb>cosechar cultivo de arena</VCE_HarvestSandy.verb>
+  <VCE_SowSandy.label>sembrar cultivo de arena</VCE_SowSandy.label>
+  <VCE_SowSandy.gerund>sembrando cultivo de arena</VCE_SowSandy.gerund>
+  <VCE_SowSandy.verb>sembrar cultivo de arena</VCE_SowSandy.verb>
+</LanguageData>

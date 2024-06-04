@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VPE_TillSoilWorkDeliverBp.label>labrar suelo</VPE_TillSoilWorkDeliverBp.label>
+  <VPE_TillSoilWorkDeliverBp.gerund>labrando</VPE_TillSoilWorkDeliverBp.gerund>
+  <VPE_TillSoilWorkDeliverBp.verb>labrar</VPE_TillSoilWorkDeliverBp.verb>
+  <VPE_TillSoilWorkBuild.label>labrar suelo</VPE_TillSoilWorkBuild.label>
+  <VPE_TillSoilWorkBuild.gerund>labrando</VPE_TillSoilWorkBuild.gerund>
+  <VPE_TillSoilWorkBuild.verb>labrar</VPE_TillSoilWorkBuild.verb>
+  <VPE_TillSoilWorkDeliverFr.label>labrar suelo</VPE_TillSoilWorkDeliverFr.label>
+  <VPE_TillSoilWorkDeliverFr.gerund>labrando</VPE_TillSoilWorkDeliverFr.gerund>
+  <VPE_TillSoilWorkDeliverFr.verb>labrar</VPE_TillSoilWorkDeliverFr.verb>
+</LanguageData>

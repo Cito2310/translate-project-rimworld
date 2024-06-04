@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCE_TilledSoil.label>suelo labrado</VCE_TilledSoil.label>
+  <VCE_TilledSoil.description>La labranza es la preparación agrícola del suelo mediante mecánicas de varios tipos, aumentando la fertilidad del terreno. La labranza del suelo sólo se puede realizar en suelos normales (no en suelos ricos). Cuando se cosecha una planta en un suelo arado, el suelo vuelve a ser suelo normal y es necesario volver a ararlo manualmente.</VCE_TilledSoil.description>
+  <VCE_TilledSoil.modExtensions.0.constructionSkillRequirement.reportStringOverride>suelo labrado.</VCE_TilledSoil.modExtensions.0.constructionSkillRequirement.reportStringOverride>
+  <VCE_TilledSoil.tools.dirt.label>tierra</VCE_TilledSoil.tools.dirt.label>
+</LanguageData>

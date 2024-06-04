@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VBE_CiderAsIngredient.label>bebió cóctel a base de sidra
+</VBE_CiderAsIngredient.label>
+  <VBE_CiderAsIngredient.description>Este colono a bebido un cóctel que tenia sidra como uno de sus ingredientes. La sidra es conocida por sus propiedades antioxidantes. Elimina ligeramente la acumulación tóxica.</VBE_CiderAsIngredient.description>
+  <VBE_CiderHigh.label>subidón de sidra</VBE_CiderHigh.label>
+  <VBE_CiderHigh.description>Hay alcohol de sidra en el torrente sanguíneo. Esta persona se pondrá contento, pero reduce sus capacidades. Esto no causara una adicción al alcohol. No se puede pasar de la fase de ebriedad "acalorado" sin importar cuanto beba.</VBE_CiderHigh.description>
+  <VBE_CiderHigh.labelNoun>subidón de sidra</VBE_CiderHigh.labelNoun>
+  <VBE_CiderHigh.stages.warm.label>acalorado</VBE_CiderHigh.stages.warm.label>
+  <VBE_DrankSoda.label>bebió soda</VBE_DrankSoda.label>
+  <VBE_DrankSoda.description>Una ráfaga de azúcar entro en el torrente sanguíneo, esto proveerá un pequeño impulso de energía. Proveerá un aumento del 5% en manipulación durante 5 horas.</VBE_DrankSoda.description>
+  <VBE_DrankTea.label>bebió té</VBE_DrankTea.label>
+  <VBE_DrankTea.description>Los taninos que se encuentran naturalmente en el té, una vez metabolizados, estimulan el sistema nervioso, suprimiendo la necesidad de dormir y estimula el sistema inmunológico. Incrementa la ganancia de inmunidad en un 15% y provee una reducción de 10% de la tasa de sueño, esto por 5 horas.</VBE_DrankTea.description>
+  <VBE_TequilaAsIngredient.label>bebió un cóctel en base a tequila</VBE_TequilaAsIngredient.label>
+  <VBE_TequilaAsIngredient.description>Este colono bebió un cóctel que tenia al tequila como uno de sus ingredientes. Provee un bono del 15% al intentar domesticar un animal.</VBE_TequilaAsIngredient.description>
+  <VBE_WhiskeyAsIngredient.label>bebió un cóctel en base a whisky</VBE_WhiskeyAsIngredient.label>
+  <VBE_WhiskeyAsIngredient.description>Este colono bebió un cóctel que tenia whisky como uno de sus ingredientes. Provee un bono de precisión al disparar.</VBE_WhiskeyAsIngredient.description>
+  <VBE_VodkaAsIngredient.label>bebió un cóctel en base a vodka</VBE_VodkaAsIngredient.label>
+  <VBE_VodkaAsIngredient.description>Este colono bebió un cóctel que tenia vodka como uno de sus ingredientes. Incrementan la posibilidades de esquiva en un 20%.</VBE_VodkaAsIngredient.description>
+  <VBE_GinAsIngredient.label>bebió un cóctel en base a gin</VBE_GinAsIngredient.label>
+  <VBE_GinAsIngredient.description>Este colono bebió un cóctel que tenia gin como uno de sus ingredientes.</VBE_GinAsIngredient.description>
+  <VBE_AmbrandyAsIngredient.label>bebió un cóctel en base a ambrandi</VBE_AmbrandyAsIngredient.label>
+  <VBE_AmbrandyAsIngredient.description>Este colono bebió un cóctel que tenia ambrandi como uno de sus ingredientes.</VBE_AmbrandyAsIngredient.description>
+  <VBE_RBMeadAsIngredient.label>bebió un cóctel en base a agua miel</VBE_RBMeadAsIngredient.label>
+  <VBE_RBMeadAsIngredient.description>Este colono bebió un cóctel que tenia agua miel como uno de sus ingredientes.</VBE_RBMeadAsIngredient.description>
+  <VBE_WineAsIngredient.label>bebió un cóctel en base a vino</VBE_WineAsIngredient.label>
+  <VBE_WineAsIngredient.description>Este colono bebió un cóctel que tenia vino como uno de sus ingredientes. Monstruo!</VBE_WineAsIngredient.description>
+  <VBE_ConsumedLuciferiumPowder.label>consumió polvo de luciferio (en la comida)</VBE_ConsumedLuciferiumPowder.label>
+  <VBE_ConsumedLuciferiumPowder.description>Un polvo de Luciferio molido muy fino hecho con Luciferio. Al estar diluido, esta droga no curara ninguna herida, pero revigorizara considerablemente a su consumidor.</VBE_ConsumedLuciferiumPowder.description>
+  <VBE_ConsumedGoStock.label>consumió caldo de jugo-go (en la comida)</VBE_ConsumedGoStock.label>
+  <VBE_ConsumedGoStock.description>El caldo de Jugo-Go es un cubo gelatinizado de Jugo-Go, que se puede ingerir en vez de inyectarse. Al estar diluido, esta droga no bloqueara mucho el dolor, y las ventajas en el combate serán mucho menores.</VBE_ConsumedGoStock.description>
+  <VBE_ConsumedWakeupPowder.label>consumió polvo de despertar (en la comida)</VBE_ConsumedWakeupPowder.label>
+  <VBE_ConsumedWakeupPowder.description>El polvo de Despertar se obtiene al romper hasta formar polvo el Despertar, tiene un sabor dulce y a veces se usa para reemplazar al azúcar en postres o para disolverlos en el expreso de la mañana. Al estar diluido, esta droga no será tan estimulante. Aunque no es adictiva, el polvo de Despertar tiene un riesgo (muy pequeño) de provocar un ataque cardíaco.</VBE_ConsumedWakeupPowder.description>
+  <VBE_AmbrandyInspiration.label>inspiración por ambrandi </VBE_AmbrandyInspiration.label>
+  <VBE_AmbrandyInspiration.description>Consumió ambrandi. La alta calidad del ambrandi puede proveer una inspiración artística al colono. </VBE_AmbrandyInspiration.description>
+  <VBE_AmbrandyInspiration.labelNoun>una inspiración por ambrandi </VBE_AmbrandyInspiration.labelNoun>
+  <VBE_GinHigh.label>subidón por gin</VBE_GinHigh.label>
+  <VBE_GinHigh.description>Bebió un poco de gin. Aumenta su impacto social</VBE_GinHigh.description>
+  <VBE_GinHigh.labelNoun>un subidón por gin</VBE_GinHigh.labelNoun>
+  <VBE_GinHigh.stages.warm.label>algo acalorado</VBE_GinHigh.stages.warm.label>
+  <VBE_GinHigh.stages.tipsy.label>acalorado</VBE_GinHigh.stages.tipsy.label>
+  <VBE_GinHigh.stages.drunk.label>borracho</VBE_GinHigh.stages.drunk.label>
+  <VBE_GinHigh.stages.hammered.label>muy borracho</VBE_GinHigh.stages.hammered.label>
+  <VBE_GinHigh.stages.blackout.label>desmayo</VBE_GinHigh.stages.blackout.label>
+  <VBE_TequilaHigh.label>subidón por tequila</VBE_TequilaHigh.label>
+  <VBE_TequilaHigh.description>Bebió algo de tequila. Se sabe que los bebedores de tequila son excelentes en los combates largos.</VBE_TequilaHigh.description>
+  <VBE_TequilaHigh.labelNoun>un subidón por tequila</VBE_TequilaHigh.labelNoun>
+  <VBE_TequilaHigh.stages.warm.label>algo acalorado</VBE_TequilaHigh.stages.warm.label>
+  <VBE_TequilaHigh.stages.tipsy.label>acalorado</VBE_TequilaHigh.stages.tipsy.label>
+  <VBE_TequilaHigh.stages.drunk.label>borracho</VBE_TequilaHigh.stages.drunk.label>
+  <VBE_TequilaHigh.stages.hammered.label>muy borracho</VBE_TequilaHigh.stages.hammered.label>
+  <VBE_TequilaHigh.stages.blackout.label>desmayo</VBE_TequilaHigh.stages.blackout.label>
+  <VBE_VodkaHigh.label>subidón de vodka</VBE_VodkaHigh.label>
+  <VBE_VodkaHigh.description>Bebió algo de vodka. Provee un incremento en la precisión en el cuerpo a cuerpo que escala según la ebriedad.</VBE_VodkaHigh.description>
+  <VBE_VodkaHigh.labelNoun>un subidón de vodka</VBE_VodkaHigh.labelNoun>
+  <VBE_VodkaHigh.stages.warm.label>algo acalorado</VBE_VodkaHigh.stages.warm.label>
+  <VBE_VodkaHigh.stages.tipsy.label>acalorado</VBE_VodkaHigh.stages.tipsy.label>
+  <VBE_VodkaHigh.stages.drunk.label>borracho</VBE_VodkaHigh.stages.drunk.label>
+  <VBE_VodkaHigh.stages.hammered.label>muy borracho</VBE_VodkaHigh.stages.hammered.label>
+  <VBE_VodkaHigh.stages.blackout.label>desmayo</VBE_VodkaHigh.stages.blackout.label>
+  <VBE_WhiskeyHigh.label>subidón por whisky</VBE_WhiskeyHigh.label>
+  <VBE_WhiskeyHigh.description>Bebió algo de whisky. Incrementara su velocidad general de trabajo en un 15%.</VBE_WhiskeyHigh.description>
+  <VBE_WhiskeyHigh.labelNoun>un subidón por whisky</VBE_WhiskeyHigh.labelNoun>
+  <VBE_DoubleWhiskeyHigh.label>subidón por whisky añejo</VBE_DoubleWhiskeyHigh.label>
+  <VBE_DoubleWhiskeyHigh.description>Bebió algo de whisky añejo. Incrementara su velocidad general de trabajo en un 20% y mejorara los precios al comerciar en un 20%.</VBE_DoubleWhiskeyHigh.description>
+  <VBE_DoubleWhiskeyHigh.labelNoun>un subidón por whisky añejo</VBE_DoubleWhiskeyHigh.labelNoun>
+  <VBE_HotCoffeeHigh.label>subidón por café caliente</VBE_HotCoffeeHigh.label>
+  <VBE_HotCoffeeHigh.description>La cafeína que se encuentra de forma natural en el café, al metabolizarse, estimulara el sistema nervioso, suprimiendo la necesidad de dormir, y dará claridad a la mente. Incrementara la velocidad de aprendizaje en un 15% y reducirá un 15% la tasa de sueño. El café caliente reduce la hipotermia, el café frio reduce la insolación.</VBE_HotCoffeeHigh.description>
+  <VBE_HotCoffeeHigh.labelNoun>un subidón de café </VBE_HotCoffeeHigh.labelNoun>
+  <VBE_IcedCoffeeHigh.label>subidón de café helado</VBE_IcedCoffeeHigh.label>
+  <VBE_IcedCoffeeHigh.description>La cafeína que se encuentra de forma natural en el café, al metabolizarse, estimulara el sistema nervioso, suprimiendo la necesidad de dormir, y dará claridad a la mente. Incrementara la velocidad de aprendizaje en un 15% y reducirá un 15% la tasa de sueño. El café caliente reduce la hipotermia, el café frio reduce la insolación.</VBE_IcedCoffeeHigh.description>
+  <VBE_IcedCoffeeHigh.labelNoun>un subidón de café </VBE_IcedCoffeeHigh.labelNoun>
+  <VBE_CaffeineTolerance.label>tolerancia a la cafeína</VBE_CaffeineTolerance.label>
+  <VBE_CaffeineTolerance.description>Una tolerancia acumulada a la cafeína. Cuanto más severa es la tolerancia, necesita más cafeína para provocar los mismos efectos.</VBE_CaffeineTolerance.description>
+  <VBE_CaffeineTolerance.stages.small.label>pequeña</VBE_CaffeineTolerance.stages.small.label>
+  <VBE_CaffeineTolerance.stages.large.label>grande</VBE_CaffeineTolerance.stages.large.label>
+  <VBE_CaffeineTolerance.stages.massive.label>masiva</VBE_CaffeineTolerance.stages.massive.label>
+  <VBE_CaffeineAddiction.label>adicción a la cafeína</VBE_CaffeineAddiction.label>
+  <VBE_CaffeineAddiction.description>Una adicción química a la cafeína. Al estar expuesto durante mucho tiempo a la cafeína ha ocasionado adaptaciones neuronales a niveles celulares, por lo que el cerebro no puede trabajar de forma apropiada sin la droga.\n\nSin una dosis regular de cafeína, empezaran los síntomas de abstinencia. Si se extiende la abstinencia, forzara al cerebro a que vuelva a su estado normal, eliminando la adicción.</VBE_CaffeineAddiction.description>
+  <VBE_CaffeineAddiction.stages.withdrawal.label>abstinencia</VBE_CaffeineAddiction.stages.withdrawal.label>
+  <VBE_EnergyDrinkHigh.label>subidón por bebida energética</VBE_EnergyDrinkHigh.label>
+  <VBE_EnergyDrinkHigh.description>Las bebidas energéticas restablecen el sueño de forma inmediata, e incrementan la velocidad de movimiento, pero a costa de una recaída a posterior.</VBE_EnergyDrinkHigh.description>
+  <VBE_EnergyDrinkHigh.labelNoun>un subidón por bebida energética</VBE_EnergyDrinkHigh.labelNoun>
+  <VBE_EnergyDrinkCrash.label>caída por bebida energética</VBE_EnergyDrinkCrash.label>
+  <VBE_EnergyDrinkCrash.description>Un desagradable efecto secundario del consumo de bebidas energéticas.</VBE_EnergyDrinkCrash.description>
+  <VBE_EnergyDrinkCrash.labelNoun>una caída por bebida energética</VBE_EnergyDrinkCrash.labelNoun>
+  <VBE_ConsumedCocktail.label>consumió cóctel</VBE_ConsumedCocktail.label>
+  <VBE_ConsumedCocktail.description>Consumió un buen cóctel. Esto incrementa las posibilidades de obtener una inspiración aleatoria.</VBE_ConsumedCocktail.description>
+  <VBE_ConsumedCocktail.labelNoun>bebió un cóctel</VBE_ConsumedCocktail.labelNoun>
+  <VBE_TobaccoHigh.label>subidón por tabaco</VBE_TobaccoHigh.label>
+  <VBE_TobaccoHigh.description>Hay nicotina en el torrente sanguíneo. Generando una suave sensación de bienestar.</VBE_TobaccoHigh.description>
+  <VBE_TobaccoHigh.labelNoun>un subidón por tabaco</VBE_TobaccoHigh.labelNoun>
+  <VBE_DeluxeTobaccoHigh.label>subidón por tabaco de alta calidad</VBE_DeluxeTobaccoHigh.label>
+  <VBE_DeluxeTobaccoHigh.description>Hay nicotina en el torrente sanguíneo. Generando una suave sensación de bienestar.</VBE_DeluxeTobaccoHigh.description>
+  <VBE_DeluxeTobaccoHigh.labelNoun>un subidón por tabaco de alta calidad</VBE_DeluxeTobaccoHigh.labelNoun>
+  <VBE_TobaccoTolerance.label>tolerancia al tabaco</VBE_TobaccoTolerance.label>
+  <VBE_TobaccoTolerance.description>Una tolerancia acumulada al tabaco. Cuanto más severa es la tolerancia, necesita más tabaco para provocar los mismos efectos.</VBE_TobaccoTolerance.description>
+  <VBE_TobaccoTolerance.stages.small.label>pequeño</VBE_TobaccoTolerance.stages.small.label>
+  <VBE_TobaccoTolerance.stages.large.label>grande</VBE_TobaccoTolerance.stages.large.label>
+  <VBE_TobaccoTolerance.stages.massive.label>masivo</VBE_TobaccoTolerance.stages.massive.label>
+  <VBE_TobaccoAddiction.label>dependencia al tabaco</VBE_TobaccoAddiction.label>
+  <VBE_TobaccoAddiction.description>Una adicción química a tabaco. Al estar expuesto durante mucho tiempo al tabaco ha ocasionado adaptaciones neuronales a niveles celulares, por lo que el cerebro no puede trabajar de forma apropiada sin la droga.\n\nSin una dosis regular de cafeína, empezaran los síntomas de abstinencia. Si se extiende la abstinencia, forzara al cerebro a que vuelva a su estado normal, eliminando la adicción.</VBE_TobaccoAddiction.description>
+  <VBE_TobaccoAddiction.stages.withdrawal.label>abstinencia</VBE_TobaccoAddiction.stages.withdrawal.label>
+</LanguageData>

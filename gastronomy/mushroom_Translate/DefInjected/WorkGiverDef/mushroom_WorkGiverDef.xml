@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VPE_HarvestMushroom.label>cosechar hongos</VPE_HarvestMushroom.label>
+  <VPE_HarvestMushroom.gerund>cosechando hongos</VPE_HarvestMushroom.gerund>
+  <VPE_HarvestMushroom.verb>cosechar hongos</VPE_HarvestMushroom.verb>
+  <VPE_SowMushroom.label>sembrar hongos</VPE_SowMushroom.label>
+  <VPE_SowMushroom.gerund>sembrando hongos</VPE_SowMushroom.gerund>
+  <VPE_SowMushroom.verb>sembrar hongos</VPE_SowMushroom.verb>
+</LanguageData>

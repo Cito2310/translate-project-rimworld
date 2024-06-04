@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VBE_InsertSyrupDesc>Insertar Sirope</VBE_InsertSyrupDesc>
+  <VBE_StartInsertion>Llevar Sirope</VBE_StartInsertion>
+  <VBE_StartInsertionDesc>Llevar sirope a la fuente de soda para empezar el proceso</VBE_StartInsertionDesc>
+  <VBE_CancelBringingSyrup>Cancelar Llevar Sirope</VBE_CancelBringingSyrup>
+  <VBE_CancelBringingSyrupDesc>Cancelar llevado de sirope a la fuente de soda.</VBE_CancelBringingSyrupDesc>
+  <VBE_SyrupFailurePower>La soda se ha echado a perder por un corte de luz en la fuente de soda.</VBE_SyrupFailurePower>
+  <VBE_InsertAmbMustDesc>Insertar Mosto</VBE_InsertAmbMustDesc>
+  <VBE_StartInsertionAmbMust>Llevar Mosto</VBE_StartInsertionAmbMust>
+  <VBE_StartInsertionAmbMustDesc>Llevar mosto de ambrandi a la distelería de ambrandi para empezar la fermentación</VBE_StartInsertionAmbMustDesc>
+  <VBE_CancelBringingAmbMust>Cancelar Llevar Mosto</VBE_CancelBringingAmbMust>
+  <VBE_CancelBringingAmbMustDesc>Cancelar el llevado de mosto de ambrandi a la destilería de ambrandi.</VBE_CancelBringingAmbMustDesc>
+  <VBE_AmbrandyFailurePower>El ambrandi se hecho a perder debido a un corte de luz en la destilería de ambrandi</VBE_AmbrandyFailurePower>
+  <VBE_RemoveAmbrandy>Remover Ambrandi ({0})</VBE_RemoveAmbrandy>
+  <VBE_RemoveAmbrandyDesc>Remover ambrandi de la destilería de ambrandi. El ambrandi se obtendrá con la siguiente calidad ({0})</VBE_RemoveAmbrandyDesc>
+  <VBE_InsertMustOrWhiskeyDesc>Masa o Whisky a Insertar</VBE_InsertMustOrWhiskeyDesc>
+  <VBE_StartInsertionMustOrWhiskey>Llevar Masa o Whisky</VBE_StartInsertionMustOrWhiskey>
+  <VBE_StartInsertionMustOrWhiskeyDesc>Llevar la masa al barril de whisky para empezar la fermentación o whisky para iniciar el proceso de añejamiento.</VBE_StartInsertionMustOrWhiskeyDesc>
+  <VBE_CancelBringingMustOrWhiskey>Cancelar llevado de masa o whisky para el barril de whisky.</VBE_CancelBringingMustOrWhiskey>
+  <VBE_InsertTequilaMustDesc>Insertar Mosto</VBE_InsertTequilaMustDesc>
+  <VBE_StartInsertionTequilaMust>Llevar Mosto</VBE_StartInsertionTequilaMust>
+  <VBE_StartInsertionTequilaMustDesc>Llevar mosto de tequila al barril de tequila para empezar el proceso de fermentación.</VBE_StartInsertionTequilaMustDesc>
+  <VBE_CancelBringingTequilaMust>Cancelar Llevar Mosto</VBE_CancelBringingTequilaMust>
+  <VBE_CancelBringingTequilaMustDesc>Cancelar llevado de mosto de tequila al barril de tequila.</VBE_CancelBringingTequilaMustDesc>
+  <VBE_InsertVodkaMustDesc>Insertar Masa</VBE_InsertVodkaMustDesc>
+  <VBE_StartInsertionVodkaMust>Llevar Masa</VBE_StartInsertionVodkaMust>
+  <VBE_StartInsertionVodkaMustDesc>Llevar masa de vodka al barril de vodka para empezar el proceso de fermentación</VBE_StartInsertionVodkaMustDesc>
+  <VBE_CancelBringingVodkaMust>Cancelar Llevar Masa</VBE_CancelBringingVodkaMust>
+  <VBE_CancelBringingVodkaMustDesc>Cancelar llevado de la masa de vodka al barril de vodka.</VBE_CancelBringingVodkaMustDesc>
+  <VBE_InsertGinMushDesc>Insertar Mosto</VBE_InsertGinMushDesc>
+  <VBE_StartInsertionGinMush>Llevar Mosto</VBE_StartInsertionGinMush>
+  <VBE_StartInsertionGinMushDesc>Llevar mosto de gin al alambique de gin para empezar el proceso de fermentación.</VBE_StartInsertionGinMushDesc>
+  <VBE_CancelBringingGinMush>Cancelar Llevar Mosco</VBE_CancelBringingGinMush>
+  <VBE_CancelBringingGinMushDesc>Cancelar llevado de mosco para gin en alambique de gin.</VBE_CancelBringingGinMushDesc>
+  <VBE_MushRipening>Masa congelada</VBE_MushRipening>
+  <VBE_MushCurrentlyFrozen>Esta masa está congelada y no madurara hasta convertirse a mosto de ambrandi</VBE_MushCurrentlyFrozen>
+  <VBE_MushCurrentlyRefrigerated>Esta masa está refrigerada y no madurará en mosto de ambrandi tan rápido como podría (madurara en {0})</VBE_MushCurrentlyRefrigerated>
+  <VBE_MushDryingCorrectly>La masa esta madurando en mosto de ambrandi de forma correcta (madurara en {0})</VBE_MushDryingCorrectly>
+  <VBE_CiderMaturing>Maduración de sidra</VBE_CiderMaturing>
+  <VBE_CiderCurrentlyFrozen>Esta sidra sin fermentar esta congelada y no madurara en sidra</VBE_CiderCurrentlyFrozen>
+  <VBE_CiderCurrentlyRefrigerated>Esta sidra sin fermentar está refrigerada y no madurará en sidra tan rápido como podría (madurara en {0})</VBE_CiderCurrentlyRefrigerated>
+  <VBE_CiderMaturingCorrectly>Esta sidra sin fermentar está madurando en sidra de forma correcta (madurara en {0})</VBE_CiderMaturingCorrectly>
+  <VBE_UnforbidDroppedFruit>Prohibir caída de fruta</VBE_UnforbidDroppedFruit>
+  <VBE_Never>Nunca</VBE_Never>
+  <VBE_NeverDesc>Nunca se permitira la caída de fruta de forma automática</VBE_NeverDesc>
+  <VBE_HomeArea>Área del Hogar</VBE_HomeArea>
+  <VBE_HomeAreaDesc>Solo permitir la caída de fruta de los arboles en el área del hogar</VBE_HomeAreaDesc>
+  <VBE_Always>Siempre</VBE_Always>
+  <VBE_AlwaysDesc>Siempre permitir la caída de las fruta</VBE_AlwaysDesc>
+</LanguageData>
