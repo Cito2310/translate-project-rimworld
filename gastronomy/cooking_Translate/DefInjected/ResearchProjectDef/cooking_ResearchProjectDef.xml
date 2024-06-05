@@ -77,43 +77,43 @@
   <VCE_VegMilkExtraction.generalRules.rulesStrings.72>subject_story-&gt;matched theory with practice to solve longstanding puzzles</VCE_VegMilkExtraction.generalRules.rulesStrings.72>
   <VCE_VegMilkExtraction.generalRules.rulesStrings.73>subject_story-&gt;uncovered hidden connections that unlocked new possibilities</VCE_VegMilkExtraction.generalRules.rulesStrings.73>
   <VCE_VegMilkExtraction.generalRules.rulesStrings.74>subject_gerund-&gt;piecing together the elements of advancement</VCE_VegMilkExtraction.generalRules.rulesStrings.74>
-  <VCE_CondimentsResearch.label>food condiments</VCE_CondimentsResearch.label>
-  <VCE_CondimentsResearch.description>A condiment is a spice, sauce, or preparation that is added to food, either after or during cooking, to impart a specific flavor, to enhance the flavor, or to complement the dish. All condiments are created at the condiment prep table.</VCE_CondimentsResearch.description>
+  <VCE_CondimentsResearch.label>condimentos de comida</VCE_CondimentsResearch.label>
+  <VCE_CondimentsResearch.description>Un condimento es una especia, salsa o preparación que se añade a la comida, después o durante la cocción, para otorgar un sabor especifico, realzar los sabores o para completar el plato. Todos los condimentos se crean en la mesa de preparación de condimentos.</VCE_CondimentsResearch.description>
   <VCE_CondimentsResearch.generalRules.rulesStrings.0>subject-&gt;flavors of distinction</VCE_CondimentsResearch.generalRules.rulesStrings.0>
   <VCE_CondimentsResearch.generalRules.rulesStrings.1>subject_story-&gt;unlocked the secrets of enhancing flavor through the creation of diverse condiments</VCE_CondimentsResearch.generalRules.rulesStrings.1>
   <VCE_CondimentsResearch.generalRules.rulesStrings.2>subject_story-&gt;pioneered the use of herbs, spices, and sauces to transform simple meals into culinary experiences</VCE_CondimentsResearch.generalRules.rulesStrings.2>
   <VCE_CondimentsResearch.generalRules.rulesStrings.3>subject_story-&gt;cultivated a rich culture of taste, encouraging culinary experimentation and innovation</VCE_CondimentsResearch.generalRules.rulesStrings.3>
   <VCE_CondimentsResearch.generalRules.rulesStrings.4>subject_gerund-&gt;elevating the art of flavor through condiment mastery</VCE_CondimentsResearch.generalRules.rulesStrings.4>
-  <VCE_SoupCooking.label>soup cooking</VCE_SoupCooking.label>
-  <VCE_SoupCooking.description>Soup is a primarily liquid food, generally served warm or hot, that is made by combining ingredients of meat or vegetables with stock, or water. Hot soups are additionally characterized by boiling solid ingredients in liquids in a pot until the flavors are extracted. This research also gives access to the electric pot necessary to cook soups.</VCE_SoupCooking.description>
+  <VCE_SoupCooking.label>cocinar sopa</VCE_SoupCooking.label>
+  <VCE_SoupCooking.description>La sopa es un alimento principalmente liquido, generalmente se sirve caliente, esta hecho con una combinación de ingredientes y vegetales en caldo o agua. Las sopas calientes se caracterizan por hervir ingredientes solidos en liquido para extraer los sabores. Esta investigación también te da acceso a la olla electrica necesaria para hacer sopas.</VCE_SoupCooking.description>
   <VCE_SoupCooking.generalRules.rulesStrings.0>subject-&gt;the essence of nourishment</VCE_SoupCooking.generalRules.rulesStrings.0>
   <VCE_SoupCooking.generalRules.rulesStrings.1>subject_story-&gt;mastered the delicate balance of ingredients to create soups that comfort and heal</VCE_SoupCooking.generalRules.rulesStrings.1>
   <VCE_SoupCooking.generalRules.rulesStrings.2>subject_story-&gt;introduced the electric pot, revolutionizing soup preparation with efficiency and precision</VCE_SoupCooking.generalRules.rulesStrings.2>
   <VCE_SoupCooking.generalRules.rulesStrings.3>subject_story-&gt;expanded the culinary repertoire, exploring the depths of flavor achievable in liquid form</VCE_SoupCooking.generalRules.rulesStrings.3>
   <VCE_SoupCooking.generalRules.rulesStrings.4>subject_gerund-&gt;crafting the soul of cuisine in every pot of soup</VCE_SoupCooking.generalRules.rulesStrings.4>
-  <VCE_Grilling.label>grilling</VCE_Grilling.label>
-  <VCE_Grilling.description>Grilling is a form of cooking that involves dry heat applied to the surface of food, commonly from above, below or from the side. Grilling usually involves a significant amount of direct, radiant heat, and tends to be used for cooking meat and vegetables quickly. This research gives access to the grill.</VCE_Grilling.description>
+  <VCE_Grilling.label>asar</VCE_Grilling.label>
+  <VCE_Grilling.description>asar es una forma de cocinar donde se aplica calor directo a los alimentos, por lo general desde arriba, abajo o desde los lados. Asar genera una gran cantidad de calor de forma directa usado para cocinar carnes y vegetales de forma rápida. Esta investigación también te da acceso a la parrilla.</VCE_Grilling.description>
   <VCE_Grilling.generalRules.rulesStrings.0>subject-&gt;the primal art of fire</VCE_Grilling.generalRules.rulesStrings.0>
   <VCE_Grilling.generalRules.rulesStrings.1>subject_story-&gt;embraced the primal connection between fire and food, perfecting the technique of grilling</VCE_Grilling.generalRules.rulesStrings.1>
   <VCE_Grilling.generalRules.rulesStrings.2>subject_story-&gt;transformed the act of cooking into a celebration of flavor, texture, and aroma</VCE_Grilling.generalRules.rulesStrings.2>
   <VCE_Grilling.generalRules.rulesStrings.3>subject_story-&gt;innovated with designs for grills that enhance the natural qualities of meats and vegetables</VCE_Grilling.generalRules.rulesStrings.3>
   <VCE_Grilling.generalRules.rulesStrings.4>subject_gerund-&gt;searing perfection into every meal with the mastery of grilling</VCE_Grilling.generalRules.rulesStrings.4>
-  <VCE_DeepFrying.label>deep frying</VCE_DeepFrying.label>
-  <VCE_DeepFrying.description>Deep frying (also referred to as deep fat frying) is a cooking method in which food is submerged in hot fat, most commonly oil, as opposed to the shallow oil used in conventional frying done in a frying pan. This research gives access to the deep fryer.</VCE_DeepFrying.description>
+  <VCE_DeepFrying.label>fritura</VCE_DeepFrying.label>
+  <VCE_DeepFrying.description>fritura es un metodo de cocina donde se sumerge a la comida en una grasa caliente, suele ser aceite. Esta investigación también te da acceso a la freidora.</VCE_DeepFrying.description>
   <VCE_DeepFrying.generalRules.rulesStrings.0>subject-&gt;the golden crunch</VCE_DeepFrying.generalRules.rulesStrings.0>
   <VCE_DeepFrying.generalRules.rulesStrings.1>subject_story-&gt;discovered the transformative effect of deep frying, enveloping foods in a crispy, golden exterior</VCE_DeepFrying.generalRules.rulesStrings.1>
   <VCE_DeepFrying.generalRules.rulesStrings.2>subject_story-&gt;engineered the deep fryer, a marvel of culinary technology, to achieve consistent and perfect results</VCE_DeepFrying.generalRules.rulesStrings.2>
   <VCE_DeepFrying.generalRules.rulesStrings.3>subject_story-&gt;elevated the simple act of frying into a culinary craft, celebrated across cultures</VCE_DeepFrying.generalRules.rulesStrings.3>
   <VCE_DeepFrying.generalRules.rulesStrings.4>subject_gerund-&gt;delving into the depths of flavor with the magic of deep frying</VCE_DeepFrying.generalRules.rulesStrings.4>
-  <VCE_Canning.label>canning</VCE_Canning.label>
-  <VCE_Canning.description>Canning is a method of preserving food in which the food contents are processed and sealed in an airtight container (jars like Mason jars, and steel and tin cans). Canning provides a shelf life of several years. A freeze-dried canned product, such as canned dried lentils, could last as long as 30 years in an edible state. This research gives access to the canning machine.</VCE_Canning.description>
+  <VCE_Canning.label>enlatado</VCE_Canning.label>
+  <VCE_Canning.description>El enlatado es un metodo para preservar alimentos donde se procesan los alimentos y se lo coloca en contenedores hermeticos (frascos y latas de aluminio o acero). El enlatado aumenta la vida útil de los alimentos a varios de años. Esta investigación te da acceso a la maquina enlatadora.</VCE_Canning.description>
   <VCE_Canning.generalRules.rulesStrings.0>subject-&gt;the vaults of flavor</VCE_Canning.generalRules.rulesStrings.0>
   <VCE_Canning.generalRules.rulesStrings.1>subject_story-&gt;revolutionized food preservation through canning, extending the bounty of the harvest</VCE_Canning.generalRules.rulesStrings.1>
   <VCE_Canning.generalRules.rulesStrings.2>subject_story-&gt;mastered the science of sealing freshness and taste, ensuring nourishment year-round</VCE_Canning.generalRules.rulesStrings.2>
   <VCE_Canning.generalRules.rulesStrings.3>subject_story-&gt;introduced the canning machine, a key to unlocking the potential of prolonged food storage</VCE_Canning.generalRules.rulesStrings.3>
   <VCE_Canning.generalRules.rulesStrings.4>subject_gerund-&gt;preserving the essence of the seasons within every jar and can</VCE_Canning.generalRules.rulesStrings.4>
-  <VCE_CheeseMaking.label>cheese making</VCE_CheeseMaking.label>
-  <VCE_CheeseMaking.description>Cheesemaking (or caseiculture) is the craft of making cheese. The production of cheese, like many other food preservation processes, allows the nutritional and economic value of milk to be preserved in concentrated form. Cheesemaking allows the production of the cheese with diverse flavors and consistencies. This research gives access to the cheese press.</VCE_CheeseMaking.description>
+  <VCE_CheeseMaking.label>hacer queso</VCE_CheeseMaking.label>
+  <VCE_CheeseMaking.description>La producción de queso, como muchos otros procesos de preservación, permite conservar los valores nutricionales y economicos de la leche en forma concentrada. Te permite producir quesos de diversos tamaños, sabores y consistencia. Esta investigación también te da acceso a la prensa de queso.</VCE_CheeseMaking.description>
   <VCE_CheeseMaking.generalRules.rulesStrings.0>subject-&gt;alchemy of milk</VCE_CheeseMaking.generalRules.rulesStrings.0>
   <VCE_CheeseMaking.generalRules.rulesStrings.1>subject_story-&gt;transformed the humble origins of milk into the rich complexity of cheese</VCE_CheeseMaking.generalRules.rulesStrings.1>
   <VCE_CheeseMaking.generalRules.rulesStrings.2>subject_story-&gt;cultivated an array of cheeses, each a testament to the craft and culture of cheesemaking</VCE_CheeseMaking.generalRules.rulesStrings.2>
