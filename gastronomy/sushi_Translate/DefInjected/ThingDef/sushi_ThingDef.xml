@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCE_SushiPrepTable.label>mesa de preparación de sushi</VCE_SushiPrepTable.label>
+  <VCE_SushiPrepTable.description>Una mesa de trabajo donde cortar y preparar todo tipo de sushi.</VCE_SushiPrepTable.description>
+  <VCE_SoyFermenter.label>fermentado de salsa de soya</VCE_SoyFermenter.label>
+  <VCE_SoyFermenter.description>Un fermentado de soya que es un barril cilíndrico y metálico donde se prensan los granos de soya, se mezcla con la bacteria aspergillus y se deja madurar durante un largo periodo de tiempo. Esto resultara en una salsa de soya que ira incrementado su calidad según el tiempo, se puede usar como condimento para la comida.</VCE_SoyFermenter.description>
+  <VCE_SoySauce.label>salsa de soya</VCE_SoySauce.label>
+  <VCE_SoySauce.description>Una pasta fermentada de granos de soya, granos tostados, salmuera y Aspergillus bacteria. La salsa de soya se puede añadir directamente a la comida, y se usa en la cocina, para añadir un sabor salado, además provee un rico sabor umami.</VCE_SoySauce.description>
+  <VCE_WasabiPaste.label>pasta de wasabi</VCE_WasabiPaste.label>
+  <VCE_WasabiPaste.description>Una pasta hecho con los rizomas de wasabi y usado como un condimento picante en el sushi y otros alimentos. Tiene un sabor similar a la mostaza picante más que al de los chiles, ya que estimula más la nariz que la lengua. Su sabor se deteriora muy rápido.</VCE_WasabiPaste.description>
+  <VCE_DeepFriedSushi.label>sushi frito</VCE_DeepFriedSushi.label>
+  <VCE_DeepFriedSushi.description>El sushi es uno de los alimentos más saludables que existen. Así que alguien tarde o temprano lo freiría y lo convertiría en todo lo contrario. Esto resultara en una comida crujiente, poco saludable pero sabroso. No están abundante como una comida, pero es muy agradable de comer. Freír el sushi reduce su vida útil, a menos que se congele.</VCE_DeepFriedSushi.description>
+  <VCE_HumanSurimi.label>"surimi" de humano</VCE_HumanSurimi.label>
+  <VCE_HumanSurimi.description>Una pasta indistinguible que imita la textura de la langosta, cangrejo u otro marisco. El único problema es que... esta hecho de carne humana. Una delicia des tribus caníbales, y profundamente desagradable y un taboo culinario para cualquier otra persona.</VCE_HumanSurimi.description>
+  <VCE_RawSoybean.label>granos de soya</VCE_RawSoybean.label>
+  <VCE_RawSoybean.description>Un frijol comestible usado como vegetal en múltiples recetas, y es muy famoso por ser el ingrediente principal de la deliciosa salsa de soya.</VCE_RawSoybean.description>
+  <VCE_RawWasabi.label>wasabi</VCE_RawWasabi.label>
+  <VCE_RawWasabi.description>Una planta de la familia del rábano picante. Una pasta hecho con el rizoma usado como un condimento picante en el sushi y otros alimentos. Tiene un sabor similar a la mostaza picante más que al de los chiles, ya que estimula más la nariz que la lengua. Pierde su sabor y se deteriora extremadamente rápido.</VCE_RawWasabi.description>
+  <VCE_Chirashizushi.label>bowl chirashizushi (simple)</VCE_Chirashizushi.label>
+  <VCE_Chirashizushi.description>Un simple bowl chirashizushi hecho con unos pocos ingredientes. En el Chirashizushi, el arroz se sirve en el bol y se cubre con una variedad de guarniciones de pescado crudo y vegetales. Se come por lo rápido y fácil de hacer, además de que es muy saciante.</VCE_Chirashizushi.description>
+  <VCE_Norimaki.label>norimaki (simple)</VCE_Norimaki.label>
+  <VCE_Norimaki.description>Un simple sushi normaki hecho con unos pocos ingredientes. El norimaki es un tipo de sushi que se envuelve en alga.</VCE_Norimaki.description>
+  <VCE_Uramaki.label>uramaki (bueno)</VCE_Uramaki.label>
+  <VCE_Uramaki.description>Un complejo uramaki hecho con cuidado y con una variedad de ingredientes. El uramaki es un pieza cilíndrica de tamaño medio con dos o más rellenos, y se diferencia de los otros maki debido a que el arroz esta por fuera y el alga nori por dentro.</VCE_Uramaki.description>
+  <VCE_Nigiri.label>nigiri (bueno)</VCE_Nigiri.label>
+  <VCE_Nigiri.description>Un complejo sushi nigiri hecho con cuidado y con una variedad de ingredientes. El nigirizushi consiste en una masa de arroz de sushi que el chef presiona con sus palmas hasta formar una bola ovalada y se cubre su parte superior con algún ingrediente (la net)a.</VCE_Nigiri.description>
+  <VCE_Temaki.label>temaki (de lujo)</VCE_Temaki.label>
+  <VCE_Temaki.description>Cocinar una obra maestra de las artes culinarias, un sushi que llena el cuerpo, la mente y el alma. El temaki es un gran trozo de alga nori en forma de cono, relleno de varios ingredientes que sobresalen en su parte superior. Un temaki típico suele medir unos 10 centimetros de largo, y se come con la mano porque es muy difícil agarrarlo con palillos.</VCE_Temaki.description>
+  <VCE_Futomaki.label>futomaki (de lujo)</VCE_Futomaki.label>
+  <VCE_Futomaki.description>Una obra maestra de las artes culinarias, un sushi que llena el cuerpo, la mente y el alma. El futomaki es una pieza cilíndrica grande, que usualmente el nori esta en el exterior. Un futomaki típico posee unos 6 centímetros de diámetro. A menudo se elaboran dos, tres, o más rellenos que se eligen por sus sabores o colores.</VCE_Futomaki.description>
+  <VCE_Gunkanmaki.label>gunkanmaki (gourmet)</VCE_Gunkanmaki.label>
+  <VCE_Gunkanmaki.description>Una obra de arte culinaria, caracterizado por una preparación y presentación refinada y balanceada, aunque en poca cantidad. El Gunkanmaki es un tipo especial de nigirizushi: un masa de arroz aplastada y ovalada, cubierto en los bordes por alga nori, formando un tipo de recipiente, que se rellena con algún ingrediente, suave, suelo o cortado finamente, que necesita ser confinado por el alga nori.</VCE_Gunkanmaki.description>
+  <VCE_Oshizushi.label>oshizushi (gourmet)</VCE_Oshizushi.label>
+  <VCE_Oshizushi.description>Una obra de arte culinaria, caracterizado por una preparación y presentación refinada y balanceada, aunque en poca cantidad. El oshizushi, es una pieza en forma de bloque hecho con moldes de madera. El chef cubre el molde con los ingredientes, lo cubre con arroz de sushi y luego lo presiona con una tapa para formar un bloque compacto y rectangular. Se remueve el bloque del molde y luego se corta en piezas más pequeñas.</VCE_Oshizushi.description>
+  <VCE_Soybean.label>planta de soya</VCE_Soybean.label>
+  <VCE_Soybean.description>Una especie ampliamente cultivada por sus granos comestibles, que además posee muchos usos. Las planta de soya crece muy rápido, pero es muy sensible a la temperatura, la temperatura optima de crecimiento es entre 20 a 30°C (68 a 86°F). Las temperaturas fuera de este rango frena bastante el crecimiento.</VCE_Soybean.description>
+  <VCE_Wasabi.label>planta de wasabi</VCE_Wasabi.label>
+  <VCE_Wasabi.description>Una planta de la familia del rábano picante. Una pasta hecho con el rizoma usado como un condimento picante en el sushi y otros alimentos. Tiene un sabor similar a la mostaza picante más que al de los chiles, ya que estimula más la nariz que la lengua. El wasabi es conocido por ser una de las plantas más difíciles de cultivar, necesita un clima templado y extremadamente húmedo. Recibirá una penalización de crecimiento si no se encuentran 20 casillas en un radio de 6 casillas alrededor.</VCE_Wasabi.description>
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCE_ConsumedSoySauce.label>consumió salsa de soya (en la comida)</VCE_ConsumedSoySauce.label>
+  <VCE_ConsumedSoySauce.description>Una pasta fermentada de granos de soya, granos tostados, salmuera y Aspergillus bacteria. La salsa de soya se puede añadir directamente a la comida, y se usa en la cocina, para añadir un sabor salado, además provee un rico sabor umami. La salsa de soya contiene 10 veces más de antioxidantes que el vino, y ayuda a prevenir los problemas cardiovasculares (incrementa bombeo de sangre y la filtración).</VCE_ConsumedSoySauce.description>
+  <VCE_ConsumedWasabi.label>consumió wasabi (en la comida)</VCE_ConsumedWasabi.label>
+  <VCE_ConsumedWasabi.description>Una pasta hecho con los rizomas de wasabi y usado como un condimento picante en el sushi y otros alimentos. Tiene un sabor similar a la mostaza picante más que al de los chiles, ya que estimula más la nariz que la lengua. El wasabi aclara la respiración y te hace sentir algo más cálido.</VCE_ConsumedWasabi.description>
+  <VCE_AteSimpleSushi.label>consumió simple sushi (en la comida)</VCE_AteSimpleSushi.label>
+  <VCE_AteSimpleSushi.description>He comido un sushi delicioso y saciante.</VCE_AteSimpleSushi.description>
+  <VCE_AteFineSushi.label>consumió buen sushi (en la comida)</VCE_AteFineSushi.label>
+  <VCE_AteFineSushi.description>He comido un sushi delicioso y saciante.</VCE_AteFineSushi.description>
+  <VCE_AteLavishSushi.label>consumió sushi de lujo (en la comida)</VCE_AteLavishSushi.label>
+  <VCE_AteLavishSushi.description>He comido un sushi delicioso y saciante.</VCE_AteLavishSushi.description>
+  <VCE_AteGourmetSushi.label>consumió sushi gourmet (en la comida)</VCE_AteGourmetSushi.label>
+  <VCE_AteGourmetSushi.description>He comido un sushi delicioso y saciante.</VCE_AteGourmetSushi.description>
+</LanguageData>

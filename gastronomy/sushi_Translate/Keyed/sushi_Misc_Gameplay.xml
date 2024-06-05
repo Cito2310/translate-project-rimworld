@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCE_InsertSoybeansDesc>Fermentando Objeto</VCE_InsertSoybeansDesc>
+  <VCE_StartSoybeanInsertion>Llevar granos de soya</VCE_StartSoybeanInsertion>
+  <VCE_StartSoybeanInsertionDesc>Llevar granos de soya al fermentador para iniciar el proceso de fermentación</VCE_StartSoybeanInsertionDesc>
+  <VCE_CancelBringingSoybeans>Cancelar Llevar Soya</VCE_CancelBringingSoybeans>
+  <VCE_CancelBringingSoybeansDesc>Cancelar llevado de granos de soya al fermentador.</VCE_CancelBringingSoybeansDesc>
+  <VCE_RemoveSoySauce>Remover Salsa de Soya ({0})</VCE_RemoveSoySauce>
+  <VCE_RemoveSoySauceDesc>Remover salsa de soya del fermentador. La salsa de soya esta lista y tiene la calidad {0}</VCE_RemoveSoySauceDesc>
+  <VCE_CondimentEffectsSoy>Consumir alimentos con este condimento incrementa el animo en 5 e incrementa el bombeo de sangre y la filtración en 5% por 12 horas.</VCE_CondimentEffectsSoy>
+  <VCE_CondimentEffectsWasabi>Consumir alimentos con este condimento incrementa la conciencia y la respiración en un 5%, reduce el animo en 1 y reduce la temperatura mínima en 10%, todo esto por 12 horas.</VCE_CondimentEffectsWasabi>
+</LanguageData>

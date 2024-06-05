@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCE_InsertStewDesc>Estofado a Cocinar</VCE_InsertStewDesc>
+  <VCE_StartStewInsertion>Llevar Estofado</VCE_StartStewInsertion>
+  <VCE_StartStewInsertionDesc>Llevar estofado a olla de estofado para empezar a cocinar</VCE_StartStewInsertionDesc>
+  <VCE_CancelBringingStew>Cancelar Llevar Estofado</VCE_CancelBringingStew>
+  <VCE_CancelBringingStewDesc>Cancelar llevado de estofado en olla de estofado</VCE_CancelBringingStewDesc>
+  <VCE_StewFailurePower>El estofado se hecho a perder por falta de combustible en la olla de estofado</VCE_StewFailurePower>
+  <VCE_StewFailurePowerWarning>El estofado se esta echando a perder rápido por la falta de combustible en la olla de estofado.</VCE_StewFailurePowerWarning>
+  <VCE_FinishedSimpleStew>Un simple estofado esta listo y esta esperando que alguien lo agarre.</VCE_FinishedSimpleStew>
+  <VCE_FinishedFineStew>Un estofado bueno esta listo y esta esperando que alguien lo agarre.</VCE_FinishedFineStew>
+  <VCE_FinishedLavishStew>Un estofado de lujo esta listo y esta esperando que alguien lo agarre.</VCE_FinishedLavishStew>
+</LanguageData>

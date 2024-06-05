@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCE_CookStewSimple.label>preparar estofado simple</VCE_CookStewSimple.label>
+  <VCE_CookStewSimple.description>Preparar rápidamente un estofado simple sin cocinar con unos pocos ingredientes.</VCE_CookStewSimple.description>
+  <VCE_CookStewSimple.jobString>Preparando estofado simple.</VCE_CookStewSimple.jobString>
+  <VCE_CookStewFine.label>preparar estofado bueno</VCE_CookStewFine.label>
+  <VCE_CookStewFine.description>Preparar un estofado bueno sin cocinar hecho con cuidado y con una variedad de ingredientes.</VCE_CookStewFine.description>
+  <VCE_CookStewFine.jobString>preparando estofado bueno.</VCE_CookStewFine.jobString>
+  <VCE_CookStewLavish.label>preparar estofado de lujo</VCE_CookStewLavish.label>
+  <VCE_CookStewLavish.description>Preparar un estofado de lujo sin cocinar. Una obra maestra de las artes culinaria, este estofado llena el cuerpo, la mente y el alma .</VCE_CookStewLavish.description>
+  <VCE_CookStewLavish.jobString>Preparando estofado de lujo.</VCE_CookStewLavish.jobString>
+</LanguageData>
