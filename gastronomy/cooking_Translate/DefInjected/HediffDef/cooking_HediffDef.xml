@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VBE_DalgonaCoffeeHigh.label>subidón de café dalgona</VBE_DalgonaCoffeeHigh.label>
+  <VBE_DalgonaCoffeeHigh.description>Caffeine naturally found in coffee once metabolised increases the stimuli in one's nervous system, suppressing ones urge to sleep, as well as clearing ones mind. Increases learning speed by a 15% amount and 15% reduction in rest fall rate. Cold coffee reduces heatstroke. Dalgona coffee provides a 10% research speed bonus.
+
+La cafeína que se encuentra en el café, al ser metabolizados, al ser metabolizados, incrementan los estímulos del sistema nervioso, suprime el sueño y despeja la mente. Incrementando la velocidad de aprendizaje en un 15% y provee una reducción del 15% de la tasa del sueño. El café frío reduce la insolación. El café dalgona provee de un bono de velocidad de investigación de un 10%.</VBE_DalgonaCoffeeHigh.description>
+  <VBE_DalgonaCoffeeHigh.labelNoun>un subidón de café dalgona</VBE_DalgonaCoffeeHigh.labelNoun>
+  <VBE_DrankMasalaChai.label>bebió masala chai</VBE_DrankMasalaChai.label>
+  <VBE_DrankMasalaChai.description>Los taninos naturales que se encuentran en el té, al ser metabolizados, incrementan los estímulos del sistema nervioso, suprime el sueño y otorga un aumento del sistema inmune. Incrementando la velocidad de inmunización en un 15% y provee una reducción del 10% de la tasa del sueño durante 5 horas. El masala chai actúa como un remedio casero contra las infecciones, reduciendo la severidad de la infección aleatoria del 5%.</VBE_DrankMasalaChai.description>
+  <VBE_MintCoffeeHigh.label>subidón de café con menta</VBE_MintCoffeeHigh.label>
+  <VBE_MintCoffeeHigh.description>La cafeína que se encuentra en el café, al ser metabolizados, al ser metabolizados, incrementan los estímulos del sistema nervioso, suprime el sueño y despeja la mente. Incrementando la velocidad de aprendizaje en un 15% y provee una reducción del 15% de la tasa del sueño. El café caliente reduce la hipotermia. El café con menta proporciona un aliento fresco, aumenta el impacto social en un 10%.</VBE_MintCoffeeHigh.description>
+  <VBE_MintCoffeeHigh.labelNoun>un subidón de café con menta</VBE_MintCoffeeHigh.labelNoun>
+  <VBE_DrankMintTea.label>bebió té de menta</VBE_DrankMintTea.label>
+  <VBE_DrankMintTea.description>Los taninos naturales que se encuentran en el té, al ser metabolizados, incrementan los estímulos del sistema nervioso, suprime el sueño y otorga un aumento del sistema inmune. Incrementando la velocidad de inmunización en un 15% y provee una reducción del 10% de la tasa del sueño durante 5 horas. Otorga un aliento fresco, aumenta el impacto social en un 10%.</VBE_DrankMintTea.description>
+  <VBE_DrankNoonChai.label>bebió noon chai</VBE_DrankNoonChai.label>
+  <VBE_DrankNoonChai.description>Los taninos naturales que se encuentran en el té, al ser metabolizados, incrementan los estímulos del sistema nervioso, suprime el sueño y otorga un aumento del sistema inmune. Incrementando la velocidad de inmunización en un 15% y provee una reducción del 10% de la tasa del sueño durante 5 horas. Usado como tratamiento para los parásitos musculares</VBE_DrankNoonChai.description>
+  <VCE_ConsumedMintLeaves.label>consumió menta (en la comida)</VCE_ConsumedMintLeaves.label>
+  <VCE_ConsumedMintLeaves.description>Consumió hojas se mentas. El aliento fresco aumenta el impacto social en un 10%.</VCE_ConsumedMintLeaves.description>
+  <VCE_ConsumedMayo.label>consumió mayonesa (en la comida)</VCE_ConsumedMayo.label>
+  <VCE_ConsumedMayo.description>La mayonesa es una emulsión espesa de huevo, aceite y otras hierbas. La mayonesa es terrible para uno, agrega un sabor agradable y muchas calorías. Reduce la tasa de hambre en un 15% durante 12 horas.</VCE_ConsumedMayo.description>
+  <VCE_ConsumedAgave.label>consumió néctar de agave (en la comida)</VCE_ConsumedAgave.label>
+  <VCE_ConsumedAgave.description>El néctar de agave es un néctar fino y algo dulce, conocido por sus propiedades curativas y antiinflamatorias. Da un aumento del 15% a la velocidad de inmunización durante 12 horas.</VCE_ConsumedAgave.description>
+  <VCE_ConsumedSpices.label>consumió especias (en la comida)</VCE_ConsumedSpices.label>
+  <VCE_ConsumedSpices.description>Consumió un variedad de especias aromáticas y picantes. Incrementa la estadística de manipulación un 5% por 12 horas.</VCE_ConsumedSpices.description>
+  <VCE_WellFed.label>bien alimentado (por carne a la parrilla)</VCE_WellFed.label>
+  <VCE_WellFed.description>He comida una carne deliciosa y saciante. Reduce la tasa de hambre en un 35% durante 12 horas.</VCE_WellFed.description>
+  <VCE_WellFedSimple.label>bien alimentado (por carne a la parrilla)</VCE_WellFedSimple.label>
+  <VCE_WellFedSimple.description>He comida una carne deliciosa y saciante. Reduce la tasa de hambre en un 35% durante 12 horas.</VCE_WellFedSimple.description>
+  <VCE_WellFedFine.label>bien alimentado (por carne a la parrilla)</VCE_WellFedFine.label>
+  <VCE_WellFedFine.description>He comida una carne deliciosa y saciante. Reduce la tasa de hambre en un 35% durante 12 horas.</VCE_WellFedFine.description>
+  <VCE_WellFedLavish.label>bien alimentado (por carne a la parrilla)</VCE_WellFedLavish.label>
+  <VCE_WellFedLavish.description>He comida una carne deliciosa y saciante. Reduce la tasa de hambre en un 35% durante 12 horas.</VCE_WellFedLavish.description>
+  <VCE_WellFedGourmet.label>bien alimentado (por carne a la parrilla)</VCE_WellFedGourmet.label>
+  <VCE_WellFedGourmet.description>He comida una carne deliciosa y saciante. Reduce la tasa de hambre en un 35% durante 12 horas.</VCE_WellFedGourmet.description>
+  <VCE_ConsumedDigestibleResurrectorNanites.label>consumió nanitas resurrectoras (en la comida)</VCE_ConsumedDigestibleResurrectorNanites.label>
+  <VCE_ConsumedDigestibleResurrectorNanites.description>Las nanitas resurrectoras resucitarán a esta persona mientras esté activa. El efecto dura 12 horas.</VCE_ConsumedDigestibleResurrectorNanites.description>
+  <VCE_SugarRush.label>consumió azúcar (en la comida)</VCE_SugarRush.label>
+  <VCE_SugarRush.description>El azúcar se convierte fácilmente en energía para el cuerpo, esto resulta en un ráfaga de energía. Incrementa la velocidad de movimiento en un 15% por 12 horas.</VCE_SugarRush.description>
+  <VCE_AteGourmetMeal.label>consumió comida gourmet</VCE_AteGourmetMeal.label>
+  <VCE_AteGourmetMeal.description>Este colono consumió una comida increíble.</VCE_AteGourmetMeal.description>
+  <VCE_ConsumedHotSauce.label>consumió salsa picante (en la comida)</VCE_ConsumedHotSauce.label>
+  <VCE_ConsumedHotSauce.description>Consumió una salsa picante y potente hecho al triturar chiles y otras especias, y luego mezclarlas y cocinarlas a fuego lento. Si bien es una salsa picante particularmente fuerte que genera una sensación de dolor al principio, que luego adormecerá la lengua y provocara un sudor cálido. Aumenta la resistencia al dolor un 15% y aumenta la resistencia al frío en 10°C durante 12 horas.</VCE_ConsumedHotSauce.description>
+</LanguageData>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCE_VegMilkExtractor.label>extractor de leche vegetal</VCE_VegMilkExtractor.label>
+  <VCE_VegMilkExtractor.description>Una pequeña estación de trabajo que contiene una prensa y una centrifugadora que separa el extracto vegetal de la masa. Las altas fuerzas G generadas por la centrifugadora permite extraer la leche vegetal del arroz, almendras, cocos, avenas y soyas.</VCE_VegMilkExtractor.description>
+  <VCE_RawOats.label>avenas</VCE_RawOats.label>
+  <VCE_RawOats.description>El grano de la planta de avena. La avena tiene una variedad de usos en alimentos; los más comunes es que se enrolle y triture para obtener puré de avena. La avena se suele comer solo, aunque también se puede utilizar en una variedad de productos al horneados. La avena también puede ser usada para producir una sustituto de la leche.</VCE_RawOats.description>
+  <VCE_Barley.label>planta de cebada</VCE_Barley.label>
+  <VCE_Barley.description>Un grano que las personas usan para hacer pan, bebidas, sopas y otros platillos. Como grano integral, la cebada aporta fibra, vitaminas y minerales. Ha sido diseñado genéticamente para desarmarse fácilmente en harina con un simple toque.\n\n&lt;color=#E5E54C&gt;Efecto en el juego:&lt;/color&gt; La cebada es un "cultivo dual", es decir, que produce harina y heno.</VCE_Barley.description>
+  <VCE_Sorghum.label>planta de sorgo</VCE_Sorghum.label>
+  <VCE_Sorghum.description>Un cereal resistente a las sequias usado en alimentos, forraje para los animales, para producir bebidas alcohólicas y biocombustibles. Los granos de sorgo no tienen gluten, tienen almidón y tienen más componentes fenólicos comparado a otros cultivos de cereales.\n\n&lt;color=#E5E54C&gt;Efecto en el juego:&lt;/color&gt; Las plantas de sorgo pueden crecer hasta 2.5 metros de altura, y crecen muy cerca uno de otro. Los campos de sorgo se pueden usar como una cobertura muy efectiva.</VCE_Sorghum.description>
+  <VCE_Rye.label>planta de centeno</VCE_Rye.label>
+  <VCE_Rye.description>Una planta de centeno que puede crecer en suelos muy pobre. Este es un cultivo muy apreciado en regiones donde el suelo es arena o de turba. Además esta diseñado genéticamente para que sus granos se rompan en harina de un simple toque.\n\n&lt;color=#E5E54C&gt;Efecto en el juego:&lt;/color&gt; El centeno solo puede crecer en zonas de cultivo de arena. Se tarda bastante tiempo en sembrar y cosechar esta planta, básicamente intercambia el trabajo del colono en la planta a cambio de poder plantar en un espacio inutilizado. El centeno necesita estar lejos de grandes cuerpos de agua para crecer (si hay agua en 10 casillas no crecerá.)</VCE_Rye.description>
+  <VCE_Oats.label>planta de avena</VCE_Oats.label>
+  <VCE_Oats.description>La avena, es una especie de cereal que se cultiva por su semilla, que tiene el mismo nombre. La avena tiene varios uso en la gastronomía, y también se puede convertir en leche vegetal.\n\n&lt;color=#E5E54C&gt;Efecto en el juego:&lt;/color&gt; La avena tiene un rendimiento muy bajo, pero es muy versátil, además es un "cultivo doble", produce harina y avena, que puede usarse como vegetal o para hacer leche.</VCE_Oats.description>
+  <VBE_LuciferiumPowder.label>polvo de luciferio</VBE_LuciferiumPowder.label>
+  <VBE_LuciferiumPowder.description>Un polvo muy fino de Luciferio. Usualmente se coloca en el borde las bebidas alcohólicas en los bares frecuentados por ricos y poderosos. Al ser una versión muy diluida de la droga no hay riesgo de adicción.</VBE_LuciferiumPowder.description>
+  <VBE_WakeUpPowder.label>polvo de despertar</VBE_WakeUpPowder.label>
+  <VBE_WakeUpPowder.description>Un polvo de Despertar, sorpresivamente es dulce, y a veces se usa para reemplazar el azúcar en los postres o disuelta en el café de la mañana. Al ser una versión muy diluida de la droga no hay riesgo de adicción.</VBE_WakeUpPowder.description>
+  <VBE_GoJuiceStock.label>caldo de jugo-go</VBE_GoJuiceStock.label>
+  <VBE_GoJuiceStock.description>Un cubo gelatinizado de Jugo-Go, capaz de ser ingerido en vez de ser inyectado. Se puede usar en cualquier comida, a menudo se usa en sopas o como agente espesante en cócteles. Al ser una versión muy diluida de la droga no hay riesgo de adicción.</VBE_GoJuiceStock.description>
+  <VBE_DalgonaCoffee.label>café dalgona</VBE_DalgonaCoffee.label>
+  <VBE_DalgonaCoffee.description>Una bebida moderna y trend en el mundo del café, según los rumores proviene de mundos lejanos de vapor. Los granos de café se mezclan rápidamente con azúcar formando una espuma espesa e increíblemente deliciosa. Luego la espuma se dispersa sobre la leche muy fría. Se puede decir que es la bebida perfecta mientras se lee o estudia.</VBE_DalgonaCoffee.description>
+  <VBE_DalgonaCoffee.ingestible.ingestCommandString>Beber {0}</VBE_DalgonaCoffee.ingestible.ingestCommandString>
+  <VBE_DalgonaCoffee.ingestible.ingestReportString>Bebiendo {0}.</VBE_DalgonaCoffee.ingestible.ingestReportString>
+  <VBE_GreenTea.label>té verde</VBE_GreenTea.label>
+  <VBE_GreenTea.description>Un té verde ligero y cítrico, con un poco de azúcar para crear un sabor mantecoso, con un toque a nuez.</VBE_GreenTea.description>
+  <VBE_GreenTea.ingestible.ingestCommandString>Beber {0}</VBE_GreenTea.ingestible.ingestCommandString>
+  <VBE_GreenTea.ingestible.ingestReportString>Bebiendo {0}.</VBE_GreenTea.ingestible.ingestReportString>
+  <VBE_MasalaChai.label>masala chai</VBE_MasalaChai.label>
+  <VBE_MasalaChai.description>Un té caliente, ligeramente espeso y algo amaderado creado con hojas simples y especias. El masala chai es un remedio casero contra las infecciones, reduciendo la severidad de una infección aleatoria en un 5%.</VBE_MasalaChai.description>
+  <VBE_MasalaChai.ingestible.ingestCommandString>Beber {0}</VBE_MasalaChai.ingestible.ingestCommandString>
+  <VBE_MasalaChai.ingestible.ingestReportString>Bebiendo {0}.</VBE_MasalaChai.ingestible.ingestReportString>
+  <VBE_MintCoffee.label>café de menta</VBE_MintCoffee.label>
+  <VBE_MintCoffee.description>Un expreso amargo mezclado con crema o leche, que luego se mezcla con aceite de menta y se decora. El café fresco y aterciopelado da paso a un regusto más fresco y relajante, además del aliento fresco que deja.</VBE_MintCoffee.description>
+  <VBE_MintCoffee.ingestible.ingestCommandString>Beber {0}</VBE_MintCoffee.ingestible.ingestCommandString>
+  <VBE_MintCoffee.ingestible.ingestReportString>Bebiendo {0}.</VBE_MintCoffee.ingestible.ingestReportString>
+  <VBE_MintTea.label>té de menta</VBE_MintTea.label>
+  <VBE_MintTea.description>Un té negro mezclado con hojas de menta, y luego ser decorada con hojas de mentas. Deja un aliento muy refrescante.</VBE_MintTea.description>
+  <VBE_MintTea.ingestible.ingestCommandString>Beber {0}</VBE_MintTea.ingestible.ingestCommandString>
+  <VBE_MintTea.ingestible.ingestReportString>Bebiendo {0}.</VBE_MintTea.ingestible.ingestReportString>
+  <VBE_NoonChai.label>noon chai</VBE_NoonChai.label>
+  <VBE_NoonChai.description>Un antiguo té de Cachemira mezclado con hojas de té, una pizca de sal y bicarbonato de sodio, esto resultara en una bebida con un color rosado que es famoso no solo por ser delicioso si no por ser saludable para el organismo. Es usado para tratar los parásitos musculares.</VBE_NoonChai.description>
+  <VBE_NoonChai.ingestible.ingestCommandString>Beber {0}</VBE_NoonChai.ingestible.ingestCommandString>
+  <VBE_NoonChai.ingestible.ingestReportString>Bebiendo {0}.</VBE_NoonChai.ingestible.ingestReportString>
+  <VBE_MintLeaves.label>hojas de menta</VBE_MintLeaves.label>
+  <VBE_MintLeaves.description>Las hojas de menta son famosas por el frescor que deja en la boca, se usa para crear una serie de té o para decorar. Las hojas de menta se pudren rápido.</VBE_MintLeaves.description>
+  <VBE_MintPlant.label>planta de menta</VBE_MintPlant.label>
+  <VBE_MintPlant.description>Una planta llena de hojas de menta. Las hojas de menta son famosas por el frescor que deja en la boca, se usa para crear una serie de té o para decorar. Florece en interiores y en macetas, son agradables a la vista.</VBE_MintPlant.description>
+  <VCE_ElectricPot.label>olla eléctrica</VCE_ElectricPot.label>
+  <VCE_ElectricPot.description>Una olla eléctrica, llamada olla térmica, es un pequeño electrodoméstico que usa agua hirviendo y mantiene una temperatura estable. Usado tipicamente para cocinar sopas durante un largo periodo de tiempo. Los ingredientes se sumergen en agua y se dejan cocinar durante un largo periodo de tiempo, lo que permite que los sabores de los ingredientes se mezclen y profundicen.\n\nSi la olla eléctrica se queda sin electricidad, la sopa en su interior se echara a perder muy rápido. ¡Cuidado con las erupciones solares!</VCE_ElectricPot.description>
+  <VCE_Grill.label>parrilla</VCE_Grill.label>
+  <VCE_Grill.description>Una parrilla que permite cocinar alimentos aplicando calor desde abajo. Es una parrilla con leña, por lo que necesita madera para funcionar.</VCE_Grill.description>
+  <VCE_DeepFrier.label>freidora</VCE_DeepFrier.label>
+  <VCE_DeepFrier.description>Una freidora que se usa en la cocina para freír. La fritura es un método de cocina donde se sumerge al alimento en aceite caliente, suele estar entre 350 °F hasta 375 °F (175 °C a 190 °C).</VCE_DeepFrier.description>
+  <VCE_CanningMachine.label>maquina enlatadora</VCE_CanningMachine.label>
+  <VCE_CanningMachine.description>Una maquina enlatadora para preservar alimentos dentro de latas metálicas. Cada vez que enlates necesitaras una cierta cantidad de acero.</VCE_CanningMachine.description>
+  <VCE_CondimentPrepTable.label>mesa de preparación de condimentos</VCE_CondimentPrepTable.label>
+  <VCE_CondimentPrepTable.description>Una mesa de trabajo donde cortar, picar y preparar condimentos usados en recetas gourmet.</VCE_CondimentPrepTable.description>
+  <VCE_CheesePress.label>prensa de queso</VCE_CheesePress.label>
+  <VCE_CheesePress.description>Una prensa de queso usado para exprimir el suero de la cuajada y hacer queso. La presión influye en la dureza y textura del queso, también determinara su forma, un bloque o una rueda. Esta prensa también funciona como cámara de maduración, cuanto más se deje madurar el queso, mayor será su calidad.</VCE_CheesePress.description>
+  <VCE_SimpleBake.label>pan simple</VCE_SimpleBake.label>
+  <VCE_SimpleBake.description>Un simple pan hecho rápidamente con unos pocos ingredientes y harina.</VCE_SimpleBake.description>
+  <VCE_FineBake.label>pan bueno</VCE_FineBake.label>
+  <VCE_FineBake.description>Un pan complejo hecho con cuidado y con múltiples ingredientes y harina.</VCE_FineBake.description>
+  <VCE_LavishBake.label>pan de lujo</VCE_LavishBake.label>
+  <VCE_LavishBake.description>Una obra maestra de la artes culinaria, estos panes nutren el cuerpo, la mente y la alma.</VCE_LavishBake.description>
+  <VCE_GourmetBake.label>pan gourmet</VCE_GourmetBake.label>
+  <VCE_GourmetBake.description>Una obra de arte culinaria, caracterizado por una preparación y presentación refinada y balanceada, aunque en poca cantidad</VCE_GourmetBake.description>
+  <VCE_CannedMeat.label>carne enlatada</VCE_CannedMeat.label>
+  <VCE_CannedMeat.description>Carne sellada al vacío y asegurado dentro de una lata de acero, aumentando su vida útil de forma indefinida. Si bien es comestible recién sacado de la lata, es más nutritivo si se mezcla en alimentos y se cocina.\n\nLos alimentos enlatados tienen la intención de preservar la comida y ser usado como ingrediente, no para ser comido solo.</VCE_CannedMeat.description>
+  <VCE_CannedProduce.label>producto enlatado</VCE_CannedProduce.label>
+  <VCE_CannedProduce.description>Producto sellado al vacío y asegurado dentro de una lata de acero, aumentando su vida útil de forma indefinida. Si bien es comestible recién sacado de la lata, es más nutritivo si se mezcla en alimentos y se cocina.\n\nLos alimentos enlatados tienen la intención de preservar la comida y ser usado como ingrediente, no para ser comido solo.</VCE_CannedProduce.description>
+  <VCE_CannedFruit.label>fruta enlatada</VCE_CannedFruit.label>
+  <VCE_CannedFruit.description>Fruta cocina y sellada al vacío y asegurado dentro de una lata de acero, aumentando su vida útil de forma indefinida. Si bien es comestible recién sacado de la lata, es más nutritivo si se mezcla en alimentos y se cocina.\n\nLos alimentos enlatados tienen la intención de preservar la comida y ser usado como ingrediente, no para ser comido solo.</VCE_CannedFruit.description>
+  <VCE_CannedAP.label>huevo enlatada</VCE_CannedAP.label>
+  <VCE_CannedAP.description>Huevo hervido sellado al vacío y asegurado dentro de una lata de acero, aumentando su vida útil de forma indefinida. Si bien es comestible recién sacado de la lata, es más nutritivo si se mezcla en alimentos y se cocina.\n\nLos alimentos enlatados tienen la intención de preservar la comida y ser usado como ingrediente, no para ser comido solo.</VCE_CannedAP.description>
+  <VCE_CannedFish.label>pescado enlatado</VCE_CannedFish.label>
+  <VCE_CannedFish.description>Pescado sellado al vacío y asegurado dentro de una lata de acero, aumentando su vida útil de forma indefinida. Si bien es comestible recién sacado de la lata, es más nutritivo si se mezcla en alimentos y se cocina.\n\nLos alimentos enlatados tienen la intención de preservar la comida y ser usado como ingrediente, no para ser comido solo.</VCE_CannedFish.description>
+  <VCE_Cheese.label>queso</VCE_Cheese.label>
+  <VCE_Cheese.description>El queso es un producto hecho con leche y que tienen una gran gama de sabores, texturas y formas, esto con la coagulación de la proteína de leche, la caseína. El queso es muy apreciado por su portabilidad, su larga vida útil y su alta cantidad de grasa, proteína, calcio y fosforo. Es más compacto y tiene una mayor vida útil que la leche.</VCE_Cheese.description>
+  <VCE_AgaveNectar.label>néctar de agave</VCE_AgaveNectar.label>
+  <VCE_AgaveNectar.description>Un néctar fino y algo dulce, conocido por sus propiedades curativas y antinflamatoria. Aunque es más saludable que el azúcar, su alta cantidad de fructuosa puede ser perjudicial si se consume constantemente.</VCE_AgaveNectar.description>
+  <VCE_RawSugar.label>azúcar</VCE_RawSugar.label>
+  <VCE_RawSugar.description>Azúcar de caña cristalizada, aporta un dulzor muy deseado. El azúcar se convierte fácilmente en energía para el cuerpo, resultando en un impulso de energía.</VCE_RawSugar.description>
+  <VCE_RawSpices.label>especias</VCE_RawSpices.label>
+  <VCE_RawSpices.description>Una variedad de especias aromáticas y picantes, añade unas notas agudas cuando tocan la lengua y un picor por donde pasa.</VCE_RawSpices.description>
+  <VCE_Salt.label>sal</VCE_Salt.label>
+  <VCE_Salt.description>Sal de roca, también llamado sal común, realza los sabores de otros ingredientes al cocinar con ella.</VCE_Salt.description>
+  <VCE_Mayo.label>mayonesa</VCE_Mayo.label>
+  <VCE_Mayo.description>Una emulsión espesa hecho con huevo, aceite y otras hierbas. Si bien la mayonesa es terrible para uno, añade un sabor agradable y una gran cantidad de calorias.</VCE_Mayo.description>
+  <VCE_InsectJellyPreserves.label>insect jelly preserves</VCE_InsectJellyPreserves.label>
+  <VCE_InsectJellyPreserves.description>Un conserva de jalea de insectos. Muy ricas y dulces, y sorpresivamente son saludables</VCE_InsectJellyPreserves.description>
+  <VCE_SmokeleafButter.label>mantequilla de hojahumeante</VCE_SmokeleafButter.label>
+  <VCE_SmokeleafButter.description>Una sustancia grasa y espesa que se elabora batiendo la leche hasta forma una crema muy espesa, luego se combina con aceite de hojahumeante y se la deja reposar. Muy poco saludable y te da un subidón un poco más fuerte que un porro.</VCE_SmokeleafButter.description>
+  <VCE_ChocolateSyrup.label>sirope de chocolate</VCE_ChocolateSyrup.label>
+  <VCE_ChocolateSyrup.description>Una mezcla de cacao, agua y azúcar, que forma un sirope agridulce perfecto para cubrir postres. Si bien no es muy bueno para uno, el sirope de chocolate no es tan malo como el azúcar puro.</VCE_ChocolateSyrup.description>
+  <VCE_DigestibleResurrectorNanites.label>nanitas resurrector digeribles </VCE_DigestibleResurrectorNanites.label>
+  <VCE_DigestibleResurrectorNanites.description>Un brebaje de mundo-brillante de alta tecnología, no es seguro beberlo directamente debido a su sabor amargo y a que puede causar hemorragia intraventricular. Pero cuando se añade a la comida, estos efectos se anulan. Cualquier colono que tenga esto cuando muera revivirá de forma inmediata como si fuera un milagro.</VCE_DigestibleResurrectorNanites.description>
+  <VCE_DeepFriedBigMeat.label>carne frita</VCE_DeepFriedBigMeat.label>
+  <VCE_DeepFriedBigMeat.description>La carne se filetea, se enrolla y se forma una masa antes de sumergirla en aceite caliente y freírla. Esto dará como un alimento crujiente, sabrosa pero muy poco saludable</VCE_DeepFriedBigMeat.description>
+  <VCE_DeepFriedVegetables.label>verdura frita</VCE_DeepFriedVegetables.label>
+  <VCE_DeepFriedVegetables.description>Las verduras se cortan en juliana y se dejan secar, después se sumergen en aceite caliente hasta formar una costra dorada. Por más crujientes y ricas que sean, las frituras no son tan llenadoras que un alimento normal, además se no ser nada saludables. Los vegetales fritos tienen una menor vida útil, a menos que se congele.</VCE_DeepFriedVegetables.description>
+  <VCE_DeepFriedFish.label>pescado frito</VCE_DeepFriedFish.label>
+  <VCE_DeepFriedFish.description>El pescado esta fileteado, y enrollado hasta una masa espesa que después se sumerge en aceite caliente y se fríe. Resultara en alimento crujiente, rico y poco saludable. No es tan llenadora como una comida, pero sí es muy agradable para comer. Las carnes fritas tienen poca vida útil, a menos que se congele.</VCE_DeepFriedFish.description>
+  <VCE_SimpleDessert.label>postre simple</VCE_SimpleDessert.label>
+  <VCE_SimpleDessert.description>Un simple postre hecho rápidamente con unas pocas frutas y otros ingredientes.</VCE_SimpleDessert.description>
+  <VCE_FineDessert.label>postre bueno</VCE_FineDessert.label>
+  <VCE_FineDessert.description>Un postre complejo hecho con cuidado y con una variedad de ingredientes.</VCE_FineDessert.description>
+  <VCE_LavishDessert.label>postre de lujo</VCE_LavishDessert.label>
+  <VCE_LavishDessert.description>Una obra maestra de las artes culinarias, un postre que llena el cuerpo, la mente y el alma.</VCE_LavishDessert.description>
+  <VCE_GourmetDessert.label>postre gourmet</VCE_GourmetDessert.label>
+  <VCE_GourmetDessert.description>Una obra de arte culinaria, caracterizado por una preparación y presentación refinada y balanceada, aunque en poca cantidad.</VCE_GourmetDessert.description>
+  <VCE_MealGourmet.label>comida gourmet</VCE_MealGourmet.label>
+  <VCE_MealGourmet.description>Una obra de arte culinaria, caracterizado por una preparación y presentación refinada y balanceada, aunque en poca cantidad.</VCE_MealGourmet.description>
+  <VCE_SimpleGrill.label>parrillada simple</VCE_SimpleGrill.label>
+  <VCE_SimpleGrill.description>Una parrillada simple hecha con unos pocos ingredientes. La carne parrillada es muy saciante, permite a las personas no pasar hambre durante mucho tiempo. Congelarlo arruina estos efectos.</VCE_SimpleGrill.description>
+  <VCE_RuinedSimpleGrill.label>parrillada simple arruinada</VCE_RuinedSimpleGrill.label>
+  <VCE_RuinedSimpleGrill.description>Una parrillada simple hecha con unos pocos ingredientes. Esta parrillada fue congelada, aun se puede comer pero será mucho menos llenadora. Además no proveerá el estado "bien alimentado".</VCE_RuinedSimpleGrill.description>
+  <VCE_FineGrill.label>parrillada buena</VCE_FineGrill.label>
+  <VCE_FineGrill.description>Una parrillada compleja hecha con cuidado y con una variedad de alimentos. Muy llenadora, permite a las personas no pasar hambre durante mucho tiempo. Congelarlo arruina estos efectos.</VCE_FineGrill.description>
+  <VCE_RuinedFineGrill.label>parrillada buena arruinada</VCE_RuinedFineGrill.label>
+  <VCE_RuinedFineGrill.description>Una parrillada compleja hecha con cuidado y con una variedad de alimentos. Esta parrillada fue congelada, aun se puede comer pero será mucho menos llenadora. Además no proveerá el estado "bien alimentado".</VCE_RuinedFineGrill.description>
+  <VCE_LavishGrill.label>parrillada de lujo</VCE_LavishGrill.label>
+  <VCE_LavishGrill.description>Una obra maestra de las artes culinarias, un postre que llena el cuerpo, la mente y el alma. Muy llenadora, permite a las personas no pasar hambre durante mucho tiempo. Congelarlo arruina estos efectos.</VCE_LavishGrill.description>
+  <VCE_RuinedLavishGrill.label>parrillada de lujo arruinada</VCE_RuinedLavishGrill.label>
+  <VCE_RuinedLavishGrill.description>Una obra maestra de las artes culinarias, un postre que llena el cuerpo, la mente y el alma. Esta parrillada fue congelada, aun se puede comer pero será mucho menos llenadora. Además no proveerá el estado "bien alimentado".</VCE_RuinedLavishGrill.description>
+  <VCE_GourmetGrill.label>parrillada gourmet</VCE_GourmetGrill.label>
+  <VCE_GourmetGrill.description>Una obra de arte culinaria, caracterizado por una preparación y presentación refinada y balanceada, aunque en poca cantidad. Muy llenadora, permite a las personas no pasar hambre durante mucho tiempo. Congelarlo arruina estos efectos.</VCE_GourmetGrill.description>
+  <VCE_RuinedGourmetGrill.label>parrillada gourmet arruinada</VCE_RuinedGourmetGrill.label>
+  <VCE_RuinedGourmetGrill.description>Una obra de arte culinaria, caracterizado por una preparación y presentación refinada y balanceada, aunque en poca cantidad. Esta parrillada fue congelada, aun se puede comer pero será mucho menos llenadora. Además no proveerá el estado "bien alimentado".</VCE_RuinedGourmetGrill.description>
+  <VCE_Flour.label>harina</VCE_Flour.label>
+  <VCE_Flour.description>Una harina, usada en bollerías. La harina tarda mucho tiempo en ponerse malo, esto si esta almacenado en un entorno seco. Esto es producido con granos modificados genéticamente que se rompe en harina con un simple toque.</VCE_Flour.description>
+  <VCE_UncookedSoupSimple.label>sopa simple sin cocinar</VCE_UncookedSoupSimple.label>
+  <VCE_UncookedSoupSimple.description>Una simple sopa sin cocinar. Necesita ser cocinado en una olla eléctrica para ser comestible.</VCE_UncookedSoupSimple.description>
+  <VCE_CookedSoupSimple.label>simple soup</VCE_CookedSoupSimple.label>
+  <VCE_CookedSoupSimple.description>Una sopa simple hecho con unos pocos ingredientes.</VCE_CookedSoupSimple.description>
+  <VCE_UncookedSoupFine.label>sopa buena sin cocinar</VCE_UncookedSoupFine.label>
+  <VCE_UncookedSoupFine.description>Una sopa buena sin cocinar. Necesita ser cocinado en una olla eléctrica para ser comestible.</VCE_UncookedSoupFine.description>
+  <VCE_CookedSoupFine.label>sopa buena</VCE_CookedSoupFine.label>
+  <VCE_CookedSoupFine.description>Una sopa compleja hecha con cuidado y con una variedad de ingredientes.</VCE_CookedSoupFine.description>
+  <VCE_UncookedSoupLavish.label>sopa de lujo sin cocinar</VCE_UncookedSoupLavish.label>
+  <VCE_UncookedSoupLavish.description>Una sopa de lujo sin cocinar. Necesita ser cocinado en una olla eléctrica para ser comestible.</VCE_UncookedSoupLavish.description>
+  <VCE_CookedSoupLavish.label>sopa de lujo</VCE_CookedSoupLavish.label>
+  <VCE_CookedSoupLavish.description>Una obra maestra de las artes culinarias, una sopa que llena el cuerpo, la mente y el alma.</VCE_CookedSoupLavish.description>
+  <VCE_UncookedSoupGourmet.label>sopa gourmet sin cocinar</VCE_UncookedSoupGourmet.label>
+  <VCE_UncookedSoupGourmet.description>Una sopa gourmet sin cocinar. Necesita ser cocinado en una olla eléctrica para ser comestible.</VCE_UncookedSoupGourmet.description>
+  <VCE_CookedSoupGourmet.label>sopa gourmet</VCE_CookedSoupGourmet.label>
+  <VCE_CookedSoupGourmet.description>Una obra de arte culinaria, caracterizado por una preparación y presentación refinada y balanceada, aunque en poca cantidad.</VCE_CookedSoupGourmet.description>
+  <VCE_Sugarcane.label>planta de caña de azúcar</VCE_Sugarcane.label>
+  <VCE_Sugarcane.description>Una planta alta tropical con unos tallos articulados. No es exactamente muy nutritiva comerlo solo, pero esta genéticamente modificada para molerse fácilmente en azúcar, que se usa en una variedad de recetas, en especial en postres.</VCE_Sugarcane.description>
+  <VCE_Allspice.label>planta todaespecias</VCE_Allspice.label>
+  <VCE_Allspice.description>Una enredadera anómala y frondosa que produce pequeños frutos verdes. Cuando se muelen finamente durante la cocción, las frutas liberan un complejo sabor picante, perfecto para condimentar platos.</VCE_Allspice.description>
+  <VCE_Wheat.label>planta de trigo</VCE_Wheat.label>
+  <VCE_Wheat.description>Una planta cereal de color ámbar que tarda cadi toda una temporada para dar sus frutos. Si bien es muy frágil y tarda mucho tiempo, este trigo esta modificado genéticamente para convertirse en harina con un simple toque.</VCE_Wheat.description>
+  <VCE_Ketchup.label>ketchup</VCE_Ketchup.label>
+  <VCE_Ketchup.description>Una salsa espesa hecho con tomate guisados, es un poco salada y picante, que deja paso a un sabor dulce. Perfecto para condimentar carnes o frituras.</VCE_Ketchup.description>
+  <VCE_HotSauce.label>salsa picante</VCE_HotSauce.label>
+  <VCE_HotSauce.description>Una salsa potente y picante hecha al triturar chiles y especias. Si bien es particularmente fuerte, duele al principio, adormece la boca y deja un sudor cálido.</VCE_HotSauce.description>
+</LanguageData>

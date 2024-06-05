@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VBE_DalgonaCoffeeHigh.stages.Sugary_awakening.label>Despertar azucarado</VBE_DalgonaCoffeeHigh.stages.Sugary_awakening.label>
+  <VBE_DalgonaCoffeeHigh.stages.Sugary_awakening.description>Ese café dalgona vino perfecto, hora de trabajar.</VBE_DalgonaCoffeeHigh.stages.Sugary_awakening.description>
+  <VBE_DrankMasalaChai.stages.Fancied_a_zesty_cuppa.label>Me apetecía una taza de café especial</VBE_DrankMasalaChai.stages.Fancied_a_zesty_cuppa.label>
+  <VBE_DrankMasalaChai.stages.Fancied_a_zesty_cuppa.description>Una deliciosa y compleja taza de masala chai viene perfecto para alegrar el día.</VBE_DrankMasalaChai.stages.Fancied_a_zesty_cuppa.description>
+  <VBE_MintCoffeeHigh.stages.Fresh_awakening.label>Despertar fresco</VBE_MintCoffeeHigh.stages.Fresh_awakening.label>
+  <VBE_MintCoffeeHigh.stages.Fresh_awakening.description>Ese café de menta vino perfecto, hora de trabajar.</VBE_MintCoffeeHigh.stages.Fresh_awakening.description>
+  <VBE_DrankMintTea.stages.Refreshing_tea.label>Té refrescante</VBE_DrankMintTea.stages.Refreshing_tea.label>
+  <VBE_DrankMintTea.stages.Refreshing_tea.description>Una deliciosa taza de té de menta viene perfecto para alegrar el día.</VBE_DrankMintTea.stages.Refreshing_tea.description>
+  <VBE_DrankNoonChai.stages.Fancied_a_salty_cuppa.label>Me apetecía una taza de noon chai</VBE_DrankNoonChai.stages.Fancied_a_salty_cuppa.label>
+  <VBE_DrankNoonChai.stages.Fancied_a_salty_cuppa.description>Una deliciosa taza de noon chai viene perfecto para alegrar el día.</VBE_DrankNoonChai.stages.Fancied_a_salty_cuppa.description>
+  <VCE_ConsumedMintLeaves.stages.consumed_mint.label>consumí menta</VCE_ConsumedMintLeaves.stages.consumed_mint.label>
+  <VCE_ConsumedMintLeaves.stages.consumed_mint.description>Aliento fresco!</VCE_ConsumedMintLeaves.stages.consumed_mint.description>
+  <VCE_ConsumedSugar.stages.consumed_sugar.label>consumí azúcar</VCE_ConsumedSugar.stages.consumed_sugar.label>
+  <VCE_ConsumedSugar.stages.consumed_sugar.description>El azúcar no es como el amor. Pero puede parecerlo.</VCE_ConsumedSugar.stages.consumed_sugar.description>
+  <VCE_ConsumedChocolateSyrup.stages.consumed_chocolate_syrup.label>consumí sirope de chocolate</VCE_ConsumedChocolateSyrup.stages.consumed_chocolate_syrup.label>
+  <VCE_ConsumedChocolateSyrup.stages.consumed_chocolate_syrup.description>El Chocolate ES amor.</VCE_ConsumedChocolateSyrup.stages.consumed_chocolate_syrup.description>
+  <VCE_ConsumedInsectJelly.stages.consumed_insect_jelly_preserves.label>consumí reserva de jalea de insecto</VCE_ConsumedInsectJelly.stages.consumed_insect_jelly_preserves.label>
+  <VCE_ConsumedInsectJelly.stages.consumed_insect_jelly_preserves.description>Que sabor tan increíble, dulce y rico!</VCE_ConsumedInsectJelly.stages.consumed_insect_jelly_preserves.description>
+  <VCE_SmokeleafButterHigh.stages.high_on_smokeleaf_butter.label>subidón por mantequilla de hojahumeante</VCE_SmokeleafButterHigh.stages.high_on_smokeleaf_butter.label>
+  <VCE_SmokeleafButterHigh.stages.high_on_smokeleaf_butter.description>Estoy muy drogado, hombre.</VCE_SmokeleafButterHigh.stages.high_on_smokeleaf_butter.description>
+  <VCE_ConsumedSalt.stages.consumed_salt.label>consumí sal</VCE_ConsumedSalt.stages.consumed_salt.label>
+  <VCE_ConsumedSalt.stages.consumed_salt.description>Una pizca de sal realmente mejora el sabor de la comida.</VCE_ConsumedSalt.stages.consumed_salt.description>
+  <VCE_ConsumedMayo.stages.consumed_mayo.label>consumí mayonesa</VCE_ConsumedMayo.stages.consumed_mayo.label>
+  <VCE_ConsumedMayo.stages.consumed_mayo.description>Comí una deliciosa mayonesa. Muy saciante!</VCE_ConsumedMayo.stages.consumed_mayo.description>
+  <VCE_ConsumedAgave.stages.consumed_agave.label>consumí agave</VCE_ConsumedAgave.stages.consumed_agave.label>
+  <VCE_ConsumedAgave.stages.consumed_agave.description>He probado un delicioso agave de néctar.</VCE_ConsumedAgave.stages.consumed_agave.description>
+  <VCE_ConsumedSpices.stages.consumed_spices.label>consumí especias</VCE_ConsumedSpices.stages.consumed_spices.label>
+  <VCE_ConsumedSpices.stages.consumed_spices.description>Esta comida esta especiada</VCE_ConsumedSpices.stages.consumed_spices.description>
+  <VCE_ConsumedDigestibleResurrectorNanites.stages.resurrector_nanites.label>nanitas resurrectoras</VCE_ConsumedDigestibleResurrectorNanites.stages.resurrector_nanites.label>
+  <VCE_ConsumedDigestibleResurrectorNanites.stages.resurrector_nanites.description>Me siento invencible!</VCE_ConsumedDigestibleResurrectorNanites.stages.resurrector_nanites.description>
+  <VCE_AteGourmetMeal.stages.ate_gourmet_meal.label>comí comida gourmet</VCE_AteGourmetMeal.stages.ate_gourmet_meal.label>
+  <VCE_AteGourmetMeal.stages.ate_gourmet_meal.description>Una experiencia culinaria alucinante. Mi paladar ha sentido sensaciones que están más allá de este mundo.</VCE_AteGourmetMeal.stages.ate_gourmet_meal.description>
+  <VCE_AteSimpleDessert.stages.ate_simple_dessert.label>comí postre simple</VCE_AteSimpleDessert.stages.ate_simple_dessert.label>
+  <VCE_AteSimpleDessert.stages.ate_simple_dessert.description>Ese postre era muy simple, pero ciertamente sabroso.</VCE_AteSimpleDessert.stages.ate_simple_dessert.description>
+  <VCE_AteFineDessert.stages.ate_fine_dessert.label>comí postre bueno</VCE_AteFineDessert.stages.ate_fine_dessert.label>
+  <VCE_AteFineDessert.stages.ate_fine_dessert.description>Ese postre era realmente bueno! Quiero más!</VCE_AteFineDessert.stages.ate_fine_dessert.description>
+  <VCE_AteLavishDessert.stages.ate_lavish_dessert.label>comí postre de lujo</VCE_AteLavishDessert.stages.ate_lavish_dessert.label>
+  <VCE_AteLavishDessert.stages.ate_lavish_dessert.description>Ese postre estaba increíblemente bueno, ¡estoy ansioso de probar más!</VCE_AteLavishDessert.stages.ate_lavish_dessert.description>
+  <VCE_AteGourmetDessert.stages.ate_gourmet_dessert.label>comí postre gourmet</VCE_AteGourmetDessert.stages.ate_gourmet_dessert.label>
+  <VCE_AteGourmetDessert.stages.ate_gourmet_dessert.description>Oh Dios mio! Mi paladar acaba de experimentar una explosión de sabores orgasmica. Eso fue una locura, necesito más!!</VCE_AteGourmetDessert.stages.ate_gourmet_dessert.description>
+  <VCE_AteSimpleGrill.stages.ate_simple_grill.label>comí parrillada simple</VCE_AteSimpleGrill.stages.ate_simple_grill.label>
+  <VCE_AteSimpleGrill.stages.ate_simple_grill.description>Una simple parrillada. Meh.</VCE_AteSimpleGrill.stages.ate_simple_grill.description>
+  <VCE_AteFineGrill.stages.ate_fine_grill.label>comí parrillada buena</VCE_AteFineGrill.stages.ate_fine_grill.label>
+  <VCE_AteFineGrill.stages.ate_fine_grill.description>He comido una parrillada de carne con algo de verdura muy buena. Muy sabrosa.</VCE_AteFineGrill.stages.ate_fine_grill.description>
+  <VCE_AteLavishGrill.stages.ate_lavish_grill.label>comí parrillada de lujo</VCE_AteLavishGrill.stages.ate_lavish_grill.label>
+  <VCE_AteLavishGrill.stages.ate_lavish_grill.description>He comido una increíble parrillada de carne y algunos vegetales. Delicioso!</VCE_AteLavishGrill.stages.ate_lavish_grill.description>
+  <VCE_AteGourmetGrill.stages.ate_gourmet_grill.label>comí parrillada gourmet</VCE_AteGourmetGrill.stages.ate_gourmet_grill.label>
+  <VCE_AteGourmetGrill.stages.ate_gourmet_grill.description>Eso... eso no es de este planeta. La carne se derribe en mi boca. Simplemente increíble.</VCE_AteGourmetGrill.stages.ate_gourmet_grill.description>
+  <VCE_AteFriedGoods.stages.ate_deep_fried_food.label>comí comida frita</VCE_AteFriedGoods.stages.ate_deep_fried_food.label>
+  <VCE_AteFriedGoods.stages.ate_deep_fried_food.description>Comida grasosa. Tan delicioso.</VCE_AteFriedGoods.stages.ate_deep_fried_food.description>
+  <VCE_ConsumedCannedGoods.stages.ate_canned_food.label>comí comida enlatada</VCE_ConsumedCannedGoods.stages.ate_canned_food.label>
+  <VCE_ConsumedCannedGoods.stages.ate_canned_food.description>Comer directamente de la lata es como comer sin mesa.</VCE_ConsumedCannedGoods.stages.ate_canned_food.description>
+  <VCE_AteCheese.stages.ate_awful_cheese.label>comí un queso horrible</VCE_AteCheese.stages.ate_awful_cheese.label>
+  <VCE_AteCheese.stages.ate_awful_cheese.description>Comí un poco de leche cuajada sin apenas sabor a queso. Horrible.</VCE_AteCheese.stages.ate_awful_cheese.description>
+  <VCE_AteCheese.stages.ate_poor_cheese.label>comí un queso pobre</VCE_AteCheese.stages.ate_poor_cheese.label>
+  <VCE_AteCheese.stages.ate_poor_cheese.description>Ese que no era horrible pero tampoco era bueno. El regusto es un poco desagradable.</VCE_AteCheese.stages.ate_poor_cheese.description>
+  <VCE_AteCheese.stages.ate_normal_cheese.label>comí un queso normal</VCE_AteCheese.stages.ate_normal_cheese.label>
+  <VCE_AteCheese.stages.ate_normal_cheese.description>Ese fue un queso OK.</VCE_AteCheese.stages.ate_normal_cheese.description>
+  <VCE_AteCheese.stages.ate_good_cheese.label>comí un queso bueno</VCE_AteCheese.stages.ate_good_cheese.label>
+  <VCE_AteCheese.stages.ate_good_cheese.description>Comí un buen queso. Delicioso.</VCE_AteCheese.stages.ate_good_cheese.description>
+  <VCE_AteCheese.stages.ate_excellent_cheese.label>comí un queso excelente</VCE_AteCheese.stages.ate_excellent_cheese.label>
+  <VCE_AteCheese.stages.ate_excellent_cheese.description>Comí un muy buen queso. Se nota que estuvo mucho tiempo madurando.</VCE_AteCheese.stages.ate_excellent_cheese.description>
+  <VCE_AteCheese.stages.ate_masterwork_cheese.label>comí un queso obra maestra.</VCE_AteCheese.stages.ate_masterwork_cheese.label>
+  <VCE_AteCheese.stages.ate_masterwork_cheese.description>Ese queso es simplemente asombroxso! No existe nada mejor.</VCE_AteCheese.stages.ate_masterwork_cheese.description>
+  <VCE_AteCheese.stages.ate_legendary_cheese.label>comí un queso legendario.</VCE_AteCheese.stages.ate_legendary_cheese.label>
+  <VCE_AteCheese.stages.ate_legendary_cheese.description>¡He comido posiblemente uno de los mejores queso que he probado en toda mi vida!</VCE_AteCheese.stages.ate_legendary_cheese.description>
+  <VCE_ConsumedKetchup.stages.consumed_ketchup.label>consumí ketchup</VCE_ConsumedKetchup.stages.consumed_ketchup.label>
+  <VCE_ConsumedKetchup.stages.consumed_ketchup.description>Deliciosa y pegajosa sustancia.</VCE_ConsumedKetchup.stages.consumed_ketchup.description>
+  <VCE_ConsumedHotSauce.stages.hurts_so_good.label>duele rico</VCE_ConsumedHotSauce.stages.hurts_so_good.label>
+  <VCE_ConsumedHotSauce.stages.hurts_so_good.description>Odio totalmente esta salsa picante super fuerte! Por favor dame más.</VCE_ConsumedHotSauce.stages.hurts_so_good.description>
+</LanguageData>
