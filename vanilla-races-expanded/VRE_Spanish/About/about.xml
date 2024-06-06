@@ -41,11 +41,16 @@
 		<li>vanillaracesexpanded.phytokin</li>
 		<li>vanillaracesexpanded.archon</li>
 		<li>vanillaracesexpanded.sanguophage</li>
+		<li>vanillaracesexpanded.insector</li>
 	</loadAfter>
 
     <description>
 Agrega una traducción al español de toda la serie de mod "Vanilla Races Expanded".
 
+ACTUALIZACIÓN
+- Añadido Insector
+
+FALTA
 - Falta la traducción de "Archon"
 - Falta la traducción de los xenotipos de Sanguophage
     </description>
