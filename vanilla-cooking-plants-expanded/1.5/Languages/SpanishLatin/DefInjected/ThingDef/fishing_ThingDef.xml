@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCEF_Mote_Fishing_East.label>Mote</VCEF_Mote_Fishing_East.label>
+  <VCEF_Mote_Fishing_West.label>Mote</VCEF_Mote_Fishing_West.label>
+  <VCEF_Mote_Fishing_South.label>Mote</VCEF_Mote_Fishing_South.label>
+  <VCEF_Mote_Fishing_North.label>Mote</VCEF_Mote_Fishing_North.label>
+  <VCEF_Mote_Fishing_Mech_East.label>Mote</VCEF_Mote_Fishing_Mech_East.label>
+  <VCEF_Mote_Fishing_Mech_West.label>Mote</VCEF_Mote_Fishing_Mech_West.label>
+  <VCEF_Mote_Fishing_Mech_South.label>Mote</VCEF_Mote_Fishing_Mech_South.label>
+  <VCEF_Mote_Fishing_Mech_North.label>Mote</VCEF_Mote_Fishing_Mech_North.label>
+  <VCEF_Mote_Fishing_Mech_New_East.label>Mote</VCEF_Mote_Fishing_Mech_New_East.label>
+  <VCEF_Mote_Fishing_Mech_New_West.label>Mote</VCEF_Mote_Fishing_Mech_New_West.label>
+  <VCEF_Mote_Fishing_Mech_New_South.label>Mote</VCEF_Mote_Fishing_Mech_New_South.label>
+  <VCEF_Mote_Fishing_Mech_New_North.label>Mote</VCEF_Mote_Fishing_Mech_New_North.label>
+  <VCEF_RawAnchovy.label>anchoa</VCEF_RawAnchovy.label>
+  <VCEF_RawAnchovy.description>Anchoa cruda. Un pez pequeño y muy común de la familia Engraulidae. La mayoría de las especies se encuentran en las aguas marinas, pero algunos pueden estar en las aguas salobres y otras solo pueden estar en agua dulce.</VCEF_RawAnchovy.description>
+  <VCEF_RawAngelfish.label>pez angel</VCEF_RawAngelfish.label>
+  <VCEF_RawAngelfish.description>Pez ángel crudo. El pez ángel hace referencia a una especie de peces, tanto marinos como de agua dulce, usualmente son de colores brillantes y sus cuerpos están comprimidos lateralmente.</VCEF_RawAngelfish.description>
+  <VCEF_RawAnglerfish.label>rape</VCEF_RawAnglerfish.label>
+  <VCEF_RawAnglerfish.description>Rape crudo. El rape es un pez óseo que recibe su nombre por el modo en que caza, en el que usa un apéndice de su cabeza para atraer a otros peces.</VCEF_RawAnglerfish.description>
+  <VCEF_RawBass.label>lubina</VCEF_RawBass.label>
+  <VCEF_RawBass.description>Lubina cruda. La lubina es un nombre que se usa para referir a varias especies de pescados. El término abarca tanto peces de agua dulce y marina, todas ellas pertenecientes al orden Perciformes.</VCEF_RawBass.description>
+  <VCEF_RawCatfish.label>pez gato</VCEF_RawCatfish.label>
+  <VCEF_RawCatfish.description>Pez gato crudo. El pez gato hace referencia a un grupo de diversos peces con aletas radiadas. Llamado así por las protuberancia en la zona de la barbilla, que asemejan a los bigotes de los gatos.</VCEF_RawCatfish.description>
+  <VCEF_RawClownfish.label>pez payaso</VCEF_RawClownfish.label>
+  <VCEF_RawClownfish.description>Pez payaso crudo. En la naturaleza, el pez payaso tienen una relación simbiótica con las anémonas. Dependiendo de la especie, el pez payaso puede ser de color amarillo, naranja, algo rojo o negro, y muchos tienen parches o líneas blancas.</VCEF_RawClownfish.description>
+  <VCEF_RawCod.label>bacalao</VCEF_RawCod.label>
+  <VCEF_RawCod.description>Bacalao crudo. Bacalao hace referencia a una gran cantidad de especies de peces con un apetito voraz, que se alimentan de otros peces y de varios invertebrados. El bacalao se ha considerado durante mucho tiempo perfecto para el consumo humano, por su carne blanca y escamosa, su alta cantidad de proteínas y su poca cantidad de grasa.</VCEF_RawCod.description>
+  <VCEF_RawEel.label>anguila</VCEF_RawEel.label>
+  <VCEF_RawEel.description>Anguila cruda. Una anguila es cualquier pez con aletas radiadas perteneciente al orden Anguilliformes. Las anguilas son peces alargados que no poseen aletas pélvicas y muchas especies tampoco tienen de aletas pectorales. Las anguilas nadan generando ondas corporales que viajan a lo largo de su cuerpo.</VCEF_RawEel.description>
+  <VCEF_RawGoldfish.label>pez dorado</VCEF_RawGoldfish.label>
+  <VCEF_RawGoldfish.description>Pez dorado crudo. El pez dorado (Carassius auratus) es un pez de agua dulce de la familia Cyprinidae del orden Cypriniformes. Es uno de los peces de acuario más comunes.</VCEF_RawGoldfish.description>
+  <VCEF_RawGuppy.label>guppy</VCEF_RawGuppy.label>
+  <VCEF_RawGuppy.description>Pez guppy crudo. El guppy (Poecilia reticulata), también conocido como pez millón y pez arcoíris, es uno de los peces tropicales más comunes en el mundo. Es uno de los peces de acuario más comunes.</VCEF_RawGuppy.description>
+  <VCEF_RawHaddock.label>eglefino</VCEF_RawHaddock.label>
+  <VCEF_RawHaddock.description>Pez eglefino crudo. El eglefino (Melanogrammus aeglefinus) es un pez de agua salada de la familia Gadidae, los verdaderos bacalaos. Es un pescado que tradicionalmente se ha consumido fresco o ahumado.</VCEF_RawHaddock.description>
+  <VCEF_RawHalibut.label>fletán</VCEF_RawHalibut.label>
+  <VCEF_RawHalibut.description>Fletán crudo. El fletán es un nombre común que se aplica principalmente a los dos peces planos de la familia de las platijas de ojo derecho. Con menos frecuencia, y sólo en algunas regiones, otras especies de peces planos también se denominan fletán.</VCEF_RawHalibut.description>
+  <VCEF_RawHerring.label>arenque</VCEF_RawHerring.label>
+  <VCEF_RawHerring.description>Arenque crudo. Los arenques son peces que pertenecer mayormente a la familia Clupeidae. Los arenques a menudo se mueven en grandes cardúmenes alrededor de los bancos de pesca y cerca de la costa.</VCEF_RawHerring.description>
+  <VCEF_RawKoi.label>koi</VCEF_RawKoi.label>
+  <VCEF_RawKoi.description>Pez koi crudo. Los koi son variedades coloreadas de la carpa Amur (Cyprinus rubrofuscus) que se mantienen con fines decorativos en estanques o jardines acuáticos.</VCEF_RawKoi.description>
+  <VCEF_RawLobster.label>langosta</VCEF_RawLobster.label>
+  <VCEF_RawLobster.description>Langosta cruda. Las langostas son grandes crustáceos marinos. Las langostas tienen cuerpos largos con colas musculosas. Tres de sus cinco pares de patas tienen garras, incluido el primer par, que suelen ser mucho más grandes que las demás.</VCEF_RawLobster.description>
+  <VCEF_RawMackerel.label>caballa</VCEF_RawMackerel.label>
+  <VCEF_RawMackerel.description>Caballa cruda. Caballa es un nombre común que se aplica a varias especies diferentes de peces pelágicos, principalmente de la familia Scombridae. Se encuentran tanto en mares templados como tropicales, y en su mayoría viven a lo largo de la costa o en alta mar.</VCEF_RawMackerel.description>
+  <VCEF_RawMinnow.label>pececillo</VCEF_RawMinnow.label>
+  <VCEF_RawMinnow.description>Pececillo crudo. Pececillo es el nombre común de varias especies de pequeños peces de agua dulce, pertenecientes a varios géneros de la familia Cyprinidae.</VCEF_RawMinnow.description>
+  <VCEF_RawPerch.label>perca</VCEF_RawPerch.label>
+  <VCEF_RawPerch.description>Perca cruda. La perca es un nombre común para los peces del género Perca, son peces cazadores de agua dulce pertenecientes a la familia Percidae. Las percas deben su nombre a un gran orden de vertebrados: los Perciformes. Muchas especies de peces deportivos de agua dulce se parecen más o menos a la perca, pero pertenecen a géneros diferentes.</VCEF_RawPerch.description>
+  <VCEF_RawPiranha.label>piraña</VCEF_RawPiranha.label>
+  <VCEF_RawPiranha.description>Piraña cruda. Una piraña es un pez de agua dulce que habita en ríos, llanuras aluviales, lagos y embalses. Aunque a menudo se los describe como extremadamente depredadores y se alimentan principalmente de peces, sus hábitos dietéticos varían ampliamente y también consumen material vegetal, lo que les convierte en omnívoros.</VCEF_RawPiranha.description>
+  <VCEF_RawPufferfish.label>pez globo</VCEF_RawPufferfish.label>
+  <VCEF_RawPufferfish.description>Pez globo crudo. Los peces globo son una familia de peces principalmente marinos y de estuario. La mayoría de las especies de peces globo son tóxicas y algunas se encuentran entre los vertebrados más venenosos del mundo. En determinadas especies, los órganos internos, como el hígado y, a veces, la piel, contienen tetrodotoxina y son muy tóxicos para la mayoría de los animales cuando se ingieren; sin embargo, la carne de algunas especies se considera un manjar cuando es preparada por chefs especialmente capacitados.</VCEF_RawPufferfish.description>
+  <VCEF_RawSalmon.label>salmón</VCEF_RawSalmon.label>
+  <VCEF_RawSalmon.description>Salmón crudo. Salmón es el nombre común de varias especies de peces con aletas radiadas de la familia Salmonidae. Normalmente, el salmón es anádromo: nace en agua dulce, migra al océano y luego regresa al agua dulce para reproducirse. Sin embargo, las poblaciones de varias especies están restringidas al agua dulce durante toda su vida.</VCEF_RawSalmon.description>
+  <VCEF_RawSprat.label>espadín</VCEF_RawSprat.label>
+  <VCEF_RawSprat.description>Espadín crudo. Espadín es el nombre común que se aplica a un grupo de peces pertenecientes al género Sprattus de la familia Clupeidae. Como la mayoría de los peces forrajeros, los espadines son peces pequeños, grasos y muy activos. Viajan en grandes cardúmenes con otros peces y nadan continuamente durante todo el día.</VCEF_RawSprat.description>
+  <VCEF_RawSwordfish.label>pez espada</VCEF_RawSwordfish.label>
+  <VCEF_RawSwordfish.description>Pez espada crudo. El pez espada, también conocido como pico ancho, es un pez depredador grande, altamente migratorio, caracterizado por un pico largo, plano y puntiagudo.</VCEF_RawSwordfish.description>
+  <VCEF_RawTrout.label>trucha</VCEF_RawTrout.label>
+  <VCEF_RawTrout.description>Trucha cruda. Trucha es el nombre común de varias especies de peces de agua dulce. La mayoría de especies de truchas viven exclusivamente en lagos y ríos de agua dulce, mientras que hay otras, como la trucha arcoíris, pueden pasar dos o tres años en el mar antes de regresar al agua dulce para desovar (un hábito más propio del salmón).</VCEF_RawTrout.description>
+  <VCEF_RawTuna.label>atún</VCEF_RawTuna.label>
+  <VCEF_RawTuna.description>Atún crudo. El atún es un pez grande de agua salada. El atún, un depredador activo y ágil, tiene un cuerpo elegante y aerodinámico y se encuentra entre los peces pelágicos que nadan más rápido. El atún ha sido muy apreciado como pescado comestible. Además de su valor comercial como alimento, el gran tamaño, velocidad y poder que muestran como superdepredadores ha atraído la admiración de pescadores, escritores y científicos.</VCEF_RawTuna.description>
+</LanguageData>

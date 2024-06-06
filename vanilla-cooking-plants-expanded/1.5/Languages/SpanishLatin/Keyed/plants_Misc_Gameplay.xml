@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCE_PlumsDrying>Secando ciruelas</VCE_PlumsDrying>
+  <VCE_PlumsCurrentlyFrozen>Las ciruelas congeladas no se pueden secar en pasas</VCE_PlumsCurrentlyFrozen>
+  <VCE_PlumsCurrentlyRefrigerated>Las ciruelas están refrigeradas y no se secaran en pasas tan rápido como podrían (secando en {0})</VCE_PlumsCurrentlyRefrigerated>
+  <VCE_PlumsDryingCorrectly>Las ciruelas se están secando en pasas correctamente (secando en {0})</VCE_PlumsDryingCorrectly>
+</LanguageData>

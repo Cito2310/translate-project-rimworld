@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCE_StewCooking.label>cocina de estofado</VCE_StewCooking.label>
+  <VCE_StewCooking.description>El estofado es una forma de comida muy nutritiva, cocinado en masa en el fuego. Esta investigación también te da acceso a la olla a leña para cocinar el estofado.</VCE_StewCooking.description>
+  <VCE_StewCooking.generalRules.rulesStrings.0>subject-&gt;hogar y corazón</VCE_StewCooking.generalRules.rulesStrings.0>
+  <VCE_StewCooking.generalRules.rulesStrings.1>subject_story-&gt;abrazo la tradición de cocinar estofados, uniendo a la comunidad y la cocina con el calor de una olla compartida</VCE_StewCooking.generalRules.rulesStrings.1>
+  <VCE_StewCooking.generalRules.rulesStrings.2>subject_story-&gt;cultivando técnicas para elaborar estofados que no solo son nutritivos sino que también transmiten cultura y unión</VCE_StewCooking.generalRules.rulesStrings.2>
+  <VCE_StewCooking.generalRules.rulesStrings.3>subject_story-&gt;introduciendo olla a la leña, una herramienta esencial para preparar estos abundantes platos de forma tradicional</VCE_StewCooking.generalRules.rulesStrings.3>
+  <VCE_StewCooking.generalRules.rulesStrings.4>subject_gerund-&gt;nutriendo cuerpos y almas con el arte comunitario de hacer estofado</VCE_StewCooking.generalRules.rulesStrings.4>
+</LanguageData>

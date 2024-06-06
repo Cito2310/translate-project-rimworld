@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCE_WasabiPaste.label>hacer pasta de wasabi</VCE_WasabiPaste.label>
+  <VCE_WasabiPaste.description>Crear una pasta de wasabi con wasabi crudo. Es usado como un condimento picante en el sushi y otros alimentos. Tiene un sabor similar a la mostaza picante más que al de los chiles, ya que estimula más la nariz que la lengua. Pierde su sabor y se deteriora extremadamente rápido.</VCE_WasabiPaste.description>
+  <VCE_WasabiPaste.jobString>Haciendo pasta de wasabi.</VCE_WasabiPaste.jobString>
+  <VCE_DeepFrySushi.label>freír sushi x20</VCE_DeepFrySushi.label>
+  <VCE_DeepFrySushi.description>Sushi frito. Las frituras son muy ricas, pero no son muy buenas para la salud.</VCE_DeepFrySushi.description>
+  <VCE_DeepFrySushi.jobString>Friendo sushi.</VCE_DeepFrySushi.jobString>
+  <VCE_CookChirashizushiSimple.label>hacer bowl de chirashizushi (simple)</VCE_CookChirashizushiSimple.label>
+  <VCE_CookChirashizushiSimple.description>Hacer rápidamente un bowl de Chirashizushi preparado con unos pocos ingredientes.</VCE_CookChirashizushiSimple.description>
+  <VCE_CookChirashizushiSimple.jobString>Haciendo bowl hirashizushi (simple).</VCE_CookChirashizushiSimple.jobString>
+  <VCE_CookChirashizushiSimpleBulk.label>hacer bowl de chirashizushi (simple) x4</VCE_CookChirashizushiSimpleBulk.label>
+  <VCE_CookChirashizushiSimpleBulk.description>Hacer rápidamente 4 bowls de Chirashizushi preparado con unos pocos ingredientes.</VCE_CookChirashizushiSimpleBulk.description>
+  <VCE_CookChirashizushiSimpleBulk.jobString>Haciendo bowl hirashizushi (simple) x4.</VCE_CookChirashizushiSimpleBulk.jobString>
+  <VCE_CookNorimakiSimple.label>hacer norimaki (simple)</VCE_CookNorimakiSimple.label>
+  <VCE_CookNorimakiSimple.description>Hacer rápidamente un norimaki preparado con unos pocos ingredientes.</VCE_CookNorimakiSimple.description>
+  <VCE_CookNorimakiSimple.jobString>Haciendo norimaki (simple).</VCE_CookNorimakiSimple.jobString>
+  <VCE_CookNorimakiSimpleBulk.label>hacer norimaki (simple) x4</VCE_CookNorimakiSimpleBulk.label>
+  <VCE_CookNorimakiSimpleBulk.description>Hacer rápidamente 4 norimaki preparado con unos pocos ingredientes.</VCE_CookNorimakiSimpleBulk.description>
+  <VCE_CookNorimakiSimpleBulk.jobString>Haciendo norimaki (simple) x4.</VCE_CookNorimakiSimpleBulk.jobString>
+  <VCE_CookUramakiFine.label>hacer uramaki (bueno)</VCE_CookUramakiFine.label>
+  <VCE_CookUramakiFine.description>Hacer un uramaki hecho con cuidado y con una variedad de ingredientes.</VCE_CookUramakiFine.description>
+  <VCE_CookUramakiFine.jobString>Haciendo uramaki (bueno).</VCE_CookUramakiFine.jobString>
+  <VCE_CookUramakiFineBulk.label>hacer uramaki (bueno) x4</VCE_CookUramakiFineBulk.label>
+  <VCE_CookUramakiFineBulk.description>Hacer 4 uramakis hecho con cuidado y con una variedad de ingredientes.</VCE_CookUramakiFineBulk.description>
+  <VCE_CookUramakiFineBulk.jobString>Haciendo uramaki (bueno) x4.</VCE_CookUramakiFineBulk.jobString>
+  <VCE_CookNigiriFine.label>hacer nigiri (bueno)</VCE_CookNigiriFine.label>
+  <VCE_CookNigiriFine.description>Hacer un nigiri hecho con cuidado y con una variedad de ingredientes.</VCE_CookNigiriFine.description>
+  <VCE_CookNigiriFine.jobString>Haciendo nigiri (bueno)</VCE_CookNigiriFine.jobString>
+  <VCE_CookNigiriFineBulk.label>hacer nigiri (bueno) x4</VCE_CookNigiriFineBulk.label>
+  <VCE_CookNigiriFineBulk.description>Hacer 4 nigiris hecho con cuidado y con una variedad de ingredientes.</VCE_CookNigiriFineBulk.description>
+  <VCE_CookNigiriFineBulk.jobString>Haciendo nigiri (bueno) x4.</VCE_CookNigiriFineBulk.jobString>
+  <VCE_CookTemakiLavish.label>hacer temaki (de lujo)</VCE_CookTemakiLavish.label>
+  <VCE_CookTemakiLavish.description>Hacer una obra maestra de las artes culinarias, este temaki llena el cuerpo, la mente y el alma.</VCE_CookTemakiLavish.description>
+  <VCE_CookTemakiLavish.jobString>Haciendo temaki (de lujo).</VCE_CookTemakiLavish.jobString>
+  <VCE_CookTemakiLavishBulk.label>hacer temaki (de lujo) x4</VCE_CookTemakiLavishBulk.label>
+  <VCE_CookTemakiLavishBulk.description>Hacer 4 obras maestra de las artes culinarias, este temaki llena el cuerpo, la mente y el alma.</VCE_CookTemakiLavishBulk.description>
+  <VCE_CookTemakiLavishBulk.jobString>Haciendo temaki (de lujo) x4.</VCE_CookTemakiLavishBulk.jobString>
+  <VCE_CookFutomakiLavish.label>hacer futomaki (de lujo)</VCE_CookFutomakiLavish.label>
+  <VCE_CookFutomakiLavish.description>Hacer una obra maestra de las artes culinarias, este futomaki llena el cuerpo, la mente y el alma.</VCE_CookFutomakiLavish.description>
+  <VCE_CookFutomakiLavish.jobString>Haciendo futomaki (de lujo).</VCE_CookFutomakiLavish.jobString>
+  <VCE_CookFutomakiLavishBulk.label>hacer futomaki (de lujo) x4</VCE_CookFutomakiLavishBulk.label>
+  <VCE_CookFutomakiLavishBulk.description>Hacer 4 obras maestras de las artes culinarias, este futomaki llena el cuerpo, la mente y el alma.</VCE_CookFutomakiLavishBulk.description>
+  <VCE_CookFutomakiLavishBulk.jobString>Haciendo futomaki (de lujo) x4.</VCE_CookFutomakiLavishBulk.jobString>
+  <VCE_CookGunkanmakiGourmet.label>hacer gunkanmaki (gourmet)</VCE_CookGunkanmakiGourmet.label>
+  <VCE_CookGunkanmakiGourmet.description>Cocinar una obra de arte culinaria, caracterizado por una preparación y presentación refinada y balanceada, aunque en poca cantidad.</VCE_CookGunkanmakiGourmet.description>
+  <VCE_CookGunkanmakiGourmet.jobString>Haciendo gunkanmaki (gourmet).</VCE_CookGunkanmakiGourmet.jobString>
+  <VCE_CookOshizushiiGourmet.label>hacer oshizushi (gourmet)</VCE_CookOshizushiiGourmet.label>
+  <VCE_CookOshizushiiGourmet.description>Cocinar una obra de arte culinaria, caracterizado por una preparación y presentación refinada y balanceada, aunque en poca cantidad.</VCE_CookOshizushiiGourmet.description>
+  <VCE_CookOshizushiiGourmet.jobString>Haciendo oshizushi (gourmet).</VCE_CookOshizushiiGourmet.jobString>
+  <VCE_MakeHumanSurimi.label>hacer "surimi" de humano</VCE_MakeHumanSurimi.label>
+  <VCE_MakeHumanSurimi.description>Convierta la carne humana en una pasta indistinguible que imita la textura de la langosta, cangrejo u otro marisco. Aunque el sabor...</VCE_MakeHumanSurimi.description>
+  <VCE_MakeHumanSurimi.jobString>Haciendo "surimi" de humano.</VCE_MakeHumanSurimi.jobString>
+  <VCE_MilkFromSoybeans.label>extraer leche de soya</VCE_MilkFromSoybeans.label>
+  <VCE_MilkFromSoybeans.description>Extraer la leche vegetal de la soya. Esta leche se puede usar en cualquier receta que necesite leche.\n\nLas leches vegetales por lo general son muy ineficientes, se pierde muchos nutrientes durante el proceso. La leche de soya es más eficiente que las otras.</VCE_MilkFromSoybeans.description>
+  <VCE_MilkFromSoybeans.jobString>Extrayendo leche de soya.</VCE_MilkFromSoybeans.jobString>
+</LanguageData>

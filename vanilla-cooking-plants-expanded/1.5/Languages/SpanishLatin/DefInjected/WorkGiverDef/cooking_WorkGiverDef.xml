@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCE_DoBillsVegMilkExtractor.label>extraer leches vegetales</VCE_DoBillsVegMilkExtractor.label>
+  <VCE_DoBillsVegMilkExtractor.gerund>extrayendo leche vegetal en</VCE_DoBillsVegMilkExtractor.gerund>
+  <VCE_DoBillsVegMilkExtractor.verb>extraer leche vegetal</VCE_DoBillsVegMilkExtractor.verb>
+  <VCE_DoBillsGrill.label>cocinar en parrilla</VCE_DoBillsGrill.label>
+  <VCE_DoBillsGrill.gerund>asando en</VCE_DoBillsGrill.gerund>
+  <VCE_DoBillsGrill.verb>asar</VCE_DoBillsGrill.verb>
+  <VCE_DoBillsFryer.label>cocinar en freidora</VCE_DoBillsFryer.label>
+  <VCE_DoBillsFryer.gerund>friendo en</VCE_DoBillsFryer.gerund>
+  <VCE_DoBillsFryer.verb>freír</VCE_DoBillsFryer.verb>
+  <VCE_DoBillsCanning.label>trabajar en la maquina enlatadora</VCE_DoBillsCanning.label>
+  <VCE_DoBillsCanning.gerund>enlatando comida en</VCE_DoBillsCanning.gerund>
+  <VCE_DoBillsCanning.verb>enlatar comida</VCE_DoBillsCanning.verb>
+  <VCE_DoBillsPrep.label>trabajar en mesa de preparación de condimentos</VCE_DoBillsPrep.label>
+  <VCE_DoBillsPrep.gerund>haciendo condimentos en</VCE_DoBillsPrep.gerund>
+  <VCE_DoBillsPrep.verb>preparar condimentos</VCE_DoBillsPrep.verb>
+</LanguageData>

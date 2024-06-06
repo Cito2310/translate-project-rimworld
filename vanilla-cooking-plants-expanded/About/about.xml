@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>Vanilla Plants, Cooking and More Expanded - Traducción al Español y Español Latino</name>
+    <author>Cito2310</author>
+    <packageId>Cito2310.VPCBFESpanish</packageId>
+    <supportedVersions>
+        <li>1.5</li>
+    </supportedVersions>
+
+    <modDependencies>
+        <li>
+            <packageId>brrainz.harmony</packageId>
+            <displayName>Harmony</displayName>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+        </li>
+		<li>
+			<packageId>OskarPotocki.VanillaFactionsExpanded.Core</packageId>
+			<displayName>Vanilla Expanded Framework</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2023507013</steamWorkshopUrl>
+			<downloadUrl>https://github.com/Vanilla-Expanded/VanillaExpandedFramework</downloadUrl>
+		</li>
+    </modDependencies>
+
+    <loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Royalty</li>
+		<li>Ludeon.RimWorld.Ideology</li>
+		<li>Ludeon.RimWorld.Biotech</li>
+		<li>Ludeon.RimWorld.Anomaly</li>
+		<li>brrainz.harmony</li>
+		<li>OskarPotocki.VanillaFactionsExpanded.Core</li>
+		<li>vanillaexpanded.vbrewe</li>
+		<li>vanillaexpanded.vbrewecandt</li>
+		<li>vanillaexpanded.vcooke</li>
+		<li>vanillaexpanded.vcookestews</li>
+		<li>vanillaexpanded.vcookesushi</li>
+		<li>vanillaexpanded.vplantse</li>
+		<li>vanillaexpanded.vplantsemore</li>
+		<li>vanillaexpanded.vplantsemushrooms</li>
+		<li>vanillaexpanded.vplantsesucculents</li>
+		<li>vanillaexpanded.vcef</li>
+	</loadAfter>
+
+    <description>
+Agrega una traducción al español de los mods:
+- Vanilla Brewing Expanded
+- Vanilla Brewing Expanded - Coffees and Teas
+- Vanilla Cooking Expanded
+- Vanilla Cooking Expanded - Stews
+- Vanilla Cooking Expanded - Sushi
+- Vanilla Plants Expanded
+- Vanilla Plants Expanded - More Plants
+- Vanilla Plants Expanded - Mushrooms
+- Vanilla Plants Expanded - Succulents
+- Vanilla Fishing Expanded
+    </description>
+
+</ModMetaData>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCE_MilkFromRice.label>extraer leche del arroz</VCE_MilkFromRice.label>
+  <VCE_MilkFromRice.description>Extraer leche vegetal del arroz. Esta leche se puede usar en cualquier receta que necesite leche.\n\nEs muy ineficiente convertir el arroz en leche, se pierde muchos nutrientes durante el proceso.</VCE_MilkFromRice.description>
+  <VCE_MilkFromRice.jobString>Extrayendo leche del arroz.</VCE_MilkFromRice.jobString>
+  <VCE_MilkFromAlmonds.label>extraer leche de almendras</VCE_MilkFromAlmonds.label>
+  <VCE_MilkFromAlmonds.description>Extraer leche vegetal de las almendras. Esta leche se puede usar en cualquier receta que necesite leche.\n\nLas leches vegetales por lo general son muy ineficientes, se pierde muchos nutrientes en el proceso.</VCE_MilkFromAlmonds.description>
+  <VCE_MilkFromAlmonds.jobString>Extrayendo leche de almendras.</VCE_MilkFromAlmonds.jobString>
+  <VCE_MilkFromCoconuts.label>extraer leche de cocos</VCE_MilkFromCoconuts.label>
+  <VCE_MilkFromCoconuts.description>Extraer leche vegetal de los cocos. Esta leche se puede usar en cualquier receta que necesite leche.\n\nLas leches vegetales por lo general son muy ineficientes, se pierde muchos nutrientes en el proceso.</VCE_MilkFromCoconuts.description>
+  <VCE_MilkFromCoconuts.jobString>Extrayendo leche de cocos</VCE_MilkFromCoconuts.jobString>
+  <VCE_MilkFromOats.label>extraer leche de avena</VCE_MilkFromOats.label>
+  <VCE_MilkFromOats.description>Extraer leche vegetal de los cocos. Esta leche se puede usar en cualquier receta que necesite leche.\n\nLas leches vegetales por lo general son muy ineficientes, se pierde muchos nutrientes en el proceso.</VCE_MilkFromOats.description>
+  <VCE_MilkFromOats.jobString>Extrayendo leche de avena.</VCE_MilkFromOats.jobString>
+  <VBE_MakeCocktailGourmet.label>hacer cóctel gourmet</VBE_MakeCocktailGourmet.label>
+  <VBE_MakeCocktailGourmet.description>Hacer un cóctel gourmet, donde todos los factores, desde la temperatura del vidrio, la elección del instrumento y el tipo de guarnición se ha calculado con extrema precisión para obtener el máximo sabor y cuerpo posible.</VBE_MakeCocktailGourmet.description>
+  <VBE_MakeCocktailGourmet.jobString>Haciendo cóctel gourmet.</VBE_MakeCocktailGourmet.jobString>
+  <VBE_MakeLuciferiumPowder.label>hacer polvo de luciferio</VBE_MakeLuciferiumPowder.label>
+  <VBE_MakeLuciferiumPowder.description>Hacer un polvo muy fino de Luciferio. Usualmente se coloca en el borde las bebidas alcohólicas en los bares frecuentados por ricos y poderosos.</VBE_MakeLuciferiumPowder.description>
+  <VBE_MakeLuciferiumPowder.jobString>Haciendo polvo de Luciferio.</VBE_MakeLuciferiumPowder.jobString>
+  <VBE_MakeGoJuiceStock.label>hacer caldo de jugo-go</VBE_MakeGoJuiceStock.label>
+  <VBE_MakeGoJuiceStock.description>Hacer un cubo gelatinizado de Jugo-Go, capaz de ser ingerido en vez de ser inyectado. Se puede usar en cualquier comida, a menudo se usa en sopas o como agente espesante en cócteles.</VBE_MakeGoJuiceStock.description>
+  <VBE_MakeGoJuiceStock.jobString>Haciendo caldo de Jugo-go.</VBE_MakeGoJuiceStock.jobString>
+  <VBE_MakeWakeUpPowder.label>hacer polvo de despertar</VBE_MakeWakeUpPowder.label>
+  <VBE_MakeWakeUpPowder.description>Hacer polvo de Despertar, sorpresivamente es dulce, y a veces se usa para reemplazar el azúcar en los postres o disuelta en el café de la mañana.</VBE_MakeWakeUpPowder.description>
+  <VBE_MakeWakeUpPowder.jobString>Haciendo polvo de Despertar.</VBE_MakeWakeUpPowder.jobString>
+  <VBE_MakeSodaSyrupBulk.label>hacer sirope de soda</VBE_MakeSodaSyrupBulk.label>
+  <VBE_MakeSodaSyrupBulk.description>Hacer sirope de soda mezclando jugo de frutas y azúcar. Esta receta es mucho más eficiente.</VBE_MakeSodaSyrupBulk.description>
+  <VBE_MakeSodaSyrupBulk.jobString>Haciendo sirope de soda.</VBE_MakeSodaSyrupBulk.jobString>
+  <VBE_MakeWhiskeyMashFromFlour.label>hacer masa de whisky con harina</VBE_MakeWhiskeyMashFromFlour.label>
+  <VBE_MakeWhiskeyMashFromFlour.description>Hacer una masa liquida con harina. Listo para añejar.</VBE_MakeWhiskeyMashFromFlour.description>
+  <VBE_MakeWhiskeyMashFromFlour.jobString>Haciendo masa de whisky.</VBE_MakeWhiskeyMashFromFlour.jobString>
+  <VBE_BrewMintCoffee.label>preparar café de menta</VBE_BrewMintCoffee.label>
+  <VBE_BrewMintCoffee.description>Preparar un expreso amargo mezclado con crema o leche, que luego se mezcla con aceite de menta y se decora. El café fresco y aterciopelado da paso a un regusto más fresco y relajante, además del aliento fresco que deja.</VBE_BrewMintCoffee.description>
+  <VBE_BrewMintCoffee.jobString>Preparando café de menta.</VBE_BrewMintCoffee.jobString>
+  <VBE_BrewDalgonaCoffee.label>preparar café dalgona</VBE_BrewDalgonaCoffee.label>
+  <VBE_BrewDalgonaCoffee.description>Preparar una bebida moderna y trend en el mundo del café, según los rumores proviene de mundos lejanos de vapor. Los granos de café se mezclan rápidamente con azúcar formando una espuma espesa e increíblemente deliciosa. Luego la espuma se dispersa sobre la leche muy fría.</VBE_BrewDalgonaCoffee.description>
+  <VBE_BrewDalgonaCoffee.jobString>Preparando café dalgona.</VBE_BrewDalgonaCoffee.jobString>
+  <VBE_MakeGreenTea.label>hace té verde</VBE_MakeGreenTea.label>
+  <VBE_MakeGreenTea.description>Hacer un té verde ligero y cítrico, con un poco de azúcar para crear un sabor mantecoso, con un toque a nuez.</VBE_MakeGreenTea.description>
+  <VBE_MakeGreenTea.jobString>Haciendo té verde.</VBE_MakeGreenTea.jobString>
+  <VBE_MakeMintTea.label>hacer té de menta</VBE_MakeMintTea.label>
+  <VBE_MakeMintTea.description>Hacer un té negro mezclado con hojas de menta, y luego ser decorada con hojas de mentas. Deja un aliento muy refrescante.</VBE_MakeMintTea.description>
+  <VBE_MakeMintTea.jobString>Haciendo té de menta</VBE_MakeMintTea.jobString>
+  <VBE_MakeMasalaChai.label>hacer masala chai</VBE_MakeMasalaChai.label>
+  <VBE_MakeMasalaChai.description>Preparar un té caliente, ligeramente espeso y algo amaderado creado con hojas simples y especias. Se supone que es bueno para tratar el colesterol alto.</VBE_MakeMasalaChai.description>
+  <VBE_MakeMasalaChai.jobString>Haciendo masala chai.</VBE_MakeMasalaChai.jobString>
+  <VBE_MakeNoonChai.label>hacer noon chai</VBE_MakeNoonChai.label>
+  <VBE_MakeNoonChai.description>Elaborar un antiguo té de Cachemira mezclado con hojas de té, una pizca de sal y bicarbonato de sodio, esto resultara en una bebida con un color rosado que es famoso no solo por ser delicioso si no por ser saludable para el organismo. Es muy eficiente para tratar la precisión arterial alta.</VBE_MakeNoonChai.description>
+  <VBE_MakeNoonChai.jobString>Haciendo noon chai.</VBE_MakeNoonChai.jobString>
+  <VCE_CookBakeSimple.label>cocinar pan simple x2</VCE_CookBakeSimple.label>
+  <VCE_CookBakeSimple.description>Cocinar rápidamente dos pan simples con harina. </VCE_CookBakeSimple.description>
+  <VCE_CookBakeSimple.jobString>Cocinando pan simple x2.</VCE_CookBakeSimple.jobString>
+  <VCE_CookBakeSimpleBulk.label>cocinar pan simple x8</VCE_CookBakeSimpleBulk.label>
+  <VCE_CookBakeSimpleBulk.description>Cocinar rápidamente 8 panes simples con harina. </VCE_CookBakeSimpleBulk.description>
+  <VCE_CookBakeSimpleBulk.jobString>Cocinando pan simple x8.</VCE_CookBakeSimpleBulk.jobString>
+  <VCE_CookBakeFine.label>cocinar pan bueno x2</VCE_CookBakeFine.label>
+  <VCE_CookBakeFine.description>Cocinar 2 panes complejos hecho con cuidado a partir de una serie de ingredientes y harina.</VCE_CookBakeFine.description>
+  <VCE_CookBakeFine.jobString>Cocinando pan bueno x2.</VCE_CookBakeFine.jobString>
+  <VCE_CookBakeFineBulk.label>cocinar pan bueno x8</VCE_CookBakeFineBulk.label>
+  <VCE_CookBakeFineBulk.description>Cocinar 8 panes complejos hecho con cuidado a partir de una serie de ingredientes y harina.</VCE_CookBakeFineBulk.description>
+  <VCE_CookBakeFineBulk.jobString>Cocinando pan bueno x8.</VCE_CookBakeFineBulk.jobString>
+  <VCE_CookBakeLavish.label>cocinar pan de lujo x2</VCE_CookBakeLavish.label>
+  <VCE_CookBakeLavish.description>Cocinar 2 obras maestras de la artes culinaria, estos panes nutren el cuerpo, la mente y la alma.</VCE_CookBakeLavish.description>
+  <VCE_CookBakeLavish.jobString>Cocinando pan de lujo x2.</VCE_CookBakeLavish.jobString>
+  <VCE_CookBakeLavishBulk.label>cocinar pan de lujo x8</VCE_CookBakeLavishBulk.label>
+  <VCE_CookBakeLavishBulk.description>Cocinar 8 obras maestras de la artes culinaria, estos panes nutren el cuerpo, la mente y la alma.</VCE_CookBakeLavishBulk.description>
+  <VCE_CookBakeLavishBulk.jobString>Cocinando pan de lujo x8.</VCE_CookBakeLavishBulk.jobString>
+  <VCE_CookBakeGourmet.label>cocinar pan gourmet x2</VCE_CookBakeGourmet.label>
+  <VCE_CookBakeGourmet.description>Cocinar dos obras de arte culinaria, caracterizado por una preparación y presentación refinada y balanceada, aunque en poca cantidad.\n\nEsta receta no puede mezclar ingredientes.</VCE_CookBakeGourmet.description>
+  <VCE_CookBakeGourmet.jobString>Cocinando pan gourmet x2.</VCE_CookBakeGourmet.jobString>
+  <VCE_CanMeats.label>carnes enlatadas x20</VCE_CanMeats.label>
+  <VCE_CanMeats.description>Almacenar la carne en latas de acero. Al enlatar la carne extiende su vida útil de forma indefinida.</VCE_CanMeats.description>
+  <VCE_CanMeats.jobString>Enlatando carnes.</VCE_CanMeats.jobString>
+  <VCE_CanProduce.label>productos enlatados x20</VCE_CanProduce.label>
+  <VCE_CanProduce.description>Almacenar verduras en latas de acero. Al enlatar la comida extiende su vida útil de forma indefinida.</VCE_CanProduce.description>
+  <VCE_CanProduce.jobString>Enlatando productos.</VCE_CanProduce.jobString>
+  <VCE_CanFruit.label>fruta enlatada x20</VCE_CanFruit.label>
+  <VCE_CanFruit.description>Almacenar la fruta en latas de acero. Al enlatar la comida extiende su vida útil de forma indefinida.\n\nLa fruta enlatada se puede usar para producir postres.</VCE_CanFruit.description>
+  <VCE_CanFruit.jobString>Enlatando fruta.</VCE_CanFruit.jobString>
+  <VCE_CanEggs.label>huevo enlatado x20</VCE_CanEggs.label>
+  <VCE_CanEggs.description>Almacenar huevos hervidos en latas de acero. Al enlatar la comida extiende su vida útil de forma indefinida.</VCE_CanEggs.description>
+  <VCE_CanEggs.jobString>Enlatando huevos.</VCE_CanEggs.jobString>
+  <VCE_ChopCondiments.label>mezclar condimentos en las croquetas</VCE_ChopCondiments.label>
+  <VCE_ChopCondiments.description>Mezclar diferentes condimentos en una masa orgánica apenas comestible, para alimentar a los animales. Mejor que la comida para mascotas del supermercado.</VCE_ChopCondiments.description>
+  <VCE_ChopCondiments.jobString>mezclando condimentos en las croquetas.</VCE_ChopCondiments.jobString>
+  <VCE_MakeSalt.label>hacer sal</VCE_MakeSalt.label>
+  <VCE_MakeSalt.description>Muele y procesa los trozos de piedras para extraer las sales comestibles.\n\nUsa la habilidad de Cocinar.</VCE_MakeSalt.description>
+  <VCE_MakeSalt.jobString>Haciendo sal.</VCE_MakeSalt.jobString>
+  <VCE_MakeSaltfromBlocks.label>hacer sal (bloques)</VCE_MakeSaltfromBlocks.label>
+  <VCE_MakeSaltfromBlocks.description>Muele y procesa los trozos de piedras para extraer las sales comestibles.\n\nUsa la habilidad de Cocinar.</VCE_MakeSaltfromBlocks.description>
+  <VCE_MakeSaltfromBlocks.jobString>Haciendo sal en bloques.</VCE_MakeSaltfromBlocks.jobString>
+  <VCE_AgaveNectar.label>hacer néctar de agave</VCE_AgaveNectar.label>
+  <VCE_AgaveNectar.description>Crear néctar de agave. El néctar de agave es un néctar fino y algo dulce, conocido por sus propiedades curativas y antiinflamatorias.</VCE_AgaveNectar.description>
+  <VCE_AgaveNectar.jobString>Haciendo néctar de agave.</VCE_AgaveNectar.jobString>
+  <VCE_InsectJellyPreserves.label>hacer conserva de jalea de insecto</VCE_InsectJellyPreserves.label>
+  <VCE_InsectJellyPreserves.description>Crear conservas de jale de insectos. Muy ricas y dulces, y sorpresivamente son saludables.</VCE_InsectJellyPreserves.description>
+  <VCE_InsectJellyPreserves.jobString>Haciendo conservas de jalea de insecto.</VCE_InsectJellyPreserves.jobString>
+  <VCE_Mayo.label>hacer mayonesa</VCE_Mayo.label>
+  <VCE_Mayo.description>Crear mayonesa del huevo. Es una emulsión espesa de huevo, aceite y otras hierbas. La mayonesa, si bien es terrible para uno, añade un sabor agradable y muchas calorías.</VCE_Mayo.description>
+  <VCE_Mayo.jobString>Haciendo mayonesa.</VCE_Mayo.jobString>
+  <VCE_SmokeleafButter.label>hacer mantequilla de hojahumeante</VCE_SmokeleafButter.label>
+  <VCE_SmokeleafButter.description>Hacer mantequilla de hojahumeante con hojahumeante y leche. Una sustancia grasa y espesa que se elabora batiendo la leche hasta forma una crema muy espesa, luego se combina con aceite de hojahumeante y se la deja reposar. Muy poco saludable y te da un subidón un poco más fuerte que un porro.</VCE_SmokeleafButter.description>
+  <VCE_SmokeleafButter.jobString>Haciendo mantequilla de hojahumeante.</VCE_SmokeleafButter.jobString>
+  <VCE_ChocolateSyrup.label>hacer sirope de chocolate</VCE_ChocolateSyrup.label>
+  <VCE_ChocolateSyrup.description>Crear un sirope de chocolate hecho con chocolate modificado genéticamente. Si bien no es muy bueno para uno, el sirope de chocolate no es tan malo como el azúcar puro.</VCE_ChocolateSyrup.description>
+  <VCE_ChocolateSyrup.jobString>Haciendo sirope de chocolate.</VCE_ChocolateSyrup.jobString>
+  <VCE_CookDessertSimple.label>cocinar postre simple</VCE_CookDessertSimple.label>
+  <VCE_CookDessertSimple.description>cocinar rápidamente un postre simple hecho con frutas y otros ingredientes.</VCE_CookDessertSimple.description>
+  <VCE_CookDessertSimple.jobString>Cocinando postre simple.</VCE_CookDessertSimple.jobString>
+  <VCE_CookDessertSimpleBulk.label>cocinar postre simple x4</VCE_CookDessertSimpleBulk.label>
+  <VCE_CookDessertSimpleBulk.description>cocinar rápidamente 4 postres simples hecho con frutas y otros ingredientes.</VCE_CookDessertSimpleBulk.description>
+  <VCE_CookDessertSimpleBulk.jobString>Cocinando postre simple x4.</VCE_CookDessertSimpleBulk.jobString>
+  <VCE_CookDessertFine.label>cocinar postre bueno</VCE_CookDessertFine.label>
+  <VCE_CookDessertFine.description>Cocinar un postre complejo hecho con delicadeza y una variedad de ingredientes.\n\nNota: Debido a que el Chocolate tiene una nutrición de 0.10 por unidad, parte se desperdiciara al cocinar esta receta. Considera hacer la versión por granel de esta (x4) para no desperdiciar nada.</VCE_CookDessertFine.description>
+  <VCE_CookDessertFine.jobString>Cocinando postre bueno.</VCE_CookDessertFine.jobString>
+  <VCE_CookDessertFineBulk.label>cocinar postre bueno x4</VCE_CookDessertFineBulk.label>
+  <VCE_CookDessertFineBulk.description>Cocinar 4 postres complejos hecho con delicadeza y una variedad de ingredientes.</VCE_CookDessertFineBulk.description>
+  <VCE_CookDessertFineBulk.jobString>Cocinando postre bueno x4.</VCE_CookDessertFineBulk.jobString>
+  <VCE_CookDessertLavish.label>cocinar postre de lujo</VCE_CookDessertLavish.label>
+  <VCE_CookDessertLavish.description>Cocinar una obra maestra de las artes culinarias, un postre que llena el cuerpo, la mente y el alma.\n\nNota: Debido a que el Chocolate tiene una nutrición de 0.10 por unidad, parte se desperdiciara al cocinar esta receta. Considera hacer la versión por granel de esta (x4) para no desperdiciar nada.</VCE_CookDessertLavish.description>
+  <VCE_CookDessertLavish.jobString>Cocinando postre de lujo.</VCE_CookDessertLavish.jobString>
+  <VCE_CookDessertLavishBulk.label>cocinar postre de lujo x4</VCE_CookDessertLavishBulk.label>
+  <VCE_CookDessertLavishBulk.description>Cocinar 4 obras maestra de las artes culinaras, este postre llena el cuerpo, la mente y el alma.</VCE_CookDessertLavishBulk.description>
+  <VCE_CookDessertLavishBulk.jobString>Cocinando postre de lujo x4.</VCE_CookDessertLavishBulk.jobString>
+  <VCE_CookDessertGourmet.label>cocinar postre gourmet</VCE_CookDessertGourmet.label>
+  <VCE_CookDessertGourmet.description>Cocinar una obra de arte culinaria, caracterizado por una preparación y presentación refinada y balanceada, aunque en poca cantidad.</VCE_CookDessertGourmet.description>
+  <VCE_CookDessertGourmet.jobString>Cocinado postre gourmet.</VCE_CookDessertGourmet.jobString>
+  <VCE_DeepFryMeats.label>freír carnes x20</VCE_DeepFryMeats.label>
+  <VCE_DeepFryMeats.description>Freír una gran cantidad de carne. La comida frita es muy rica, pero no es nada buena para la salud.</VCE_DeepFryMeats.description>
+  <VCE_DeepFryMeats.jobString>Fritando carnes.</VCE_DeepFryMeats.jobString>
+  <VCE_DeepFryVegetables.label>freír vegetales x20</VCE_DeepFryVegetables.label>
+  <VCE_DeepFryVegetables.description>Freír vegetales. La comida frita es muy rica, pero no es nada buena para la salud.</VCE_DeepFryVegetables.description>
+  <VCE_DeepFryVegetables.jobString>Fritando vegetales.</VCE_DeepFryVegetables.jobString>
+  <VCE_CookGrillSimple.label>cocinar parrillada simple</VCE_CookGrillSimple.label>
+  <VCE_CookGrillSimple.description>Cocinar rápidamente 2 simples parrilladas con carne.</VCE_CookGrillSimple.description>
+  <VCE_CookGrillSimple.jobString>Cocinando parrillada simple.</VCE_CookGrillSimple.jobString>
+  <VCE_CookGrillSimpleBulk.label>cocinar parrillada simple x4</VCE_CookGrillSimpleBulk.label>
+  <VCE_CookGrillSimpleBulk.description>Cocinar rápidamente 2 simples parrilladas con carne.</VCE_CookGrillSimpleBulk.description>
+  <VCE_CookGrillSimpleBulk.jobString>Cocinando parrillada simple x4.
+</VCE_CookGrillSimpleBulk.jobString>
+  <VCE_CookGrillFine.label>cocinar parrillada buena</VCE_CookGrillFine.label>
+  <VCE_CookGrillFine.description>Cocinar una parrillada compleja hecha con cuidado y con una variedad de ingredientes.</VCE_CookGrillFine.description>
+  <VCE_CookGrillFine.jobString>Cocinando parrillada buena.</VCE_CookGrillFine.jobString>
+  <VCE_CookGrillFineBulk.label>cocinar parrillada buena x4</VCE_CookGrillFineBulk.label>
+  <VCE_CookGrillFineBulk.description>Cocinar 4 parrillada compleja hecha con cuidado y con una variedad de ingredientes.</VCE_CookGrillFineBulk.description>
+  <VCE_CookGrillFineBulk.jobString>Cocinando parrillada buena x4.</VCE_CookGrillFineBulk.jobString>
+  <VCE_CookGrillLavish.label>cocinar parrillada de lujo</VCE_CookGrillLavish.label>
+  <VCE_CookGrillLavish.description>Cocinar una obra maestra de las artes culinarias, un postre que llena el cuerpo, la mente y el alma.</VCE_CookGrillLavish.description>
+  <VCE_CookGrillLavish.jobString>Cocinando parrillada de lujo.</VCE_CookGrillLavish.jobString>
+  <VCE_CookGrillLavishhBulk.label>cocinar parrillada de lujo x4</VCE_CookGrillLavishhBulk.label>
+  <VCE_CookGrillLavishhBulk.description>Cocinar 4 obras maestras de las artes culinarias, un postre que llena el cuerpo, la mente y el alma.</VCE_CookGrillLavishhBulk.description>
+  <VCE_CookGrillLavishhBulk.jobString>Cocinando parrillada de lujo x4.</VCE_CookGrillLavishhBulk.jobString>
+  <VCE_CookGrillGourmet.label>cocinar parrillada gourmet</VCE_CookGrillGourmet.label>
+  <VCE_CookGrillGourmet.description>Cocinar una obra de arte culinaria, caracterizado por una preparación y presentación refinada y balanceada, aunque en poca cantidad.</VCE_CookGrillGourmet.description>
+  <VCE_CookGrillGourmet.jobString>Cocinando parrillada gourmet.</VCE_CookGrillGourmet.jobString>
+  <VCE_CookMealGourmet.label>cocinar comida gourmet</VCE_CookMealGourmet.label>
+  <VCE_CookMealGourmet.description>Cocinar una obra de arte culinaria, caracterizado por una preparación y presentación refinada y balanceada, aunque en poca cantidad.</VCE_CookMealGourmet.description>
+  <VCE_CookMealGourmet.jobString>Cocinando comida gourmet.</VCE_CookMealGourmet.jobString>
+  <VCE_CookSoupSimple.label>preparar sopa simple</VCE_CookSoupSimple.label>
+  <VCE_CookSoupSimple.description>Preparar rápidamente una simple sopa sin cocinar hecha con unos pocos ingredientes.</VCE_CookSoupSimple.description>
+  <VCE_CookSoupSimple.jobString>Preparando sopa simple.</VCE_CookSoupSimple.jobString>
+  <VCE_CookSoupFine.label>preparar sopa buena</VCE_CookSoupFine.label>
+  <VCE_CookSoupFine.description>Preparar una sopa buena sin cocinar, hecha con cuidado y con una variedad de ingredientes.</VCE_CookSoupFine.description>
+  <VCE_CookSoupFine.jobString>Preparando sopa buena</VCE_CookSoupFine.jobString>
+  <VCE_CookSoupLavish.label>preparar sopa de lujo</VCE_CookSoupLavish.label>
+  <VCE_CookSoupLavish.description>Prepara una sopa de lujo sin cocinar. Una obra maestra de las artes culinarias, un postre que llena el cuerpo, la mente y el alma.</VCE_CookSoupLavish.description>
+  <VCE_CookSoupLavish.jobString>Preparando sopa de lujo.</VCE_CookSoupLavish.jobString>
+  <VCE_CookSoupGourmet.label>preparar sopa gourmet</VCE_CookSoupGourmet.label>
+  <VCE_CookSoupGourmet.description>Preparar una sopa gourmet sin cocinar. Una obra de arte culinaria, caracterizado por una preparación y presentación refinada y balanceada, aunque en poca cantidad.\n\nEsta receta no acepta una mezcla de ingredientes, y toma mucho tiempo en hacer.</VCE_CookSoupGourmet.description>
+  <VCE_CookSoupGourmet.jobString>Preparando sopa gourmet.</VCE_CookSoupGourmet.jobString>
+  <VCE_DeepFryFish.label>freír pescado x20</VCE_DeepFryFish.label>
+  <VCE_DeepFryFish.description>Freír pescado. La comida frita es muy rica, pero no es nada buena para la salud.</VCE_DeepFryFish.description>
+  <VCE_DeepFryFish.jobString>Fritando pescado.</VCE_DeepFryFish.jobString>
+  <VCE_CanFish.label>pescado en lata x20</VCE_CanFish.label>
+  <VCE_CanFish.description>Almacenar pescado en latas de acero. Al enlatar la comida extiende su vida útil de forma indefinida.</VCE_CanFish.description>
+  <VCE_CanFish.jobString>Enlatando pescado.</VCE_CanFish.jobString>
+  <VCE_Ketchup.label>hacer ketchup</VCE_Ketchup.label>
+  <VCE_Ketchup.description>Hacer ketchup con tomates. Una salsa espesa hecha con tomates guisados, algo salado y picante junto con un regusto dulce. Perfecto para comidas con carne o frituras.</VCE_Ketchup.description>
+  <VCE_Ketchup.jobString>Haciendo ketchup.</VCE_Ketchup.jobString>
+  <VCE_HotSauce.label>hacer salsa picante</VCE_HotSauce.label>
+  <VCE_HotSauce.description>Crear una salsa picante con chiles. Una potente salsa picante hecho al triturar chiles y otras especias, y luego mezclarlas y cocinarlas a fuego lento. Si bien es una salsa picante particularmente fuerte que genera una sensación de dolor al principio, que luego adormecerá la lengua y provocara un sudor cálido.</VCE_HotSauce.description>
+  <VCE_HotSauce.jobString>Haciendo salsa picante.</VCE_HotSauce.jobString>
+</LanguageData>

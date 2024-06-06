@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VBE_DrankEarlGreyTea.label>bebió té earl grey</VBE_DrankEarlGreyTea.label>
+  <VBE_DrankEarlGreyTea.description>Los taninos naturales que se encuentran en el té, al ser metabolizados, incrementan los estímulos del sistema nervioso, suprime el sueño y otorga un aumento del sistema inmune. Incrementando la velocidad de inmunización en un 15% y provee una reducción del 10% de la tasa del sueño durante 5 horas. El té earl grey provee un 10% de velocidad de investigación.</VBE_DrankEarlGreyTea.description>
+  <VBE_LemonCoffeeHigh.label>subidón de café de limón</VBE_LemonCoffeeHigh.label>
+  <VBE_LemonCoffeeHigh.description>La cafeína que se encuentra en el café, al ser metabolizados, al ser metabolizados, incrementan los estímulos del sistema nervioso, suprime el sueño y despeja la mente. Incrementando la velocidad de aprendizaje en un 15% y provee una reducción del 15% de la tasa del sueño. El café caliente reduce la hipotermia. El café de limón actúa como remedio contra los gusanos intestinales, aumentando la calidad del tratamiento a medida que se toma más café.</VBE_LemonCoffeeHigh.description>
+  <VBE_LemonCoffeeHigh.labelNoun>un subidón de café de limón</VBE_LemonCoffeeHigh.labelNoun>
+  <VBE_DrankLemonTea.label>bebió té de limón</VBE_DrankLemonTea.label>
+  <VBE_DrankLemonTea.description>Los taninos naturales que se encuentran en el té, al ser metabolizados, incrementan los estímulos del sistema nervioso, suprime el sueño y otorga un aumento del sistema inmune. Incrementando la velocidad de inmunización en un 15% y provee una reducción del 10% de la tasa del sueño durante 5 horas. El té de limón actúa como remedio contra los gusanos intestinales, aumentando la calidad del tratamiento a medida que se toma más té.</VBE_DrankLemonTea.description>
+  <VBE_DrankBlackTea.label>bebió té negro</VBE_DrankBlackTea.label>
+  <VBE_DrankBlackTea.description>Los taninos naturales que se encuentran en el té, al ser metabolizados, incrementan los estímulos del sistema nervioso, suprime el sueño y otorga un aumento del sistema inmune. Incrementando la velocidad de inmunización en un 20% y provee una reducción del 15% de la tasa del sueño durante 5 horas.</VBE_DrankBlackTea.description>
+  <VBE_IrishCoffeeHigh.label>subidón de café irlandés</VBE_IrishCoffeeHigh.label>
+  <VBE_IrishCoffeeHigh.description>La cafeína que se encuentra en el café, al ser metabolizados, al ser metabolizados, incrementan los estímulos del sistema nervioso,  suprime el sueño y despeja la mente. Incrementando la velocidad de aprendizaje en un 16% y provee una reducción del 16% de la tasa del sueño. Incrementa la velocidad de trabajo en un 16%. El café caliente reduce la hipotermia.</VBE_IrishCoffeeHigh.description>
+  <VBE_IrishCoffeeHigh.labelNoun>un subidón de café irlandés</VBE_IrishCoffeeHigh.labelNoun>
+  <VBE_DrankKombuchaTea.label>bebió té kombucha</VBE_DrankKombuchaTea.label>
+  <VBE_DrankKombuchaTea.description>Los taninos naturales que se encuentran en el té, al ser metabolizados, incrementan los estímulos del sistema nervioso, suprime el sueño y otorga un aumento del sistema inmune. Incrementando la velocidad de inmunización en un 15% y provee una reducción del 10% de la tasa del sueño durante 5 horas. El té kombucha reduce los efectos de la diabetes presente. El kombucha actúa como un remedio casero para la gripe, reduciendo su severidad en un 5%.</VBE_DrankKombuchaTea.description>
+  <VBE_LatteCoffeeHigh.label>subidón de café latte</VBE_LatteCoffeeHigh.label>
+  <VBE_LatteCoffeeHigh.description>La cafeína que se encuentra en el café, al ser metabolizados, al ser metabolizados, incrementan los estímulos del sistema nervioso, suprime el sueño y despeja la mente. Incrementando la velocidad de aprendizaje en un 18% y provee una reducción del 18% de la tasa del sueño. El café latte reduce la hipotermia.</VBE_LatteCoffeeHigh.description>
+  <VBE_LatteCoffeeHigh.labelNoun>un subidón de café latte</VBE_LatteCoffeeHigh.labelNoun>
+  <VBE_YuenYeungHigh.label>subidón de yuanyang</VBE_YuenYeungHigh.label>
+  <VBE_YuenYeungHigh.description>La cafeína que se encuentra en el café, al ser metabolizados, al ser metabolizados, incrementan los estímulos del sistema nervioso, suprime el sueño y despeja la mente. Incrementando la velocidad de aprendizaje en un 15% y provee una reducción del 13% de la tasa del sueño. El té otorga un aumento de la velocidad de inmunización del 15%. El café frio reduce la insolación.</VBE_YuenYeungHigh.description>
+  <VBE_YuenYeungHigh.labelNoun>un subidón de café</VBE_YuenYeungHigh.labelNoun>
+</LanguageData>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <IP_InsertVariable>Insertar {0}</IP_InsertVariable>
+  <IP_InsertVariableSecond>Insertar {0} en el 2do espacio</IP_InsertVariableSecond>
+  <IP_InsertVariableThird>Insertar {0} en el 3er espacio</IP_InsertVariableThird>
+  <IP_CantFindThing>No hay objetos de este tipo ({0}) en el mapa</IP_CantFindThing>
+  <IP_BringIngredients>Traer ingredientes</IP_BringIngredients>
+  <IP_BringIngredientsDesc>Traer ingredientes para empezar el proceso</IP_BringIngredientsDesc>
+  <IP_CancelIngredients>Cancelar llevado de ingredientes</IP_CancelIngredients>
+  <IP_CancelIngredientsDesc>Cancelar el llevado de ingredientes a esta construcción.</IP_CancelIngredientsDesc>
+  <IP_NoIngredientFound>No se encontró ingredientes en el mapa</IP_NoIngredientFound>
+  <IP_ChooseIngredient>Elegir Ingrediente</IP_ChooseIngredient>
+  <IP_ChooseIngredientSecond>Elegir Segundo Ingrediente</IP_ChooseIngredientSecond>
+  <IP_ChooseIngredientThird>Elegir Tercer Ingrediente</IP_ChooseIngredientThird>
+  <IP_IngredientImproperlyDefined>Unos de los ingredientes se ha definido de forma incorrecta para trabajar con el procesador de objeto, contactar con el autor del mod.</IP_IngredientImproperlyDefined>
+  <IP_NoPowerDestroysWarning>{0} necesita electricidad para empezar a funcionar</IP_NoPowerDestroysWarning>
+  <IP_NoFuelDestroysWarning>{0} necesita combustible para empezar a funcionar</IP_NoFuelDestroysWarning>
+  <IP_LightDestroysWarning>{0} necesita un nivel adecuado de luz para empezar a funcionar</IP_LightDestroysWarning>
+  <IP_RainDestroysWarning>{0} necesita que no este lloviendo para empezar a funcionar</IP_RainDestroysWarning>
+  <IP_TemperatureDestroysWarning>{0} necesita una temperatura adecuada ({1} - {2}) para empezar a funcionar</IP_TemperatureDestroysWarning>
+  <IP_NoPowerDestroysInitialWarning>El resultado se esta echando a perder por un corte de electricidad en el procesador de objetos.</IP_NoPowerDestroysInitialWarning>
+  <IP_NoPowerDestroysMessage>El resultado se echo a perder por el corte de electricidad en el procesador de objetos</IP_NoPowerDestroysMessage>
+  <IP_GenericProductFinished>Un producto se ha terminado de procesar y espera que alguien lo agarre.</IP_GenericProductFinished>
+  <IP_IsEmpty>{0} esta vacío</IP_IsEmpty>
+  <IP_FilledWith>{0} esta llena de {1}</IP_FilledWith>
+  <IP_FilledWithSecond>el 2do espacio de {0} esta lleno con {1}</IP_FilledWithSecond>
+  <IP_FilledWithThird>el 3er espacio de {0} esta lleno con {1}</IP_FilledWithThird>
+  <IP_IngredientPercentage>(llena en {0} de {1})</IP_IngredientPercentage>
+  <IP_ProcessorWorking>{0} esta funcionando: </IP_ProcessorWorking>
+  <IP_ProcessingInProgress>{0} esta procesando {1}. {2} estará listo con {3} calidad en {4}</IP_ProcessingInProgress>
+  <IP_ProcessingInProgressNoQuality>{0} esta procesando {1}. {2} estará listo en {3}</IP_ProcessingInProgressNoQuality>
+  <IP_RemoveProduct>Remover {0} ({1})</IP_RemoveProduct>
+  <IP_RemoveProductDesc>Remover {0} de {1}. El producto esta listo con la calidad ({2})</IP_RemoveProductDesc>
+  <IP_ResetSemiautomatic>Resetear Recetas</IP_ResetSemiautomatic>
+  <IP_ResetSemiautomaticDesc>Esto restablecerá el edificio una vez finalizado su actual producto, por lo que podrá insertar un nuevo ingrediente.</IP_ResetSemiautomaticDesc>
+  <IP_NoCombination>No se encontró ninguna combinación para estos ingredientes</IP_NoCombination>
+  <IP_SetAutoQuality>Establecer calidad para la extracción del producto. Cuando el producto alcance esta calidad, un colono retirara el producto de forma automática y lo llevara a la reserva. Si no se establece, los productos se retirarán manualmente o cuando alcance la calidad Legendaria.</IP_SetAutoQuality>
+  <IP_ChooseQualityAuto>Elegir Calidad Automática</IP_ChooseQualityAuto>
+  <IP_QualityAutoIs>Calidad Automática: {0}</IP_QualityAutoIs>
+  <IP_QualityAutoNot>Desactivar Calidad Automática</IP_QualityAutoNot>
+  <IP_QualityAutoEstablished>Calidad Automática, el producto se extraerá en la calidad: {0}</IP_QualityAutoEstablished>
+  <IP_ToggleAuto>Adquisición de Ingredientes Automáticos</IP_ToggleAuto>
+  <IP_ToggleAutoDesc>Si se activa, este edificio tomara automáticamente los ingredientes de sus tolvas adyacentes, y de forma automática empezara a trabajar cuando se retire el producto. De lo contrario, los colonos transportarán los ingredientes al edificio y será necesario activarlo manualmente una vez que se rellene.</IP_ToggleAutoDesc>
+  <IP_ProductWaiting>Esperando por llevar</IP_ProductWaiting>
+  <IP_OutsideLightRange>El proceso de esta maquina se interrumpió debido a un inadecuado nivel de luz y se echara a perder pronto</IP_OutsideLightRange>
+  <IP_SpoiledDueToLight>El producto de esta maquina se echo a perder por un nivel de luz inadecuado</IP_SpoiledDueToLight>
+  <IP_ItRains>El proceso de esta maquina se interrumpió debido a las condiciones climáticas y se echara a perder pronto</IP_ItRains>
+  <IP_SpoiledDueToRain>El producto de esta maquina se echo a perder por las condiciones climáticas</IP_SpoiledDueToRain>
+  <IP_WrongTemp>El proceso de esta maquina se interrumpió por una temperatura inadecuada y se echara a perder pronto</IP_WrongTemp>
+  <IP_SpoiledDueToWrongTemp>El producto de esta maquina se echo a perder por una temperatura inadecuada</IP_SpoiledDueToWrongTemp>
+  <IP_TempRangeInThisMachine>. Esta fermentación necesita una temperatura entre {0} y {1} grados {2}</IP_TempRangeInThisMachine>
+  <VCE_InsertSoup>insertar sopa</VCE_InsertSoup>
+  <VCE_InsertSoupDesc>Sopa para Cocinar</VCE_InsertSoupDesc>
+  <VCE_NoSoupsFound>No hay ningún tipo de sopa en el mapa</VCE_NoSoupsFound>
+  <VCE_UncookedSoupSimple>sopa simple</VCE_UncookedSoupSimple>
+  <VCE_UncookedSoupFine>sopa buena</VCE_UncookedSoupFine>
+  <VCE_UncookedSoupLavish>sopa de lujo</VCE_UncookedSoupLavish>
+  <VCE_UncookedSoupGourmet>sopa gourmet</VCE_UncookedSoupGourmet>
+  <VCE_UncookedSoupSimple_InsertSoup>insertar sopa simple</VCE_UncookedSoupSimple_InsertSoup>
+  <VCE_UncookedSoupFine_InsertSoup>insertar sopa buena</VCE_UncookedSoupFine_InsertSoup>
+  <VCE_UncookedSoupLavish_InsertSoup>insertar sopa de lujo</VCE_UncookedSoupLavish_InsertSoup>
+  <VCE_UncookedSoupGourmet_InsertSoup>insertar sopa gourmet</VCE_UncookedSoupGourmet_InsertSoup>
+  <VCE_SelectSoup>Seleccionar un tipo de sopa para cocinarla</VCE_SelectSoup>
+  <VCE_StartInsertion>Llevar Sopa</VCE_StartInsertion>
+  <VCE_StartInsertionDesc>Llevar sopa a la olla eléctrica para empezar a cocinar</VCE_StartInsertionDesc>
+  <VCE_RemoveSoup>Remover Sopa</VCE_RemoveSoup>
+  <VCE_RemoveSoupDesc>Remover sopa de la olla. Esto sólo se puede hacer antes de empezar a cocinarlo.</VCE_RemoveSoupDesc>
+  <VCE_CancelBringingSoup>Cancelar llevado de sopa</VCE_CancelBringingSoup>
+  <VCE_CancelBringingSoupDesc>Cancelar llevado de sopa a la olla eléctrica.</VCE_CancelBringingSoupDesc>
+  <VCE_WaitTillJobsEnd>Espere hasta que la sopa haya llegado a la olla eléctrica, o cancelar el trabajo.</VCE_WaitTillJobsEnd>
+  <VCE_NotPowered>La olla eléctrica no tiene electricidad</VCE_NotPowered>
+  <VCE_Engage>Cocinar Sopa</VCE_Engage>
+  <VCE_EngageDesc>Empezar a cocinar sopa. Este proceso tardara 3 días y no se puede interrumpir o la sopa se destruirá.</VCE_EngageDesc>
+  <VCE_SoupFailurePower>Esta sopa se ha echado a perder por una olla eléctrica por falta de electricidad.</VCE_SoupFailurePower>
+  <VCE_SoupFailurePowerWarning>Esta sopa se esta echando a perder rápidamente por falta de combustible en la olla eléctrica.</VCE_SoupFailurePowerWarning>
+  <VCE_SoupFinished>Esta sopa ha terminado de cocinarse en la olla eléctrica</VCE_SoupFinished>
+  <VCE_SoupInProgress>Un {0} se esta cocinando. Estará listo en {1}</VCE_SoupInProgress>
+  <VCE_SoupReady>Una sopa ha terminado de cocinarse y estas esperando que alguien lo agarre</VCE_SoupReady>
+  <VCE_InsertMilkDesc>Seleccionar Leche para la prensa de queso. Una leche diferente produce un queso diferente.</VCE_InsertMilkDesc>
+  <VCE_InsertMilk>Seleccionar Leche</VCE_InsertMilk>
+  <VCE_InsertMilkVariable>Insertar {0}</VCE_InsertMilkVariable>
+  <VCE_NoMilksFound>No hay leche en el mapa.</VCE_NoMilksFound>
+  <VCE_SelectMilk>Seleccionar tipo de leche para prensar</VCE_SelectMilk>
+  <VCE_StartInsertionMilk>Llevar Leche</VCE_StartInsertionMilk>
+  <VCE_StartInsertionMilkDesc>Llevar leche a la prensa de queso y empezar a prensar.</VCE_StartInsertionMilkDesc>
+  <VCE_RemoveMilk>Remover Leche</VCE_RemoveMilk>
+  <VCE_RemoveMilkDesc>Remover leche de la prensa. Esto sólo se puede hacer antes de empezar a prensarla.</VCE_RemoveMilkDesc>
+  <VCE_CancelBringingMilk>Cancelar Llevado de Leche</VCE_CancelBringingMilk>
+  <VCE_CancelBringingMilkDesc>Cancelar el llevado de leche a la prensa de queso.</VCE_CancelBringingMilkDesc>
+  <VCE_WaitTillJobsEndMilk>Espere hasta que la leche llegue hasta la prensa de queso, o cancelar el trabajo.</VCE_WaitTillJobsEndMilk>
+  <VCE_EngageMilk>Prensar en Queso</VCE_EngageMilk>
+  <VCE_EngageMilkDesc>Empezar a prensar la leche en queso. Este proceso tarda un tiempo variable y el queso incrementará su calidad con la maduración. Puedes eliminarlo en cualquier momento después del período inicial.</VCE_EngageMilkDesc>
+  <VCE_CheeseFinished>Un queso se ha terminado de madurar en la prensa de queso.</VCE_CheeseFinished>
+  <VCE_CheeseInProgress>La prensa de queso esta presionando {0}. Estará listo con la calidad {1} en {2}</VCE_CheeseInProgress>
+  <VCE_CheeseReady>Este queso ha alcanzado el grado de maduración deseado y está a la espera de ser recogido.</VCE_CheeseReady>
+  <VCE_MilkImproperlyDefined>Esta leche ha sido definida incorrectamente para funcionar con la prensa de queso, comuníquese con el autor del mod de leche.</VCE_MilkImproperlyDefined>
+  <VCE_RemoveCheese>Remover Queso ({0})</VCE_RemoveCheese>
+  <VCE_RemoveCheeseDesc>Remover queso de la prensa de queso. El queso esta listo y tiene la calidad {0}</VCE_RemoveCheeseDesc>
+  <VCE_CheesePressEmpty>La prensa de queso esta vacía</VCE_CheesePressEmpty>
+  <VCE_CheesePressFilled>Prensa de queso llenada con {0}</VCE_CheesePressFilled>
+  <VCE_CheesePressWorking>Prensa de queso funcionando:</VCE_CheesePressWorking>
+  <VCE_ResourcePercentage> (llenado en {0} de {1})</VCE_ResourcePercentage>
+  <VCE_CondimentEffects>Efectos del Condimento</VCE_CondimentEffects>
+  <VCE_CondimentEffectsTitle>Actuando como condimento</VCE_CondimentEffectsTitle>
+  <VCE_CondimentEffectsAgave>Néctar de agave es un néctar fino y algo dulce, conocido por sus propiedades curativas y antiinflamatoria. Consumir un alimento con este condimento da un 15% de velocidad de inmunización por 12 horas.</VCE_CondimentEffectsAgave>
+  <VCE_CondimentEffectsSugar>El azúcar se convierte fácilmente en energía para el cuerpo, resultando en un impulso de energía. Consumir un alimento con este condimento da un 15% de velocidad de movimiento por 12 horas.</VCE_CondimentEffectsSugar>
+  <VCE_CondimentEffectsSpices>Una variedad de especias aromáticas y picantes. Consumir un alimento con este condimento incrementa la estadística de manipulación en un 10% por 12 horas.</VCE_CondimentEffectsSpices>
+  <VCE_CondimentEffectsSalt>Consumir un alimento con este condimento incrementa el animo en 5 por 12 horas.</VCE_CondimentEffectsSalt>
+  <VCE_CondimentEffectsMayo>La mayonesa es terrible para uno, pero añade un sabor agradable y muchas calorías. Consumir un alimento con este condimento reduce la tasa de hambre en un 15% por 12 horas.</VCE_CondimentEffectsMayo>
+  <VCE_CondimentEffectsJelly>Consumir un alimento con este condimento incrementa el animo en 10 por 12 horas.</VCE_CondimentEffectsJelly>
+  <VCE_CondimentEffectsButter>Consumir un alimento con este condimento otorga un subidón de hojahumeante sin riesgo de adicción.</VCE_CondimentEffectsButter>
+  <VCE_CondimentEffectsSyrup>Consumir un alimento con este condimento incrementa el animo en 7 por 12 horas.</VCE_CondimentEffectsSyrup>
+  <VCE_CondimentEffectsNanites>Consumir un alimento con este condimento incrementa la manipulación en 1% por 12 horas. El colono revivirá al morir durante este tiempo.</VCE_CondimentEffectsNanites>
+  <VCE_CondimentEffectsKetchup>Consumir un alimento con este condimento incrementa el animo en 3 por 12 horas.</VCE_CondimentEffectsKetchup>
+  <VCE_CondimentEffectsSauce>Si bien la salsa picante da una sensación de ardor al principio, luego deja un mejor aguante al dolor y un sudor cálido después de consumirlo. Consumir un alimento con este condimento da un aumento de la resistencia del dolor en un 15% y aumenta la resistencia al frio en 10% durante 12 horas. El animo se reduce en 3.</VCE_CondimentEffectsSauce>
+  <VCE_HealthEffects>Efectos en la Salud</VCE_HealthEffects>
+  <VCE_NoEffect>Sin efectos en la salud</VCE_NoEffect>
+  <VCE_NoEffectDesc>Consumir un alimento con este condimento no tiene efectos negativos en la salud</VCE_NoEffectDesc>
+  <VCE_DiabetesEffect>Diabetes</VCE_DiabetesEffect>
+  <VCE_DiabetesEffectDescHalfPoint>Consumir un alimento con este condimento causa Diabetes. Cada ingestión de una comida de este tipo aumentará la Diabetes del colono en un 0.5%.</VCE_DiabetesEffectDescHalfPoint>
+  <VCE_DiabetesEffectDescOneAndHalfPoint>Consumir un alimento con este condimento causa Diabetes. Cada ingestión de una comida de este tipo aumentará la Diabetes del colono en un 1.5%.</VCE_DiabetesEffectDescOneAndHalfPoint>
+  <VCE_DiabetesEffectDescThreeQuarterPoint>Consumir un alimento con este condimento causa Diabetes. Cada ingestión de una comida de este tipo aumentará la Diabetes del colono en un 0.75%.</VCE_DiabetesEffectDescThreeQuarterPoint>
+  <VCE_DiabetesDessertSimpleDesc>Consumir este alimento causa Diabetes. Cada ingestión de una comida aumentará la Diabetes del colono en un 0.5%.</VCE_DiabetesDessertSimpleDesc>
+  <VCE_DiabetesDessertFineDesc>Consumir este alimento causa Diabetes. Cada ingestión de una comida aumentará la Diabetes del colono en un 1.5%.</VCE_DiabetesDessertFineDesc>
+  <VCE_DiabetesDessertLavishDesc>Consumir este alimento causa Diabetes. Cada ingestión de una comida aumentará la Diabetes del colono en un 2.5%.</VCE_DiabetesDessertLavishDesc>
+  <VCE_DiabetesDessertGourmetDesc>Consumir este alimento causa Diabetes. Cada ingestión de una comida aumentará la Diabetes del colono en un 3.5%.</VCE_DiabetesDessertGourmetDesc>
+  <VCE_HighBloodPressureEffect>Presión Arterial Alta</VCE_HighBloodPressureEffect>
+  <VCE_HighBloodPressureEffectDesc>Consumir un alimento con este condimento casusa Presión Arterial Alta. Cada ingestión de una comida de este tipo aumentará la Presión Arterial Alta del colono en un 0.75%.</VCE_HighBloodPressureEffectDesc>
+  <VCE_HighBloodPressureEffectDescCanned>Consumir productos enlatados causa Presión Arterial Alta. Cada ingestión de una comida de este tipo aumentará la Presión Arterial Alta del colono en un 1.5%.</VCE_HighBloodPressureEffectDescCanned>
+  <VCE_CholesterolEffect>Colesterol</VCE_CholesterolEffect>
+  <VCE_CholesterolEffectDesc>Consumir un alimento con este condimento causa Colesterol. Cada ingestión de una comida de este tipo aumentará la Colesterol del colono en un 1%.</VCE_CholesterolEffectDesc>
+  <VCE_CholesterolEffectDescOneAndHalfPoint>Consumir un alimento con este condimento causa Colesterol. Cada ingestión de una comida de este tipo aumentará la Colesterol del colono en un 1.5%.</VCE_CholesterolEffectDescOneAndHalfPoint>
+  <VCE_CholesterolEffectDescDouble>Consumir un alimento con este condimento causa Colesterol. Cada ingestión de una comida de este tipo aumentará la Colesterol del colono en un 2%.</VCE_CholesterolEffectDescDouble>
+  <VCE_CholesterolDescDeepFried>Consumir alimentos fritos causa Colesterol. Cada ingestión de una comida de este tipo aumentará la Colesterol del colono en un 1.5%.</VCE_CholesterolDescDeepFried>
+</LanguageData>

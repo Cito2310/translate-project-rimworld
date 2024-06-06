@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCE_StewPot.label>olla de estofado</VCE_StewPot.label>
+  <VCE_StewPot.description>Una estufa a leña con una parte de arriba adaptada para una gran olla. La falta de necesidad de electricidad hace que este aparato sea perfecto para amantes de la naturaleza o para campesinos medievales. Los estofados son más abundantes y son más fáciles de cocinar que las sopas. Los estofados funden durante un largo tiempo los sabores a uno especial, perfecto para añadir productos olorosos y "menos tentadores".\n\nEsta construcción emite una gran cantidad de calor.\n\nLos estofados son ligeramente menos nutritivos que las sopas, pero solo requiere 2 días de cocinado en comparación a los 3 de la sopa.\n\nComo la mayoría de construcciones que necesitan combustible, esta construcción consume más combustible mientras llueve. Manténgalo debajo de un techo.</VCE_StewPot.description>
+  <VCE_UncookedStewSimple.label>estofado simple sin cocinar</VCE_UncookedStewSimple.label>
+  <VCE_UncookedStewSimple.description>Un estofado simple sin cocinar. Es necesario cocinarlo en una olla de estofado para ser comestible.</VCE_UncookedStewSimple.description>
+  <VCE_CookedStewSimple.label>estofado simple</VCE_CookedStewSimple.label>
+  <VCE_CookedStewSimple.description>Un simple estofado a cocinado lento con unos pocos ingredientes.</VCE_CookedStewSimple.description>
+  <VCE_UncookedStewFine.label>estofado bueno sin cocinar</VCE_UncookedStewFine.label>
+  <VCE_UncookedStewFine.description>Un estofado bueno sin cocinar. Es necesario cocinarlo en una olla de estofado para ser comestible.</VCE_UncookedStewFine.description>
+  <VCE_CookedStewFine.label>estofado bueno</VCE_CookedStewFine.label>
+  <VCE_CookedStewFine.description>Un estofado complejo hecho con cuidado y con una variedad de ingredientes.</VCE_CookedStewFine.description>
+  <VCE_UncookedStewLavish.label>estofado de lujo sin cocinar</VCE_UncookedStewLavish.label>
+  <VCE_UncookedStewLavish.description>Un estofado de lujo sin cocinar. Es necesario cocinarlo en una olla de estofado para ser comestible.</VCE_UncookedStewLavish.description>
+  <VCE_CookedStewLavish.label>estofado de lujo</VCE_CookedStewLavish.label>
+  <VCE_CookedStewLavish.description>Una obra maestra de las artes culinaria, un estofado que llena el cuerpo, la mente y el alma.</VCE_CookedStewLavish.description>
+</LanguageData>

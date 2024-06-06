@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VBE_BrewLemonCoffee.label>preparar expreso romano</VBE_BrewLemonCoffee.label>
+  <VBE_BrewLemonCoffee.description>Preparar un café acido adornado con una rodaja de limón, que esta destinado a ser exprimido en el café antes de ser consumido aún caliente. Un gusto adquirido, pero alabado por quienes lo prefieren.</VBE_BrewLemonCoffee.description>
+  <VBE_BrewLemonCoffee.jobString>Preparando expreso romano.</VBE_BrewLemonCoffee.jobString>
+  <VBE_MixLemonade.label>preparar limonada</VBE_MixLemonade.label>
+  <VBE_MixLemonade.description>Exprimir unos limones y mezclar el jugo con agua y añadir un poco de azúcar.</VBE_MixLemonade.description>
+  <VBE_MixLemonade.jobString>Preparando limonada.</VBE_MixLemonade.jobString>
+  <VBE_MakeLemonTea.label>hacer té de limón</VBE_MakeLemonTea.label>
+  <VBE_MakeLemonTea.description>Cortar un té oscuro con agua, enfriarlo y decorar con una rodaja de limón.</VBE_MakeLemonTea.description>
+  <VBE_MakeLemonTea.jobString>Haciendo un té de limón.</VBE_MakeLemonTea.jobString>
+  <VBE_MakeEarlGreyTea.label>Hacer un té earl grey</VBE_MakeEarlGreyTea.label>
+  <VBE_MakeEarlGreyTea.description>Hacer un té muy fuerte y algo frutal. Las notas florales hacen bailar el paladar, incluso ante el aroma más aburrido. A las personas después de consumir este té tienen unas ganas extrañas de colonizar.</VBE_MakeEarlGreyTea.description>
+  <VBE_MakeEarlGreyTea.jobString>Haciendo té earl grey.</VBE_MakeEarlGreyTea.jobString>
+  <VBE_MakeCoffeeFast.label>hacer café expreso</VBE_MakeCoffeeFast.label>
+  <VBE_MakeCoffeeFast.description>Hacer un café caliente y amargo que usualmente se mezcla con azúcar y leche. Es una de las bebidas favoritas de los estudiantes y oficinistas, cruzo la galaxia por su alto contenido de cafeína y su aroma. Hacer café con la maquina expreso es por lo general mucho más rápido.</VBE_MakeCoffeeFast.description>
+  <VBE_MakeCoffeeFast.jobString>Haciendo café.</VBE_MakeCoffeeFast.jobString>
+  <VBE_ReheatCoffee.label>Recalentar café helado</VBE_ReheatCoffee.label>
+  <VBE_ReheatCoffee.description>Esta maquina expreso tiene una pequeña parrilla para recalentar el café helado.</VBE_ReheatCoffee.description>
+  <VBE_ReheatCoffee.jobString>Recalentando café helado.</VBE_ReheatCoffee.jobString>
+  <VBE_BrewLatteCoffee.label>preparar café latte</VBE_BrewLatteCoffee.label>
+  <VBE_BrewLatteCoffee.description>Preparar un expreso potente mezclado con leche, para aliviar el sabor amargo. El latte tiene la reputación de estar destinado para individuos "sofisticados".</VBE_BrewLatteCoffee.description>
+  <VBE_BrewLatteCoffee.jobString>Preparando café latte.</VBE_BrewLatteCoffee.jobString>
+  <VBE_BrewMochaCoffee.label>preparar café mocha</VBE_BrewMochaCoffee.label>
+  <VBE_BrewMochaCoffee.description>Preparar un café mezclado con un dulce y lujoso chocolate. Las personas más esnob suelen decir que el mocha es más un postre que un café de verdad.</VBE_BrewMochaCoffee.description>
+  <VBE_BrewMochaCoffee.jobString>Preparando café mocha.</VBE_BrewMochaCoffee.jobString>
+  <VBE_BrewIrishCoffee.label>preparar café irlandés</VBE_BrewIrishCoffee.label>
+  <VBE_BrewIrishCoffee.description>Preparar una bebida hecha con whisky y café, y finalizado con crema batida. Perfecto para que aquellos que se acaban de levantar de la cama y quieren volver a dormir.</VBE_BrewIrishCoffee.description>
+  <VBE_BrewIrishCoffee.jobString>Preparando café irlandés.</VBE_BrewIrishCoffee.jobString>
+  <VBE_BrewCannibalCoffee.label>preparar café canibal</VBE_BrewCannibalCoffee.label>
+  <VBE_BrewCannibalCoffee.description>Preparar una bebida... algo particular... un café para bebedores refinados.</VBE_BrewCannibalCoffee.description>
+  <VBE_BrewCannibalCoffee.jobString>Preparando café canibal.</VBE_BrewCannibalCoffee.jobString>
+  <VBE_MakeTeaFast.label>hacer un té rápido</VBE_MakeTeaFast.label>
+  <VBE_MakeTeaFast.description>Hacer una bebida aromática y agradable prepara sumergiendo una bolsa de hojas de te en agua hirviendo. Preparar el té en una maquina expreso es mucho más rápido.</VBE_MakeTeaFast.description>
+  <VBE_MakeTeaFast.jobString>Haciendo té rápido.</VBE_MakeTeaFast.jobString>
+  <VBE_MakeBlackTea.label>hacer té negro</VBE_MakeBlackTea.label>
+  <VBE_MakeBlackTea.description>Hacer un té particularmente amargo cortado con leche, despeja y relaja un poco la mente.</VBE_MakeBlackTea.description>
+  <VBE_MakeBlackTea.jobString>Haciendo té negro.</VBE_MakeBlackTea.jobString>
+  <VBE_MakeYuenYeung.label>hacer yuanyang</VBE_MakeYuenYeung.label>
+  <VBE_MakeYuenYeung.description>Hacer una mezcla de café y de té. Los bebedores de té y café dejan a lado sus diferencias para hacer esta amalgama impía. Se puede servir tanto frío como caliente, haciendo que sea aún más confuso.</VBE_MakeYuenYeung.description>
+  <VBE_MakeYuenYeung.jobString>Haciendo yuanyang</VBE_MakeYuenYeung.jobString>
+  <VBE_MakeKombucha.label>hacer té kombucha</VBE_MakeKombucha.label>
+  <VBE_MakeKombucha.description>Preparar un café azucarado que se deja fermentar, después de fermentar resultara en una bebida agridulce, a veces incluso se genera un gas natural. Es elogiado por sus beneficios para la salud aunque algunos siguen siendo escépticos.</VBE_MakeKombucha.description>
+  <VBE_MakeKombucha.jobString>Haciendo té kombucha</VBE_MakeKombucha.jobString>
+</LanguageData>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VPE_Plant_Toxpuff.label>toxpuff</VPE_Plant_Toxpuff.label>
+  <VPE_Plant_Toxpuff.description>Un hongo pequeño, ovalo y de color verde, encontrado normalmente en áreas muy contaminadas. Libera un gas toxico cuando alguien las pisa.</VPE_Plant_Toxpuff.description>
+  <VPE_Bileceps.label>bileceps crudo</VPE_Bileceps.label>
+  <VPE_Bileceps.description>Bileceps cosechados. Se puede cocinar como si fuera carne o comerse cruda.</VPE_Bileceps.description>
+  <VPE_Blisscap.label>blisscap crudo</VPE_Blisscap.label>
+  <VPE_Blisscap.description>Blisscap crudo obtenido al cosechar hongos Blisscap. Cuando se comen, hace que las personas estén muy drogadas, pero muy somnolientas.</VPE_Blisscap.description>
+  <VPE_Mycothread.label>micohilo</VPE_Mycothread.label>
+  <VPE_Mycothread.description>Una tela comestible similar al algodón, extraído de los hongos micohilo. Son muy suaves al tacto y fáciles de trabajar, se deterioran muy rápidamente, poseen un color inusual, aún saben y huelen a hongo.</VPE_Mycothread.description>
+  <VPE_Plant_Timbercap.label>timbercap</VPE_Plant_Timbercap.label>
+  <VPE_Plant_Timbercap.description>Un hongo corto de color marrón, con un tallo duro. Cuando se cosecha, producen una pequeña cantidad de una material similar a la madera.</VPE_Plant_Timbercap.description>
+  <VPE_Plant_Healtruffle.label>curatrufa</VPE_Plant_Healtruffle.label>
+  <VPE_Plant_Healtruffle.description>La curatrufa es un hongo que crece de forma muy lenta y usa los nutrientes de la podredumbre, requiere ser suministrado de gas de podredumbre a su alrededor para crecer. Al cosecharlo se obtiene hierba medicinal. Trabajar y recolectar esta planta es muy difícil por lo delicada que es. Se ha cultivado durante mucho tiempo por los colonos por sus propiedades medicinales.</VPE_Plant_Healtruffle.description>
+  <VPE_Plant_Stinker.label>stinker</VPE_Plant_Stinker.label>
+  <VPE_Plant_Stinker.description>Un hongo pequeño que crece muy rápido en forma de grandes parches. Produce gases de podredumbre debido a un proceso químico. A pesar de su olor, al cosecharla se obtiene un hongo comestible. Crece en cualquier lugar, pero si se expone a la luz solar la matarán\n&lt;color=#E5E54C&gt;Efecto en el juego:&lt;/color&gt; Contrario a otros hongos, los stinkers pueden soportar hasta un 50% de luz, como la de las antorchas.</VPE_Plant_Stinker.description>
+  <VPE_Plant_Blisscap.label>blisscap</VPE_Plant_Blisscap.label>
+  <VPE_Plant_Blisscap.description>Un hongo largo de color celeste que ofrecen algo más que sustento. Al comerlo induce un estado euforia blissful, haciendo que el consumidor este muy contento, pero notablemente somnoliento. Se sabe que mejora enormemente la sensibilidad psíquica de quien la come, además varias comunidades de hippies de planetas la suelen consumir, lo que les permite "ver el futuro".\n\n&lt;color=#E5E54C&gt;Efecto en el juego:&lt;/color&gt; Contrario a otras plantas, los blisscap ignoran los niveles de luz para crecer. La luz solar no la destruirá. Aún descansará durante la noche.</VPE_Plant_Blisscap.description>
+  <VPE_Plant_Lullabloom.label>lullabloom</VPE_Plant_Lullabloom.label>
+  <VPE_Plant_Lullabloom.description>Un tipo de hongo especial que emitirá unas esporas calmantes, ideales para ser plantadas cerca de las camas. Necesitan plantarse en una maceta para flores. Su presencia calma a los individuos al dormir, creando un sueño más reparador y un mayor confort. Sus propiedades durante el sueño producen una sensación en los colonos haciendo que tengan unas noches muy pacificas.\n\n&lt;color=#E5E54C&gt;Efecto en el juego:&lt;/color&gt; Contrario a las otras plantas, los lullabloom ignoran el nivel de luz para crecer. La luz del sol no los destruirán. Aunque siguen descansando durante la noche.\n\nAnula el pensamiento "perturbado al dormir".\n\nSe vincula a las camas vainilla y de Vainilla Furniture Expanded.</VPE_Plant_Lullabloom.description>
+  <VPE_Plant_Bileceps.label>bileceps</VPE_Plant_Bileceps.label>
+  <VPE_Plant_Bileceps.description>El bileceps es un hongo peculiar similar a un coral que se alimenta de la bilis de los cuerpos en descomposición. A pesar de su fuente poco apetecible, posee un sabor carnoso y ofrece una cosecha rica en proteínas. Su apariencia rara y cancerosa hace poco para disuadir a los colonos de ser utilizados como una fuente de carne.\n\n&lt;color=#E5E54C&gt;Efecto en el juego:&lt;/color&gt; Requiere la bilis de los cuerpos en su casilla para crecer de forma apropiada. ¡Es hora de conseguir una babosa Helixien!</VPE_Plant_Bileceps.description>
+  <VPE_Plant_Glowcap.label>glowcap</VPE_Plant_Glowcap.label>
+  <VPE_Plant_Glowcap.description>Una pequeña seta azulada típicamente encontrada en las cuevas. Su olor es increíblemente repulsivo, pero tiene un gran sabor al ser cocinado. Iluminara la zona a su alrededor, pero la luz no es lo suficiente fuerte como para hacer crecer los cultivos.</VPE_Plant_Glowcap.description>
+  <VPE_Plant_Redcap.label>redcap</VPE_Plant_Redcap.label>
+  <VPE_Plant_Redcap.description>Un hongo cultivable muy bello, pero tiene una vida muy corta. Las redcaps son muy bellas, pero necesitan replantarse con frecuencia.</VPE_Plant_Redcap.description>
+  <VPE_Plant_Zapcap.label>zapcap</VPE_Plant_Zapcap.label>
+  <VPE_Plant_Zapcap.description>Un hongo bulboso, largo y de color beige conocido por producir una poca cantidad de electricidad a medida que crece. Necesita colocar un circuito eléctrico para usar la energía producida. En caso de un cortocircuito, el zapcap amplificara la energía liberada causando aún más daño.</VPE_Plant_Zapcap.description>
+  <VPE_Building_Zapcap.label>zapcap</VPE_Building_Zapcap.label>
+  <VPE_Building_Zapcap.description>Un hongo bulboso, largo y de color beige conocido por producir una poca cantidad de electricidad a medida que crece. Necesita colocar un circuito eléctrico para usar la energía producida. En caso de un cortocircuito, el zapcap amplificara la energía liberada causando aún más daño.</VPE_Building_Zapcap.description>
+  <VPE_Plant_Thermoregulus.label>thermoregulus</VPE_Plant_Thermoregulus.label>
+  <VPE_Plant_Thermoregulus.description>Un hongo raro y grande que necesitan cultivarse en macetas. Cuando maduran, las thermoregulus emitirán una temperatura variable que dependerá de la temperatura de su ambiente. Intentara que la temperatura de la habitación sea de 16°C. \n\n&lt;color=#E5E54C&gt;Efecto en el juego:&lt;/color&gt; Al contrario que otros hongos, la luz del sol no lo destruirá.</VPE_Plant_Thermoregulus.description>
+  <VPE_Plant_Foampuffer.label>foampuffer</VPE_Plant_Foampuffer.label>
+  <VPE_Plant_Foampuffer.description>Un hongo feo y espero, que su sombrero huele a heces de mufalo. Debe ser cultivada en macetas. Si entra en contacto con fuego cuando este madura, explotara y libera un spray de espuma ignifuga a una corta distancia.</VPE_Plant_Foampuffer.description>
+  <VPE_Plant_MycothreadMushroom.label>hongo de micohilo</VPE_Plant_MycothreadMushroom.label>
+  <VPE_Plant_MycothreadMushroom.description>Este hongo ha sido cultivado por años por colonias mineras, produce una tela gruesa pero flexible similar al algodón, con esta tela se hace cuerdas, telas y muebles. Si bien tarda bastante tiempo en crecer, y morirá al ser expuesto a un poco de luz, para algunas colonias es la única forma de obtener un textil de buena calidad.</VPE_Plant_MycothreadMushroom.description>
+</LanguageData>

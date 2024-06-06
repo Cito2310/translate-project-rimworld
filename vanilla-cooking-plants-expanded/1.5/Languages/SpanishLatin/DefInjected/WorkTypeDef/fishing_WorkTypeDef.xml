@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCEF_Fishing.description>Zona de trabajo designado para pescar</VCEF_Fishing.description>
+  <VCEF_Fishing.gerundLabel>pescando</VCEF_Fishing.gerundLabel>
+  <VCEF_Fishing.labelShort>Pez</VCEF_Fishing.labelShort>
+  <VCEF_Fishing.pawnLabel>Pescador</VCEF_Fishing.pawnLabel>
+  <VCEF_Fishing.verb>Pez</VCEF_Fishing.verb>
+</LanguageData>

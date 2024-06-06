@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VBE_MakeUnfermentedCider.label>hacer sidra sin fermentar</VBE_MakeUnfermentedCider.label>
+  <VBE_MakeUnfermentedCider.description>Hacer sidra sin fermentar y meterlas en botellas herméticas. Si se deja desarrollar bacterias resultara en una bebida alcohólica débil.</VBE_MakeUnfermentedCider.description>
+  <VBE_MakeUnfermentedCider.jobString>Haciendo sidra sin fermentar.</VBE_MakeUnfermentedCider.jobString>
+  <VBE_MakeTequilaMustFromPears.label>hacer mosto de tequila con tunas</VBE_MakeTequilaMustFromPears.label>
+  <VBE_MakeTequilaMustFromPears.description>Hace una mezcla de tuna y carne de insecto, listo para cortar y dejar fermentar en un barril.</VBE_MakeTequilaMustFromPears.description>
+  <VBE_MakeTequilaMustFromPears.jobString>haciendo mosto de tequila.</VBE_MakeTequilaMustFromPears.jobString>
+  <VBE_MakeCocktailSimple.label>hacer un cóctel simple</VBE_MakeCocktailSimple.label>
+  <VBE_MakeCocktailSimple.description>Hacer un cóctel simple rápidamente mezclando dos ingredientes.</VBE_MakeCocktailSimple.description>
+  <VBE_MakeCocktailSimple.jobString>Haciendo un cóctel simple.</VBE_MakeCocktailSimple.jobString>
+  <VBE_MakeCocktailFine.label>hacer un buen cóctel</VBE_MakeCocktailFine.label>
+  <VBE_MakeCocktailFine.description>Hacer un buen cóctel, mezclando de forma precisa varios ingredientes.</VBE_MakeCocktailFine.description>
+  <VBE_MakeCocktailFine.jobString>Haciendo un buen cóctel.</VBE_MakeCocktailFine.jobString>
+  <VBE_MakeCocktailLavish.label>hacer un cóctel de lujo</VBE_MakeCocktailLavish.label>
+  <VBE_MakeCocktailLavish.description>Hacer un cóctel de lujo, mezclando una gran variedad de ingredientes y enfriado perfectamente antes de mezclarlo y servirlo con meticulosidad.</VBE_MakeCocktailLavish.description>
+  <VBE_MakeCocktailLavish.jobString>Haciendo un cóctel de lujo.</VBE_MakeCocktailLavish.jobString>
+  <VBE_MakeCoffee.label>hacer café</VBE_MakeCoffee.label>
+  <VBE_MakeCoffee.description>Hacer una bebida caliente y amarga que usualmente se complementa con leche y azúcar. Una de las bebidas favoritas de los estudiantes y trabajadores de oficinas que cruzo la galaxia debido a su alto nivel de cafeína y su gran aroma.</VBE_MakeCoffee.description>
+  <VBE_MakeCoffee.jobString>Haciendo café.</VBE_MakeCoffee.jobString>
+  <VBE_MakeEnergyDrink.label>hacer bebida energética</VBE_MakeEnergyDrink.label>
+  <VBE_MakeEnergyDrink.description>Hacer una bebida amarga y gaseosa finalizada con un toque agrio. Una combinación de azúcar y cafeína que proporciona un ráfaga de energía, pero después da un bajón. Notable regusto a radiación.</VBE_MakeEnergyDrink.description>
+  <VBE_MakeEnergyDrink.jobString>Haciendo bebida energética.</VBE_MakeEnergyDrink.jobString>
+  <VBE_MixJuice.label>mezclar jugo de fruta</VBE_MixJuice.label>
+  <VBE_MixJuice.description>Mezclar un jugo de frutas simples hecho con frutas.</VBE_MixJuice.description>
+  <VBE_MixJuice.jobString>Mezclando jugo de frutas.</VBE_MixJuice.jobString>
+  <VBE_MakeSodaSyrup.label>hacer sirope de soda</VBE_MakeSodaSyrup.label>
+  <VBE_MakeSodaSyrup.description>Hacer sirope de soda hecho con una mezcla de jugos de frutas naturales y una gran cantidad de sirope de maíz.</VBE_MakeSodaSyrup.description>
+  <VBE_MakeSodaSyrup.jobString>Haciendo sirope de soda.</VBE_MakeSodaSyrup.jobString>
+  <VBE_AmbrosiaMush.label>hacer masa de ambrosia</VBE_AmbrosiaMush.label>
+  <VBE_AmbrosiaMush.description>Hacer una masa de ambrosia picada y prensada, que se puede dejar fermentar y convertir mosto, para luego ser destilado y convertirse en un alcohol extremadamente bueno.</VBE_AmbrosiaMush.description>
+  <VBE_AmbrosiaMush.jobString>Haciendo masa de ambrosia.</VBE_AmbrosiaMush.jobString>
+  <VBE_MakeTequilaMust.label>hacer mosto de tequila con agave</VBE_MakeTequilaMust.label>
+  <VBE_MakeTequilaMust.description>Hace una mezcla de agave y carne de insecto, listo para cortar y dejar fermentar en un barril.</VBE_MakeTequilaMust.description>
+  <VBE_MakeTequilaMust.jobString>Haciendo mosto de tequila.</VBE_MakeTequilaMust.jobString>
+  <VBE_MakeWhiskeyMash.label>hacer puré para whisky</VBE_MakeWhiskeyMash.label>
+  <VBE_MakeWhiskeyMash.description>Hacer una mezcla con pulpa y líquido de maíz. Listo para añejar.</VBE_MakeWhiskeyMash.description>
+  <VBE_MakeWhiskeyMash.jobString>Haciendo puré de whisky.</VBE_MakeWhiskeyMash.jobString>
+  <VBE_MakeVodkaMash.label>hacer puré de vodka</VBE_MakeVodkaMash.label>
+  <VBE_MakeVodkaMash.description>Hacer una mezcla con pulpa y líquido de patata, listo para fermentar.</VBE_MakeVodkaMash.description>
+  <VBE_MakeVodkaMash.jobString>Haciendo puré de vodka.</VBE_MakeVodkaMash.jobString>
+  <VBE_MakeGinMush.label>hacer masa de gin</VBE_MakeGinMush.label>
+  <VBE_MakeGinMush.description>Hacer una mezcla clara del jugo de bayas y varios granos, listo para fermentar.</VBE_MakeGinMush.description>
+  <VBE_MakeGinMush.jobString>Haciendo masa de gin.</VBE_MakeGinMush.jobString>
+  <VBE_MakeCigarettes.label>hacer cigarrillos</VBE_MakeCigarettes.label>
+  <VBE_MakeCigarettes.description>Hacer unos pequeños tubos de papel enrollado y rellenado con hojas de tabaco picado.</VBE_MakeCigarettes.description>
+  <VBE_MakeCigarettes.jobString>Haciendo cigarrillos.</VBE_MakeCigarettes.jobString>
+  <VBE_MakeCigars.label>hacer puros</VBE_MakeCigars.label>
+  <VBE_MakeCigars.description>Enrollar hojas de tabaco secos y finalizar con un papel dorado.</VBE_MakeCigars.description>
+  <VBE_MakeCigars.jobString>Haciendo puros.</VBE_MakeCigars.jobString>
+  <VBE_MakeTea.label>hacer té</VBE_MakeTea.label>
+  <VBE_MakeTea.description>Preparar una bebida aromática y agradable que se prepara remojando una bolsa de té en agua hirviendo.</VBE_MakeTea.description>
+  <VBE_MakeTea.jobString>Haciendo té.</VBE_MakeTea.jobString>
+</LanguageData>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VBE_MixologyResearch.label>mixología</VBE_MixologyResearch.label>
+  <VBE_MixologyResearch.description>Permite construir maquinas avanzadas que utilizan electricidad para hacer una fermentación perfecta, embotellar de forma industrial, y para hacer cocteles en la barra.</VBE_MixologyResearch.description>
+  <VBE_MixologyResearch.generalRules.rulesStrings.0>subject-&gt;la alquimia de los espíritus</VBE_MixologyResearch.generalRules.rulesStrings.0>
+  <VBE_MixologyResearch.generalRules.rulesStrings.1>subject_story-&gt;aprovecho los antiguos secretos de la destilación, refinando el oficio de producir bebidas espirituosas que calientan el alma y envalentonan el corazón</VBE_MixologyResearch.generalRules.rulesStrings.1>
+  <VBE_MixologyResearch.generalRules.rulesStrings.2>subject_story-&gt;elevaron la fabricación de cerveza desde una simple fermentación hasta una forma de arte, creando licores con caracteres y profundidades incomparables</VBE_MixologyResearch.generalRules.rulesStrings.2>
+  <VBE_MixologyResearch.generalRules.rulesStrings.3>subject_story-&gt;cultivando un legado de la artesanía, donde cada gota cuenta la historia de su elaboración</VBE_MixologyResearch.generalRules.rulesStrings.3>
+  <VBE_MixologyResearch.generalRules.rulesStrings.4>subject_gerund-&gt;destilando la esencia de la tradición en espíritus de distinción</VBE_MixologyResearch.generalRules.rulesStrings.4>
+  <VBE_LiquorBrewing.label>elaboración de licor</VBE_LiquorBrewing.label>
+  <VBE_LiquorBrewing.description>Utiliza técnicas de elaboración de alcohol avanzadas que les permite destilar y fermentar de bebidas espirituosas más duras con unos efectos únicos.</VBE_LiquorBrewing.description>
+  <VBE_LiquorBrewing.generalRules.rulesStrings.0>subject-&gt;la sinfonía de los sabores</VBE_LiquorBrewing.generalRules.rulesStrings.0>
+  <VBE_LiquorBrewing.generalRules.rulesStrings.1>subject_story-&gt;dominando la alquimia eléctrica de la mixología, combinando la ciencia y el arte para conmover el alma con cada sorbo</VBE_LiquorBrewing.generalRules.rulesStrings.1>
+  <VBE_LiquorBrewing.generalRules.rulesStrings.2>subject_story-&gt;introduciendose en la era de sofisticación de las bebidas, donde el bar se convierte en el escenario para el baile de los sabores</VBE_LiquorBrewing.generalRules.rulesStrings.2>
+  <VBE_LiquorBrewing.generalRules.rulesStrings.3>subject_story-&gt;diseñando maquinas para una perfecta fermentación y embotellado, asegurando las condiciones para una obra de maestra</VBE_LiquorBrewing.generalRules.rulesStrings.3>
+  <VBE_LiquorBrewing.generalRules.rulesStrings.4>subject_story-&gt;pionero en la creación de cocteles que no son meramente un trago, son una experiencia, evocando momentos y recuerdos</VBE_LiquorBrewing.generalRules.rulesStrings.4>
+  <VBE_LiquorBrewing.generalRules.rulesStrings.5>subject_gerund-&gt;creando elixires que cautivan los sentidos, combinando la tradición con las innovación en las barras de cocteles</VBE_LiquorBrewing.generalRules.rulesStrings.5>
+</LanguageData>
