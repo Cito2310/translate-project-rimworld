@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VRE_InsectMandibles.label>mandíbulas de insecto</VRE_InsectMandibles.label>
+  <VRE_InsectMandibles.description>Una mandíbula muy fuerte similar al de los insectos, permite a esta persona consumir los alimentos significativamente más rápido. También pueden usar estas mandíbulas en combate cuando están desarmados.</VRE_InsectMandibles.description>
+  <VRE_InsectMandibles.comps.HediffComp_VerbGiver.tools.insect_mandibles.label>mandíbulas de insecto</VRE_InsectMandibles.comps.HediffComp_VerbGiver.tools.insect_mandibles.label>
+  <VRE_HornAttack.label>cuernos de megaraña</VRE_HornAttack.label>
+  <VRE_HornAttack.description>Los cuernos se pueden usar para cargar contra los enemigos cuando se esta desarmado.</VRE_HornAttack.description>
+  <VRE_HornAttack.comps.HediffComp_VerbGiver.tools.megaspider_horns.label>cuernos de megaraña</VRE_HornAttack.comps.HediffComp_VerbGiver.tools.megaspider_horns.label>
+  <VRE_RipperBlades.label>hojas-desgarradoras</VRE_RipperBlades.label>
+  <VRE_RipperBlades.description>Una larga y mortal hoja que reduce en gran medida la manipulación, pero puede ser usado en el combate cuerpo a cuerpo, partiendo las armaduras enemigas a la mitad.</VRE_RipperBlades.description>
+  <VRE_RipperBlades.comps.HediffComp_VerbGiver.tools.ripperblade.label>hojas-desgarradoras</VRE_RipperBlades.comps.HediffComp_VerbGiver.tools.ripperblade.label>
+  <VRE_AcidBlood.label>sangre acida</VRE_AcidBlood.label>
+  <VRE_AcidBlood.description>Esta persona tiene una gran concentración de toxinas en la sangre. Cuando sangra, emitirán una gran nube toxica, y cuando mueren, todo su equipo se destruirá debido al acido.</VRE_AcidBlood.description>
+  <VRE_InefficientMidgut.label>intestino medio ineficiente</VRE_InefficientMidgut.label>
+  <VRE_InefficientMidgut.description>Esta persona tiene un acido muy ineficiente en su intestino medio, haciendo que les sea más difícil absorber nutrientes. Esto hace que tengan hambre mucho más rápido, pero les permite comer mucho más.</VRE_InefficientMidgut.description>
+  <VRE_Dormant.label>latencia</VRE_Dormant.label>
+  <VRE_Dormant.description>Esta persona ha reducido su actividad y agresión y estarán más tiempo en un estado de latencia. Su metabolismo también se redujo, permitiéndole consumir menos nutrientes para mantenerse vivo.</VRE_Dormant.description>
+  <VRE_Serotonin.label>impulso de serotonina</VRE_Serotonin.label>
+  <VRE_Serotonin.description>Una gran cantidad de serotonina causa mucha felicidad, pero reduce la conciencia.</VRE_Serotonin.description>
+  <VRE_LowOctopamine.label>deficiencia de octopamina</VRE_LowOctopamine.label>
+  <VRE_LowOctopamine.description>Una poca cantidad de octopamina causa una disminución de la excitación y actividad, además causa depresión.</VRE_LowOctopamine.description>
+  <VREInsector_Hover.label>vuelo</VREInsector_Hover.label>
+  <VREInsector_Hover.description>Vuelo limitado que le permite a este colono saltar y volar pequeñas distancias sobre el terreno. Ignorando el costo de movimiento del terreno al moverse.</VREInsector_Hover.description>
+  <VRE_PollutionDependencyHediff.label>dependencia a la contaminación</VRE_PollutionDependencyHediff.label>
+  <VRE_PollutionDependencyHediff.description>Esta persona esta inducida genéticamente a depender de la contaminación. Después de 5 días sin contaminación, el portador sufrirá de deficiencia de contaminación. Después de 30 días caerá en coma. Después de 60 días morirá.</VRE_PollutionDependencyHediff.description>
+  <VRE_PollutionDependencyHediff.stages.deficiency.label>deficiencia</VRE_PollutionDependencyHediff.stages.deficiency.label>
+  <VRE_PollutionDependencyHediff.stages.3.overrideLabel>deficiencia coma</VRE_PollutionDependencyHediff.stages.3.overrideLabel>
+  <VRE_InsectJellyDependencyHediff.label>dependencia a la jalea de insecto</VRE_InsectJellyDependencyHediff.label>
+  <VRE_InsectJellyDependencyHediff.description>Esta persona esta inducida genéticamente a depender de la jalea de insecto. Después de 5 días sin jalea de insecto, el portador sufrirá de deficiencia de jalea de insecto. Después de 30 días caerá en coma. Después de 60 días morirá.</VRE_InsectJellyDependencyHediff.description>
+  <VRE_InsectJellyDependencyHediff.stages.deficiency.label>deficiencia</VRE_InsectJellyDependencyHediff.stages.deficiency.label>
+  <VRE_InsectJellyDependencyHediff.stages.3.overrideLabel>deficiencia coma</VRE_InsectJellyDependencyHediff.stages.3.overrideLabel>
+  <VRE_ChestburstPregnancyHediff.label>embarazo rompepecho necesita implantación</VRE_ChestburstPregnancyHediff.label>
+  <VRE_ChestburstPregnancyHediff.description>Cuando este colono con el gen embarazo rompepecho este embarazada, necesita designar a un individuo o animal para implantar el feto. Cuando el feto madure, este saldrá de la caja torácica de la victima, matándola. Si esto no se hace antes de que comience el segundo trimestre (6 días), el embarazo se terminara.</VRE_ChestburstPregnancyHediff.description>
+  <VRE_ChestburstPregnancy_Victim.label>embarazo rompepecho</VRE_ChestburstPregnancy_Victim.label>
+  <VRE_ChestburstPregnancy_Victim.description>Esta siendo afectado por un embarazo rompepecho. Si la implantación avanza a la gravedad 1 o si la criatura muere cuando el feto esta muy avanzado (más del 90%), el feto devorara a la victima desde dentro y eclosionará en su cadáver. La gestación dura 15 días.</VRE_ChestburstPregnancy_Victim.description>
+  <VRE_ChestburstPregnancy_Victim.stages.egg.label>huevo</VRE_ChestburstPregnancy_Victim.stages.egg.label>
+  <VRE_ChestburstPregnancy_Victim.stages.larva.label>larva</VRE_ChestburstPregnancy_Victim.stages.larva.label>
+  <VRE_ChestburstPregnancy_Victim.stages.pupa.label>pupa</VRE_ChestburstPregnancy_Victim.stages.pupa.label>
+  <VRE_ChestburstPregnancy_Victim.stages.juvenile.label>juvenil</VRE_ChestburstPregnancy_Victim.stages.juvenile.label>
+  <VRE_ChestburstPregnancy_Victim_Hidden.label>embarazo rompepecho</VRE_ChestburstPregnancy_Victim_Hidden.label>
+  <VRE_ChestburstPregnancy_Victim_Hidden.description>Esta siendo afectado por un embarazo rompepecho. Si la implantación avanza a la gravedad 1 o si la criatura muere cuando el feto esta muy avanzado (más del 90%), el feto devorara a la victima desde dentro y eclosionará en su cadáver. La gestación dura 15 días. Si el embarazo rompepecho está demasiado avanzado como para removerse quirúrgicamente.</VRE_ChestburstPregnancy_Victim_Hidden.description>
+  <VRE_ChestburstPregnancy_Victim_Hidden.stages.egg.label>huevo</VRE_ChestburstPregnancy_Victim_Hidden.stages.egg.label>
+  <VRE_ChestburstPregnancy_Victim_Hidden.stages.larva.label>larva</VRE_ChestburstPregnancy_Victim_Hidden.stages.larva.label>
+  <VRE_ChestburstPregnancy_Victim_Hidden.stages.pupa.label>pupa</VRE_ChestburstPregnancy_Victim_Hidden.stages.pupa.label>
+  <VRE_ChestburstPregnancy_Victim_Hidden.stages.juvenile.label>juvenil</VRE_ChestburstPregnancy_Victim_Hidden.stages.juvenile.label>
+  <VRE_Parthenogenesis.label>partenogenesis</VRE_Parthenogenesis.label>
+  <VRE_Parthenogenesis.description>Esta persona puede auto-embarazarse, creando descendencia sin un segundo padre. El órgano reproductor generara un feto en su interior, luego se almacenara en una estructura similar al ovipositor hasta que este listo para nacer. Permitiéndole al portador propagar rápidamente su especie.</VRE_Parthenogenesis.description>
+  <VRE_InsectJellyProduction.label>producción de jalea</VRE_InsectJellyProduction.label>
+  <VRE_InsectJellyProduction.description>Esta persona tiene un gran saco de jalea bajo su abdomen, permitiéndole producir periódicamente valiosa jalea real.</VRE_InsectJellyProduction.description>
+  <VREInsector_TempSterile.label>fatiga por implantación de rompepecho</VREInsector_TempSterile.label>
+  <VREInsector_TempSterile.description>Después de implementar un rompepecho, esta persona tendrá un corto periodo de infertilidad hasta que sea capaz de producir otro. Esto es una condición temporal y no causara efectos a largo plazo.</VREInsector_TempSterile.description>
+  <VRE_HeatshockHediff.label>choque térmico</VRE_HeatshockHediff.label>
+  <VRE_HeatshockHediff.description>Una alteración general de las funciones del cuerpo causado por una exposición excesiva al calor y al sol. La víctima puede generar proteínas de choque térmico en respuesta a las altas temperaturas, lo que evitará que muera pero hará que consuma mucho más nutrientes. Se recuperara muy rápido cuando este en un lugar fresco.</VRE_HeatshockHediff.description>
+  <VRE_HeatshockHediff.stages.initial-0.label>inicial</VRE_HeatshockHediff.stages.initial-0.label>
+  <VRE_HeatshockHediff.stages.initial-1.label>inicial</VRE_HeatshockHediff.stages.initial-1.label>
+  <VRE_HeatshockHediff.stages.minor.label>meno</VRE_HeatshockHediff.stages.minor.label>
+  <VRE_HeatshockHediff.stages.serious.label>serio</VRE_HeatshockHediff.stages.serious.label>
+  <VRE_HeatshockHediff.stages.extreme.label>extremo</VRE_HeatshockHediff.stages.extreme.label>
+  <VRE_HypothermicHibernationHediff.label>hibernación hipotérmica</VRE_HypothermicHibernationHediff.label>
+  <VRE_HypothermicHibernationHediff.description>Esta persona entrará en un estado de hibernación cuando la temperatura cae debajo de cierto punto durante mucho tiempo. Esto hará que pierda rápidamente sus funciones corporales y caerá en un profundo sueño, esto previene cualquier tipo de congelación pero no podrá hacer nada.</VRE_HypothermicHibernationHediff.description>
+  <VRE_HypothermicHibernationHediff.stages.shivering.label>temblando</VRE_HypothermicHibernationHediff.stages.shivering.label>
+  <VRE_HypothermicHibernationHediff.stages.initial.label>inicial</VRE_HypothermicHibernationHediff.stages.initial.label>
+  <VRE_HypothermicHibernationHediff.stages.drowsy.label>adormecido</VRE_HypothermicHibernationHediff.stages.drowsy.label>
+  <VRE_HypothermicHibernationHediff.stages.sleep.label>durmiendo</VRE_HypothermicHibernationHediff.stages.sleep.label>
+  <VRE_HypothermicHibernationHediff.stages.deep_sleep.label>sueño profundo</VRE_HypothermicHibernationHediff.stages.deep_sleep.label>
+  <VRE_HeatstressHediff.label>estrés por calor</VRE_HeatstressHediff.label>
+  <VRE_HeatstressHediff.description>Una alteración general de las funciones del cuerpo causado por una exposición excesiva al calor y al sol. El daño celular y la desnaturalización de las proteínas causara quemaduras y perderá muy rápidamente la conciencia.</VRE_HeatstressHediff.description>
+  <VRE_HeatstressHediff.stages.initial-0.label>inicial</VRE_HeatstressHediff.stages.initial-0.label>
+  <VRE_HeatstressHediff.stages.initial-1.label>inicial</VRE_HeatstressHediff.stages.initial-1.label>
+  <VRE_HeatstressHediff.stages.minor.label>menor</VRE_HeatstressHediff.stages.minor.label>
+  <VRE_HeatstressHediff.stages.serious.label>serio</VRE_HeatstressHediff.stages.serious.label>
+  <VRE_HeatstressHediff.stages.extreme.label>extremo</VRE_HeatstressHediff.stages.extreme.label>
+  <VRE_MetapodHediff.label>metapod </VRE_MetapodHediff.label>
+  <VRE_MetapodHediff.description>Un gran capullo formado por un insector que en su interior esta sufriendo una metamorfosis. Si es destruido, el insector de adentro morirá. Después de que la metamorfosis se completa, el insecto emergerá del metapod con una una composición genética.</VRE_MetapodHediff.description>
+  <VRE_MetapodSickness.label>Enfermedad de metapod </VRE_MetapodSickness.label>
+  <VRE_MetapodSickness.description>Secuelas dejadas por una evolución a través del metapod. El metapod de insector reemplaza y muta el genoma del individuo. Cuando salga del metopod, el cuerpo necesita un tiempo para reiniciar y balancear su procesos metabólicos. La duración de la enfermedad de metapod depende del tiempo en el que halla pasado en el metapod.</VRE_MetapodSickness.description>
+</LanguageData>

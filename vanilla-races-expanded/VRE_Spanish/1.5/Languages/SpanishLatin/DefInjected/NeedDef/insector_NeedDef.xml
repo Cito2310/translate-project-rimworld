@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VRE_Pollution.label>contaminación</VRE_Pollution.label>
+  <VRE_Pollution.description>Los portadores de este gen necesitan ser afectado por la contaminación de forma regular para sobrevivir. Después de 5 días sin contaminación, el portador sufrirá de deficiencia de contaminación. Después de 30 días entrará en coma. Después de 60 días morirá.</VRE_Pollution.description>
+</LanguageData>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VRE_BugBlood.label>sangre de insecto</VRE_BugBlood.label>
+  <VRE_BugBlood.description>Los portadores de este gen tienen una sangre verdosa, similar al de los insectos.</VRE_BugBlood.description>
+  <VRE_BugBlood.symbolPack.wholeNameSymbols.0.symbol>insecto sangrador</VRE_BugBlood.symbolPack.wholeNameSymbols.0.symbol>
+  <VRE_InsectSkin.label>piel de insecto</VRE_InsectSkin.label>
+  <VRE_InsectSkin.description>Los portadores de este gen tienen un caparazón ligeramente más grueso que la piel. Las placas de quitina son capaces de desviar ataques afilados, pero son bastante frágiles y no defienden ante los ataques contundentes.</VRE_InsectSkin.description>
+  <VRE_InsectSkin.labelShortAdj>piel de insecto</VRE_InsectSkin.labelShortAdj>
+  <VRE_InsectAntennae.label>antena de insecto</VRE_InsectAntennae.label>
+  <VRE_InsectAntennae.description>A los portadores de este gen le crecen unas pequeñas antenas en la parte superior de la cabeza. No se le conocen ningunas funciones a estas antes, y se asume que solo son cosméticas.</VRE_InsectAntennae.description>
+  <VRE_Hiveglands.label>glándulas de colmena</VRE_Hiveglands.label>
+  <VRE_Hiveglands.description>Los portadores de este gen tienen una glándula especial que les permite aumentar de gran manera la velocidad de construcción. Sin embargo, generan suciedad cada vez que construyen algo.</VRE_Hiveglands.description>
+  <VRE_Hiveglands.symbolPack.prefixSymbols.0.symbol>constructo</VRE_Hiveglands.symbolPack.prefixSymbols.0.symbol>
+  <VRE_Hiveglands.symbolPack.prefixSymbols.1.symbol>arquitecto</VRE_Hiveglands.symbolPack.prefixSymbols.1.symbol>
+  <VRE_Hiveglands.symbolPack.suffixSymbols.0.symbol>tect</VRE_Hiveglands.symbolPack.suffixSymbols.0.symbol>
+  <VRE_Hiveglands.symbolPack.suffixSymbols.1.symbol>construir</VRE_Hiveglands.symbolPack.suffixSymbols.1.symbol>
+  <VRE_Hiveglands.symbolPack.wholeNameSymbols.0.symbol>arquitecto</VRE_Hiveglands.symbolPack.wholeNameSymbols.0.symbol>
+  <VRE_Hiveglands.symbolPack.wholeNameSymbols.1.symbol>constructor</VRE_Hiveglands.symbolPack.wholeNameSymbols.1.symbol>
+  <VRE_CompoundEyes.label>ojos compuestos</VRE_CompoundEyes.label>
+  <VRE_CompoundEyes.description>Los portadores de este gen tienen una numerosa cantidad de unidades de fotorreceptores que les permite ver a todas las direcciones, nota los movimientos muy rápidos y pueden ver detalles de muy lejos. Aumenta su visión y rango de disparo de gran manera.</VRE_CompoundEyes.description>
+  <VRE_CompoundEyes.symbolPack.prefixSymbols.0.symbol>componente</VRE_CompoundEyes.symbolPack.prefixSymbols.0.symbol>
+  <VRE_CompoundEyes.symbolPack.suffixSymbols.0.symbol>mirador</VRE_CompoundEyes.symbolPack.suffixSymbols.0.symbol>
+  <VRE_CompoundEyes.symbolPack.suffixSymbols.1.symbol>espectador</VRE_CompoundEyes.symbolPack.suffixSymbols.1.symbol>
+  <VRE_CompoundEyes.symbolPack.wholeNameSymbols.0.symbol>multi-ojos</VRE_CompoundEyes.symbolPack.wholeNameSymbols.0.symbol>
+  <VRE_VocalGlands.label>glándula vocal</VRE_VocalGlands.label>
+  <VRE_VocalGlands.description>Los portadores de este gen tienen un órgano vocal especial que puede emular la voz humana de forma perfecta, y emiten una melodía que muchas personas la describen como hermosa.</VRE_VocalGlands.description>
+  <VRE_VocalGlands.symbolPack.prefixSymbols.0.symbol>vocal</VRE_VocalGlands.symbolPack.prefixSymbols.0.symbol>
+  <VRE_VocalGlands.symbolPack.prefixSymbols.1.symbol>habla</VRE_VocalGlands.symbolPack.prefixSymbols.1.symbol>
+  <VRE_VocalGlands.symbolPack.suffixSymbols.0.symbol>hablador</VRE_VocalGlands.symbolPack.suffixSymbols.0.symbol>
+  <VRE_VocalGlands.symbolPack.wholeNameSymbols.0.symbol>vocal</VRE_VocalGlands.symbolPack.wholeNameSymbols.0.symbol>
+  <VRE_AntimicrobialPeptides.label>péptidos antimicrobianos</VRE_AntimicrobialPeptides.label>
+  <VRE_AntimicrobialPeptides.description>Los portadores de este gen regeneran los tejidos mucho más rápido que lo normal, y son mucho más capaces de combatir las infecciones y enfermedades.</VRE_AntimicrobialPeptides.description>
+  <VRE_AntimicrobialPeptides.labelShortAdj>regenerador</VRE_AntimicrobialPeptides.labelShortAdj>
+  <VRE_AntimicrobialPeptides.symbolPack.prefixSymbols.0.symbol>regen</VRE_AntimicrobialPeptides.symbolPack.prefixSymbols.0.symbol>
+  <VRE_InsectWings.label>alas de insecto</VRE_InsectWings.label>
+  <VRE_InsectWings.description>A los portadores de este gen le crecen unas alas muy grandes en su espalda, similar al de los insectos, permitiéndole moverse muy rápido, atravesar los terrenos difíciles con mayor facilidad, y de vez en cuando pueden volar y saltar algún obstáculo.</VRE_InsectWings.description>
+  <VRE_InsectWings.symbolPack.prefixSymbols.0.symbol>volar</VRE_InsectWings.symbolPack.prefixSymbols.0.symbol>
+  <VRE_InsectWings.symbolPack.prefixSymbols.1.symbol>saltar</VRE_InsectWings.symbolPack.prefixSymbols.1.symbol>
+  <VRE_InsectWings.symbolPack.suffixSymbols.0.symbol>corredor</VRE_InsectWings.symbolPack.suffixSymbols.0.symbol>
+  <VRE_InsectWings.symbolPack.suffixSymbols.1.symbol>saltador</VRE_InsectWings.symbolPack.suffixSymbols.1.symbol>
+  <VRE_InsectWings.symbolPack.suffixSymbols.2.symbol>volador</VRE_InsectWings.symbolPack.suffixSymbols.2.symbol>
+  <VRE_InsectWings.symbolPack.suffixSymbols.3.symbol>vuela</VRE_InsectWings.symbolPack.suffixSymbols.3.symbol>
+  <VRE_InsectMandibles.label>mandíbulas de insecto</VRE_InsectMandibles.label>
+  <VRE_InsectMandibles.description>A los portadores de este gen tienen unas mandíbulas muy fuerte, similar al de los insectos, permitiendo consumir alimentos mucho más rápido. También les permite usar sus mandíbulas en el combate cuando este desarmado.</VRE_InsectMandibles.description>
+  <VRE_InsectMandibles.symbolPack.prefixSymbols.0.symbol>mandíbula</VRE_InsectMandibles.symbolPack.prefixSymbols.0.symbol>
+  <VRE_InsectMandibles.symbolPack.suffixSymbols.0.symbol>insecto</VRE_InsectMandibles.symbolPack.suffixSymbols.0.symbol>
+  <VRE_InsectMandibles.symbolPack.suffixSymbols.1.symbol>mandíbula</VRE_InsectMandibles.symbolPack.suffixSymbols.1.symbol>
+  <VRE_RobustMidgut.label>intestino medio robusto</VRE_RobustMidgut.label>
+  <VRE_RobustMidgut.description>A los portadores de este gen le crece un intestino medio con múltiples pliegues, permitiéndole digerir alimentos crudos con más eficiencia en comparación a los humanos normales. En general, reciben la misma nutrición con los alimentos crudos que la comida cocinada. Tampoco les importa el sabor crudo de la comida. Previene la intoxicación alimentaria.</VRE_RobustMidgut.description>
+  <VRE_HighGreyMatter.label>mejor materia gris</VRE_HighGreyMatter.label>
+  <VRE_HighGreyMatter.description>Los portadores de este gen son capaces de absorber nueva información a un ritmo increíble, analizando sus experiencias y aprender de ella con facilidad. Son increíblemente buenos para aprender nuevas habilidades y conocimientos.</VRE_HighGreyMatter.description>
+  <VRE_MegaspiderHorns.label>cuernos de megaaraña</VRE_MegaspiderHorns.label>
+  <VRE_MegaspiderHorns.description>A los portadores de este gen le crecen dos fuertes cuernos en su frente, similar a las megaarañas. Estos cuernos pueden ser usado para cargar contra los enemigos cuando esta desarmado, pero también aumentan ligeramente la velocidad de minado.</VRE_MegaspiderHorns.description>
+  <VRE_MegaspiderHorns.symbolPack.prefixSymbols.0.symbol>cuernos</VRE_MegaspiderHorns.symbolPack.prefixSymbols.0.symbol>
+  <VRE_MegaspiderHorns.symbolPack.suffixSymbols.0.symbol>insecto</VRE_MegaspiderHorns.symbolPack.suffixSymbols.0.symbol>
+  <VRE_MegaspiderHorns.symbolPack.suffixSymbols.1.symbol>cuerno</VRE_MegaspiderHorns.symbolPack.suffixSymbols.1.symbol>
+  <VRE_DetoxifierTubules.label>túbulos desintoxicantes</VRE_DetoxifierTubules.label>
+  <VRE_DetoxifierTubules.description>Los portadores de este gen tienen tubos de Malpighi, permitiéndoles soportar una extrema cantidad de toxicidad sin recibir ningún efecto.</VRE_DetoxifierTubules.description>
+  <VRE_DetoxifierTubules.customEffectDescriptions.0>Inmunidad al gas toxico</VRE_DetoxifierTubules.customEffectDescriptions.0>
+  <VRE_HypothermicSlowdown.label>desaceleración hipotérmica</VRE_HypothermicSlowdown.label>
+  <VRE_HypothermicSlowdown.description>Los portadores de este gen no sufrirán de hipotermia. En cambio, sufren de una desaceleración hipotérmica, un estado biológico especial que les permite sobrevivir al frío extremo. En lugar de intentar mantenerse caliente, su química corporal se adapta para evitar la congelación interna. Las funciones corporales y las capacidades se reducen, pero el frío no causara daños permanentes.</VRE_HypothermicSlowdown.description>
+  <VRE_SlowedLifeCycle.label>ciclo de vida lento</VRE_SlowedLifeCycle.label>
+  <VRE_SlowedLifeCycle.description>Los portadores de este gen no envejecen de la forma normal. Nunca tendrán enfermedades crónicas relacionadas a la edad, como el cáncer, los problemas de espalda, las cataratas o la demencia, además envejecen a un ritmo muy lento.</VRE_SlowedLifeCycle.description>
+  <VRE_HardenedChitin.label>quitina endurecida</VRE_HardenedChitin.label>
+  <VRE_HardenedChitin.description>Los portadores de este gen tienen un exoesqueleto más duro, endureciendo la quitina, y serán mucho más resistente a los daños y al tambaleo. Esto hace que sean un poco más lento debido al peso del nuevo caparazón.</VRE_HardenedChitin.description>
+  <VRE_SensitiveBrainGoop.label>liquido cerebral sensible</VRE_SensitiveBrainGoop.label>
+  <VRE_SensitiveBrainGoop.description>Los portadores de este gen tienen una sustancia volátil rodeando su cerebro, aumentando considerablemente su sensibilidad psíquica.</VRE_SensitiveBrainGoop.description>
+  <VRE_Serotonin.label>serotonina</VRE_Serotonin.label>
+  <VRE_Serotonin.description>Los portadores de este gen producen una gran cantidad de serotonina, manteniéndolos en un constante estado de viaje que afecta su conciencia. La presencia de este neurotransmisor también los hará más agresivo.</VRE_Serotonin.description>
+  <VRE_Heatshock.label>choque térmico</VRE_Heatshock.label>
+  <VRE_Heatshock.description>Los portadores de este gen producen un tipo de proteína especial en el calor, permitiéndoles sobrevivir a temperaturas extremas, pero causando que deba consumir mucho más nutrientes.</VRE_Heatshock.description>
+  <VRE_JellySacks.label>saco de jalea</VRE_JellySacks.label>
+  <VRE_JellySacks.description>Los portadores de gen tienen un gran saco de jalea bajo el abdomen, permitiéndoles producir periódicamente valiosa jalea de insecto.</VRE_JellySacks.description>
+  <VRE_JellySacks.customEffectDescriptions.0>Produce 6 unidades de jalea de insecto al día</VRE_JellySacks.customEffectDescriptions.0>
+  <VRE_JellySacks.symbolPack.prefixSymbols.0.symbol>jalea</VRE_JellySacks.symbolPack.prefixSymbols.0.symbol>
+  <VRE_JellySacks.symbolPack.prefixSymbols.1.symbol>jalea</VRE_JellySacks.symbolPack.prefixSymbols.1.symbol>
+  <VRE_SpawningSack.label>saco</VRE_SpawningSack.label>
+  <VRE_SpawningSack.description>Los portadores de este gen tienen un gran saco de jalea real debajo de su abdomen. Esto incrementa su fertilidad y les permite acelerar el progreso del embarazo, y en caso de embarazos rompepecho, permite al portador llevar a su engendro dentro sin riesgo de muerte al dar a luz.</VRE_SpawningSack.description>
+  <VRE_SpawningSack.customEffectDescriptions.0>Invalidar embarazo rompepecho.</VRE_SpawningSack.customEffectDescriptions.0>
+  <VRE_SpawningSack.customEffectDescriptions.1>25% de aumento de velocidad de embarazo.</VRE_SpawningSack.customEffectDescriptions.1>
+  <VRE_SpawningSack.symbolPack.prefixSymbols.0.symbol>aparecedor</VRE_SpawningSack.symbolPack.prefixSymbols.0.symbol>
+  <VRE_SpawningSack.symbolPack.prefixSymbols.1.symbol>aparecedor</VRE_SpawningSack.symbolPack.prefixSymbols.1.symbol>
+  <VRE_Parthenogenesis.label>partenogénesis</VRE_Parthenogenesis.label>
+  <VRE_Parthenogenesis.description>Los portadores de este gen pueden auto-embarazarse, creando descendencia sin un segundo padre. El órgano reproductor genera un feto en su interior, que se almacenara en una estructura similar a un ovipositor hasta que este listo para nacer. Permite propagar rápidamente su especie de forma autónoma.</VRE_Parthenogenesis.description>
+  <VRE_Parthenogenesis.customEffectDescriptions.0>Invalidar embarazo rompepecho</VRE_Parthenogenesis.customEffectDescriptions.0>
+  <VRE_Parthenogenesis.customEffectDescriptions.1>no puede quedar embarazo mediante el coito</VRE_Parthenogenesis.customEffectDescriptions.1>
+  <VRE_Parthenogenesis.symbolPack.prefixSymbols.0.symbol>impregno</VRE_Parthenogenesis.symbolPack.prefixSymbols.0.symbol>
+  <VRE_CuticleShell.label>cuticle shell</VRE_CuticleShell.label>
+  <VRE_CuticleShell.description>A los portadores de este gen le crece un exoesqueleto de cutícula delgada que lo protege de cualquier patógeno. Esto proporciona una inmunidad a las enfermedades comunes como a la malaria y a la gripe. No hace nada contras las infecciones.</VRE_CuticleShell.description>
+  <VRE_CuticleShell.labelShortAdj>inmune</VRE_CuticleShell.labelShortAdj>
+  <VRE_CuticleShell.symbolPack.prefixSymbols.0.symbol>inmuno</VRE_CuticleShell.symbolPack.prefixSymbols.0.symbol>
+  <VRE_SpelopedeHorn.label>cuerno de espélope</VRE_SpelopedeHorn.label>
+  <VRE_SpelopedeHorn.description>A los portadores de este gen le crece un cuerno grueso en el medio de la frente, similar a los que se encuentran en los espélopes. A diferencia del cuerno de megaaraña, el cuerno de espélope no puede ser usado en combate, pero acelera en gran medida la velocidad de minado.</VRE_SpelopedeHorn.description>
+  <VRE_SpelopedeHorn.labelShortAdj>cuerno</VRE_SpelopedeHorn.labelShortAdj>
+  <VRE_SpelopedeHorn.symbolPack.prefixSymbols.0.symbol>insecto</VRE_SpelopedeHorn.symbolPack.prefixSymbols.0.symbol>
+  <VRE_SpelopedeHorn.symbolPack.prefixSymbols.1.symbol>cuerno</VRE_SpelopedeHorn.symbolPack.prefixSymbols.1.symbol>
+  <VRE_RipperBlades.label>hojas-desgarradoras</VRE_RipperBlades.label>
+  <VRE_RipperBlades.description>Los portadores de este gen tienen una gran hoja afilada en sus manos. Si bien estas hojas reducen en gran medida la manipulación, pero pueden usarse durante el combate cuerpo a cuerpo y permiten partir las armaduras enemigas a la mitad.</VRE_RipperBlades.description>
+  <VRE_RipperBlades.labelShortAdj>hojas-desgarradoras</VRE_RipperBlades.labelShortAdj>
+  <VRE_RipperBlades.symbolPack.prefixSymbols.0.symbol>desgarrador</VRE_RipperBlades.symbolPack.prefixSymbols.0.symbol>
+  <VRE_GenelineEvolution.label>geneline evolution</VRE_GenelineEvolution.label>
+  <VRE_GenelineEvolution.description>Los portadores de este gen pueden ser capaz de adaptar su línea genética. Puede formar castas diferentes y obtener una numerosa cantidad de nuevas evoluciones y degradaciones de línea genética.</VRE_GenelineEvolution.description>
+  <VRE_InsectFlesh.label>carne de insecto</VRE_InsectFlesh.label>
+  <VRE_InsectFlesh.description>Los portadores de este gen tienen una carne de insecto. Consumir carne de insecto es clasificado por canibalismo. Cuando se despedaza, produce carne de insecto en vez de carne humana.</VRE_InsectFlesh.description>
+  <VRE_InsectPheromones.label>feromonas de insecto</VRE_InsectPheromones.label>
+  <VRE_InsectPheromones.description>Los portadores de este gen emiten feromonas especiales, permitiendo coexistir con los insectoides salvajes. Por lo que no serán atacados por los insectoides a menos que se les provoque.</VRE_InsectPheromones.description>
+  <VRE_OcelliEyes.label>ojos ocelli</VRE_OcelliEyes.label>
+  <VRE_OcelliEyes.description>Los portadores de este gen tienen una disposición óptica compuesta por un solo lente y sin una retina compleja, haciéndolos casi ciego.</VRE_OcelliEyes.description>
+  <VRE_OcelliEyes.symbolPack.prefixSymbols.0.symbol>ciego</VRE_OcelliEyes.symbolPack.prefixSymbols.0.symbol>
+  <VRE_OcelliEyes.symbolPack.prefixSymbols.1.symbol>ocelli</VRE_OcelliEyes.symbolPack.prefixSymbols.1.symbol>
+  <VRE_OcelliEyes.symbolPack.suffixSymbols.0.symbol>ciego</VRE_OcelliEyes.symbolPack.suffixSymbols.0.symbol>
+  <VRE_OcelliEyes.symbolPack.wholeNameSymbols.0.symbol>ciego</VRE_OcelliEyes.symbolPack.wholeNameSymbols.0.symbol>
+  <VRE_VocalChitters.label>chirridos</VRE_VocalChitters.label>
+  <VRE_VocalChitters.description>Los portadores de este gen cambian sus cuerdas vocales por pequeñas aperturas en los huesos, resultando en la incapacidad de hablar, a menos que alguien comprenda los silbidos que ahora producen.</VRE_VocalChitters.description>
+  <VRE_VocalChitters.symbolPack.prefixSymbols.0.symbol>callado</VRE_VocalChitters.symbolPack.prefixSymbols.0.symbol>
+  <VRE_VocalChitters.symbolPack.prefixSymbols.1.symbol>silencio</VRE_VocalChitters.symbolPack.prefixSymbols.1.symbol>
+  <VRE_VocalChitters.symbolPack.suffixSymbols.0.symbol>silencio</VRE_VocalChitters.symbolPack.suffixSymbols.0.symbol>
+  <VRE_VocalChitters.symbolPack.wholeNameSymbols.0.symbol>chiflador</VRE_VocalChitters.symbolPack.wholeNameSymbols.0.symbol>
+  <VRE_Immunodeficiency.label>inmunodeficiencia</VRE_Immunodeficiency.label>
+  <VRE_Immunodeficiency.description>Los portadores de este gen regeneran sus tejidos a la mitad de rápido que lo normal, y tienen mucha más probabilidad de morir a causa de una infección por su baja inmunización.</VRE_Immunodeficiency.description>
+  <VRE_Immunodeficiency.labelShortAdj>débil</VRE_Immunodeficiency.labelShortAdj>
+  <VRE_Immunodeficiency.symbolPack.prefixSymbols.0.symbol>frágil</VRE_Immunodeficiency.symbolPack.prefixSymbols.0.symbol>
+  <VRE_InflexibleJoints.label>articulaciones inflexibles</VRE_InflexibleJoints.label>
+  <VRE_InflexibleJoints.description>Los portadores de este gen tienen unas articulaciones más duras y menos flexibles, haciendo que les sea mucho más difícil moverse y navegar en terrenos difíciles.</VRE_InflexibleJoints.description>
+  <VRE_InflexibleJoints.symbolPack.prefixSymbols.0.symbol>lento</VRE_InflexibleJoints.symbolPack.prefixSymbols.0.symbol>
+  <VRE_InflexibleJoints.symbolPack.prefixSymbols.1.symbol>lento</VRE_InflexibleJoints.symbolPack.prefixSymbols.1.symbol>
+  <VRE_InflexibleJoints.symbolPack.prefixSymbols.2.symbol>lento</VRE_InflexibleJoints.symbolPack.prefixSymbols.2.symbol>
+  <VRE_InflexibleJoints.symbolPack.prefixSymbols.3.symbol>inflexi</VRE_InflexibleJoints.symbolPack.prefixSymbols.3.symbol>
+  <VRE_InflexibleJoints.symbolPack.suffixSymbols.0.symbol>empollón</VRE_InflexibleJoints.symbolPack.suffixSymbols.0.symbol>
+  <VRE_InflexibleJoints.symbolPack.suffixSymbols.1.symbol>lento</VRE_InflexibleJoints.symbolPack.suffixSymbols.1.symbol>
+  <VRE_InflexibleJoints.symbolPack.suffixSymbols.2.symbol>slimer</VRE_InflexibleJoints.symbolPack.suffixSymbols.2.symbol>
+  <VRE_InefficientMidgut.label>intestino medio ineficiente</VRE_InefficientMidgut.label>
+  <VRE_InefficientMidgut.description>Los portadores de este gen producen un acido muy ineficiente en su intestino medio, haciendo que les sea más difícil absorber nutrientes. Esto hace que tengan hambre mucho más rápido, pero podrán comer más.</VRE_InefficientMidgut.description>
+  <VRE_PorousSkin.label>piel porosa</VRE_PorousSkin.label>
+  <VRE_PorousSkin.description>Los portadores de este gen tendrán poros huecos en su piel, lo que les da un aspecto extremadamente desagradable.</VRE_PorousSkin.description>
+  <VRE_LowGreyMatter.label>materia gris pobre</VRE_LowGreyMatter.label>
+  <VRE_LowGreyMatter.description>Los portadores de este gen son incapaces de procesar nueva información y son incapaces de evaluar sus decisiones y aprender de estas. Son increíblemente lentos al aprender nuevas habilidades y conocimientos, y tienen una sensibilidad psíquica muy baja.</VRE_LowGreyMatter.description>
+  <VRE_LowGreyMatter.symbolPack.prefixSymbols.0.symbol>etiqueta</VRE_LowGreyMatter.symbolPack.prefixSymbols.0.symbol>
+  <VRE_LowGreyMatter.symbolPack.prefixSymbols.1.symbol>gruñido</VRE_LowGreyMatter.symbolPack.prefixSymbols.1.symbol>
+  <VRE_LowGreyMatter.symbolPack.prefixSymbols.2.symbol>estupido</VRE_LowGreyMatter.symbolPack.prefixSymbols.2.symbol>
+  <VRE_LowGreyMatter.symbolPack.prefixSymbols.3.symbol>aburrido</VRE_LowGreyMatter.symbolPack.prefixSymbols.3.symbol>
+  <VRE_LowGreyMatter.symbolPack.prefixSymbols.4.symbol>tonto</VRE_LowGreyMatter.symbolPack.prefixSymbols.4.symbol>
+  <VRE_VestigialTubules.label>túbulos vestigiales</VRE_VestigialTubules.label>
+  <VRE_VestigialTubules.description>Los portadores de este gen son incapaces de filtrar las toxicas porque sus túbulos han dejado de funcionar. Tienen mucha más posibilidades de morir por cualquier tipo de toxicidad en su entorno.</VRE_VestigialTubules.description>
+  <VRE_HypothermicHibernation.label>hibernación hipotermica</VRE_HypothermicHibernation.label>
+  <VRE_HypothermicHibernation.description>Los portadores de este gen entran en un estado de hibernación cuando la temperatura cae por debajo de cierto punto por demasiado tiempo. Perderán rápidamente sus funciones corporales y caerán en un profundo sueño, previniendo cualquier tipo de congelación pero no serán capaces de hacer nada.</VRE_HypothermicHibernation.description>
+  <VRE_RapidLifeCycle.label>ciclo de vida rápida</VRE_RapidLifeCycle.label>
+  <VRE_RapidLifeCycle.description>Los portadores de este gen tienen un ciclo de vida corto y sufrirán enfermedades relacionadas con la edad antes que otros. Además envejecerán mucho más rapido.</VRE_RapidLifeCycle.description>
+  <VRE_WeakenedChitin.label>quitina débil</VRE_WeakenedChitin.label>
+  <VRE_WeakenedChitin.description>Los portadores de este gen tienen un exoesqueleto con una quitina más débil, porosa y frágil y se rompen con el daño. El peso más ligero permite al portador moverse ligeramente más rápido.</VRE_WeakenedChitin.description>
+  <VRE_Heatstress.label>estrés por calor</VRE_Heatstress.label>
+  <VRE_Heatstress.description>Los portadores de este gen experimentan estrés por el calor cuando la temperatura excede el rango óptimo de los procesos fisiológicos. Esto puede provocar daños celulares, incluyendo la desnaturalización de las proteínas, quemaduras y miedo al fuego. Perderán la conciencia si esta expuesto a un calor extremo, incluso si es en un período breve.</VRE_Heatstress.description>
+  <VRE_Dormant.label>latencia</VRE_Dormant.label>
+  <VRE_Dormant.description>Los portadores de este gen reducen su actividad y agresividad, y pasan bastante tiempo en un estado de latencia. El metabolismo del individuo también se reduce, permitiendo consumir menos nutrientes para mantenerse con vida.</VRE_Dormant.description>
+  <VRE_LowOctopamine.label>baja octopamina</VRE_LowOctopamine.label>
+  <VRE_LowOctopamine.description>Los portadores de este gen producen poca octopamina, lo que reduce su excitación y su actividad. La falta de este neurotransmisor hará que este mucho más deprimido.</VRE_LowOctopamine.description>
+  <VRE_PollutionDependency.label>dependencia a la contaminación</VRE_PollutionDependency.label>
+  <VRE_PollutionDependency.description>Los portadores de este gen necesitan ser afectado por la contaminación de forma regular para sobrevivir. Después de 5 días sin contaminación, los portadores sufrirán de deficiencia de contaminación. Después de 30 días entrara en coma. Y Después de 60 días morirá.</VRE_PollutionDependency.description>
+  <VRE_ProteinDenaturation.label>desnaturalización de proteínas</VRE_ProteinDenaturation.label>
+  <VRE_ProteinDenaturation.description>Los portadores de este gen han alterado los procesos celulares a causa de la desnaturalización de las proteínas que reacciona de forma muy peligrosa a la radiación UV. Haciendo que sean muy sensibles a la luz del sol y tienen una quitina muy seca haciéndoles susceptible al fuego.</VRE_ProteinDenaturation.description>
+  <VRE_ProteinDenaturation.symbolPack.prefixSymbols.0.symbol>seco</VRE_ProteinDenaturation.symbolPack.prefixSymbols.0.symbol>
+  <VRE_Stenothermic.label>estenotérmico</VRE_Stenothermic.label>
+  <VRE_Stenothermic.description>Los portadores de este gen solo pueden tolerar un rango muy estrecho de temperaturas.</VRE_Stenothermic.description>
+  <VRE_AcidBlood.label>sangre acida</VRE_AcidBlood.label>
+  <VRE_AcidBlood.description>Los portadores de este gen tienen una alta concentración de toxinas en su sangre. Cuando sangran emitirán una gran nube toxica, y cuando mueren, su equipo se destruirá debido al acido.</VRE_AcidBlood.description>
+  <VRE_InsectJellyDependency.label>dependencia a la jalea de insecto</VRE_InsectJellyDependency.label>
+  <VRE_InsectJellyDependency.description>Los portadores de este gen necesitan ingerir jalea de insecto de forma regular para sobrevivir. Después de 5 días sin jalea de insecto, el portador sufrirá de deficiencia por jalea de insecto. Después de 30 días caerá en coma. Después de 60 días, morirá.</VRE_InsectJellyDependency.description>
+  <VRE_InsectJellyDependency.resourceDescription>Una necesidad de {PAWN_nameDef} de consumir jalea de insecto</VRE_InsectJellyDependency.resourceDescription>
+  <VRE_InsectJellyDependency.resourceLabel>jalea de insecto</VRE_InsectJellyDependency.resourceLabel>
+  <VRE_ChestburstPregnancy.label>embarazo rompepecho</VRE_ChestburstPregnancy.label>
+  <VRE_ChestburstPregnancy.description>Los portadores de este gen no pueden llevar su propio feto. En cambio, necesitan implantar su feto en otro individuo o animal, de forma consentida o no. Cuando el feto madure, saldrá de la caja torácica de la victima, matando a su huésped.</VRE_ChestburstPregnancy.description>
+  <VRE_VatGrownInsectoidSkin.label>piel color insectoide</VRE_VatGrownInsectoidSkin.label>
+  <VRE_VatGrownInsectoidSkin.description>Los portadores de este gen producen un pigmento similar al de los insectoides.</VRE_VatGrownInsectoidSkin.description>
+  <VRE_VatGrownInsectoidSkin.labelShortAdj>insecto</VRE_VatGrownInsectoidSkin.labelShortAdj>
+  <VRE_MegaspiderInsectoidSkin.label>piel color megaraña</VRE_MegaspiderInsectoidSkin.label>
+  <VRE_MegaspiderInsectoidSkin.description>Los portadores de este gen producen un pigmento similar al de las megarañas.</VRE_MegaspiderInsectoidSkin.description>
+  <VRE_MegaspiderInsectoidSkin.labelShortAdj>insecto</VRE_MegaspiderInsectoidSkin.labelShortAdj>
+  <VRE_MegascarabInsectoidSkin.label>piel color megaescarabajo</VRE_MegascarabInsectoidSkin.label>
+  <VRE_MegascarabInsectoidSkin.description>Los portadores de este gen producen un pigmento similar al de las megaescarabajo.</VRE_MegascarabInsectoidSkin.description>
+  <VRE_MegascarabInsectoidSkin.labelShortAdj>insecto</VRE_MegascarabInsectoidSkin.labelShortAdj>
+  <VRE_SpelopedeInsectoidSkin.label>piel color espélope</VRE_SpelopedeInsectoidSkin.label>
+  <VRE_SpelopedeInsectoidSkin.description>Los portadores de este gen producen un pigmento similar al de las espélope.</VRE_SpelopedeInsectoidSkin.description>
+  <VRE_SpelopedeInsectoidSkin.labelShortAdj>insecto</VRE_SpelopedeInsectoidSkin.labelShortAdj>
+</LanguageData>

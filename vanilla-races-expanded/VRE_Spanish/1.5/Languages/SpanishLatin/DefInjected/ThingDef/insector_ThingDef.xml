@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VRE_InfestedShipPart_Spawned.label>parte de naves infestada</VRE_InfestedShipPart_Spawned.label>
+  <VRE_InfestedShipPart_Spawned.description>Un trozo de una nave cubierta de biomasa y jalea de insecto. Antes de que se estrellara, era parte de una gran nave. Al deconstruir se obtendrá acero y componentes.</VRE_InfestedShipPart_Spawned.description>
+  <VRE_Metapod.label>metapod</VRE_Metapod.label>
+  <VRE_Metapod.description>Un gran capullo formado por un insector que esta sufriendo una metamorfosis. Si es destruido, el insecto en su interior morirá. Después de que la metamorfosis se complete, el insector emergerá del metapod con una nueva composición genética.</VRE_Metapod.description>
+  <VRE_InfestedShipPart.label>parte de nave infectada</VRE_InfestedShipPart.label>
+  <VRE_ActiveDropPod.label>parte de nave infectada</VRE_ActiveDropPod.label>
+  <VRE_Filth_BugBlood.label>sangre de insecto</VRE_Filth_BugBlood.label>
+  <VRE_Filth_BugBlood_BloodSmear.label>mancha de sangre de insecto</VRE_Filth_BugBlood_BloodSmear.label>
+  <VRE_Filth_BugFilth.label>suciedad de insecto</VRE_Filth_BugFilth.label>
+  <VRE_Filth_ToxBlood.label>sangre podrida</VRE_Filth_ToxBlood.label>
+</LanguageData>

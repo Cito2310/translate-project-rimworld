@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VRE_ManageGenelines>Administrar línea genética</VRE_ManageGenelines>
+  <VRE_ManageGenelinesDesc>Cambiar la actual línea genética o crear una nueva línea genética.</VRE_ManageGenelinesDesc>
+  <VRE_EditGeneline>Editar línea genética</VRE_EditGeneline>
+  <VRE_GenelineName>Línea Genética {0}</VRE_GenelineName>
+  <VRE_DeleteThisGeneline>Eliminar esta línea genética. Remover esto resultara en que todos los insectores con esta línea genética entraran inmediatamente en un periodo metapod y se convertirán en un insector base.</VRE_DeleteThisGeneline>
+  <VRE_CreateGeneline>Crear nueva línea genética</VRE_CreateGeneline>
+  <VRE_CreateGenelineExplanation>Puede editar la línea genética existente o crear una nueva línea genética. Recuerda que cambiar de línea genética requiere que tus insectores entraran en un periodo metopod durante 24 horas.</VRE_CreateGenelineExplanation>
+  <VRE_GenelineNameCannotBeEmpty>El nombre de la línea genética no puede estar vacío.</VRE_GenelineNameCannotBeEmpty>
+  <VRE_MessageConflictingGenesPresent>No puedes guardar la línea genética con múltiples conflictos genético.</VRE_MessageConflictingGenesPresent>
+  <VRE_Evolutions>Evoluciones</VRE_Evolutions>
+  <VRE_EvolutionsDesc>Evoluciones</VRE_EvolutionsDesc>
+  <VRE_Degrades>Degradaciones</VRE_Degrades>
+  <VRE_DegradesDesc>Degradaciones</VRE_DegradesDesc>
+  <VRE_SaveGeneline>Guardar línea genética</VRE_SaveGeneline>
+  <VRE_NeedEqualAmount>Necesitas tener la misma cantidad de evoluciones y degradaciones.</VRE_NeedEqualAmount>
+  <VRE_ChangingGenelineExplanation>Cambiar los genes de la línea genética hará que todos los insectores que forman parte de la línea genética entraran en la etapa de metapod. La etapa de metopod dura 24 horas, durante este tiempo los insectores no estarán disponibles.</VRE_ChangingGenelineExplanation>
+  <VRE_CannotSave>No se puede guardar: {0}</VRE_CannotSave>
+  <VRE_ChangeTo>Cambiar: {0}</VRE_ChangeTo>
+  <VRE_DeleteGenelineConfirmation>Estás a punto de remover una línea genética que esta siendo usado por tus colonos. Removerlo resultara en que los insectores entren en el periodo metapod y se convertirán a un insector base.\n\nLos colonos insectores que se verán afectado:\n\n{0}\n</VRE_DeleteGenelineConfirmation>
+  <VRE_Genelines>Líneas Genéticas</VRE_Genelines>
+  <VRE_GenelinesDesc>Líneas Genéticas</VRE_GenelinesDesc>
+  <VRE_MetapodTimer>Tiempo en el que {PAWN_nameDef} emergerá: {1}\nInsertar jalea de insecto en el metapod acelerará significativamente el proceso.</VRE_MetapodTimer>
+  <VRE_MetapodSicknessCannotChangeGeneline>No puedes cambiar la línea genética debido a la enfermedad del metopod.</VRE_MetapodSicknessCannotChangeGeneline>
+  <VRE_ChestburstPregnancyReady>Embarazo rompepecho</VRE_ChestburstPregnancyReady>
+  <VRE_ChestburstPregnancyReadyDesc>Cuando este colono con el gen embarazo rompepecho este embarazada, necesita designar a un individuo o animal para implantar el feto. Cuando el feto madure, este saldrá de la caja torácica de la victima, matándola. Si esto no se hace antes de que comience el segundo trimestre (6 días), el embarazo se terminara.</VRE_ChestburstPregnancyReadyDesc>
+  <VRE_ChestburstImplantationNeeded>Necesita implantar rompepecho</VRE_ChestburstImplantationNeeded>
+  <VRE_ChestburstImplantationNeededDesc>Cuando este colono con el gen embarazo rompepecho este embarazada, necesita designar a un individuo o animal para implantar el feto. Cuando el feto madure, este saldrá de la caja torácica de la victima, matándola. Si esto no se hace antes de que comience el segundo trimestre (6 días), el embarazo se terminara. Los colonos que necesitan implantar un feto:\n\n{0}</VRE_ChestburstImplantationNeededDesc>
+  <VRE_InjectChestburstFetus>Inyectar feto rompepecho</VRE_InjectChestburstFetus>
+  <VRE_InjectChestburstFetusDesc>Inyectar a la victima con el feto, atravesara el pecho de la victima cuando madure, matando al hospedador.</VRE_InjectChestburstFetusDesc>
+  <VRE_NeedsHumanoidOrAnimal>Necesitas inyectarlo en un ser humanoide o en un animal adulto del tamaño de cuerpo mayor a 1</VRE_NeedsHumanoidOrAnimal>
+  <VRE_ChestburstBirthLabel>Nacimiento rompepecho</VRE_ChestburstBirthLabel>
+  <VRE_ChestburstBirth>Un recién nacido, {0}, nació de un huésped, matándolo en el proceso.</VRE_ChestburstBirth>
+  <VRE_ChestburstBirthHiddenLabel>Nacimiento rompepecho!</VRE_ChestburstBirthHiddenLabel>
+  <VRE_ChestburstBirthHidden>{0} sin saberlo llevaba un embarazo rompepecho! A nacido un insector, {1}, ha nacido del huésped, matándolo en el proceso!</VRE_ChestburstBirthHidden>
+  <VRE_SelfImpregnate>auto-embarazo</VRE_SelfImpregnate>
+  <VRE_SelfImpregnateDesc>Individuo femenino se auto-embarazo, creando un feto que es una perfecta copia de su madre.</VRE_SelfImpregnateDesc>
+  <VRE_PawnIsMale>Solo disponible para mujeres</VRE_PawnIsMale>
+  <VRE_OnlyOnSelf>La partenogénesis sólo puede apuntar a uno mismo</VRE_OnlyOnSelf>
+  <VRE_AlreadyPregnant>El individuo esta listo para embarazarse</VRE_AlreadyPregnant>
+  <VRE_GotPregnant>{0} se ha auto-embarazado!</VRE_GotPregnant>
+</LanguageData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VRE_Implanted.stages.forcefully_implanted_by.label>implantado con la fuerza por {0}</VRE_Implanted.stages.forcefully_implanted_by.label>
+  <VRE_Implanted.stages.forcefully_implanted_by.description>Fui picado y violado.</VRE_Implanted.stages.forcefully_implanted_by.description>
+  <VRE_Implanted_Social.stages.forcefully_implanted.label>implantado forzadamente</VRE_Implanted_Social.stages.forcefully_implanted.label>
+  <VRE_ProteinDenaturation.stages.protein_denaturation.label>desnaturalización de proteínas</VRE_ProteinDenaturation.stages.protein_denaturation.label>
+  <VRE_ProteinDenaturation.stages.protein_denaturation.description>Siento como si la luz del sol quemara mis ojos y mi quitina.</VRE_ProteinDenaturation.stages.protein_denaturation.description>
+  <VRE_Serotonin.stages.serotoninbuzz.label>incremento de serotonina</VRE_Serotonin.stages.serotoninbuzz.label>
+  <VRE_Serotonin.stages.serotoninbuzz.description>Me siento increíblemente feliz y parece que nada podrá hacerme sentir mal</VRE_Serotonin.stages.serotoninbuzz.description>
+  <VRE_LowOctopamine.stages.octopaminedown.label>baja octopamina</VRE_LowOctopamine.stages.octopaminedown.label>
+  <VRE_LowOctopamine.stages.octopaminedown.description>Me siento deprimido, capaz sea por que tengo baja octopamina, pero será por eso?</VRE_LowOctopamine.stages.octopaminedown.description>
+  <VRE_Heatstress.stages.afraid_of_fire.label>temor al fuego</VRE_Heatstress.stages.afraid_of_fire.label>
+  <VRE_Heatstress.stages.afraid_of_fire.description>El fuego me hace sentir nervioso. Un calor tan abrazador, siento como que pudiera saltar a mi en cualquier momento!</VRE_Heatstress.stages.afraid_of_fire.description>
+</LanguageData>
