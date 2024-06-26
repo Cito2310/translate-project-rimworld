@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFES_Wanted.questDescriptionAndNameRules.rulesStrings.0>questName-&gt;Bounty: [nameFull] [nickname]</VFES_Wanted.questDescriptionAndNameRules.rulesStrings.0>
+  <VFES_Wanted.questDescriptionAndNameRules.rulesStrings.1>questName-&gt;Buscado, Vivo o Muerto: [nickname]</VFES_Wanted.questDescriptionAndNameRules.rulesStrings.1>
+  <VFES_Wanted.questDescriptionAndNameRules.rulesStrings.2>questName-&gt;bandidos de [nickname]</VFES_Wanted.questDescriptionAndNameRules.rulesStrings.2>
+  <VFES_Wanted.questDescriptionAndNameRules.rulesStrings.3>questDescription-&gt;[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name] nos saluda. Aparentemente, el criminal notorio [criminal_nameFull], de [siteFaction_name] se oculta en nuestro vecindario.\n\n[asker_nameDef] nos pide que llevemos [nickname] a uno de sus asentamientos por [bounty] de plata, el doble si llega vivo. Se oculta en una casa de seguridad probablemente protegido.\n\nNecesitaras limpiar el campamento, [allRewardsDescriptions]</VFES_Wanted.questDescriptionAndNameRules.rulesStrings.3>
+  <VFES_Wanted.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Quest expired: [resolvedQuestName]</VFES_Wanted.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  <VFES_Wanted.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>[criminal_nameFull] se ha enterado de su posición y ha decido abandonar el área. La misión [resolvedQuestName] ha expirado.</VFES_Wanted.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+  <VFES_Wanted.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>Quest failed: [resolvedQuestName]</VFES_Wanted.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>
+  <VFES_Wanted.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>Los bandidos hicieron las maletas y se fueron.</VFES_Wanted.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>
+  <VFES_Wanted.root.nodes.siteAllEnemiesDefeated.node.customLetterLabel.slateRef>Llego el pago</VFES_Wanted.root.nodes.siteAllEnemiesDefeated.node.customLetterLabel.slateRef>
+  <VFES_Wanted.root.nodes.siteAllEnemiesDefeated.node.customLetterText.slateRef>Has derrotado a [criminal_nameFull] y has eliminado el campamento!\n\nLa recompensa de [asker_faction_name] ha llegado.</VFES_Wanted.root.nodes.siteAllEnemiesDefeated.node.customLetterText.slateRef>
+  <VFES_CaravanRaid.questDescriptionRules.rulesStrings.0>questDescription-&gt;[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], te ha enviado un mensaje. Aparentemente, [siteFaction_pawnsPlural] están descansando con sus bestias antes de continuar su camino.\n\n[asker_nameDef] nos ha dado su ubicación, podemos ir y atacarlos.</VFES_CaravanRaid.questDescriptionRules.rulesStrings.0>
+  <VFES_CaravanRaid.questNameRules.rulesStrings.0>questName-&gt;[raid] Caravana </VFES_CaravanRaid.questNameRules.rulesStrings.0>
+  <VFES_CaravanRaid.questNameRules.rulesStrings.1>questName-&gt;[asker_nameDef] and the Caravan [raid]</VFES_CaravanRaid.questNameRules.rulesStrings.1>
+  <VFES_CaravanRaid.questNameRules.rulesStrings.2>raid-&gt;Asaltar</VFES_CaravanRaid.questNameRules.rulesStrings.2>
+  <VFES_CaravanRaid.questNameRules.rulesStrings.3>raid-&gt;Atacar</VFES_CaravanRaid.questNameRules.rulesStrings.3>
+  <VFES_CaravanRaid.questNameRules.rulesStrings.4>raid-&gt;Emboscar</VFES_CaravanRaid.questNameRules.rulesStrings.4>
+  <VFES_CaravanRaid.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Misión expirada: [resolvedQuestName]</VFES_CaravanRaid.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  <VFES_CaravanRaid.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>La [siteFaction_pawnsPlural] empacaron y siguieron adelante. La misión [resolvedQuestName] ha expirado.</VFES_CaravanRaid.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+  <VFES_CaravanRaid.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>Misión fallida: [resolvedQuestName]</VFES_CaravanRaid.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>
+  <VFES_CaravanRaid.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>Después de ser descubierto, [siteFaction_pawnsPlural] se fue . La misión [resolvedQuestName] ha terminado.</VFES_CaravanRaid.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>
+</LanguageData>

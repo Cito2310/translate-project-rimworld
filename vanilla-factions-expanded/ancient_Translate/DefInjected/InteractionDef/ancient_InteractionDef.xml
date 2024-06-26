@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEA_InterrogatePrisoner.label>intento de interrogación</VFEA_InterrogatePrisoner.label>
+  <VFEA_InterrogatePrisoner.logRulesInitiator.rulesStrings.0>r_logentry-&gt;[INITIATOR_nameDef] demando [information] a [RECIPIENT_nameDef].</VFEA_InterrogatePrisoner.logRulesInitiator.rulesStrings.0>
+  <VFEA_InterrogatePrisoner.logRulesInitiator.rulesStrings.1>information-&gt;información</VFEA_InterrogatePrisoner.logRulesInitiator.rulesStrings.1>
+  <VFEA_InterrogatePrisoner.logRulesInitiator.rulesStrings.2>information-&gt;conocimientos</VFEA_InterrogatePrisoner.logRulesInitiator.rulesStrings.2>
+  <VFEA_InterrogatePrisoner.logRulesInitiator.rulesStrings.3>information-&gt;datos de inteligencia</VFEA_InterrogatePrisoner.logRulesInitiator.rulesStrings.3>
+  <VFEA_Intimidate.label>intento de intimidar</VFEA_Intimidate.label>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.0>r_logentry-&gt;[INITIATOR_nameDef] le dijo a [RECIPIENT_nameDef] que [RECIPIENT_pronoun] [negative].</VFEA_Intimidate.logRulesInitiator.rulesStrings.0>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.1>r_logentry-&gt;[INITIATOR_nameDef] explico a [RECIPIENT_nameDef] que [negative].</VFEA_Intimidate.logRulesInitiator.rulesStrings.1>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.2>r_logentry-&gt;[INITIATOR_nameDef] amenazó a [RECIPIENT_nameDef] con [threat] si [RECIPIENT_pronoun] [refused].</VFEA_Intimidate.logRulesInitiator.rulesStrings.2>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.3>r_logentry-&gt;[INITIATOR_nameDef] informo a [RECIPIENT_nameDef] que [RECIPIENT_pronoun] [disillusionment].</VFEA_Intimidate.logRulesInitiator.rulesStrings.3>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.4>r_logentry-&gt;[INITIATOR_nameDef] exigió a [RECIPIENT_nameDef] que se [givein] a la colonia.</VFEA_Intimidate.logRulesInitiator.rulesStrings.4>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.5>negative-&gt;no tiene futuro</VFEA_Intimidate.logRulesInitiator.rulesStrings.5>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.6>negative-&gt;no tiene forma de escapar</VFEA_Intimidate.logRulesInitiator.rulesStrings.6>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.7>negative-&gt;debería rendirse de forma inmediata</VFEA_Intimidate.logRulesInitiator.rulesStrings.7>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.8>negative-&gt;debería olvidar [RECIPIENT_possessive] aspiraciones</VFEA_Intimidate.logRulesInitiator.rulesStrings.8>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.9>negative-&gt;debería rendirse ante la colonia</VFEA_Intimidate.logRulesInitiator.rulesStrings.9>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.10>negative-&gt;debería dar información</VFEA_Intimidate.logRulesInitiator.rulesStrings.10>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.11>threat-&gt;tortura</VFEA_Intimidate.logRulesInitiator.rulesStrings.11>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.12>threat-&gt;castigo</VFEA_Intimidate.logRulesInitiator.rulesStrings.12>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.13>threat-&gt;mutilación</VFEA_Intimidate.logRulesInitiator.rulesStrings.13>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.14>threat-&gt;hambruna</VFEA_Intimidate.logRulesInitiator.rulesStrings.14>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.15>threat-&gt;encarcelamiento de por vida</VFEA_Intimidate.logRulesInitiator.rulesStrings.15>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.16>threat-&gt;muerte</VFEA_Intimidate.logRulesInitiator.rulesStrings.16>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.17>threat-&gt;aislamiento</VFEA_Intimidate.logRulesInitiator.rulesStrings.17>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.18>threat-&gt;desmembramiento</VFEA_Intimidate.logRulesInitiator.rulesStrings.18>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.19>threat-&gt;quemaduras</VFEA_Intimidate.logRulesInitiator.rulesStrings.19>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.20>threat-&gt;laceraciones</VFEA_Intimidate.logRulesInitiator.rulesStrings.20>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.21>threat-&gt;canibalismo</VFEA_Intimidate.logRulesInitiator.rulesStrings.21>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.22>threat-&gt;cosecha de órganos</VFEA_Intimidate.logRulesInitiator.rulesStrings.22>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.23>threat-&gt;largo confinamiento</VFEA_Intimidate.logRulesInitiator.rulesStrings.23>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.24>refused-&gt;intenta escapar</VFEA_Intimidate.logRulesInitiator.rulesStrings.24>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.25>refused-&gt;insulta a la colonia</VFEA_Intimidate.logRulesInitiator.rulesStrings.25>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.26>refused-&gt;se resiste a rendirse</VFEA_Intimidate.logRulesInitiator.rulesStrings.26>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.27>refused-&gt;se comporta de forma impertinente</VFEA_Intimidate.logRulesInitiator.rulesStrings.27>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.28>disillusionment-&gt;debería aceptar [RECIPIENT_possessive] situación</VFEA_Intimidate.logRulesInitiator.rulesStrings.28>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.29>disillusionment-&gt;no tiene esperanza de ningún otro futuro</VFEA_Intimidate.logRulesInitiator.rulesStrings.29>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.30>disillusionment-&gt;debería rendirse</VFEA_Intimidate.logRulesInitiator.rulesStrings.30>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.31>disillusionment-&gt;no sobrevivirá por si mismo</VFEA_Intimidate.logRulesInitiator.rulesStrings.31>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.32>disillusionment-&gt;que no tiene ninguna opción además de rendirse</VFEA_Intimidate.logRulesInitiator.rulesStrings.32>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.33>givein-&gt;entregarse</VFEA_Intimidate.logRulesInitiator.rulesStrings.33>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.34>givein-&gt;entregue</VFEA_Intimidate.logRulesInitiator.rulesStrings.34>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.35>givein-&gt;rinda</VFEA_Intimidate.logRulesInitiator.rulesStrings.35>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings.36>givein-&gt;ceda</VFEA_Intimidate.logRulesInitiator.rulesStrings.36>
+  <VFEA_RomanceAttempt_Lustful.label>intento de romance</VFEA_RomanceAttempt_Lustful.label>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.0>r_logentry-&gt;[INITIATOR_nameDef] [wooed] [RECIPIENT_nameDef] [wootactic].</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.0>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.1>wooed-&gt;intenta flirtear con</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.1>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.2>wooed-&gt;flirtea con</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.2>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.3>wooed-&gt;intenta atraer a</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.3>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.4>wooed-&gt;intenta encantar a</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.4>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.5>wooed-&gt;intenta cortejar a</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.5>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.6>wooed-&gt;corteja a</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.6>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.7>wooed-&gt;persigue a</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.7>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.8>wooed-&gt;intenta encantar a</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.8>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.9>wooed-&gt;corteja a</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.9>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.10>wootactic(p=4)-&gt;[complimenting] [RECIPIENT_possessive] [PersonalCharacteristic]</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.10>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.11>wootactic-&gt;contándole una historia sobre [TalkTopicAny]</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.11>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.12>wootactic-&gt;contándole un cuento sobre [TalkTopicAny]</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.12>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.13>wootactic-&gt;bromeando sobre [TalkTopicAny]</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.13>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.14>wootactic-&gt;haciendo una observación sobre [TalkTopicAny]</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.14>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.15>wootactic(p=2)-&gt;[boasting] [INITIATOR_possessive] [PersonalCharacteristic]</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.15>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.16>wootactic-&gt;comparing [RECIPIENT_objective] to a [romantic_adj] [romantic_noun]</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.16>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.17>wootactic-&gt;describing [RECIPIENT_objective] as a [romantic_adj] [romantic_noun]</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.17>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.18>boasting-&gt;alardaeando sobre</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.18>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.19>boasting-&gt;mencionando</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.19>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.20>boasting-&gt;insinuando cosas buenas sobre</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.20>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.21>boasting-&gt;exagerando</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.21>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.22>boasting-&gt;hablando sobre</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.22>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.23>boasting-&gt;llamando la atención sobre</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.23>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.24>complimenting(p=3)-&gt;felicitando</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.24>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.25>complimenting-&gt;felicitando sutilmente</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.25>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.26>complimenting-&gt;alabando</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.26>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.27>complimenting-&gt;elogiando</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.27>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.28>complimenting-&gt;diciendo cosas buenas sobre</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.28>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.29>complimenting(p=2)-&gt;burlándose juguetonamente de</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.29>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.30>complimenting-&gt;bromeando sobre</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.30>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.31>complimenting-&gt;felicitando de forma jocosa </VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.31>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.32>complimenting-&gt;cuestionando traviesamente</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.32>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.33>complimenting-&gt;burlándose alegremente</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.33>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.34>romantic_adj-&gt;hermoso</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.34>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.35>romantic_adj-&gt;brillante</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.35>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.36>romantic_adj-&gt;brillante</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.36>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.37>romantic_adj-&gt;celestial</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.37>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.38>romantic_adj-&gt;dorado</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.38>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.39>romantic_adj-&gt;brillante</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.39>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.40>romantic_adj-&gt;impresionante</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.40>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.41>romantic_adj-&gt;encantador</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.41>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.42>romantic_adj-&gt;deslumbrante</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.42>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.43>romantic_adj-&gt;delicado</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.43>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.44>romantic_adj-&gt;bueno</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.44>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.45>romantic_adj-&gt;magnifico</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.45>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.46>romantic_adj-&gt;encantadora</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.46>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.47>romantic_adj-&gt;maravillosa</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.47>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.48>romantic_adj(p=3)-&gt;[AdjectiveBadass]</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.48>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.49>romantic_noun-&gt;flor</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.49>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.50>romantic_noun-&gt;primavera</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.50>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.51>romantic_noun-&gt;rio</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.51>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.52>romantic_noun-&gt;estrella</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.52>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.53>romantic_noun-&gt;luna</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.53>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.54>romantic_noun-&gt;sol</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.54>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.55>romantic_noun-&gt;casa</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.55>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.56>romantic_noun-&gt;aurora</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.56>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.57>romantic_noun-&gt;[TreeType] árbol</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.57>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.58>romantic_noun(p=2)-&gt;[TerrainFeature]</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.58>
+  <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.59>romantic_noun(p=2)-&gt;[NaturalObject]</VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings.59>
+</LanguageData>

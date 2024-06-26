@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Bandit.label>bandido</Bandit.label>
+  <BountyHunter.label>caza recompensa</BountyHunter.label>
+  <Outlaw.label>forajido</Outlaw.label>
+  <Gunslinger.label>pistolero</Gunslinger.label>
+  <BanditLeader.label>líder bandido</BanditLeader.label>
+  <BanditLeader.labelPlural>lideres de bandidos</BanditLeader.labelPlural>
+  <VFES_Bandit.label>bandido</VFES_Bandit.label>
+  <Settler.label>colono</Settler.label>
+  <Deputy.label>diputado</Deputy.label>
+  <Militia.label>milicia</Militia.label>
+  <Frontier_Trader.label>comerciante de la frontera</Frontier_Trader.label>
+  <Sheriff.label>sheriff</Sheriff.label>
+  <Mayor.label>alcalde</Mayor.label>
+  <Mayor.labelPlural>alcaldes</Mayor.labelPlural>
+</LanguageData>

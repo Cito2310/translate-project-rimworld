@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEA_Mending.label>reparar</VFEA_Mending.label>
+  <VFEA_Mending.description>Usar una estación de reparación para reparar vestimenta y armas.</VFEA_Mending.description>
+  <VFEA_Mending.generalRules.rulesStrings.0>subject-&gt;arte de la renovación</VFEA_Mending.generalRules.rulesStrings.0>
+  <VFEA_Mending.generalRules.rulesStrings.1>subject_story-&gt;creando estaciones de reparación para arreglar vestimentas y armas gastadas, dejándolas como nuevas</VFEA_Mending.generalRules.rulesStrings.1>
+  <VFEA_Mending.generalRules.rulesStrings.2>subject_gerund-&gt;hacer que lo viejo vuelva a ser igual de valioso con reparaciones inteligentes</VFEA_Mending.generalRules.rulesStrings.2>
+</LanguageData>

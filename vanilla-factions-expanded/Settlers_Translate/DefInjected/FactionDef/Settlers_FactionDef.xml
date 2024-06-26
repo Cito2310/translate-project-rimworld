@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFES_PlayerSettlement.label>Nueva Guarida</VFES_PlayerSettlement.label>
+  <VFES_PlayerSettlement.description>Una pequeña guarida para miembros de bandas y criminales.</VFES_PlayerSettlement.description>
+  <VFES_PlayerSettlement.leaderTitle>lider</VFES_PlayerSettlement.leaderTitle>
+  <VFES_PlayerSettlement.pawnSingular>bandido</VFES_PlayerSettlement.pawnSingular>
+  <VFES_PlayerSettlement.pawnsPlural>bandidos</VFES_PlayerSettlement.pawnsPlural>
+  <SettlerCivil.label>Asentamiento Civil</SettlerCivil.label>
+  <SettlerCivil.description>Las personas han vivido aquí por décadas o centenares, y han perdido la mayor parte de la tecnología con el que vinieron a este mundo. Tienen una gran capacidad para defenderse usando sus armas de pólvora, a la vez que pueden cumplir con su rutina diaria, como pastorear el ganado, beber alcohol y cazar recompensas.\n\nSe preocupan por el comercio, la confianza y la supervivencia.\n\nEste grupo en particular tiene en alta estima los comportamientos civilizados.</SettlerCivil.description>
+  <SettlerCivil.leaderTitle>alcalde</SettlerCivil.leaderTitle>
+  <SettlerCivil.pawnSingular>colono</SettlerCivil.pawnSingular>
+  <SettlerCivil.pawnsPlural>colonos</SettlerCivil.pawnsPlural>
+  <SettlerRough.label>colonos rudos</SettlerRough.label>
+  <SettlerRough.description>Las personas han vivido aquí por décadas o centenares, y han perdido la mayor parte de la tecnología con el que vinieron a este mundo. Tienen una gran capacidad para defenderse usando sus armas de pólvora, a la vez que pueden cumplir con su rutina diaria, como pastorear el ganado, beber alcohol y cazar recompensas.\n\nNo se preocupan por el comercio o la confianza.\n\nEste grupo en particular cree que nadie es creado como igual, y solo la fuerza les permite sobrevivir en la frontera.</SettlerRough.description>
+  <SettlerRough.leaderTitle>alcalde</SettlerRough.leaderTitle>
+  <SettlerRough.pawnSingular>colono</SettlerRough.pawnSingular>
+  <SettlerRough.pawnsPlural>colonos</SettlerRough.pawnsPlural>
+  <SettlerSavage.label>bandidos</SettlerSavage.label>
+  <SettlerSavage.description>Las personas han vivido aquí por décadas o centenares, y han perdido la mayor parte de la tecnología con el que vinieron a este mundo. Son una confederación de bandas de bandidos que han acordado luchar contra forasteros, en vez de luchar entre sí.\n\nLos bandidos no cultivan, ni construyen y rara vez comercian. Impulsados por una cultura de honor y sangre, le dan un gran valor personal a la fuerza y la crueldad, se enriquecen asaltando y robando a sus vecinos más productivos.</SettlerSavage.description>
+  <SettlerSavage.leaderTitle>alcalde</SettlerSavage.leaderTitle>
+  <SettlerSavage.pawnSingular>colono</SettlerSavage.pawnSingular>
+  <SettlerSavage.pawnsPlural>colonos</SettlerSavage.pawnsPlural>
+</LanguageData>

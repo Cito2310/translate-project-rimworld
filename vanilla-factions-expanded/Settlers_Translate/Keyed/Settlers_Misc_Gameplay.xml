@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <delayDays>delay (días)</delayDays>
+  <CaravanRaidLabel>Asalto de caravana de {0}</CaravanRaidLabel>
+  <CaravanRaidDialogue>Haz recibido una información sobre una caravana de {0} que ha acampado cerca. Ahora sería un buen momento para asaltarlo, aunque usualmente las caravanas suelen están vigiladas.</CaravanRaidDialogue>
+  <WantedLabel>Buscado de {0}</WantedLabel>
+  <WantedDialogue>{0} ha ofrecido una recompensa por {PAWN_nameDef}, es un vil criminal que muchas atrocidades bajo {PAWN_possessive} nombre. {PAWN_nameDef} es buscado por {1} ofrecen {2} de plata si se lo entrega muerto, el doble si se lo entrega vivo a uno de los asentamientos de {0}.</WantedDialogue>
+  <WantedTurnIn>Entregar a {PAWN_nameDef}</WantedTurnIn>
+  <WantedTurnInDescDead>Entrega el cuerpo de {PAWN_nameDef} para la recompensa.</WantedTurnInDescDead>
+  <WantedTurnInDescAlive>Entrega al criminal {PAWN_nameDef} para la recompensa.</WantedTurnInDescAlive>
+  <WantedTurnInLabel>{PAWN_nameDef} entregado .</WantedTurnInLabel>
+  <WantedTurnInMessageDead>Has entregado el cuerpo de {PAWN_nameDef} por {0} de plata.</WantedTurnInMessageDead>
+  <WantedTurnInMessageAlive>Has entregado al criminal {PAWN_nameDef} vivo por {0} de plata.</WantedTurnInMessageAlive>
+  <WantedHediff>Buscado por {0}, por {1} de plata</WantedHediff>
+  <DefaultSettings>Configuraciones por defecto</DefaultSettings>
+  <MinReward>Mínima premio por recompensas: {0}</MinReward>
+  <MaxReward>Máximo premio por recompensas: {0}</MaxReward>
+  <Chemsined>Debería muffalo optar por tu quimialcohol: {0}</Chemsined>
+  <ProtectionFeeLabel>Protection fee</ProtectionFeeLabel>
+  <ProtectionFeeDialogue>Una banda de matones enviados por {0} te llama desde cerca. \n\nOfrecen mantener a tu colonia a salvo de cualquier amenaza, incluso las potencialmente causadas por ellos, siempre que pagues una tarifa de {1} de plata. \n\nTenga cuidado: la negativa puede enojar a los matones.</ProtectionFeeDialogue>
+  <ProtectionFeeAgree>Aceptar oferta y pagar</ProtectionFeeAgree>
+  <ProtectionFeeAgreeDialogue>Los matones de {0} parecen estar contentos con el trato y cortan la comunicación.</ProtectionFeeAgreeDialogue>
+  <ProtectionFeeDisagree>Rechazar pago</ProtectionFeeDisagree>
+  <ProtectionFeeDisagreeDialogue>Los matones de {0} parecen estar contentos de que rechaces su oferta y cortan la comunicación justo después de asegurarte que no pueden garantizar tu seguridad.</ProtectionFeeDisagreeDialogue>
+  <ProtectionFeeNotEnoughSilver>Sin plata suficiente</ProtectionFeeNotEnoughSilver>
+  <DrunkMuffaloTitle>Chemshined Muffalos</DrunkMuffaloTitle>
+  <DrunkMuffaloMessage>Una pequeña manada de muffalos llegaron a tu área. Parecería que han encontrado un alijo secreto de quimialcohol, lo que les hace desearlo aún más. Cuidado con sus travesuras de borrachos.</DrunkMuffaloMessage>
+  <ContainsChemfuel>Contiene {0} / {1} quimicombustible.</ContainsChemfuel>
+  <ContainsChemshine>Contiene {0} / {1} quimialcohol.</ContainsChemshine>
+  <NoChemfuel>necesita quimicombustible</NoChemfuel>
+  <VFES_InsertFirstItemDesc>Quimicombustible</VFES_InsertFirstItemDesc>
+  <VFES_bringIngredientsText>Llevar quimicombustible</VFES_bringIngredientsText>
+  <VFES_bringIngredientsDesc>Llevar quimicombustible al barril de quimialcohol para empezar la fermentación</VFES_bringIngredientsDesc>
+  <VFES_cancelIngredientsText>Cancelar llevado de quimicombustible</VFES_cancelIngredientsText>
+  <VFES_cancelIngredientsDesc>Cancelar llevado de quimicombustible al barril de quimialcohol.</VFES_cancelIngredientsDesc>
+  <VFES_removeProductText>Eliminar quimialcohol</VFES_removeProductText>
+  <VFES_removeProductDesc>Eliminar quimialcohol del barril de quimialcohol.</VFES_removeProductDesc>
+  <VFES_Target>Objetivo de recompensa</VFES_Target>
+  <VFES_TargetDesc>El objetivo de la recompensa {0} esta localizado en este puesto de avanzada.</VFES_TargetDesc>
+</LanguageData>

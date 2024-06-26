@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEAncients_RangedCooldownFactor.label>enfriamiento con armas de a distancia</VFEAncients_RangedCooldownFactor.label>
+  <VFEAncients_RangedCooldownFactor.description>El tiempo de enfriamiento con armas a distancia de este colono se multiplicara por este valor.</VFEAncients_RangedCooldownFactor.description>
+  <VFEAncients_MeleeCooldownFactor.label>enfriamiento cuerpo a cuerpo</VFEAncients_MeleeCooldownFactor.label>
+  <VFEAncients_MeleeCooldownFactor.description>El tiempo de enfriamiento con armas cuerpo a cuerpo de este colono se multiplicara por este valor.</VFEAncients_MeleeCooldownFactor.description>
+  <VFEA_FailChance.label>posibilidad de fallar</VFEA_FailChance.label>
+  <VFEA_FailChance.description>La posibilidad de fallar una operación de inyección de nanitas.</VFEA_FailChance.description>
+  <VFEA_InjectingTimeFactor.label>Factor de tiempo de inyección injecting time factor</VFEA_InjectingTimeFactor.label>
+  <VFEA_InjectingTimeFactor.description>Un multiplicador de la velocidad de la capsula del tejedor-genético. Se puede reducir encontrando e instalando bombas inyectoras de super-nanitas.</VFEA_InjectingTimeFactor.description>
+</LanguageData>

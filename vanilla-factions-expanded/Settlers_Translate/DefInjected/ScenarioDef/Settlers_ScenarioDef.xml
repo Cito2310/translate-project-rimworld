@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFES_Bandits.label>Bandidos</VFES_Bandits.label>
+  <VFES_Bandits.description>Después del ultimo trabajo, que iba a ser el ultimo, tu y otros miembros de la banda se han visto forzado a huir sin mirar atrás. Lo único que tienes son las cosas que has obtenido de robar, extorsionar y encontraste en el camino. Tu comportamiento salvaje te ha dado una mala reputación, y mejorar las relaciones con otras facciones te costara un largo rato.\n\nNota: Empezar sin suministros y con las otras facciones enfadadas, este escenario es difícil.</VFES_Bandits.description>
+  <VFES_Bandits.scenario.description>Después del ultimo trabajo, que iba a ser el ultimo, tu y otros miembros de la banda se han visto forzado a huir sin mirar atrás. Lo único que tienes son las cosas que has obtenido de robar, extorsionar y encontraste en el camino. Tu comportamiento salvaje te ha dado una mala reputación, y mejorar las relaciones con otras facciones te costara un largo rato.\n\nNota: Empezar sin suministros y con las otras facciones enfadadas, este escenario es difícil.</VFES_Bandits.scenario.description>
+  <VFES_Bandits.scenario.name>Bandidos</VFES_Bandits.scenario.name>
+  <VFES_Bandits.scenario.parts.GameStartDialog.text>Después del ultimo trabajo, que iba a ser el ultimo, tu y otros miembros de la banda se han visto forzado a huir sin mirar atrás. Lo único que tienes son las cosas que has obtenido de robar, extorsionar y encontraste en el camino. Tu comportamiento salvaje te ha dado una mala reputación, y mejorar las relaciones con otras facciones te costara un largo rato.</VFES_Bandits.scenario.parts.GameStartDialog.text>
+  <VFES_Bandits.scenario.summary>Un grupo de bandidos intentando hacerse un nombre por si mismo. Muy difícil.</VFES_Bandits.scenario.summary>
+</LanguageData>

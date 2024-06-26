@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEA_OutsideHomeArea.stages.outside_of_home_area.label>fuera del área del hogar</VFEA_OutsideHomeArea.stages.outside_of_home_area.label>
+  <VFEA_OutsideHomeArea.stages.outside_of_home_area.description>Estoy fuera del área del hogar. Los enemigos están por todas partes, quiero volver.</VFEA_OutsideHomeArea.stages.outside_of_home_area.description>
+  <VFEA_EmpathyCast.stages.empathy.label>empatía</VFEA_EmpathyCast.stages.empathy.label>
+  <VFEA_EmpathyCast.stages.empathy.description>Me siento bien a pesar de las cosas malas.</VFEA_EmpathyCast.stages.empathy.description>
+  <VFEA_AcquiredSuperpower.stages.got_a_superpower.label>tengo un superpoder</VFEA_AcquiredSuperpower.stages.got_a_superpower.label>
+  <VFEA_AcquiredSuperpower.stages.got_a_superpower.description>Me siento... invencible!</VFEA_AcquiredSuperpower.stages.got_a_superpower.description>
+</LanguageData>

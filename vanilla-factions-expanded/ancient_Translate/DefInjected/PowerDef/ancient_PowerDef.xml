@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SuperJump.label>super salto</SuperJump.label>
+  <SuperJump.description>Los músculos de las piernas del sujeto están mejoradas con más fibras y tienen un esqueleto más resistente a los impactos. Esto permite saltar algunas decenas de metros y aterrizar sin lesiones.</SuperJump.description>
+  <Telepathy.label>telepatía</Telepathy.label>
+  <Telepathy.description>El sujeto es capaz de abrumar mentalmente la mente del objetivo.</Telepathy.description>
+  <PsychicShock.label>shock psíquico</PsychicShock.label>
+  <PsychicShock.description>El sujeto es capaz de dejar en shock la mente del objetivo con imágenes caóticas, bloqueando la percepción y sumiéndolo en un estado de shock psíquico.</PsychicShock.description>
+  <Invisibility.label>invisibilidad</Invisibility.label>
+  <Invisibility.description>El sujeto es capaz de generar un campo psíquico alrededor del cuerpo que previene que otros lo vean o incluso reconozcan su existencia durante un breve periodo de tiempo.</Invisibility.description>
+  <SelfControl.label>auto-control</SelfControl.label>
+  <SelfControl.description>El sujeto ha logrado dominar su auto-control, capaz de decidir activamente parar cualquier colapso mental obligándole psíquicamente a revivir un recuerdo preciado que lo devuelve a la realidad. Después, necesitarán 2 días para establecer una memoria diferente.</SelfControl.description>
+  <Overshield.label>escudo protector</Overshield.label>
+  <Overshield.description>El sujeto es capaz de generar un escudo protector que repele los projectiles durante 30 segundos. El proceso es extremadamente agotador para el usuario y toma 3 minutos para volver a generarlo.</Overshield.description>
+  <SummonLightning.label>generar luz</SummonLightning.label>
+  <SummonLightning.description>El sujeto es capaz de generar un diferencia de presión en la atmosfera que genera un foco de luz localizado. Este órgano psíquico esta localizado en las base del cráneo y se puede usar cada 2 minutos.</SummonLightning.description>
+  <AnimalSpeech.label>habla animal</AnimalSpeech.label>
+  <AnimalSpeech.description>El sujeto es capaz de sobrecargarse psíquicamente de las hormonas animales una vez al día, convenciéndolos que es miembro de la especie. Puede calmar a los animales en estado de caza-hombre y puede convencer animales para que se unan a la colonia.</AnimalSpeech.description>
+  <Empathy.label>empatía</Empathy.label>
+  <Empathy.description>El sujeto es capaz de causar en el cuerpo de un aliado una cantidad masiva de endorfinas a través de una emisión de hormonas. El aumento de humor dura un día entero y se puede realizar una vez al día.</Empathy.description>
+  <HealOthers.label>curar a otros</HealOthers.label>
+  <HealOthers.description>El sujeto puede causar en el cuerpo de un aliado se cure rápidamente de las heridas, a través de la emisión de hormonas y de una niebla rica en nutrientes.</HealOthers.description>
+  <GloryKill.label>asesinato glorioso</GloryKill.label>
+  <GloryKill.description>El sujeto es capaz de obligarse a adoptar una respuesta de luchar o huir y recibe una dosis masiva de adrenalina a través de una glándula suprarrenal agrandada. Este aumenta su fuerza permitiéndole hacer ataques aleatorios a los enemigos cercanos y destrozarlo, sin embargo, esto es extremadamente agotador, el usuario necesita 5 días para volver a usarlo.</GloryKill.description>
+  <ElectromagneticPulse.label>pulso electro-magnetico</ElectromagneticPulse.label>
+  <ElectromagneticPulse.description>El sujeto ha desarrollado una glándula que es capaz de absorber la energía de su alrededor y almacenarlo. También posee un nódulo que se irrita rápidamente para generar un impulso de radiación electromagnética.</ElectromagneticPulse.description>
+  <FireBreath.label>aliento de fuego</FireBreath.label>
+  <FireBreath.description>El sujeto desarrollo una glándula en la parte posterior de la garganta y un saco de quimicombustible en el pecho. Puede contraer el pecho para lanzar un chorro a media distancia prendiendo fuego a todos a su paso.</FireBreath.description>
+  <IceBreath.label>aliento helado</IceBreath.label>
+  <IceBreath.description>El sujeto desarrollo una glándula en la parte posterior de la garganta y unos sacos de neutroamina en el pecho. Puede contraer el pecho para lanzar un chorro a media distancia de un liquido que se vaporiza rápidamente, ralentizando a los objetivos e induciéndoles hipotermia.</IceBreath.description>
+  <LaserEyes.label>ojo laser</LaserEyes.label>
+  <LaserEyes.description>El sujeto es capaz de generar temporalmente dos portales vinculados al núcleo de una estrella cercana. Esta energía es dirigida hacia lo que este mirando el sujeto, generando un poderoso laser de energía con un rango medio.</LaserEyes.description>
+  <MatterPhasing.label>desfase de la materia</MatterPhasing.label>
+  <MatterPhasing.description>El sujeto es capaz de psíquicamente convencer a su cuerpo que puede existir en la posición en el mismo espacio-tiempo que otro objeto, específicamente puede caminar a través de las paredes. Esto es extremadamente estresante para el cuerpo y solo se puede hacer durante 10 segundos con 60 segundos de enfriamiento.</MatterPhasing.description>
+  <ElectricityBlast.label>blaster eléctrico</ElectricityBlast.label>
+  <ElectricityBlast.description>El sujeto es capaz de producir una masiva cantidad de electricidad hacia una serie de objetivo despojando psíquicamente a los electrones de sus cuerpos y redirigiendo el rayo con su propio cuerpo. Muy efectivo contra enemigos robóticos pero necesita 60 segundos para recargarse.</ElectricityBlast.description>
+  <SpeedBurst.label>aumento de velocidad</SpeedBurst.label>
+  <SpeedBurst.description>El sujeto es capaz de obligarse a adoptar una respuesta de lucha o huida y recibir una dosis masiva de adrenalina permitida a través de una glándula suprarrenal agrandada. Esto, le permite atacar el doble de rápido durante el combate cuerpo a cuerpo, además de cuadriplicar la velocidad de movimiento.</SpeedBurst.description>
+  <AcidSpitting.label>escupir acido</AcidSpitting.label>
+  <AcidSpitting.description>El sujeto ha desarrollo un saco de químicos concentradas en el pecho. El saco esta conectado mediante tubos a la boca y pueden expulsarse contrayendo el pecho, reaccionando con el oxígeno y formando un elemento viscoso.</AcidSpitting.description>
+  <Fireball.label>bola de fuego</Fireball.label>
+  <Fireball.description>El sujeto ha desarrollado un saco de quimicombustible viscoso en la palma de sus manos junto con numerosas glándulas. Cada 30 segundos, estas glándulas pueden expulsar napalm en la mano para luego ser lanzado para encenderlo con la reacción del aire, prendiendo fuego una pequeña área.</Fireball.description>
+  <Metamorphosis.label>metamorfosis</Metamorphosis.label>
+  <Metamorphosis.description>El sujeto es capaz de temporalmente usar su fuerza psíquica para obligar a su cuerpo que adopte una figura según su mente debería ser.</Metamorphosis.description>
+  <PlasteelClaws.label>garras de plastiacero</PlasteelClaws.label>
+  <PlasteelClaws.description>El sujeto ha desarrollados una garras de hueso recubiertas de plastiacero dentro de sus manos, que se puede extender a través del nudillo entre los espacios de los dedos. Sirve como una arma cuerpo a cuerpo, extremadamente mortal, rápida y reactiva.</PlasteelClaws.description>
+  <PlasteelClaws.effectDescription>Garras potentes y retractiles. Causan mucho daño en el combate cuerpo a cuerpo.</PlasteelClaws.effectDescription>
+  <Unstoppable.label>imparable</Unstoppable.label>
+  <Unstoppable.description>El cerebro del sujeto no es capaz de procesar la sensación del dolor. Esto le permite aguantar mucho más durante el combate pero también causara que reciba más daño porque ya no se rinde tan fácilmente.</Unstoppable.description>
+  <Unstoppable.effectDescription>100% de resistencia al dolor.</Unstoppable.effectDescription>
+  <EagleEye.label>ojo de aguila</EagleEye.label>
+  <EagleEye.description>La percepción de profundidad del sujeto es remarcablemente mejor junto a su velocidad de reacción, permitiéndole ajustar rápidamente el arco de caída del proyectil para acertar a sus objetivos al doble de distancia que lo normal.</EagleEye.description>
+  <EagleEye.effectDescription>El doble de rango con las armas a distancia.</EagleEye.effectDescription>
+  <Marksmanship.label>puntería</Marksmanship.label>
+  <Marksmanship.description>La percepción de profundidad del sujeto es remarcablemente mejor junto a su agudeza visual, dándole una precisión perfecta con las armas a distancia.</Marksmanship.description>
+  <Assassin.label>asesino</Assassin.label>
+  <Assassin.description>El sujeto es capaz de asestar golpes muy precisos tanto en el cuerpo a cuerpo o a distancia, sabiendo exactamente donde disparar o golpear para dar en el cerebro o corazón del objetivo.</Assassin.description>
+  <Assassin.effectDescription>Todos los ataques darán en los órganos vitales (cerebro y corazón).</Assassin.effectDescription>
+  <SuperStrength.label>super fuerza</SuperStrength.label>
+  <SuperStrength.description>Los músculos del sujeto han sido mejorados con unas fibras más densas, incrementando en gran medida su ratio de fuerza-masa, haciéndoles el doble de fuerte que antes. Esto duplica el daño cuerpo a cuerpo e incrementa la capacidad de su inventario.</SuperStrength.description>
+  <SuperStrength.effectDescription>Doble daño cuerpo a cuerpo. Doble capacidad de inventario en caravana y en el mapa.</SuperStrength.effectDescription>
+  <MartialArtist.label>artista marcial</MartialArtist.label>
+  <MartialArtist.description>La velocidad de reacción del sujeto ha sido mejorado en gran medida junto ha su coordinación mano-ojo, permitiéndole asestar siempre los golpes y jamás ser golpeado en el combate cuerpo a cuerpo.</MartialArtist.description>
+  <MartialArtist.effectDescription>Jamás errara los golpes cuerpo a cuerpo. Siempre esquivara los golpes cuerpo a cuerpo.</MartialArtist.effectDescription>
+  <BulletproofSkin.label>piel antibalas</BulletproofSkin.label>
+  <BulletproofSkin.description>La piel y las fibras musculares del sujeto es increíblemente denso, previniendo que sufra de cualquier tipo de corte. Esto no previene los hematomas ni el daño a los huesos.</BulletproofSkin.description>
+  <BulletproofSkin.effectDescription>Todos los daños cortantes recibido se transformara a daño contundente.</BulletproofSkin.effectDescription>
+  <PlasteelSkeleton.label>esqueleto de plastiacero</PlasteelSkeleton.label>
+  <PlasteelSkeleton.description>La estructura esquelética del sujeto es más lento se esta totalmente hecho de plastiacero. Sus huesos jamás se dañaran o romperán.</PlasteelSkeleton.description>
+  <PlasteelSkeleton.effectDescription>Inmunidad a las quebraduras de huesos.</PlasteelSkeleton.effectDescription>
+  <SelfResurrection.label>auto-resurreción</SelfResurrection.label>
+  <SelfResurrection.description>El sujeto es prácticamente un zombi, cuando su cuerpo y/o su mente falle, el cuerpo entrara en un estado de suspensión. Después de 3 días, el cuerpo se recuperará de cualquier herida grave y resucitará, aún con la mayoría de sus heridas.</SelfResurrection.description>
+  <SelfResurrection.effectDescription>Este colono no morirá, y mientras el cuerpo exista, tiempo después de morir, el peón resucitara.</SelfResurrection.effectDescription>
+  <RedundantStomach.label>estomago redudante</RedundantStomach.label>
+  <RedundantStomach.description>El cuerpo del sujeto se ha adaptado a extraer la energía del entorno haciéndolo que ya no necesite comer. Estas fuentes de energía pueden ser toxinas, campos EMP, la luz solar, la energía estática y la radiación.</RedundantStomach.description>
+  <RedundantStomach.effectDescription>Regenera el hambre de forma pasiva, removiendo la necesidad de comer.</RedundantStomach.effectDescription>
+  <Darkvision.label>visión oscura</Darkvision.label>
+  <Darkvision.description>El sujeto ha desarrollado unas membranas reflectoras en el fondo de sus ojos, que además son ligeramente bioluminiscentes, y sus pupilas se vuelven verticales. Esto significa que puede ver en la oscuridad como si fuera de día.</Darkvision.description>
+  <Darkvision.effectDescription>No hay penalidad por la oscuridad y debuff del humor.</Darkvision.effectDescription>
+  <RegeneratingLimbs.label>regeneración de los miembros</RegeneratingLimbs.label>
+  <RegeneratingLimbs.description>El cuerpo del sujeto ha desarrollado una colonia fúngica mutada capaz de replicar los órganos y miembros faltantes.</RegeneratingLimbs.description>
+  <RegeneratingLimbs.effectDescription>Los órganos y miembros faltantes faltantes vuelven a crecer después de un tiempo.</RegeneratingLimbs.effectDescription>
+  <EfficientBuilder.label>constructor eficiente</EfficientBuilder.label>
+  <EfficientBuilder.description>El sujeto ha desarrollado una capacidad inusual para detectar y predecir las tensiones en las estructuras, lo que les permite ahorrar una cuarta parte de los recursos la mitad de las veces sin poner en riesgo la integridad estructural.</EfficientBuilder.description>
+  <EfficientBuilder.effectDescription>50% de posibilidad que al construir recuperes un 25% de los recursos.</EfficientBuilder.effectDescription>
+  <MasterfulCraft.label>artesano maestro</MasterfulCraft.label>
+  <MasterfulCraft.description>La sensibilidad táctil y la coordinación mano-ojo del sujeto ha incrementado en gran medida, dándole una excelente habilidad con las manos y haciendo que consistentemente haga artículos 2 grados mejor que lo normal.</MasterfulCraft.description>
+  <MasterfulCraft.effectDescription>Los artículos creados siempre serán 2 calidad más alto, con un limite en Legendario.</MasterfulCraft.effectDescription>
+  <ColdResistance.label>resistencia al frio</ColdResistance.label>
+  <ColdResistance.description>El sujeto ha desarrollado unos pequeños nódulos por todo el cuerpo capaz de prevenir el sufrimiento por el frio. Funciona sobreestimulando los músculos del cuerpo haciendo que generen calor, generando un tipo de temblor que aprender a ignorar, incluso al dormir.</ColdResistance.description>
+  <ColdResistance.effectDescription>Jamás sufrirán de hipotermia. No sufrirán de los debuff por le frío.</ColdResistance.effectDescription>
+  <HeatResistance.label>resistencia al calor</HeatResistance.label>
+  <HeatResistance.description>El sujeto ha desarrollado unos pequeños nódulos por todo el cuerpo capaz de prevenir el sufrimiento por el calor. Funciona sobreestimulando las glándulas de sudor en el cuerpo haciendo que jamás sufran de los golpes de calor, no se les puede prender fuego e ignoran el asco de estar sudorosos.</HeatResistance.description>
+  <HeatResistance.effectDescription>Jamás sufrirán de golpe de calor. No sufrirán de la penalización por el sudor. No se pueden prender fuego.</HeatResistance.effectDescription>
+  <Celebrity.label>celebridad</Celebrity.label>
+  <Celebrity.description>La empatía y la conexión social con otros del sujeto es casi legendaria. Siempre saben que decir y nadie puede olvidar lo simpáticos que son.</Celebrity.description>
+  <Celebrity.effectDescription>Todas sus interacciones son amables. A la gente le suele tratar el doble de bien los colonos Celebridad.</Celebrity.effectDescription>
+  <MasterHacker.label>hacker maestro</MasterHacker.label>
+  <MasterHacker.description>El sujeto ha desarrollado una inusual destreza mental cuando se trata de resolver códigos informáticos. Cuando se les pide explicaciones, solo puede responder "solo funciona". Esto les permite realizar los hackeos de forma instantanea.</MasterHacker.description>
+  <MasterHacker.effectDescription>Todas las operaciones de hackeo iniciados por este colono son instantaneas.</MasterHacker.effectDescription>
+  <Loner.label>solitario</Loner.label>
+  <Loner.description>El sujeto es capaz de hacer una forma de meditación Zen cuando esta solo, recreandose cuando esta en soledad.</Loner.description>
+  <Loner.effectDescription>La recreación se llena cuando esta solo en una habitación.</Loner.effectDescription>
+  <BlastResistance.label>resistente a las explosiones</BlastResistance.label>
+  <BlastResistance.description>La piel del sujeto ha cambiado a una forma no-newtoniana, endureciendose cuando se expone a proyectiles a alta velocidad como a la metralla de las granadas.</BlastResistance.description>
+  <BlastResistance.effectDescription>No recibirá daño de las explosiones.</BlastResistance.effectDescription>
+  <PromisingCandidate.label>candidato prometedor</PromisingCandidate.label>
+  <PromisingCandidate.description>A falta de mejor término, los genes del sujeto han sido perfeccionados para las alteraciones genéticas. Son completamente maleables y se pueden mejorar sin problemas ni riesgo de que falle el experimento crítico.</PromisingCandidate.description>
+  <PromisingCandidate.effectDescription>Las posibilidades que falle un experimento es de 0%.</PromisingCandidate.effectDescription>
+  <SuperLearning.label>super aprendizaje</SuperLearning.label>
+  <SuperLearning.description>El cerebro del sujeto se ha vuelto hiperelástico, lo que le permite aprender rápidamente nuevas habilidades casi sin esfuerzo.</SuperLearning.description>
+  <ToxicResistance.label>resistencia toxica</ToxicResistance.label>
+  <ToxicResistance.description>El sujeto se ha convertido en un bastión contra los químicos. Cualquier toxina que se absorba es procesada inmediatamente por el hígado, volviéndola inofensiva y, por lo tanto, es totalmente inmune a las toxinas.</ToxicResistance.description>
+  <PsychicResistance.label>resistencia psíquica</PsychicResistance.label>
+  <PsychicResistance.description>El sujeto se ha convertido en una fortaleza contra los ataques psíquicos. Cualquier efecto psíquico queda bloqueado debido a las redes orgánicas que rodean y aíslan su cerebro.</PsychicResistance.description>
+  <Regeneration.label>regeneración</Regeneration.label>
+  <Regeneration.description>La tasa de regeneración celular de este sujeto ha sido mejorado enormemente, lo que les permite curarse de casi cualquier trauma mientras las extremidades sigan presentes.</Regeneration.description>
+  <Regeneration.effectDescription>Todas las heridas se curaran rápidamente. No puede crecer los miembros.</Regeneration.effectDescription>
+  <SuperSpeed.label>super velocidad</SuperSpeed.label>
+  <SuperSpeed.description>Los músculos y el tiempo de reacción del sujeto ha sido mejorado, permitiéndoles moverse un 50% más rápido.</SuperSpeed.description>
+  <GeniusIntellect.label>genio intelectual</GeniusIntellect.label>
+  <GeniusIntellect.description>La velocidad del procesamiento mental del sujeto ha sido mejorado, resultando ha que tenga unas excelentes habilidades deductivas y analíticas. Permitiéndole investigar nuevas o ya existentes ideas el triple de rápido que antes.</GeniusIntellect.description>
+  <WeaponExpert.label>experto en armas</WeaponExpert.label>
+  <WeaponExpert.description>La velocidad de reacción del sujeto ha sido mejorado, además de su coordinación mano-ojo, reduciendo a la mitad el tiempo de apuntado y enfriamiento con las armas.</WeaponExpert.description>
+  <Blind.label>ceguera</Blind.label>
+  <Blind.description>El lugar del cerebro sujeto responsable del procesamiento óptico esta atrofiado, causando una ceguera total a pesar de tener sus ojos en perfecto estado</Blind.description>
+  <Blind.effectDescription>La visión máxima es 0%</Blind.effectDescription>
+  <Deaf.label>sordo</Deaf.label>
+  <Deaf.description>El lugar del cerebro sujeto responsable del procesamiento auditivo esta atrofiado, causando una sordera total a pesar de tener sus canales auditivos en perfecto estado.</Deaf.description>
+  <Deaf.effectDescription>La audición máxima es 0%</Deaf.effectDescription>
+  <Mute.label>mudo</Mute.label>
+  <Mute.description>El sujeto a desarrollado un bloqueo mental que no le permite crear ningún tipo de sonido con su boca y cuerdas vocales, eliminando cualquier tipo de habla.</Mute.description>
+  <Mute.effectDescription>Su habla máxima es 0%</Mute.effectDescription>
+  <PsychologicalParalysis.label>parálisis psicológica</PsychologicalParalysis.label>
+  <PsychologicalParalysis.description>El lugar del cerebro sujeto responsable del control motriz de sus piernas esta atrofiado, dejándolo parapléjico.</PsychologicalParalysis.description>
+  <PsychologicalParalysis.effectDescription>El colono no puede caminar.</PsychologicalParalysis.effectDescription>
+  <PainHypersensitivity.label>hipersensibilidad al dolor</PainHypersensitivity.label>
+  <PainHypersensitivity.description>El lugar del cerebro sujeto responsable de la sensación de dolor esta sobredesarrollado, causando que un simple corte de papel se sienta como si una bestia te este mordiendo el dedo.</PainHypersensitivity.description>
+  <PainHypersensitivity.effectDescription>El dolor se multiplica un 300%</PainHypersensitivity.effectDescription>
+  <Hypermetabolism.label>hipermetabolismo</Hypermetabolism.label>
+  <Hypermetabolism.description>El metabolismo del sujeto se ha acelerado, haciendo que requiera consumir el doble de alimentos que antes, incluso si no requiere tanta energía.</Hypermetabolism.description>
+  <Hypermetabolism.effectDescription>La tasa de hambre se multiplica un 200%</Hypermetabolism.effectDescription>
+  <Prideful.label>orgulloso</Prideful.label>
+  <Prideful.description>El sujeto ha desarrollado un sentimiento de orgullo fuera de lugar debido a su terapia genética y no toma bien el rechazo, a veces de manera violenta. Ser rechazado puede provocar un estado mental de asesino contra su interés amoroso.</Prideful.description>
+  <Prideful.effectDescription>Cuando es rechazado, tiene un 10% de entrar en un estado mental de ira asesina contra la persona que lo rechazo.</Prideful.effectDescription>
+  <Bloodlust.label>sed de sangre</Bloodlust.label>
+  <Bloodlust.description>Las glándulas hormonales del sujeto son hipersensibles, causando que la muerte de alguien genera un pico masivo de dopamina y sintiéndose muy placentero, haciendo se se vuelva adicto a matar. Esto, a su vez, puede causar que una sola muerte desate un estado de ira.</Bloodlust.description>
+  <Bloodlust.effectDescription>El matar, puede causar que entre en un estado mental de ira (50% posibilidad).</Bloodlust.effectDescription>
+  <Paranoid.label>paranoide</Paranoid.label>
+  <Paranoid.description>El sujeto ha desarrollado un caso masivo de paranoia al exterior, y solo se siente seguro cuando esta dentro del área que considera su hogar.</Paranoid.description>
+  <Paranoid.effectDescription>Cuando esta fuera del área Hogar, el colono sufrirá de un debuff de su humor.</Paranoid.effectDescription>
+  <Audacious.label>atrevido</Audacious.label>
+  <Audacious.description>El sujeto ha desarrollado un completo desprecio hacia cualquier autoridad, y solo hará lo que quiera.</Audacious.description>
+  <Audacious.effectDescription>No se le puede decir al peón que haga algo (se desactiva el click derecho y el obligar las tareas).</Audacious.effectDescription>
+  <Callous.label>cruel</Callous.label>
+  <Callous.description>El sujeto se ha vuelto insensible y desprecia la santidad de la vida, pudiendo asesinar a antiguos colegas o incluso molestar amistosamente. Mientras tengan un lugar donde sentarse, no les importa.</Callous.description>
+  <Callous.effectDescription>El estado de ánimo no se ve afectado por ver cadáveres, los colonos sin sepultar, los prisioneros vendidos como esclavos, la sustracción de órganos, el despiezado de humanos o las charlas amistosas. Esencialmente un psicópata del vainilla.</Callous.effectDescription>
+  <Immature.label>inmaduro</Immature.label>
+  <Immature.description>El sujeto ha perdido la mayoría de los métodos de expresar sus emociones, solo puede expresar su punto de vista haciendo rabietas.</Immature.description>
+  <Immature.effectDescription>La mayoría de sus colapsos mentales serán rabietas.</Immature.effectDescription>
+  <EasilyBored.label>aburrimiento rápido</EasilyBored.label>
+  <EasilyBored.description>Las funciones cognitivas del sujeto se han desarrollado demasiado y requieren el doble de estimulación recreativa para retrasar su aburrimiento.</EasilyBored.description>
+  <EasilyBored.effectDescription>La recreación del colono cae el doble de rápido.</EasilyBored.effectDescription>
+  <EasilyEnraged.label>furia rápida</EasilyEnraged.label>
+  <EasilyEnraged.description>El sujeto ha desarrollado un sentimiento de orgullo fuera de lugar debido a su terapia genética y no acepta bien las críticas, lo que lo hace caer en una rabia psicótica cada vez que lo desprecian.</EasilyEnraged.description>
+  <EasilyEnraged.effectDescription>El colono inicia una pelea cada vez que se siente despreciado.</EasilyEnraged.effectDescription>
+  <Sickly.label>enfermizo</Sickly.label>
+  <Sickly.description>La respuesta inmune del sujeto se ha arruinado, lo que requiere que visite constante el médico, ya que constantemente contraen nuevas enfermedades tal como se han recuperado de la anterior.</Sickly.description>
+  <Sickly.effectDescription>Se enferma muy a menudo.</Sickly.effectDescription>
+  <Zealot.label>fanático</Zealot.label>
+  <Zealot.description>El sujeto ha desarrollado una gran estado de fanatismo, haciendo que considere todos los que están en contra de la voluntad de la colonia no merecen vivir.</Zealot.description>
+  <Zealot.effectDescription>Matara a todos los prisioneros.</Zealot.effectDescription>
+  <Lustful.label>alto libido</Lustful.label>
+  <Lustful.description>La producción hormonal del sujeto se ha acelerado, lo que le provoca que haga constantemente comentarios o gestos repugnantes y lo genera molestias entre él y sus colegas.</Lustful.description>
+  <Lustful.effectDescription>Constantemente coquetea con los demás, pero los flirteos suelen ser rechazados. Esto arruina las relación con los que coquetea.</Lustful.effectDescription>
+  <Hallucinations.label>alucinaciones</Hallucinations.label>
+  <Hallucinations.description>El sujeto sufre regularmente alucinaciones auditivas y ópticas, esta completamente convencido de que está viendo algo que no existe. A veces intentan hacerlas desaparecer disparándolas con sus armas.</Hallucinations.description>
+  <Hallucinations.effectDescription>Casualmente entra en un colapso mental silencioso llamado "Viendo cosas", donde caminarán sin rumbo fijo, potencialmente sacando su arma y disparando una o dos veces. Este colapso mental dura muy poco tiempo y NO dará lugar a una notificación anunciándolo.</Hallucinations.effectDescription>
+  <Unstable.label>inestable</Unstable.label>
+  <Unstable.description>El cerebro del sujeto se ha sintonizado con las longitudes de onda psíquicas, lo que los hace vulnerable a los ataques psíquicos de los mecanoides, pero también a un psycaster mucho más capaz.</Unstable.description>
+  <ExtremelyFlammable.label>extremadamente inflamable</ExtremelyFlammable.label>
+  <ExtremelyFlammable.description>El cuerpo del sujeto se vuelve muy inflamable, lo que hace que una mínima chispa pueda hacer que se prenda fuego.</ExtremelyFlammable.description>
+  <ToxinIntolerance.label>intolerancia toxica</ToxinIntolerance.label>
+  <ToxinIntolerance.description>Los órganos del sujeto carecen constantemente de ciertos minerales (por ejemplo, yodo) y los absorben libremente del aire, incluso si están irradiados o unidos a sustancias químicas tóxicas.</ToxinIntolerance.description>
+  <HeatIntolerance.label>intolerancia al calor</HeatIntolerance.label>
+  <HeatIntolerance.description>El sujeto no puede generar sudor de forma apropiada, haciendo que se sobrecaliente de forma mucho más fácil, debido a que su cuerpo no puede enfriarse por si mismo. La temperatura máxima confortable se reduce en 10 grados.</HeatIntolerance.description>
+  <ColdIntolerance.label>intolerancia al frio</ColdIntolerance.label>
+  <ColdIntolerance.description>Los músculos del sujeto no pueden temblar de forma involuntaria, lo que hace que ya no puede calentarse por si mismo al estar expuesto a las bajas temperaturas. La temperatura mínima confortable aumenta en 10 grados.</ColdIntolerance.description>
+  <ImmunologicalDisorder.label>desorden inmunológico.</ImmunologicalDisorder.label>
+  <ImmunologicalDisorder.description>El sistema inmunológico del sujeto esta arruinado, requiriendo que tome frecuentemente medicinas y que reciba constante cuidados médicos, ya que incluso un resfriado puede matarlo.</ImmunologicalDisorder.description>
+  <Finicky.label>cuidadoso</Finicky.label>
+  <Finicky.description>El sujeto se ha vuelto increíblemente quisquilloso, exigiendo que presten excesiva atención a las tareas más intrascendentes y tardando tres veces más de lo habitual.</Finicky.description>
+  <Unsure.label>inseguro</Unsure.label>
+  <Unsure.description>El sujeto se ha vuelto increíblemente dudoso y sufre de frecuentes mareos, tardando el doble en localizar a sus objetivos con sus armas mientras vuelve a comprobar que están listos para disparar.</Unsure.description>
+  <AlwaysKnowsBetter.label>ya lo sabe todo</AlwaysKnowsBetter.label>
+  <AlwaysKnowsBetter.description>El sujeto ha desarrollado un sentimiento de orgullo fuera de lugar debido a su terapia genética y se niega a aprender nada nuevo, afirmando que sabe más que todos y que nadie puede mejorar la perfección.</AlwaysKnowsBetter.description>
+  <Bigot.label>intolerante</Bigot.label>
+  <Bigot.description>El sujeto se ha vuelto intolerante, cree que el gobierno de su comunidad es absoluto y se niega a tratar con prisioneros a menos que estén a punta de un cuchillo o una pistola.</Bigot.description>
+  <ConscientiousObjector.label>objetos de la conciencia</ConscientiousObjector.label>
+  <ConscientiousObjector.description>El sujeto se ha vuelto increíblemente consciente de sus acciones y se niega a usar armas o incluso defenderse ante la violencia.</ConscientiousObjector.description>
+  <Egotistical.label>ególatra</Egotistical.label>
+  <Egotistical.description>El sujeto ha desarrollado un ego masivo y rechaza hacer cualquier tipo de trabajo, considerándolo como algo inferior a él.</Egotistical.description>
+</LanguageData>

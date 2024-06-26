@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEA_LargeSupplyCrate.label>gran caja hermetica</VFEA_LargeSupplyCrate.label>
+  <VFEA_LargeSupplyCrate.description>Una gran caja con algunos recursos y componentes.  Hackearlo lleva algo de tiempo y no hay ningún riesgo.</VFEA_LargeSupplyCrate.description>
+  <VFEA_AncientBroadcastStation.label>estación de transmisión ancestral</VFEA_AncientBroadcastStation.label>
+  <VFEA_AncientBroadcastStation.description>Una antigua estación de comunicación de larga alcance que a menudo se encuentra dentro de las bóvedas antiguas. Puedes hackearla para encontrar la localización de la siguiente bóveda.</VFEA_AncientBroadcastStation.description>
+  <VFEA_PipelineJunction.label>cruce de tuberías</VFEA_PipelineJunction.label>
+  <VFEA_PipelineJunction.description>Una gran tubería subterránea de quimicombustible se conecta con un puerto exterior en este lugar. Se puede hackear y producir una gran cantidad de quimicombustible, pero el hackearlo puede llevar algo de tiempo y puede provocar una infestación.</VFEA_PipelineJunction.description>
+  <VFEA_LargeLockedDoor.label>gran puerta bloqueada</VFEA_LargeLockedDoor.label>
+  <VFEA_LargeLockedDoor.description>Una gran puerta de Bóveda, suele encontrarse en la habitación de entrada. Debido al mecanismo de auto-preservación, la puerta esta permanentemente bloqueada y requiere cierto grado de hackeo para abrirla.</VFEA_LargeLockedDoor.description>
+  <VFEA_AncientSupplyCrate.label>caja de suministros ancestral</VFEA_AncientSupplyCrate.label>
+  <VFEA_AncientSupplyCrate.description>Una caja ancestral con algunos recursos y componentes se despliega usando unos paracaídas. Hackearlo lleva algo de tiempo y puede causar un asalto, pero seguramente contiene tecnología ancestral.</VFEA_AncientSupplyCrate.description>
+  <VFEA_AncientBed.label>cama antigua</VFEA_AncientBed.label>
+  <VFEA_AncientBed.description>Una cama anticuada de metal con un colchón duro y un edredón incómodo.</VFEA_AncientBed.description>
+  <VFEA_WallLamp.label>antigua lampara de pared</VFEA_WallLamp.label>
+  <VFEA_WallLamp.description>Una lampara de pared eléctrica, ideal para iluminar los pasillos de la bóveda.</VFEA_WallLamp.description>
+  <VFEA_AncientCryptosleepSuspender.label>suspendedor de criptosueño antigua</VFEA_AncientCryptosleepSuspender.label>
+  <VFEA_AncientCryptosleepSuspender.description>Una antigua cápsula médica que utiliza criptosueño parcial para reducir el tiempo de degradación de las heridas y ayuda al cuerpo a sanar, aunque otorga los mismos efectos colaterales del criptosueño, aunque con una menor gravedad.\n\nEsta estructura fue construida por una antigua civilización y su tecnología no puede ser replicada. Nunca sufrirá de averías, y funciona de manera más eficiente durante las erupciones solares.</VFEA_AncientCryptosleepSuspender.description>
+  <VFEA_GeneTailoringPod.label>cápsula de tejedor-genético</VFEA_GeneTailoringPod.label>
+  <VFEA_GeneTailoringPod.description>El elemento principal de los proyectos de los Ancestrales para desarrollar super-soldados, la cápsula del Tejedor-Genético es el resultado de muchos experimentos dudosos para enfrentar a los Mecanoides. Los soldados se acuestan en la cápsula y se les inyecta unas nanomaquinas de un solo-uso diseñados para aumentar su fisiología.\n\nEste es el modulo principal responsable de crear super soldados, pero para mejorar la calidad, eficiencia y seguridad del proyecto, es necesarios añadir más equipamientos alrededor de la Cápsula de Tejedor-Genético.</VFEA_GeneTailoringPod.description>
+  <VFEA_SuperNaniteInjectorPump.label>bomba inyectora de super-nanitas</VFEA_SuperNaniteInjectorPump.label>
+  <VFEA_SuperNaniteInjectorPump.description>Un pequeño elemento que se conecta a la Cápsula de Tejedor-Genético permitiéndole almacenar y extraer una dosis de super-nanitas, reduciendo un día el proceso. No se puede conectar más de 10 porque el paciente necesita al menos 5 días para procesar y aceptar la transición.\n\nEste aditamento de la Cápsula de Tejedor-Genético necesita colocarse muy cerca de la cápsula y reduce en un día el tiempo de inyección.</VFEA_SuperNaniteInjectorPump.description>
+  <VFEA_SuperNaniteDialyzer.label>dializador de super-nanitas</VFEA_SuperNaniteDialyzer.label>
+  <VFEA_SuperNaniteDialyzer.description>Un elemento diseñado para comparar las super-nanitas entre si y remover la cepa más débiles, evitando que comprometan el proceso de transición. Lo ideal es que operen en pareja, cada par comparara dos cepas entre si y reduce las posibilidades de efectos secundarios en un 10% en total.\n\nEste aditamento de la Cápsula de Tejedor-Genético necesita colocarse muy cerca de la cápsula y reduce el riesgo de que falle el experimento en un 5%.</VFEA_SuperNaniteDialyzer.description>
+  <VFEA_SuperNaniteCentrifuge.label>centrifugador de super-nanitas</VFEA_SuperNaniteCentrifuge.label>
+  <VFEA_SuperNaniteCentrifuge.description>Una estructura diseñada para remover a las super-nanitas redundantes y comprometidas. Lo ideal es que operen en pareja, permitiéndole verificar el doble de veces la viabilidad, reduciendo las posibilidades de efectos secundarios en un 10% en total.\n\nEste aditamento de la Cápsula de Tejedor-Genético necesita colocarse muy cerca de la cápsula y reduce el riesgo de que falle el experimento en un 5%.</VFEA_SuperNaniteCentrifuge.description>
+  <VFEA_SimulationDrive.label>unidad de simulación</VFEA_SimulationDrive.label>
+  <VFEA_SimulationDrive.description>Una supercomputadora compacta que corre varias simulaciones del ADN del paciente reaccionando a las super-nanitas, reprogramando a estas para una proceso de transición más optimo, reduciendo las complicaciones en un 1%. Más de 10 computadoras resultaría en innecesarios duplicaciones.\n\nEste aditamento de la Cápsula de Tejedor-Genético necesita colocarse muy cerca de la cápsula y reduce el riesgo de que falle el experimento en un 1%.</VFEA_SimulationDrive.description>
+  <VFEA_GenomeStabilizer.label>estabilizador del genoma</VFEA_GenomeStabilizer.label>
+  <VFEA_GenomeStabilizer.description>Un gran elemento que lleva acabos algunas medidas reaccionarias durante la transición, intentando estabilizar el genoma y reduciendo los efectos negativos. Lo ideal es que operen en pareja, haciendo una doble verificación para garantizar que este todo en orden, reduce las posibilidades de los efectos secundarios en un 20% en total.\n\nEste aditamento de la Cápsula de Tejedor-Genético necesita colocarse muy cerca de la cápsula y reduce el riesgo de que falle el experimento en un 10%.</VFEA_GenomeStabilizer.description>
+  <VFEA_SuperNaniteContainment.label>contenedor de super-nanitas</VFEA_SuperNaniteContainment.label>
+  <VFEA_SuperNaniteContainment.description>Un contenedor que es capaz de estabilizar las dosis de super-nanitas para ser usadas en el futuro, de lo contrario, estas son super energéticas y volátiles. Previene que el deterioro de las Super-nanitas.</VFEA_SuperNaniteContainment.description>
+  <VFEA_GenomeMacrothermometer.label>macrotermometro del genoma</VFEA_GenomeMacrothermometer.label>
+  <VFEA_GenomeMacrothermometer.description>Una extensión desarrollada después de varios casos exitosos hecho con la Capsula del Tejedor-Genético, el Macrotermometro del Genoma fue diseñado para mejorar aún más a los super-soldados. Su función principal es ayudar a prevenir las fugas térmicas y la explosión de los cuerpos, esto al hacer que las super-nanitas solo interactúen con las partes del genoma que no fueron afectados en la primera Fase de la Transición. Este aditamento de la Cápsula de Tejedor-Genético necesita colocarse muy cerca de la cápsula y desbloquea una una habilidad adicional por encima del limite de 3.</VFEA_GenomeMacrothermometer.description>
+  <VFEA_StabilisedMucusInducer.label>inductor de moco estabilizado</VFEA_StabilisedMucusInducer.label>
+  <VFEA_StabilisedMucusInducer.description>Mientras que el Tejedor-Genético normal funciona alterando a los genes en su conjunto, algunos científicos lograron crear una solución alternativa creando pequeños entornos y aislados dentro de los cuales las alteraciones pueden ocurrir de forma independiente. Así, esta máquina está diseñada para insertar particiones en forma de moco estabilizado que son totalmente inertes y no causa rechazo en el cuerpo del paciente, convirtiéndose en una parte permanente de sus genomas.\n\nEste aditamento de la Cápsula de Tejedor-Genético necesita colocarse muy cerca de la cápsula y desbloquea una una habilidad adicional por encima del limite de 3.</VFEA_StabilisedMucusInducer.description>
+  <VFEA_NanotechRetractor.label>retractor nanotec</VFEA_NanotechRetractor.label>
+  <VFEA_NanotechRetractor.description>Un dispositivo especializado que permite remodelación genética de un paciente para intentar eliminar los efectos negativos generados por la terapia genética. El proceso es similar y requiere otra dosis de super-nanitas, sin embargo en este caso se utilizan para remover efectos muy específicos sin alterar los beneficios. En el caso donde hay múltiples inconvenientes, los resultados del proceso de depuración son aleatorios.\n\nEste aditamento de la Cápsula de Tejedor-Genético necesita colocarse muy cerca de la cápsula y permite una nueva operación llamado "Remover Debilidad".</VFEA_NanotechRetractor.description>
+  <VFEA_NaniteSampler.label>muestreador de nanitas</VFEA_NaniteSampler.label>
+  <VFEA_NaniteSampler.description>Una máquina curiosa que no afecta en nada el proceso de transformación. En cambio, ejecuta varias simulaciones de muestra durante la operación, usando datos a tiempo real para proporcionar la información. Cuando la conversión esta cerca de terminar, crea una elección binaria que el usuario puede seleccionar. Una vez seleccionado, esta maquina realiza algunas alteraciones menores y crea un genoma dominante y recesivo. En términos simples, permite que al terminar operación con éxito puedas elegir entre dos sets de habilidades.\n\nEste aditamento de la Cápsula de Tejedor-Genético necesita colocarse muy cerca de la cápsula y permite seleccionar entre dos sets de habilidades al terminar la operación.</VFEA_NaniteSampler.description>
+  <VFEA_AncientEducator.label>educador antiguo</VFEA_AncientEducator.label>
+  <VFEA_AncientEducator.description>Una máquina interactiva muy antigua que se usa comúnmente en las bóvedas para pasar el tiempo. Los participantes interesados se sientan al frente de él y reciben conocimientos aleatorios, y luego deben pasar una prueba. Hacer el test correctamente te da una ficha para poder reclamar una porción extra de pasta nutritiva.\n\nEsta estructura fue construido por una antigua civilización olvidada y la tecnología no puede ser replicada. Esta nunca sufrirá de averías, y se pueden usar durante las erupciones solares.</VFEA_AncientEducator.description>
+  <VFEA_AncientFoosballTable.label>mesa de metegol antiguo</VFEA_AncientFoosballTable.label>
+  <VFEA_AncientFoosballTable.description>Una vieja reliquia del pasado, la mesa de metegol permite a los jugadores volver jugar al olvidado juego del futbol sin abandonar la seguridad de la bóveda.</VFEA_AncientFoosballTable.description>
+  <VFEA_AncientMonitorBank.label>antiguo banco de monitorización</VFEA_AncientMonitorBank.label>
+  <VFEA_AncientMonitorBank.description>Un pequeño set de antiguas pantallas de computadora.</VFEA_AncientMonitorBank.description>
+  <VFEA_AncientBrokenDefensiveTurret.label>antigua torreta defensiva rota</VFEA_AncientBrokenDefensiveTurret.label>
+  <VFEA_AncientBrokenDefensiveTurret.description>Una torreta defensiva destruida.</VFEA_AncientBrokenDefensiveTurret.description>
+  <VFEA_AncientBustedTurretPlatform.label> antigua plataforma de torreta rota</VFEA_AncientBustedTurretPlatform.label>
+  <VFEA_AncientBustedTurretPlatform.description>Una plataforma de torreta destruida.</VFEA_AncientBustedTurretPlatform.description>
+  <VFEA_AncientFuelTank.label>antiguo tanque de combustible</VFEA_AncientFuelTank.label>
+  <VFEA_AncientFuelTank.description>Un antiguo tanque de combustible que se puede deconstruir por su combustible.</VFEA_AncientFuelTank.description>
+  <VFEA_AncientInputTerminal.label>antigua terminal</VFEA_AncientInputTerminal.label>
+  <VFEA_AncientInputTerminal.description>Una estación con botones y palancas.</VFEA_AncientInputTerminal.description>
+  <VFEA_AncientTransmitter.label>antiguo transmisor</VFEA_AncientTransmitter.label>
+  <VFEA_AncientTransmitter.description>Un transmisor usado para enviar señales a largas distancias.</VFEA_AncientTransmitter.description>
+  <VFEA_AncientMachinery.label>antigua maquinaria</VFEA_AncientMachinery.label>
+  <VFEA_AncientMachinery.description>Un set de antiguos maquinas. Su propósito, si es que alguna vez lo tuvo, ya fue olvidado.</VFEA_AncientMachinery.description>
+  <VFEA_AncientWaterFilter.label>antiguo filtro de agua</VFEA_AncientWaterFilter.label>
+  <VFEA_AncientWaterFilter.description>Un gran sistema de filtración de agua.</VFEA_AncientWaterFilter.description>
+  <VFEA_AncientComputerDesk.label>antiguo escritorio con computadora</VFEA_AncientComputerDesk.label>
+  <VFEA_AncientComputerDesk.description>Un antiguo escritorio con computadoras rota.</VFEA_AncientComputerDesk.description>
+  <VFEA_AncientShuttle.label>antigua lanzadera</VFEA_AncientShuttle.label>
+  <VFEA_AncientShuttle.description>Una antigua lanzadera rota que se puede desarmar para obtener sus recursos.</VFEA_AncientShuttle.description>
+  <VFEA_AncientVitalsMonitor.label>antiguo monitor vital</VFEA_AncientVitalsMonitor.label>
+  <VFEA_AncientVitalsMonitor.description>Un antiguo set de monitores para comprobar el progreso de los soldados heridos.\n\nEsta estructura fue construida por una antigua civilización ya olvidada, y su tecnología no puede ser replicada. Jamás sufrirá de averías, y sigue operativa durante las erupciones solares.</VFEA_AncientVitalsMonitor.description>
+  <VFEA_AncientCryptosleepSarcophagus.label>antiguo sarcófago de criptosueño</VFEA_AncientCryptosleepSarcophagus.label>
+  <VFEA_AncientCryptosleepSarcophagus.description>Los super-soldados ancestrales duermen en las antiguos sarcófagos de criptosueño hasta que despiertan para comenzar su guardia. Estos dispositivos son una variante de las cápsulas de criptosueño estandar, el proceso de hibernación es instantáneo, pero despertar lleva mucho más tiempo. No se puede reutilizar una vez abierto.</VFEA_AncientCryptosleepSarcophagus.description>
+  <VFEA_AncientSupplySlingshot.label>antiguo tirachinas de suministros</VFEA_AncientSupplySlingshot.label>
+  <VFEA_AncientSupplySlingshot.description>Se suelen encontrar en las bóvedas ancestrales, este tirachinas de suministros es un complejo mecanismo que catapulta suministros a través de enormes distancias. Fue programada para enviar suministros entre las bóvedas cercanas. Esta tirachinas fue usada por soldados ancestrales para compartir recursos que ya no necesitaban con otros complejos.</VFEA_AncientSupplySlingshot.description>
+  <VFEA_SlingshotDropOffSpot.label>lugar de aterrizaje del tirachinas</VFEA_SlingshotDropOffSpot.label>
+  <VFEA_SlingshotDropOffSpot.description>Lugar designado donde caerán los artículos lanzados por los tirachinas de suministros.</VFEA_SlingshotDropOffSpot.description>
+  <VFEA_AncientSolarGenerator.label>antiguo generador solar</VFEA_AncientSolarGenerator.label>
+  <VFEA_AncientSolarGenerator.description>Este generador obtiene energía de las erupciones solares. A menudo se utiliza para apoyar a los generadores internos de la bóveda durante las erupciones solares.\n\nEsta estructura fue construida por una antigua civilización ya olvidada, y su tecnología no puede ser replicada. Jamás sufrirá de averías y funcionara durante las erupciones solares.</VFEA_AncientSolarGenerator.description>
+  <VFEA_AncientChemfuelPoweredGenerator.label>antiguo generador con quimicombustible</VFEA_AncientChemfuelPoweredGenerator.label>
+  <VFEA_AncientChemfuelPoweredGenerator.description>Produce un flujo constante de energía al consumir quimicombustible. Debe ser rellenado a mano.\n\nEsta estructura fue construida por una antigua civilización ya olvidada, y su tecnología no puede ser replicada. Jamás sufrirá de averías y funcionara durante las erupciones solares.</VFEA_AncientChemfuelPoweredGenerator.description>
+  <VFEA_AncientGeothermalPlant.label>antigua planta geotérmica</VFEA_AncientGeothermalPlant.label>
+  <VFEA_AncientGeothermalPlant.description>Produce electricidad con los geysers geotérmicos. Era usados por las bóvedas ubicadas en las profundidades de las montañas para dar energía a toda la estructura. También son capaces de regular la temperatura de un cuarto, funcionando como calentador o como congelador. Debe ser colocado en un geyser de vapor.\n\nEsta estructura fue construida por una antigua civilización ya olvidada, y su tecnología no puede ser replicada. Jamás sufrirá de averías y funcionara durante las erupciones solares.</VFEA_AncientGeothermalPlant.description>
+  <VFEA_AncientBattery.label>antigua batería</VFEA_AncientBattery.label>
+  <VFEA_AncientBattery.description>Una gran batería vieja que comúnmente se encuentra en las bóvedas, capaz de dar energía al complejo durante un tiempo casi infinito.\n\nEsta estructura fue construida por una antigua civilización ya olvidada, y su tecnología no puede ser replicada. Jamás sufrirá de averías y funcionara durante las erupciones solares.</VFEA_AncientBattery.description>
+  <VFEA_AncientBioBatteryTank.label>antiguo tanque de bio-batería</VFEA_AncientBioBatteryTank.label>
+  <VFEA_AncientBioBatteryTank.description>Produce un flujo constante de energía consumiendo el material biológico de los humanos o animales. Debe ser rellenado periódicamente por criaturas caídas.\n\nEsta estructura fue construida por una antigua civilización ya olvidada, y su tecnología no puede ser replicada. Jamás sufrirá de averías y funcionara durante las erupciones solares.</VFEA_AncientBioBatteryTank.description>
+  <VFEA_ElectricMendingStation.label>estación de reparación eléctrica</VFEA_ElectricMendingStation.label>
+  <VFEA_ElectricMendingStation.description>Una estación eléctrica con varios aparatos usado para reparar armas, armaduras y vestimentas. Esto suele llevar bastante tiempo. Estas estaciones eran imprescindibles en las bóvedas para prevenir tener que reemplazar el equipo.</VFEA_ElectricMendingStation.description>
+  <VFEA_FueledMendingStation.label>estación de reparación a leña</VFEA_FueledMendingStation.label>
+  <VFEA_FueledMendingStation.description>Una estación a leña con varios aparatos usado para reparar armas, armaduras y vestimentas. Esto suele llevar bastante tiempo. Estas estaciones eran imprescindibles en las bóvedas para prevenir tener que reemplazar el equipo.</VFEA_FueledMendingStation.description>
+  <VFEA_AncientHydroponicFarm.label>antigua granja hidroponia</VFEA_AncientHydroponicFarm.label>
+  <VFEA_AncientHydroponicFarm.description>Un bañera artificial de nutrientes para el crecimientos de las plantas. Las bombas de nutrientes debe estar funcionando de forma constante; las plantas morirán durante un corte de luz. Contiene un grupo de lamparas solares incluidas.\n\nEsta estructura fue construida por una antigua civilización ya olvidada, y su tecnología no puede ser replicada. Jamás sufrirá de averías y funcionara durante las erupciones solares.</VFEA_AncientHydroponicFarm.description>
+  <VFEA_AncientCookingStation.label>antigua estación de cocina</VFEA_AncientCookingStation.label>
+  <VFEA_AncientCookingStation.description>Una gran cocina y una estación de carnicería conectadas entre sí para agilizar el proceso de la cocina.\n\nEsta estructura fue construida por una antigua civilización ya olvidada, y su tecnología no puede ser replicada. Jamás sufrirá de averías y funcionara durante las erupciones solares.</VFEA_AncientCookingStation.description>
+  <VFEA_AncientWorkshop.label>antigua estación de trabajo</VFEA_AncientWorkshop.label>
+  <VFEA_AncientWorkshop.description>Una gran estación que contiene diversas maquinarias, un simple horno y una estación de herrería.\n\nEsta estructura fue construida por una antigua civilización ya olvidada, y su tecnología no puede ser replicada. Jamás sufrirá de averías y funcionara durante las erupciones solares.</VFEA_AncientWorkshop.description>
+  <VFEA_Turret_AncientSecurityTurret.label>antigua torreta de seguridad</VFEA_Turret_AncientSecurityTurret.label>
+  <VFEA_Turret_AncientSecurityTurret.description>Una torreta automática portable. Es bastante básico pero es increíblemente fiable.</VFEA_Turret_AncientSecurityTurret.description>
+  <VFEA_Turret_AncientSecurityTurret.comps.CompRefuelable.fuelGizmoLabel>Durabilidad del cañón</VFEA_Turret_AncientSecurityTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <VFEA_Turret_AncientSecurityTurret.comps.CompRefuelable.fuelLabel>Disparos antes de cambiar el cañón</VFEA_Turret_AncientSecurityTurret.comps.CompRefuelable.fuelLabel>
+  <VFEA_Turret_AncientSecurityTurret.comps.CompRefuelable.outOfFuelMessage>No puede disparar: Necesita un nuevo cañón</VFEA_Turret_AncientSecurityTurret.comps.CompRefuelable.outOfFuelMessage>
+  <VFEA_Bullet_AncientSecurityTurret.label>bala de antigua torreta de seguridad</VFEA_Bullet_AncientSecurityTurret.label>
+  <VFEA_Gun_AncientSecurityTurret.label>arma de antigua torreta de seguridad</VFEA_Gun_AncientSecurityTurret.label>
+  <VFEA_Gun_AncientSecurityTurret.description>Una arma automática muy fiable montada en una torreta.\n\nEsta estructura fue construida por una antigua civilización ya olvidada, y su tecnología no puede ser replicada. Jamás sufrirá de averías y funcionara durante las erupciones solares.</VFEA_Gun_AncientSecurityTurret.description>
+  <VFEA_Gun_AncientSecurityTurret.verbs.Verb_Shoot.label>arma de antigua torreta de seguridad</VFEA_Gun_AncientSecurityTurret.verbs.Verb_Shoot.label>
+  <VFEA_Turret_AncientPointDefense.label>antiguo punto de torreta de defensa</VFEA_Turret_AncientPointDefense.label>
+  <VFEA_Turret_AncientPointDefense.description>Una gran torreta utilizada a menudo en la defensa de antiguos complejos. Usa dos miniguns para deshacerse rápidamente de los enemigos y de los proyectiles explosivos.\n\nEsta estructura fue construida por una antigua civilización ya olvidada, y su tecnología no puede ser replicada. Jamás sufrirá de averías y funcionara durante las erupciones solares.</VFEA_Turret_AncientPointDefense.description>
+  <VFEA_Turret_AncientPointDefense.comps.CompRefuelable.fuelGizmoLabel>Durabilidad del cañón</VFEA_Turret_AncientPointDefense.comps.CompRefuelable.fuelGizmoLabel>
+  <VFEA_Turret_AncientPointDefense.comps.CompRefuelable.fuelLabel>Disparos antes de cambiar el cañón</VFEA_Turret_AncientPointDefense.comps.CompRefuelable.fuelLabel>
+  <VFEA_Turret_AncientPointDefense.comps.CompRefuelable.outOfFuelMessage>No puede disparar: Necesita un nuevo cañón</VFEA_Turret_AncientPointDefense.comps.CompRefuelable.outOfFuelMessage>
+  <VFEA_Bullet_AncientPointDefenseTurret.label>bala de antiguo punto de torreta de defensa</VFEA_Bullet_AncientPointDefenseTurret.label>
+  <VFEA_Gun_AncientPointDefenseTurret.label>antiguo punto de torreta de defensa</VFEA_Gun_AncientPointDefenseTurret.label>
+  <VFEA_Gun_AncientPointDefenseTurret.description>Un conjunto de miniguns unidas a una torreta.</VFEA_Gun_AncientPointDefenseTurret.description>
+  <VFEA_Gun_AncientPointDefenseTurret.verbs.pointdefense.label>punto-defensa</VFEA_Gun_AncientPointDefenseTurret.verbs.pointdefense.label>
+  <VFEA_VaultWall.label>pared de bóveda</VFEA_VaultWall.label>
+  <VFEA_VaultWall.description>Una gruesa pared de acero, triplemente-reforzado. Cerca de ser indestructible.</VFEA_VaultWall.description>
+  <VFEA_VaultDoor.label>puerta de bóveda</VFEA_VaultDoor.label>
+  <VFEA_VaultDoor.description>Una gruesa puerta de bóveda, que tarda mucho tiempo en abrirse y en cerrarse, pero esta es casi indestructible. Si se corta la electricidad se mantendrá bloqueada.</VFEA_VaultDoor.description>
+  <VFEA_AncientHeater.label>antiguo calentador</VFEA_AncientHeater.label>
+  <VFEA_AncientHeater.description>Una antigua pero muy eficiente calentador.\n\nEsta estructura fue construida por una antigua civilización ya olvidada, y su tecnología no puede ser replicada. Jamás sufrirá de averías y funcionara durante las erupciones solares.</VFEA_AncientHeater.description>
+  <VFEA_AncientCooler.label>antiguo refrigerador</VFEA_AncientCooler.label>
+  <VFEA_AncientCooler.description>Un antigua máquina refrigeradora. El aire frio sale por un lado, pero el aire caliente es canalizado a través de una serie de tuberías. Se puede utilizar para refrigerar un las habitaciones durante el verano o para crear un congelador.\n\nEsta estructura fue construida por una antigua civilización ya olvidada, y su tecnología no puede ser replicada. Jamás sufrirá de averías y funcionara durante las erupciones solares.</VFEA_AncientCooler.description>
+  <VFEA_SuperNanites.label>super-nanitas</VFEA_SuperNanites.label>
+  <VFEA_SuperNanites.description>Un contenedor con super-nanitas antiguas extremadamente volátiles. Si bien se sabe que hay una gran cantidad de nano-robots defectuosos, muertos o corruptos, pero también hay una pequeña cantidad totalmente funcional, lo que otorga poderes únicos a la persona que se inyecte esto. Las super-nanitas fueron usado por antiguos gobiernos para crear super-soldados, ahora esta prohibido por las leyes galácticas.</VFEA_SuperNanites.description>
+  <VFEA_LightningSpot.label>foco luminoso</VFEA_LightningSpot.label>
+  <VFEA_LaserEyeBeamDraw.label>rayo laser</VFEA_LaserEyeBeamDraw.label>
+  <VFEA_ElectricBlast.label>blaze eléctrico</VFEA_ElectricBlast.label>
+  <VFEA_SuperJumpingPawn.label>volando</VFEA_SuperJumpingPawn.label>
+  <VFEA_SupplyCrateIncoming.label>caja de suministros (llegando)</VFEA_SupplyCrateIncoming.label>
+  <VFEA_SupplyCrateLeaving.label>caja de suministros (yendose)</VFEA_SupplyCrateLeaving.label>
+  <VFEA_FireBreath.label>aliento de fuego</VFEA_FireBreath.label>
+  <VFEA_IceBreath.label>aliento helado</VFEA_IceBreath.label>
+  <VFEA_LaserEyeBeam.label>ojos de rayos laser</VFEA_LaserEyeBeam.label>
+  <VFEA_AcidSpit.label>mancha de acido</VFEA_AcidSpit.label>
+  <VFEA_Fireball.label>bola de fuego</VFEA_Fireball.label>
+</LanguageData>

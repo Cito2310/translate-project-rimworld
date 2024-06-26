@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Chemshined.label>quimialcohol</Chemshined.label>
+  <Chemshined.description>Parece que alguien bebió algo volátil.</Chemshined.description>
+  <Chemshined.labelNoun>quimiebrio</Chemshined.labelNoun>
+  <Chemshined.stages.chemshinedminor.label>quimiebrio(menor)</Chemshined.stages.chemshinedminor.label>
+  <Chemshined.stages.chemshined.label>quimiebrio</Chemshined.stages.chemshined.label>
+  <Chemshined.stages.chemshinedmajor.label>quimiebrio(mayor)</Chemshined.stages.chemshinedmajor.label>
+  <Chemshined.stages.chemshinedextreme.label>quimiebrio(extremo)</Chemshined.stages.chemshinedextreme.label>
+  <Wanted.label>buscado</Wanted.label>
+  <Wanted.description>Esta persona es considerado un criminal por una facción.</Wanted.description>
+  <Wanted.labelNoun>buscado</Wanted.labelNoun>
+  <Wanted.stages.wanted.label>buscado</Wanted.stages.wanted.label>
+</LanguageData>

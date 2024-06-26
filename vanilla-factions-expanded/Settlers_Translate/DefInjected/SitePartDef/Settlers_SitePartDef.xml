@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CaravanRaid.label>parar caravana</CaravanRaid.label>
+  <CaravanRaid.description>Una caravana desconocida.</CaravanRaid.description>
+  <WantedHideout.label>casa segura</WantedHideout.label>
+  <WantedHideout.description>Una casa segura de un criminal buscado</WantedHideout.description>
+  <WantedHideout.approachingReportString>Atacando {0}</WantedHideout.approachingReportString>
+  <WantedHideout.approachOrderString>Atacar {0}</WantedHideout.approachOrderString>
+  <WantedHideout.arrivedLetter>Hay un puesto enemigo en esta area.</WantedHideout.arrivedLetter>
+</LanguageData>

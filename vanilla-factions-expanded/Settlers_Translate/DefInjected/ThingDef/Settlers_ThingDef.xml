@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Chemshine.label>quimialcohol</Chemshine.label>
+  <Chemshine.description>Un alcohol peligroso usualmente consumido por exploradores de Rimworld y asentamientos industriales. Si bien elimina el dolor y la tristeza, el quimialcohol intoxicara la sangre de sus bebedores con quimicombustible, resultando en una gran explosión cuando mueren.</Chemshine.description>
+  <Chemshine.ingestible.ingestCommandString>Beber {0}</Chemshine.ingestible.ingestCommandString>
+  <Chemshine.ingestible.ingestReportString>Bebiendo {0}.</Chemshine.ingestible.ingestReportString>
+  <ChemBoiler.label>quimicalentador</ChemBoiler.label>
+  <ChemBoiler.description>Un dispositivo que convierte el quimicombustible en calor. Una simple maquinaria que no permite ajustar la temperatura.</ChemBoiler.description>
+  <Chemlamp.label>quimilampara</Chemlamp.label>
+  <Chemlamp.description>Una lampara que usa quimicombustible. Se puede colocar de forma segura en el exterior.</Chemlamp.description>
+  <ChemlampPost.label>poste con quimilampara</ChemlampPost.label>
+  <ChemlampPost.description>Un poste con una lampara de quimicombustible pre-industrial. Se puede colocar de forma segura en el exterior.</ChemlampPost.description>
+  <Building_ChemshineBarrel.label>barril de quimialcohol</Building_ChemshineBarrel.label>
+  <Building_ChemshineBarrel.description>Un barril para fermentar quimialcohol.</Building_ChemshineBarrel.description>
+  <DoorSaloon.label>puerta de salón</DoorSaloon.label>
+  <DoorSaloon.description>Una puerta de salón para las necesidades de tu país. Si bien no brinda mucha protección, se abre casi instantáneamente.</DoorSaloon.description>
+  <Post.label>poste</Post.label>
+  <Post.description>Un poste con un estilo antiguo para mantener el techo.</Post.description>
+  <StoolBar.label>silla de bar</StoolBar.label>
+  <StoolBar.description>Una simple silla de bar.</StoolBar.description>
+  <TableCircular.label>Mesa circular</TableCircular.label>
+  <TableCircular.description>Una mesa circular en la que se puede comer.</TableCircular.description>
+  <TableFaro.label>mesa de faro</TableFaro.label>
+  <TableFaro.description>Una mesa encuadernada con forro blando para jugar al faro. Permite jugar dos jugadores a la vez.</TableFaro.description>
+  <TableFiveFingerFilet.label>mesa de filete de cinco dedos </TableFiveFingerFilet.label>
+  <TableFiveFingerFilet.description>Una mesa de madera para jugar a filete de cinco dedos. Podría perder un dedo o dos.\n\nSi bien esta actividad provoca cortes en los dedos de los jugadores, puedes entrenar lentamente las habilidades cuerpo a cuerpo.</TableFiveFingerFilet.description>
+  <Mote_HoldingKnife.label>Mota</Mote_HoldingKnife.label>
+  <Gun_GatlingGun.label>arma gatling</Gun_GatlingGun.label>
+  <Gun_GatlingGun.description>Una simple arma automática diseñada para montarse en una torreta</Gun_GatlingGun.description>
+  <Gun_GatlingGun.verbs.Verb_Shoot.label>arma gatling</Gun_GatlingGun.verbs.Verb_Shoot.label>
+  <Bullet_GatlingGun.label>bala gattling</Bullet_GatlingGun.label>
+  <Turret_GatlingGun.label>torreta de arma gatling</Turret_GatlingGun.label>
+  <Turret_GatlingGun.description>Una torreta antigua y portable. Necesita a ser tripulado para ser funcionar. Requiere acero para restaurar su cañón después de un uso intensivo. La velocidad aumenta cuanto más tiempo pase disparando el arma. Explota al ser dañado. </Turret_GatlingGun.description>
+  <Turret_GatlingGun.comps.CompRefuelable.fuelGizmoLabel>Durabilidad del cañón</Turret_GatlingGun.comps.CompRefuelable.fuelGizmoLabel>
+  <Turret_GatlingGun.comps.CompRefuelable.fuelLabel>Disparos hasta cambiar el cañón</Turret_GatlingGun.comps.CompRefuelable.fuelLabel>
+  <Turret_GatlingGun.comps.CompRefuelable.outOfFuelMessage>No se puede disparar: Necesita un nuevo cañón</Turret_GatlingGun.comps.CompRefuelable.outOfFuelMessage>
+  <Windmill.label>molino de viento</Windmill.label>
+  <Windmill.description>Un generador eléctrico antiguo que aprovecha la energía del viento. Requiere un gran espacio libre adelante y atrás para un flujo de aire optimo.</Windmill.description>
+  <VFES_Headgear_Bandana.label>bandana</VFES_Headgear_Bandana.label>
+  <VFES_Headgear_Bandana.description>Una pieza de tela cálida que protege a la mandíbula del viento. Hace que uno sea más difícil de recordar.</VFES_Headgear_Bandana.description>
+  <VFES_Headgear_Sombrero.label>sombrero</VFES_Headgear_Sombrero.label>
+  <VFES_Headgear_Sombrero.description>Se utiliza para proteger a su usuario del sol. Requerido para cualquier tipo de enfrentamiento.</VFES_Headgear_Sombrero.description>
+  <VFES_Headgear_FlatCap.label>boina</VFES_Headgear_FlatCap.label>
+  <VFES_Headgear_FlatCap.description>Una gorra plana y práctica. Protege del sol. Usado por colonos durante sus tareas diarias.</VFES_Headgear_FlatCap.description>
+  <Apparel_Vest.label>chaleco</Apparel_Vest.label>
+  <Apparel_Vest.description>Un chaleco simple, provee una decente aislación ante el frío y el calor. Mejora enormemente las interacciones sociales.</Apparel_Vest.description>
+  <Apparel_GreatDress.label>gran vestido</Apparel_GreatDress.label>
+  <Apparel_GreatDress.description>Un gran vestido, usado con mayor frecuencia por damas y sufragistas. Mejora enormemente las interacciones sociales.</Apparel_GreatDress.description>
+  <VFES_Gun_DoubleActionRevolver.label>revolver de doble-acción</VFES_Gun_DoubleActionRevolver.label>
+  <VFES_Gun_DoubleActionRevolver.description>Un revolver antiguo de doble-acción. No posee una gran precisión, pero tiene una cadencia de fuego decente para una pistola y es rápido al desenfundar.</VFES_Gun_DoubleActionRevolver.description>
+  <VFES_Gun_DoubleActionRevolver.tools.grip.label>empuñadura</VFES_Gun_DoubleActionRevolver.tools.grip.label>
+  <VFES_Gun_DoubleActionRevolver.tools.barrel.label>cañón</VFES_Gun_DoubleActionRevolver.tools.barrel.label>
+  <VFES_Gun_DoubleActionRevolver.verbs.Verb_Shoot.label>revolver de doble-acción</VFES_Gun_DoubleActionRevolver.verbs.Verb_Shoot.label>
+  <VFES_Gun_DoubleBarreledShotgun.label>escopeta de dos cañones</VFES_Gun_DoubleBarreledShotgun.label>
+  <VFES_Gun_DoubleBarreledShotgun.description>Una escopeta con dos cañones individuales, con un diseño antiguo, que emite un cadena de perdigones compactos</VFES_Gun_DoubleBarreledShotgun.description>
+  <VFES_Gun_DoubleBarreledShotgun.tools.stock.label>culata</VFES_Gun_DoubleBarreledShotgun.tools.stock.label>
+  <VFES_Gun_DoubleBarreledShotgun.tools.barrel.label>cañón</VFES_Gun_DoubleBarreledShotgun.tools.barrel.label>
+  <VFES_Gun_DoubleBarreledShotgun.verbs.Verb_Shoot.label>escopeta de dos cañones</VFES_Gun_DoubleBarreledShotgun.verbs.Verb_Shoot.label>
+  <VFES_Gun_HuntingRifle.label>rifle de caza</VFES_Gun_HuntingRifle.label>
+  <VFES_Gun_HuntingRifle.description>Un rifle de cerrojo con mira, con un aspecto antiguo. Tiene un rango excepcional y una baja cadencia, es poco probable que provoque la venganza de los animales, haciéndolo excelente para la caza.</VFES_Gun_HuntingRifle.description>
+  <VFES_Gun_HuntingRifle.tools.stock.label>culata</VFES_Gun_HuntingRifle.tools.stock.label>
+  <VFES_Gun_HuntingRifle.tools.barrel.label>cañón</VFES_Gun_HuntingRifle.tools.barrel.label>
+  <VFES_Gun_HuntingRifle.verbs.Verb_Shoot.label>rifle de caza</VFES_Gun_HuntingRifle.verbs.Verb_Shoot.label>
+  <VFES_Weapon_GrenadeDynamite.label>dinamita</VFES_Weapon_GrenadeDynamite.label>
+  <VFES_Weapon_GrenadeDynamite.description>Un explosivo casero en forma de palo hecho con quimicombustible. Se puede lanzar a poca distancia, y explotara luego de un tiempo aleatorio.</VFES_Weapon_GrenadeDynamite.description>
+  <VFES_Weapon_GrenadeDynamite.verbs.throw_dynamite.label>lanzar dinamita</VFES_Weapon_GrenadeDynamite.verbs.throw_dynamite.label>
+  <VFES_Proj_Dynamite.label>granada de fragmentación</VFES_Proj_Dynamite.label>
+  <VFES_Tomahawk.label>tomahawk</VFES_Tomahawk.label>
+  <VFES_Tomahawk.description>Un hacha de una mano. Lo suficientemente ligero para ser lanzado con cierta precisión a media distancia.</VFES_Tomahawk.description>
+  <VFES_Tomahawk.tools.handle.label>mango</VFES_Tomahawk.tools.handle.label>
+  <VFES_Tomahawk.tools.blade.label>filo</VFES_Tomahawk.tools.blade.label>
+  <VFES_Tomahawk.verbs.Verb_Shoot.label>tomahawk</VFES_Tomahawk.verbs.Verb_Shoot.label>
+  <VFES_Tomahawk_Thrown.label>lanzando tomahawk</VFES_Tomahawk_Thrown.label>
+  <Plant_Chemroot.label>raíz-quimi</Plant_Chemroot.label>
+  <Plant_Chemroot.description>Es una raíz extremadamente volátil que se cultiva y otorga quimicombustible. Es muy difícil de cosechar y solo se puede plantar en suelos extremadamente fértiles. A pesar de su gran riesgo de provocar una gran cadena de explosiones, esta planta es cultivada frecuentemente por granjeros desesperados y por compañias agricolas imperiales.</Plant_Chemroot.description>
+</LanguageData>

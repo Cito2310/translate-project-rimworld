@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEA_MendWeapon.label>reparar arma</VFEA_MendWeapon.label>
+  <VFEA_MendWeapon.description>Reparar una arma, usando los mismos materiales</VFEA_MendWeapon.description>
+  <VFEA_MendWeapon.jobString>Reparando arma.</VFEA_MendWeapon.jobString>
+  <VFEA_MendApparel.label>reparar ropa</VFEA_MendApparel.label>
+  <VFEA_MendApparel.description>Reparar ropa usando los mismos materiales</VFEA_MendApparel.description>
+  <VFEA_MendApparel.jobString>Reparando ropa.</VFEA_MendApparel.jobString>
+  <VFEA_MendArmor.label>reparar armadura</VFEA_MendArmor.label>
+  <VFEA_MendArmor.description>Reparar armadura usando los mismos materiales</VFEA_MendArmor.description>
+  <VFEA_MendArmor.jobString>Reparando armadura.</VFEA_MendArmor.jobString>
+</LanguageData>

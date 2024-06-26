@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEA_LootedVault.label>bóveda saqueada</VFEA_LootedVault.label>
+  <VFEA_LootedVault.description>Una bóveda saqueada descubierta recientemente.</VFEA_LootedVault.description>
+  <VFEA_SealedVault.label>bóveda sellada</VFEA_SealedVault.label>
+  <VFEA_SealedVault.description>Una bóveda sellada descubierta recientemente.</VFEA_SealedVault.description>
+  <VFEA_AncientSoldierHostile.label>presencia de enemiga</VFEA_AncientSoldierHostile.label>
+  <VFEA_AncientSoldierHostile.description>Los enemigos están presentes en este lugar.</VFEA_AncientSoldierHostile.description>
+</LanguageData>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEA_Isolationist.label>aislacionista</VFEA_Isolationist.label>
+  <VFEA_Isolationist.description>La confianza es un recurso muy escaso, todos pueden ser nuestro enemigo.</VFEA_Isolationist.description>
+  <VFEA_Isolationist.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_Isolationist) -&gt;La gente de [place_summary] [place_name] se peleaban interminablemente entre ellos, y [deity0_name] se cansó de la discordia y ungió a [memberNamePlural] como los únicos gobernantes legítimos de cada ser vivo.</VFEA_Isolationist.descriptionMaker.rules.rulesStrings.0>
+  <VFEA_Isolationist.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_Isolationist)  -&gt;Los fieles lucharon contra los incrédulos, y [deity0_name] dijo: "Lucha contra ellos, en todas partes, porque son tu enemigo, y la paz con ellos nunca fue una opción"</VFEA_Isolationist.descriptionMaker.rules.rulesStrings.1>
+  <VFEA_Isolationist.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_Isolationist)           -&gt;La gente de [place_summary] [place_name] adoraba a [deity0_name]. [deity0_pronoun] vio que eran adecuados para [memeConcept] y ordenó que fueran la única facción digna de la ascensión.</VFEA_Isolationist.descriptionMaker.rules.rulesStrings.2>
+  <VFEA_Isolationist.descriptionMaker.rules.rulesStrings.3>conflict(tag=meme_Isolationist)        -&gt;Un [foeLeader] aprobó una ley que prohíbe a [memberNamePlural] ascender a las clases dominantes de [place_name]. Como tal, [memberNamePlural] comenzó a conspirar y crear alianzas secretas y ocultas.</VFEA_Isolationist.descriptionMaker.rules.rulesStrings.3>
+  <VFEA_Isolationist.descriptionMaker.rules.rulesStrings.4>founderJoin(tag=meme_Isolationist)     -&gt;Un guerrero llamado [founderName] usó [place_massWeapon] para destruir una [place_community]. [deity0_name] vio la crueldad de [founderName] y le dijo a [founder_objective] que llevara una vida de aislamiento y secreto.</VFEA_Isolationist.descriptionMaker.rules.rulesStrings.4>
+  <VFEA_Isolationist.descriptionMaker.rules.rulesStrings.5>victory(tag=meme_Isolationist)         -&gt;[founderName] destruyó la capital de [place_name] con [place_massWeapon], matando al [foeLeader]. [founder_pronoun] no tomó el lugar de [founder_possessive] como gobernante de [place_name]; en cambio, [founderName] se ocultó.</VFEA_Isolationist.descriptionMaker.rules.rulesStrings.5>
+  <VFEA_Isolationist.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_Isolationist)           -&gt;[founderName] construyó un ejército que extendió el poder y la gloria de [founder_possessive] por toda la tierra, colocando a aquellos que se negaron a seguirlo correctamente al final de [founder_possessive] cuchillo.</VFEA_Isolationist.descriptionMaker.rules.rulesStrings.6>
+  <VFEA_Isolationist.descriptionMaker.rules.rulesStrings.7>story(uses=1,tag=meme_Isolationist)    -&gt;[founderName] instruyó a todos los forasteros a luchar hasta la muerte, ya que la paz nunca fue una opción. Cuando la primera ciudad se negó y suplicó unirse a [founder_objective], [founder_pronoun] usó [place_massWeapon] para matar a todos los que estaban dentro.</VFEA_Isolationist.descriptionMaker.rules.rulesStrings.7>
+  <VFEA_Isolationist.descriptionMaker.rules.rulesStrings.8>lessonIntro(tag=meme_Isolationist)         -&gt;Miré a este [foeLeader], con [foeLeader_possessive] lamentables [foeSoldiers], todo ese poder quedó en barbecho. Intenté convencer a [foeLeader_objective] de que</VFEA_Isolationist.descriptionMaker.rules.rulesStrings.8>
+  <VFEA_Isolationist.descriptionMaker.rules.rulesStrings.9>lesson(tag=meme_Isolationist)              -&gt;hace tiempo hemos demostrado que tenemos la fuerza para atacar desde las sombras, aislados pero no debilitados</VFEA_Isolationist.descriptionMaker.rules.rulesStrings.9>
+  <VFEA_Isolationist.descriptionMaker.rules.rulesStrings.10>lessonReinforcement(tag=meme_Isolationist) -&gt;Por eso estamos orgullosos de expresar la fuerza de nuestros corazones usando los filos de nuestras espadas y las cabezas de nuestros martillos.</VFEA_Isolationist.descriptionMaker.rules.rulesStrings.10>
+  <VFEA_Isolationist.descriptionMaker.rules.rulesStrings.11>archistBasis(tag=meme_Isolationist)    -&gt;Fueron necesarios los humanos más superiores para crear la tecnología arcotec. Al ser tan poderosos como ellos, es apropiado que nos escondamos en las sombras.</VFEA_Isolationist.descriptionMaker.rules.rulesStrings.11>
+  <VFEA_Isolationist.descriptionMaker.rules.rulesStrings.12>archistFact(tag=meme_Isolationist)     -&gt;Los arquetecnólogos pueden acabar con nosotros rápidamente - del mismo modo nosotros debemos acabar con nuestros enemigos.</VFEA_Isolationist.descriptionMaker.rules.rulesStrings.12>
+  <VFEA_Isolationist.descriptionMaker.rules.rulesStrings.13>archistProphecy(tag=meme_Isolationist) -&gt;Los arquetecnólogos nunca aceptarán que nos unamos a ellos - y jamás debemos darle esa la oportunidad al enemigo.</VFEA_Isolationist.descriptionMaker.rules.rulesStrings.13>
+  <VFEA_Isolationist.descriptionMaker.rules.rulesStrings.14>animistFact(tag=meme_Isolationist)     -&gt;Los poderosos espíritus de [spiritElement] deciden quién es apto para gobernar, y otorgan poder a sus elegidos cuando acaban con otros.</VFEA_Isolationist.descriptionMaker.rules.rulesStrings.14>
+  <VFEA_Isolationist.descriptionMaker.rules.rulesStrings.15>animistProphecy(tag=meme_Isolationist) -&gt;[itIsSaid] dice que se creara una nueva orden cuando un gobernante supremo emerja de las sombras del planeta lleno de sangre y vísceras.</VFEA_Isolationist.descriptionMaker.rules.rulesStrings.15>
+  <VFEA_Isolationist.generalRules.rulesStrings.0>memeAdjective-&gt;aislado</VFEA_Isolationist.generalRules.rulesStrings.0>
+  <VFEA_Isolationist.generalRules.rulesStrings.1>memeAdjective-&gt;oculto</VFEA_Isolationist.generalRules.rulesStrings.1>
+  <VFEA_Isolationist.generalRules.rulesStrings.2>memeAdjective-&gt;solitario</VFEA_Isolationist.generalRules.rulesStrings.2>
+  <VFEA_Isolationist.generalRules.rulesStrings.3>memeAdjective-&gt;aislado</VFEA_Isolationist.generalRules.rulesStrings.3>
+  <VFEA_Isolationist.generalRules.rulesStrings.4>memeAdjective-&gt;excepcional</VFEA_Isolationist.generalRules.rulesStrings.4>
+  <VFEA_Isolationist.generalRules.rulesStrings.5>memeAdjective-&gt;superior</VFEA_Isolationist.generalRules.rulesStrings.5>
+  <VFEA_Isolationist.generalRules.rulesStrings.6>memeAdjective-&gt;separado</VFEA_Isolationist.generalRules.rulesStrings.6>
+  <VFEA_Isolationist.generalRules.rulesStrings.7>memeCreed-&gt;armada</VFEA_Isolationist.generalRules.rulesStrings.7>
+  <VFEA_Isolationist.generalRules.rulesStrings.8>memeCreed-&gt;nación</VFEA_Isolationist.generalRules.rulesStrings.8>
+  <VFEA_Isolationist.generalRules.rulesStrings.9>memeHyphenPrefix-&gt;oculto</VFEA_Isolationist.generalRules.rulesStrings.9>
+  <VFEA_Isolationist.generalRules.rulesStrings.10>memeConcept-&gt;guerra</VFEA_Isolationist.generalRules.rulesStrings.10>
+  <VFEA_Isolationist.generalRules.rulesStrings.11>memeConcept-&gt;aislado</VFEA_Isolationist.generalRules.rulesStrings.11>
+  <VFEA_Isolationist.generalRules.rulesStrings.12>memeConcept-&gt;solo</VFEA_Isolationist.generalRules.rulesStrings.12>
+  <VFEA_Isolationist.generalRules.rulesStrings.13>memeLeaderNoun-&gt;general</VFEA_Isolationist.generalRules.rulesStrings.13>
+  <VFEA_Isolationist.generalRules.rulesStrings.14>memeLeaderNoun-&gt;comandante</VFEA_Isolationist.generalRules.rulesStrings.14>
+  <VFEA_Isolationist.generalRules.rulesStrings.15>memeLeaderNoun-&gt;mariscal</VFEA_Isolationist.generalRules.rulesStrings.15>
+  <VFEA_Isolationist.generalRules.rulesStrings.16>memeLeaderNoun-&gt;capitan</VFEA_Isolationist.generalRules.rulesStrings.16>
+  <VFEA_Isolationist.generalRules.rulesStrings.17>memeLeaderNoun-&gt;sargento</VFEA_Isolationist.generalRules.rulesStrings.17>
+  <VFEA_Isolationist.generalRules.rulesStrings.18>memeLeaderNoun-&gt;dictador</VFEA_Isolationist.generalRules.rulesStrings.18>
+  <VFEA_Isolationist.generalRules.rulesStrings.19>memeLeaderNoun-&gt;presidente</VFEA_Isolationist.generalRules.rulesStrings.19>
+  <VFEA_Isolationist.generalRules.rulesStrings.20>memeLeaderNoun-&gt;líder</VFEA_Isolationist.generalRules.rulesStrings.20>
+  <VFEA_Isolationist.symbolPacks.0.adjective>aislado</VFEA_Isolationist.symbolPacks.0.adjective>
+  <VFEA_Isolationist.symbolPacks.0.member>aislado</VFEA_Isolationist.symbolPacks.0.member>
+  <VFEA_Isolationist.symbolPacks.0.theme>aislación</VFEA_Isolationist.symbolPacks.0.theme>
+  <VFEA_Isolationist.symbolPacks.1.adjective>aislado</VFEA_Isolationist.symbolPacks.1.adjective>
+  <VFEA_Isolationist.symbolPacks.1.member>aislado</VFEA_Isolationist.symbolPacks.1.member>
+  <VFEA_Isolationist.symbolPacks.1.theme>aislación</VFEA_Isolationist.symbolPacks.1.theme>
+  <VFEA_Isolationist.symbolPacks.2.adjective>secreto</VFEA_Isolationist.symbolPacks.2.adjective>
+  <VFEA_Isolationist.symbolPacks.2.member>secreto</VFEA_Isolationist.symbolPacks.2.member>
+  <VFEA_Isolationist.symbolPacks.2.theme>secreto</VFEA_Isolationist.symbolPacks.2.theme>
+</LanguageData>

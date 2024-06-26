@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEAncients.SolarPowerUp>Energía con la llamarada solar</VFEAncients.SolarPowerUp>
+  <VFEAncients.TabPowers>Poderes</VFEAncients.TabPowers>
+  <VFEAncients.Superpowers>Super Poderes</VFEAncients.Superpowers>
+  <VFEAncients.Weaknesses>Debilidades</VFEAncients.Weaknesses>
+  <VFEAncients.Effects>Efectos:</VFEAncients.Effects>
+  <VFEAncients.Effect.AddAbility>Dar habilidad: {0}</VFEAncients.Effect.AddAbility>
+  <VFEAncients.Effect.AddHediff>Añadir condición de la salud: {0}</VFEAncients.Effect.AddHediff>
+  <VFEAncients.Effect.NullThought>Anular pensamiento: {0}</VFEAncients.Effect.NullThought>
+  <VFEAncients.MarksmanshipTooltip>100% (Puntería)</VFEAncients.MarksmanshipTooltip>
+  <VFEAncients.Reason.KilledSomeone>Razón: Mató a alguien</VFEAncients.Reason.KilledSomeone>
+  <VFEAncients.Reason.Rejected>Razón: Rechazado por {0}</VFEAncients.Reason.Rejected>
+  <VFEAncients.CannotPrioritizeAudacious>No puede priorizar: {0} es atrevido</VFEAncients.CannotPrioritizeAudacious>
+  <VFEAncients.IncapableOfTooltipPower>Causado por el poder: {0}</VFEAncients.IncapableOfTooltipPower>
+  <VFEAncients.NotInMentalState>No en estado mental</VFEAncients.NotInMentalState>
+  <VFEAncients.NotAnimal>No en animal</VFEAncients.NotAnimal>
+  <VFEAncients.Tame>No es aplicable en animales domesticados.</VFEAncients.Tame>
+  <VFEAncients.NoTargets>No hay objetivos posibles</VFEAncients.NoTargets>
+  <VFEAncients.RefillsIn>Rellenar en {0}</VFEAncients.RefillsIn>
+  <VFEAncients.EnterGeneTailoringPod>Entrar en la cápsula del tejedor-genético </VFEAncients.EnterGeneTailoringPod>
+  <VFEAncients.CarryToGeneTailoringPod>Llevar {0} a la cápsula del tejedor-genético</VFEAncients.CarryToGeneTailoringPod>
+  <VFEAncients.CarryToBioBattery>Llevar {0} a la bio-batería</VFEAncients.CarryToBioBattery>
+  <VFEAncients.Empower>Añadir superpoder</VFEAncients.Empower>
+  <VFEAncients.RemoveWeakness>Remover debilidad</VFEAncients.RemoveWeakness>
+  <VFEAncients.Empowered.Label>Éxito del Experimento: {0}</VFEAncients.Empowered.Label>
+  <VFEAncients.Empowered.Text>El experimento en la cápsula del tejedor-genético fue exitoso! {0} ha ganado el poder {1}. Sin embargo, también ha adquirido la debilidad {2}.</VFEAncients.Empowered.Text>
+  <VFEAncients.RemoveWeakness.Label>Éxito del Experimento: {0}</VFEAncients.RemoveWeakness.Label>
+  <VFEAncients.RemoveWeakness.Text>El experimento en la cápsula del tejedor-genético fue exitoso! {0} se ha eliminado la debilidad {1}.</VFEAncients.RemoveWeakness.Text>
+  <VFEAncients.StartOperation>Empezar Operación</VFEAncients.StartOperation>
+  <VFEAncients.CurrentOperation>Operación Actual</VFEAncients.CurrentOperation>
+  <VFEAncients.ExperimentFailed>Experimento fallido</VFEAncients.ExperimentFailed>
+  <VFEAncients.Death>Muerto</VFEAncients.Death>
+  <VFEAncients.ExperimentFailed.Death>El sujeto ha muerto debido al experimento fallido. No se otorgaron unos nuevos poderes.</VFEAncients.ExperimentFailed.Death>
+  <VFEAncients.Berserk>Berserk</VFEAncients.Berserk>
+  <VFEAncients.ExperimentFailed.Berserk>El sujeto ha sufrido un gran daño cerebral y se ha vuelto loco. No se otorgaron unos nuevos poderes.</VFEAncients.ExperimentFailed.Berserk>
+  <VFEAncients.BrainDeath>Muerte cerebral</VFEAncients.BrainDeath>
+  <VFEAncients.ExperimentFailed.BrainDeath>El sujeto ha sufrido un gran daño cerebral y su cerebro dejo de funcionar. No se otorgaron unos nuevos poderes.</VFEAncients.ExperimentFailed.BrainDeath>
+  <VFEAncients.LaunchSupplies>Lanzar Suministros</VFEAncients.LaunchSupplies>
+  <VFEAncients.ExpiryIn>Auto-destrucción en {0}</VFEAncients.ExpiryIn>
+  <VFEAncients.MessageNoWardenCapableOfRecruitment>No hay guardias capaces de reclutar.</VFEAncients.MessageNoWardenCapableOfRecruitment>
+  <VFEAncients.InterrogationSuccess>Interrogatorio Exitoso</VFEAncients.InterrogationSuccess>
+  <VFEAncients.InterrogationSuccessDetail>{0} has successfully interrogated {1}, who has revealed the location of {2}.</VFEAncients.InterrogationSuccessDetail>
+  <VFEAncients.InterrogationFailure>Interrogatorio fallido!</VFEAncients.InterrogationFailure>
+  <VFEAncients.DeterioratingUncontained>No contenido</VFEAncients.DeterioratingUncontained>
+  <VFEAncients.FireAtPods>Fuego a las cápsulas de lanzamientos</VFEAncients.FireAtPods>
+  <VFEAncients.FireAtPawns>Fuego a los enemigos</VFEAncients.FireAtPawns>
+  <VFEAncients.FireAtProjectiles>Fuego a los proyectiles explosivos</VFEAncients.FireAtProjectiles>
+  <VFEAncients.FireAtPodsDesc>Permite que las torretas de defensa disparen a las cápsulas de lanzamientos que contienen asaltantes.</VFEAncients.FireAtPodsDesc>
+  <VFEAncients.FireAtPawnsDesc>Permite que las torretas de defensa disparen a los enemigos que estén en su rango, similar a la torreta normal.</VFEAncients.FireAtPawnsDesc>
+  <VFEAncients.FireAtProjectilesDesc>Permite que las torretas de defensa disparen a los proyectiles explosivos, como a los cohetes y los proyectiles de morteros.</VFEAncients.FireAtProjectilesDesc>
+  <VFEAncients.PowerChoice>El proceso de inyectar super-nanitas ha terminado. Debido a que posees un muestreador de nanitas, puedes seleccionar entre dos poderes y debilidades para que {0} los obtenga.</VFEAncients.PowerChoice>
+  <VFEAncients.Select>Seleccionar</VFEAncients.Select>
+  <VFEAncients.MassLeft>Masa Restante: {0} / {1} ({2})</VFEAncients.MassLeft>
+  <VFEAncients.AlreadyMetaMorph>Ya esta en la forma animal</VFEAncients.AlreadyMetaMorph>
+  <VFEAncients.CancelOp>Cancelar operación</VFEAncients.CancelOp>
+  <VFEAncients.ConfirmSendPawn>Este tirachinas de suministros contiene al peón {PAWN_labelShort}. No podrás recuperar a {PAWN_pronoun} si lo envías. ¿Lanzar de todos modos?</VFEAncients.ConfirmSendPawn>
+  <VFEAncients.CancelOpDesc>Decide no realizar la operación a {PAWN} y lo expulsa de la cápsula del tejedor-genético.</VFEAncients.CancelOpDesc>
+  <VFEAncients.ExperimentFailureWarning>Este experimento tiene el {0} de fallar. Esto se debe a: {4}\n\nEsto puede reducirse encontrando e instalando algunos de estos edificios:\n{1}\nEl experimento durará {2} y no se puede detener una vez iniciado. Esto se ve afectado por:{3}</VFEAncients.ExperimentFailureWarning>
+  <VFEAncients.SupplyCrateArrived>Una caja de suministros aterrizo cerca. Es un intercambio de otra bóveda, y contendrá artículos de igual valor que los artículos que enviaste.</VFEAncients.SupplyCrateArrived>
+  <VFEAncients.EnableGloryKillMusic>Activar música del asesinato glorioso</VFEAncients.EnableGloryKillMusic>
+  <VFEAncient.GeneTailorNoFuel>Cápsula del Tejedor-Genético no tiene combustible.</VFEAncient.GeneTailorNoFuel>
+  <VFEAncient.MustBeHumanlike>Debe ser humano</VFEAncient.MustBeHumanlike>
+  <VFEAncient.GeneTailorOccupied>La Cápsula del Tejedor-Genético esta ocupada</VFEAncient.GeneTailorOccupied>
+  <VFEAncient.AvailableOperationsCannotBeApplied>Las operaciones disponibles no se pueden aplicar en</VFEAncient.AvailableOperationsCannotBeApplied>
+  <VFEAncients.RepairMat>Reparar artículo</VFEAncients.RepairMat>
+  <VFEAncients.MatForRepair>Qué material se debe utilizar para reparar esto en la mesa de reparación</VFEAncients.MatForRepair>
+  <VFEAncients.ResurrectsIn>Revive en</VFEAncients.ResurrectsIn>
+</LanguageData>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEA_Invisiblity.label>invisibilidad</VFEA_Invisiblity.label>
+  <VFEA_Invisiblity.description>La luz se dobla alrededor para camuflar.</VFEA_Invisiblity.description>
+  <VFEA_Phasing.label>desfase</VFEA_Phasing.label>
+  <VFEA_Phasing.description>Esta desfasado con la realidad normal, permitiéndoles caminar en materia solida.</VFEA_Phasing.description>
+  <VFEA_SpeedBurst.label>impulso de velocidad</VFEA_SpeedBurst.label>
+  <VFEA_SpeedBurst.description>Una estimulación muscular que aumenta en gran medida la velocidad de movimiento y del combate cuerpo a cuerpo.</VFEA_SpeedBurst.description>
+  <VFEA_MetaMorph.label>metamorfosis</VFEA_MetaMorph.label>
+  <VFEA_MetaMorph.description>Esta transformado en una forma diferente.</VFEA_MetaMorph.description>
+  <Power_Blind.label>ciego</Power_Blind.label>
+  <Power_Blind.description>El lugar del cerebro sujeto responsable del procesamiento óptico esta atrofiado, causando una ceguera total a pesar de tener sus ojos en perfecto estado.</Power_Blind.description>
+  <Power_Deaf.label>sordo</Power_Deaf.label>
+  <Power_Deaf.description>El lugar del cerebro sujeto responsable del procesamiento auditivo esta atrofiado, causando una sordera total a pesar de tener sus canales auditivos en perfecto estado.</Power_Deaf.description>
+  <Power_Mute.label>mudo</Power_Mute.label>
+  <Power_Mute.description>El sujeto a desarrollado un bloqueo mental que no le permite crear ningún tipo de sonido con su boca y cuerdas vocales, eliminando cualquier tipo de habla.</Power_Mute.description>
+  <Power_Paralysis.label>parálisis psicológico</Power_Paralysis.label>
+  <Power_Paralysis.description>El lugar del cerebro sujeto responsable del control motriz de sus piernas esta atrofiado, dejándolo parapléjico.</Power_Paralysis.description>
+  <Power_PainHypersensitivity.label>hipersensibilidad al dolor</Power_PainHypersensitivity.label>
+  <Power_PainHypersensitivity.description>El lugar del cerebro sujeto responsable de la sensación de dolor esta sobredesarrollado, causando que un simple corte de papel se sienta como si una bestia te este mordiendo el dedo.</Power_PainHypersensitivity.description>
+  <Power_Hypermetabolism.label>hipermetabolismo</Power_Hypermetabolism.label>
+  <Power_Hypermetabolism.description>El metabolismo del sujeto se ha acelerado, haciendo que requiera consumir el doble de alimentos que antes, incluso si no requiere tanta energía.</Power_Hypermetabolism.description>
+  <Power_Unstoppable.label>imparable</Power_Unstoppable.label>
+  <Power_Unstoppable.description>El cerebro del sujeto no es capaz de procesar la sensación de dolor. Esto hace que no pare por el dolor, pero también puede causar que reciba más daño durante el combate.</Power_Unstoppable.description>
+  <VFEA_PlasteelClaw.label>garras de plastiacero</VFEA_PlasteelClaw.label>
+  <VFEA_PlasteelClaw.description>Una mutación en la mano orientada al combate creado con super-nanitas. Puede hacer cortes profundos y otorga la suficiente fuerza como para aplastar un cráneo como si fuera un huevo. Las garras son retractiles</VFEA_PlasteelClaw.description>
+  <VFEA_PlasteelClaw.comps.HediffComp_VerbGiver.tools.plasteel_claw.label>garras de plastiacero</VFEA_PlasteelClaw.comps.HediffComp_VerbGiver.tools.plasteel_claw.label>
+  <VFEA_PlasteelClaw.labelNoun>unas garras de plastiacero</VFEA_PlasteelClaw.labelNoun>
+  <VFEA_RegrowingPart.label>regenerando</VFEA_RegrowingPart.label>
+  <VFEA_RegrowingPart.description>Esta parte del cuerpo se esta regenerando.</VFEA_RegrowingPart.description>
+  <VFEA_RegrowingPart.stages.bones.label>huesos</VFEA_RegrowingPart.stages.bones.label>
+  <VFEA_RegrowingPart.stages.muscles.label>musculos</VFEA_RegrowingPart.stages.muscles.label>
+  <VFEA_RegrowingPart.stages.nerves.label>nervios</VFEA_RegrowingPart.stages.nerves.label>
+  <VFEA_RegrowingPart.stages.skin.label>piel</VFEA_RegrowingPart.stages.skin.label>
+  <VFEA_RegrowingPart.stages.finishing.label>terminando</VFEA_RegrowingPart.stages.finishing.label>
+</LanguageData>

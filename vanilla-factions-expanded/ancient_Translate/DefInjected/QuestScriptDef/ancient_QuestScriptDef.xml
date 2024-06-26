@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEM_OpportunitySite_LootedVault.questDescriptionRules.rulesStrings.0>questDescription(askerIsNull==true)-&gt;Hemos interceptado mensajes sobre una bóveda abandonada en ruinas no muy lejos de [map_definite].\n\nParece que [allSitePartsDescriptionsExceptFirst]</VFEM_OpportunitySite_LootedVault.questDescriptionRules.rulesStrings.0>
+  <VFEM_OpportunitySite_LootedVault.questDescriptionRules.rulesStrings.1>questDescription(asker_factionLeader==True)-&gt;[asker_label], [asker_faction_leaderTitle] de [asker_faction_name], nos ha informado sobre unas bóveda abandonada en ruinas no muy lejos de nosotros. Quizás se pueda recuperar algo.\n\n[asker_label] dice que [allSitePartsDescriptionsExceptFirst]</VFEM_OpportunitySite_LootedVault.questDescriptionRules.rulesStrings.1>
+  <VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings.0>questName(priority=1)-&gt;[asker_nameDef] [path] a [ruins]</VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings.0>
+  <VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings.1>questName-&gt;[stash] en [ruins]</VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings.1>
+  <VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings.2>path-&gt;El Viaje</VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings.2>
+  <VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings.3>path-&gt;La Expedición</VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings.3>
+  <VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings.4>path-&gt;La Aventura</VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings.4>
+  <VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings.5>ruins-&gt;Unas Ruinas de una bóveda</VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings.5>
+  <VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings.6>ruins-&gt;La bóveda arruinada</VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings.6>
+  <VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings.7>ruins-&gt;La bóveda destruida</VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings.7>
+  <VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings.8>ruins-&gt;La bóveda vacía</VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings.8>
+  <VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings.9>stash-&gt;Alijo</VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings.9>
+  <VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings.10>stash-&gt;Reserva</VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings.10>
+  <VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings.11>stash-&gt;Tesoro</VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings.11>
+  <VFEM_OpportunitySite_LootedVault.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Misión expirada: [resolvedQuestName]</VFEM_OpportunitySite_LootedVault.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  <VFEM_OpportunitySite_LootedVault.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Una comunicación interceptada indica que la bóveda ha sido completamente saqueada por otros. La misión [resolvedQuestName] ha expirado.</VFEM_OpportunitySite_LootedVault.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+  <VFEA_OpportunitySite_SealedVault.questDescriptionRules.rulesStrings.0>questDescription(askerIsNull==true)-&gt;Hemos interceptado unos mensajes acerca de una bóveda sellada no muy lejos de [map_definite]. El sitio esta lleno de tecnología ancestral y reliquias.\n\nParece que todavía está defendido por soldados ancestrales.</VFEA_OpportunitySite_SealedVault.questDescriptionRules.rulesStrings.0>
+  <VFEA_OpportunitySite_SealedVault.questNameRules.rulesStrings.0>questName(priority=1)-&gt;[journey] a la [ruins]</VFEA_OpportunitySite_SealedVault.questNameRules.rulesStrings.0>
+  <VFEA_OpportunitySite_SealedVault.questNameRules.rulesStrings.1>journey-&gt;El Viaje</VFEA_OpportunitySite_SealedVault.questNameRules.rulesStrings.1>
+  <VFEA_OpportunitySite_SealedVault.questNameRules.rulesStrings.2>journey-&gt;La Expedición</VFEA_OpportunitySite_SealedVault.questNameRules.rulesStrings.2>
+  <VFEA_OpportunitySite_SealedVault.questNameRules.rulesStrings.3>journey-&gt;La caza del tesoro</VFEA_OpportunitySite_SealedVault.questNameRules.rulesStrings.3>
+  <VFEA_OpportunitySite_SealedVault.questNameRules.rulesStrings.4>journey-&gt;La Aventura</VFEA_OpportunitySite_SealedVault.questNameRules.rulesStrings.4>
+  <VFEA_OpportunitySite_SealedVault.questNameRules.rulesStrings.5>ruins-&gt;Bóveda sellada</VFEA_OpportunitySite_SealedVault.questNameRules.rulesStrings.5>
+  <VFEA_OpportunitySite_SealedVault.questNameRules.rulesStrings.6>ruins-&gt;Bóveda bloqueada</VFEA_OpportunitySite_SealedVault.questNameRules.rulesStrings.6>
+  <VFEA_OpportunitySite_SealedVault.questNameRules.rulesStrings.7>ruins-&gt;Bóveda ancestral</VFEA_OpportunitySite_SealedVault.questNameRules.rulesStrings.7>
+  <VFEA_OpportunitySite_SealedVault.questNameRules.rulesStrings.8>ruins-&gt;Bóveda asegurada</VFEA_OpportunitySite_SealedVault.questNameRules.rulesStrings.8>
+  <VFEA_OpportunitySite_SealedVault.questNameRules.rulesStrings.9>ruins-&gt;Bóveda oculta</VFEA_OpportunitySite_SealedVault.questNameRules.rulesStrings.9>
+  <VFEA_OpportunitySite_SealedVault.root.nodes.GetFactionOfDef.storeAs.slateRef>facciónEnemiga</VFEA_OpportunitySite_SealedVault.root.nodes.GetFactionOfDef.storeAs.slateRef>
+  <VFEA_OpportunitySite_SealedVault.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Misión expirada: [resolvedQuestName]</VFEA_OpportunitySite_SealedVault.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  <VFEA_OpportunitySite_SealedVault.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Hemos interceptados comunicaciones que indican que la bóveda sellada ha sido abierta y saqueada por otros. La misión [resolvedQuestName] ha expirado.</VFEA_OpportunitySite_SealedVault.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+</LanguageData>

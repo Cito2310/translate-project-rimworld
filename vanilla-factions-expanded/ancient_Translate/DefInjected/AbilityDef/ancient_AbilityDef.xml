@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEA_SuperJump.label>super salto</VFEA_SuperJump.label>
+  <VFEA_SuperJump.description>Capaz de saltar una corta distancia (10 celdas) para acortar la distancia con el enemigo.</VFEA_SuperJump.description>
+  <VFEA_SuperJump.jobReportString>Usando habilidad: {0}</VFEA_SuperJump.jobReportString>
+  <VFEA_SuperJump.verbProperties.label>super jump</VFEA_SuperJump.verbProperties.label>
+  <VFEA_Berserk.label>berserk (telepatía)</VFEA_Berserk.label>
+  <VFEA_Berserk.description>Hace que un enemigo ataque a sus propios aliados.</VFEA_Berserk.description>
+  <VFEA_Berserk.jobReportString>Usando habilidad: {0}</VFEA_Berserk.jobReportString>
+  <VFEA_Berserk.verbProperties.label>berserk (telepatía)</VFEA_Berserk.verbProperties.label>
+  <VFEA_Calm.label>calma (telepatía)</VFEA_Calm.label>
+  <VFEA_Calm.description>Hace que un amigo se calme y abandone su ruptura mental.</VFEA_Calm.description>
+  <VFEA_Calm.jobReportString>Usando habilidad: {0}</VFEA_Calm.jobReportString>
+  <VFEA_Calm.verbProperties.label>calma (telepatía)</VFEA_Calm.verbProperties.label>
+  <VFEA_PsychicShock.label>shock psíquico</VFEA_PsychicShock.label>
+  <VFEA_PsychicShock.description>Disparar un shock psíquico al enemigo, dejándolo inconsciente.</VFEA_PsychicShock.description>
+  <VFEA_PsychicShock.jobReportString>Usando habilidad: {0}</VFEA_PsychicShock.jobReportString>
+  <VFEA_PsychicShock.verbProperties.label>shock psíquico</VFEA_PsychicShock.verbProperties.label>
+  <VFEA_Invisibility.label>invisibilidad</VFEA_Invisibility.label>
+  <VFEA_Invisibility.description>Te vuelve invisible por 60 segundos.</VFEA_Invisibility.description>
+  <VFEA_Invisibility.jobReportString>Usando habilidad: {0}</VFEA_Invisibility.jobReportString>
+  <VFEA_Invisibility.verbProperties.label>invisibilidad</VFEA_Invisibility.verbProperties.label>
+  <VFEA_SelfControl.label>auto-control</VFEA_SelfControl.label>
+  <VFEA_SelfControl.description>Cuando esta activado, inmediatamente para cualquier colapso mental que esté afectando a este peón.</VFEA_SelfControl.description>
+  <VFEA_SelfControl.jobReportString>Usando habilidad: {0}</VFEA_SelfControl.jobReportString>
+  <VFEA_SelfControl.verbProperties.label>auto-control</VFEA_SelfControl.verbProperties.label>
+  <VFEA_Overshield.label>sobreprotección</VFEA_Overshield.label>
+  <VFEA_Overshield.description>Genera un escudo impenetrable a su alrededor durante 30 segundos.</VFEA_Overshield.description>
+  <VFEA_Overshield.jobReportString>Usando habilidad: {0}</VFEA_Overshield.jobReportString>
+  <VFEA_Overshield.verbProperties.label>sobreprotección</VFEA_Overshield.verbProperties.label>
+  <VFEA_SummonLightning.label>crear luz</VFEA_SummonLightning.label>
+  <VFEA_SummonLightning.description>Designa un área que será iluminado por unos focos de luz.</VFEA_SummonLightning.description>
+  <VFEA_SummonLightning.jobReportString>Usando habilidad: {0}</VFEA_SummonLightning.jobReportString>
+  <VFEA_SummonLightning.verbProperties.label>crear luz</VFEA_SummonLightning.verbProperties.label>
+  <VFEA_AnimalSpeech.label>hablar con animal</VFEA_AnimalSpeech.label>
+  <VFEA_AnimalSpeech.description>Cuando se lanza sobre los animales que están cazando humanos, este se calmara. Cuando lo lances sobre los animales salvajes, lo domesticara.</VFEA_AnimalSpeech.description>
+  <VFEA_AnimalSpeech.jobReportString>Usando habilidad: {0}</VFEA_AnimalSpeech.jobReportString>
+  <VFEA_AnimalSpeech.verbProperties.label>hablar con animal</VFEA_AnimalSpeech.verbProperties.label>
+  <VFEA_Empathy.label>empatía</VFEA_Empathy.label>
+  <VFEA_Empathy.description>Cuando se lanza a un aliado mejora su humor durante 24 horas.</VFEA_Empathy.description>
+  <VFEA_Empathy.jobReportString>Usando habilidad: {0}</VFEA_Empathy.jobReportString>
+  <VFEA_Empathy.verbProperties.label>empatía</VFEA_Empathy.verbProperties.label>
+  <VFEA_Heal.label>curar a otros</VFEA_Heal.label>
+  <VFEA_Heal.description>Cuando se lanza a un aliado lo cura de todas las heridas.</VFEA_Heal.description>
+  <VFEA_Heal.jobReportString>Usando habilidad: {0}</VFEA_Heal.jobReportString>
+  <VFEA_Heal.verbProperties.label>curar a otros</VFEA_Heal.verbProperties.label>
+  <VFEA_GloryKill.label>asesinato glorioso</VFEA_GloryKill.label>
+  <VFEA_GloryKill.description>Mata a un enemigo aleatorio en el radio de 1 celda, dejando una gran cantidad de sangre por todos lados, y elimina una cantidad de aleatoria de sus extremidades.</VFEA_GloryKill.description>
+  <VFEA_GloryKill.jobReportString>Usando habilidad: {0}</VFEA_GloryKill.jobReportString>
+  <VFEA_GloryKill.verbProperties.label>asesinato glorioso</VFEA_GloryKill.verbProperties.label>
+  <VFEA_ElectromagneticPulse.label>pulso electro-magnético</VFEA_ElectromagneticPulse.label>
+  <VFEA_ElectromagneticPulse.description>Genera una gran explosión EMP alrededor, desactivando todos los elementos electrónicos en un radio.</VFEA_ElectromagneticPulse.description>
+  <VFEA_ElectromagneticPulse.jobReportString>Usando habilidad: {0}</VFEA_ElectromagneticPulse.jobReportString>
+  <VFEA_ElectromagneticPulse.verbProperties.label>pulso electro-magnético</VFEA_ElectromagneticPulse.verbProperties.label>
+  <VFEA_FireBreath.label>aliento de fuego</VFEA_FireBreath.label>
+  <VFEA_FireBreath.description>Lanza fuego en un rango de 12 celdas frente tuyo, quemando a los enemigos, haciéndolos huir.</VFEA_FireBreath.description>
+  <VFEA_FireBreath.jobReportString>Usando habilidad: {0}</VFEA_FireBreath.jobReportString>
+  <VFEA_FireBreath.verbProperties.label>aliento de fuego</VFEA_FireBreath.verbProperties.label>
+  <VFEA_IceBreath.label>aliento helado</VFEA_IceBreath.label>
+  <VFEA_IceBreath.description>Lanza hielo en un rango de 12 celdas frente tuyo, ralentizando a los enemigos y le da hipotermia.</VFEA_IceBreath.description>
+  <VFEA_IceBreath.jobReportString>Usando habilidad: {0}</VFEA_IceBreath.jobReportString>
+  <VFEA_IceBreath.verbProperties.label>aliento helado</VFEA_IceBreath.verbProperties.label>
+  <VFEA_LaserEyes.label>ojos de laser</VFEA_LaserEyes.label>
+  <VFEA_LaserEyes.description>Dispara unos rayos de energía increíblemente poderoso desde sus ojos. El alcance máximo es de 35 celdas.</VFEA_LaserEyes.description>
+  <VFEA_LaserEyes.jobReportString>Usando habilidad: {0}</VFEA_LaserEyes.jobReportString>
+  <VFEA_LaserEyes.verbProperties.label>ojos de laser</VFEA_LaserEyes.verbProperties.label>
+  <VFEA_MatterPhasing.label>materia de fases</VFEA_MatterPhasing.label>
+  <VFEA_MatterPhasing.description>Puedes pasar a través de las paredes durante 10 segundos.</VFEA_MatterPhasing.description>
+  <VFEA_MatterPhasing.jobReportString>Usando habilidad: {0}</VFEA_MatterPhasing.jobReportString>
+  <VFEA_MatterPhasing.verbProperties.label>materia de fases</VFEA_MatterPhasing.verbProperties.label>
+  <VFEA_ElectricityBlast.label>blaster eléctrico</VFEA_ElectricityBlast.label>
+  <VFEA_ElectricityBlast.description>Lanza un arco eléctrico que rebota entre los enemigos, quemándolos y desactivando los dispositivos electrónicos.</VFEA_ElectricityBlast.description>
+  <VFEA_ElectricityBlast.jobReportString>Usando habilidad: {0}</VFEA_ElectricityBlast.jobReportString>
+  <VFEA_ElectricityBlast.verbProperties.label>blaster eléctrico</VFEA_ElectricityBlast.verbProperties.label>
+  <VFEA_SpeedBurst.label>aumento de velocidad</VFEA_SpeedBurst.label>
+  <VFEA_SpeedBurst.description>4x Velocidad de movimiento. El enfriamiento del cuerpo a cuerpo a la mitad. Durante 30 segundos.</VFEA_SpeedBurst.description>
+  <VFEA_SpeedBurst.jobReportString>Usando habilidad: {0}</VFEA_SpeedBurst.jobReportString>
+  <VFEA_SpeedBurst.verbProperties.label>aumento de velocidad</VFEA_SpeedBurst.verbProperties.label>
+  <VFEA_AcidBreath.label>escupitajo de acido</VFEA_AcidBreath.label>
+  <VFEA_AcidBreath.description>El sujeto ha desarrollado unos sacos de químicos concentrados en el pecho. Estos sacos están conectados mediante tubos a la boca y puede expulsar el acido contrayendo el saco, reacciona con el oxigeno formando un moco acida.</VFEA_AcidBreath.description>
+  <VFEA_AcidBreath.jobReportString>Usando habilidad: {0}</VFEA_AcidBreath.jobReportString>
+  <VFEA_AcidBreath.verbProperties.label>escupitajo de acido</VFEA_AcidBreath.verbProperties.label>
+  <VFEA_Fireball.label>bola de fuego</VFEA_Fireball.label>
+  <VFEA_Fireball.description>El sujeto ha desarrollado un saco de quimicombustible en la palma de sus manos y con una numerosa cantidad de glándulas. Una vez cada 30 segundos, estas glándulas expulsan napalm que se puede lanzar e incendiar una pequeña área.</VFEA_Fireball.description>
+  <VFEA_Fireball.jobReportString>Usando habilidad: {0}</VFEA_Fireball.jobReportString>
+  <VFEA_Fireball.verbProperties.label>bola de fuego</VFEA_Fireball.verbProperties.label>
+  <VFEA_MetamorphosisTurtle.label>metamorfosis (tortuga)</VFEA_MetamorphosisTurtle.label>
+  <VFEA_MetamorphosisTurtle.description>El sujeto es capaz de temporalmente usar su fuerza psíquica para obligar a su cuerpo que adopte una figura según su mente debería ser. En este caso, adopta la forma de la tortuga, con la misma salud, tamaño y habilidades, antes de que su cuerpo vuelva a la normalidad luego de 60 segundos.</VFEA_MetamorphosisTurtle.description>
+  <VFEA_MetamorphosisTurtle.jobReportString>Usando habilidad: {0}</VFEA_MetamorphosisTurtle.jobReportString>
+  <VFEA_MetamorphosisTurtle.verbProperties.label>metamorfosis (tortuga)</VFEA_MetamorphosisTurtle.verbProperties.label>
+  <VFEA_MetamorphosisWarg.label>metamorfosis (huargo)</VFEA_MetamorphosisWarg.label>
+  <VFEA_MetamorphosisWarg.description>El sujeto es capaz de temporalmente usar su fuerza psíquica para obligar a su cuerpo que adopte una figura según su mente debería ser. En este caso, adopta la forma del huargo, con la misma salud, tamaño y habilidades, antes de que su cuerpo vuelva a la normalidad luego de 60 segundos.</VFEA_MetamorphosisWarg.description>
+  <VFEA_MetamorphosisWarg.jobReportString>Usando habilidad: {0}</VFEA_MetamorphosisWarg.jobReportString>
+  <VFEA_MetamorphosisWarg.verbProperties.label>metamorfosis (huargo)</VFEA_MetamorphosisWarg.verbProperties.label>
+</LanguageData>

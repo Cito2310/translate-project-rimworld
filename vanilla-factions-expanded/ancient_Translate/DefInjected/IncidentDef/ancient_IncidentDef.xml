@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEA_SupplyDrop.label>caída de suministros</VFEA_SupplyDrop.label>
+  <VFEA_SupplyDrop.letterLabel>Llegan Suministros</VFEA_SupplyDrop.letterLabel>
+  <VFEA_SupplyDrop.letterText>Una caja de suministros que iba a una ubicación desconocida ha aterrizado accidentalmente aquí. Puedes hackearla para abrirla, pero esto puede provocar un asalto enemigo.\n\nPosee recursos, medicines o alimentos, combustibles y toneladas de tecnología ancestral, estas cajas eran enviadas hace generaciones entre complejos ancestrales.</VFEA_SupplyDrop.letterText>
+</LanguageData>

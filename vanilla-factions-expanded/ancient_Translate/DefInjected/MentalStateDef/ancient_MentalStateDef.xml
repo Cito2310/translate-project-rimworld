@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEA_Hallucinations.label>viendo cosas</VFEA_Hallucinations.label>
+  <VFEA_Hallucinations.baseInspectLine>Estado mental: Viendo cosas.</VFEA_Hallucinations.baseInspectLine>
+  <VFEA_Hallucinations.recoveryMessage>{0} ya no esta viendo cosas.</VFEA_Hallucinations.recoveryMessage>
+</LanguageData>

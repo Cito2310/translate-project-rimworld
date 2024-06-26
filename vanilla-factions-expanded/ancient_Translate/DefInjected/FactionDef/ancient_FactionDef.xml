@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEA_AncientSoldiers.label>super-soldados ancestrales</VFEA_AncientSoldiers.label>
+  <VFEA_AncientSoldiers.fixedName>Soldados ancestrales</VFEA_AncientSoldiers.fixedName>
+  <VFEA_AncientSoldiers.leaderTitle>líder</VFEA_AncientSoldiers.leaderTitle>
+  <VFEA_AncientSoldiers.pawnSingular>super-soldado ancestral</VFEA_AncientSoldiers.pawnSingular>
+  <VFEA_AncientSoldiers.pawnsPlural>super-soldados ancestrales</VFEA_AncientSoldiers.pawnsPlural>
+  <VFEA_NewVault.label>Nueva Boveda</VFEA_NewVault.label>
+  <VFEA_NewVault.description>Una bóveda de soldados ancestrales.</VFEA_NewVault.description>
+  <VFEA_NewVault.leaderTitle>líder</VFEA_NewVault.leaderTitle>
+  <VFEA_NewVault.pawnSingular>soldado ancestral</VFEA_NewVault.pawnSingular>
+  <VFEA_NewVault.pawnsPlural>soldados ancestrales</VFEA_NewVault.pawnsPlural>
+</LanguageData>

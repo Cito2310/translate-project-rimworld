@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEA_DoBillsAncientWorkshop.label>hacer cosas en la antigua estación de trabajo</VFEA_DoBillsAncientWorkshop.label>
+  <VFEA_DoBillsAncientWorkshop.gerund>trabajando en</VFEA_DoBillsAncientWorkshop.gerund>
+  <VFEA_DoBillsAncientWorkshop.verb>trabajar</VFEA_DoBillsAncientWorkshop.verb>
+  <VFEA_DoBillsAncientCookingStation.label>cocinar alimentos en la antigua estación de trabajo</VFEA_DoBillsAncientCookingStation.label>
+  <VFEA_DoBillsAncientCookingStation.gerund>cocinando en</VFEA_DoBillsAncientCookingStation.gerund>
+  <VFEA_DoBillsAncientCookingStation.verb>cocinar</VFEA_DoBillsAncientCookingStation.verb>
+  <VFEA_DoBillsMending.label>reparar cosa en la estación de reparación</VFEA_DoBillsMending.label>
+  <VFEA_DoBillsMending.gerund>reparando en</VFEA_DoBillsMending.gerund>
+  <VFEA_DoBillsMending.verb>reparar</VFEA_DoBillsMending.verb>
+  <VFEA_Interrogate.label>interrogar prisionero</VFEA_Interrogate.label>
+  <VFEA_Interrogate.gerund>interrogating</VFEA_Interrogate.gerund>
+  <VFEA_Interrogate.verb>interrogar</VFEA_Interrogate.verb>
+</LanguageData>
