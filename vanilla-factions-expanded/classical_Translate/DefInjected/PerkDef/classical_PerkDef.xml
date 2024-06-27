@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AmorVincitOmnia.label>Amor Vincit Omnia</AmorVincitOmnia.label>
+  <AmorVincitOmnia.description>La opinión del marido y de la mujer siempre esta bloqueado en 100 y jamás puede bajar.</AmorVincitOmnia.description>
+  <CarpeDiem.label>Carpe Diem</CarpeDiem.label>
+  <CarpeDiem.description>Todos reciben un +3 de estado de humor.</CarpeDiem.description>
+  <NilDesperandum.label>Nil Desperandum</NilDesperandum.label>
+  <NilDesperandum.description>El umbral de ruptura mental disminuyó un 10%.</NilDesperandum.description>
+  <PanemEtCircenses.label>Panem Et Circenses</PanemEtCircenses.label>
+  <PanemEtCircenses.description>Todos los estados de ánimos positivos duran un 20% más.</PanemEtCircenses.description>
+  <ArsLongaVitaBrevis.label>Ars Longa, Vita Brevis</ArsLongaVitaBrevis.label>
+  <ArsLongaVitaBrevis.description>La belleza de todas las esculturas  y piezas de arte se multiplica en un x1.25.</ArsLongaVitaBrevis.description>
+  <ExitusActaProbat.label>Exitus Acta Probat</ExitusActaProbat.label>
+  <ExitusActaProbat.description>Todos los estados de ánimo negativo son un 10% más corto.</ExitusActaProbat.description>
+  <AleaIactaEst.label>Alea Iacta Est</AleaIactaEst.label>
+  <AleaIactaEst.description>El umbral de dolor aumenta en un 10%.</AleaIactaEst.description>
+  <PecuniaNervusBelli.label>Pecunia Nervus Belli</PecuniaNervusBelli.label>
+  <PecuniaNervusBelli.description>Las armas de cualquier tipo tienen un 5% más de valor.</PecuniaNervusBelli.description>
+  <SiVisPacemParaBellum.label>Si Vis Pacem, Para Bellum</SiVisPacemParaBellum.label>
+  <SiVisPacemParaBellum.description>Cuando los colonos están reclutados, jamás tendrán colapsos mentales.</SiVisPacemParaBellum.description>
+  <NosMorituriTeSalutant.label>Nos Morituri Te Salutant</NosMorituriTeSalutant.label>
+  <NosMorituriTeSalutant.description>Los pensamientos sobre la perdida de colonos, miembros de la familia se reduce a la mitad.</NosMorituriTeSalutant.description>
+  <NonOmniaPossumusOmnes.label>Non Omnia Possumus Omnes</NonOmniaPossumusOmnes.label>
+  <NonOmniaPossumusOmnes.description>La velocidad de aprendizaje de habilidad global aumenta en un 5%.</NonOmniaPossumusOmnes.description>
+  <TimendiCausaEstNescire.label>Timendi Causa Est Nescire</TimendiCausaEstNescire.label>
+  <TimendiCausaEstNescire.description>La velocidad de investigación aumenta en un 5%.</TimendiCausaEstNescire.description>
+  <MensSanaInCorporeSano.label>Mens Sana In Corpore Sano</MensSanaInCorporeSano.label>
+  <MensSanaInCorporeSano.description>La velocidad de trabajo global aumenta en un 10% si esta contento.</MensSanaInCorporeSano.description>
+  <ActaNonVerba.label>Acta Non Verba</ActaNonVerba.label>
+  <ActaNonVerba.description>La velocidad de trabajo global aumenta en un 5%.</ActaNonVerba.description>
+  <NaturaNonConstristatur.label>Natura Non Constristatur</NaturaNonConstristatur.label>
+  <NaturaNonConstristatur.description>Los pensamientos del entorno (Frío y Caliente) se reduce a la mitad (en lugar de -8 pasa a -4).</NaturaNonConstristatur.description>
+  <Tributum.label>Tributum</Tributum.label>
+  <Tributum.description>Obtienes una donación anual de plata equivalente al 5% de la riqueza del jugador. Los precios de los vendedores de la República Central se reduce a la mitad.</Tributum.description>
+  <Auxilia.label>Auxilia</Auxilia.label>
+  <Auxilia.description>Cada vez que ocurre un asalto, hay un 25% de posibilidad que una legión aparezca a ayudar. Después de esto, la legión de refuerzo abandonara el mapa.</Auxilia.description>
+  <Profectus.label>Profectus</Profectus.label>
+  <Profectus.description>De vez en cuando, un proyecto de investigación disponible del jugador se completa de forma automática.</Profectus.description>
+  <VeniVidiVici.label>Veni, Vidi, Vici</VeniVidiVici.label>
+  <VeniVidiVici.description>Cualquier colono de cualquiera de las tres Republicas se pueden reclutar de forma instantánea.</VeniVidiVici.description>
+</LanguageData>

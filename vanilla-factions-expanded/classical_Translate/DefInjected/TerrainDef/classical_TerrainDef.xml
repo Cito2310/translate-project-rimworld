@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEC_MosaicsSandstone.label>mosaicos de arenisca</VFEC_MosaicsSandstone.label>
+  <VFEC_MosaicsSandstone.description>Suelos minuciosamente tallados y colocados, muy bellos a la vista.</VFEC_MosaicsSandstone.description>
+  <VFEC_MosaicsGranite.label>mosaicos de granito</VFEC_MosaicsGranite.label>
+  <VFEC_MosaicsGranite.description>Suelos minuciosamente tallados y colocados, muy bellos a la vista.</VFEC_MosaicsGranite.description>
+  <VFEC_MosaicsLimestone.label>mosaicos de caliza</VFEC_MosaicsLimestone.label>
+  <VFEC_MosaicsLimestone.description>Suelos minuciosamente tallados y colocados, muy bellos a la vista.</VFEC_MosaicsLimestone.description>
+  <VFEC_MosaicsSlate.label>mosaicos de pizarra</VFEC_MosaicsSlate.label>
+  <VFEC_MosaicsSlate.description>Suelos minuciosamente tallados y colocados, muy bellos a la vista.</VFEC_MosaicsSlate.description>
+  <VFEC_MosaicsMarble.label>mosaicos de mármol</VFEC_MosaicsMarble.label>
+  <VFEC_MosaicsMarble.description>Suelos minuciosamente tallados y colocados, muy bellos a la vista.</VFEC_MosaicsMarble.description>
+  <VFEC_BronzeTile.label>baldosa de bronce</VFEC_BronzeTile.label>
+  <VFEC_BronzeTile.description>Baldosas de bronces con algunas propiedades de esterilización. La limpieza extra en una habitación mejora los resultados en los hospitales y en los laboratorios de investigación. Esta baldosa es muy lenta de construir.</VFEC_BronzeTile.description>
+  <VFEC_TileConcrete.label>baldosa de concreto</VFEC_TileConcrete.label>
+  <VFEC_TileConcrete.description>Baldosas de concreto cuidadosamente cortadas y ajustadas para dar una sensación de castillo. Son bonitas de ver, pero tardan mucho tiempo en colocarse.</VFEC_TileConcrete.description>
+  <VFEC_FlagstoneConcrete.label>losa de concreto</VFEC_FlagstoneConcrete.label>
+  <VFEC_FlagstoneConcrete.description>Losas de concreto toscamente cortadas. Estas no son muy hermosas, pero son buenas superficies para los caminos y senderos al aire libre. La deconstrucción de las losas no producen materiales.</VFEC_FlagstoneConcrete.description>
+</LanguageData>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEC_Opium.label>opio</VFEC_Opium.label>
+  <VFEC_Opium.description>Un analgésico particularmente fuerte y muy adictivo capaz de eliminar por completo el dolor. Es recomendable que si uno va a empezar a usar esta droga, debe usarse a diario, debido a que su abstinencia es muy dura y esta empieza muy rápida.</VFEC_Opium.description>
+  <VFEC_Opium.ingestible.ingestCommandString>Tomar {0}</VFEC_Opium.ingestible.ingestCommandString>
+  <VFEC_Opium.ingestible.ingestReportString>Tomando {0}.</VFEC_Opium.ingestible.ingestReportString>
+  <VFEC_Tent.label>tienda de campaña</VFEC_Tent.label>
+  <VFEC_Tent.description>Una pequeña tienda de campaña, no más grande que una cama para una sola persona. Una vez colocado, protegerá al colono del calor y del frio, pero no es muy cómodo, debido a que se sigue acostando directamente en el suelo.</VFEC_Tent.description>
+  <VFEC_Thermaebath.label>baño termal</VFEC_Thermaebath.label>
+  <VFEC_Thermaebath.description>Un baño de piedra muy grande climatizado destinado a ser usado por varios clientes a la vez. Provee de un respiro temporal de un mundo que de otro modo sería incómodo. Cuando hay muchos clientes se sabe que se pierden en el momento y comparten mucho más de lo normal.</VFEC_Thermaebath.description>
+  <VFEC_TheatreStage.label>escenario de teatro</VFEC_TheatreStage.label>
+  <VFEC_TheatreStage.description>Un escenario de madera ligeramente decorado donde se coloca la utilería y los actores para hacer sus escenas. Estas actuaciones son muy divertidas tanto para quienes actuán como para los espectadores.</VFEC_TheatreStage.description>
+  <VFEC_Beacon.label>baliza</VFEC_Beacon.label>
+  <VFEC_Beacon.description>Una gran pila de madera colocada en forma de torre. Una vez encendido, las llamas irán quemando poco a poco la pila durante tres días. La luz emanada de la baliza indica a las facciones aliadas que tu asentamiento necesita ayuda, los ingenieros militares auxiliares suelen llegar muy rápido, y lucharan y construirán junto a ti. Debe reconstruirse después de que se extinga. La ayuda sólo se puede solicitar una vez cada 3 días.</VFEC_Beacon.description>
+  <VFEC_MeatDryingRack.label>estante de secado de carne</VFEC_MeatDryingRack.label>
+  <VFEC_MeatDryingRack.description>Un estante solido de madera con una serie de ganchos que cuelgan sobre una viga central donde se cuelgan trozos de carne. La carne colgada se irá secando poco a poco debido al aire, permitiendo conservarla de forma indefinida. El proceso de secado será mucho más rápido en entornos calidos.</VFEC_MeatDryingRack.description>
+  <VFEC_CraftingBench.label>mesa de trabajo</VFEC_CraftingBench.label>
+  <VFEC_CraftingBench.description>Una simple mesa de trabajo con varias herramientas simples, con el objetivo de crear bienes y armas sencillas.</VFEC_CraftingBench.description>
+  <VFEC_WoodFiredCrematorium.label>crematorio a leña</VFEC_WoodFiredCrematorium.label>
+  <VFEC_WoodFiredCrematorium.description>Un receptáculo a leña destinado a la eliminación de chatarra y de cuerpos.</VFEC_WoodFiredCrematorium.description>
+  <VFEC_ConcretePress.label>prensa de cemento</VFEC_ConcretePress.label>
+  <VFEC_ConcretePress.description>Un cuenco muy resistente hecho de piedra destinado a curar y a dar forma a la mezcla de arcilla, arena y del polvo de piedra, haciendo bloques de cemento.</VFEC_ConcretePress.description>
+  <VFEC_TyrianFarm.label>granja de tiro</VFEC_TyrianFarm.label>
+  <VFEC_TyrianFarm.description>Un gran recinto hecho de madera que debe colocarse en aguas poco profundas y debe llenarse con tela. Una rara especie de caracoles que existe en Rimworld, al lavarse sueltan un residuo que llega a las telas y las tiñe. Creando una pequeña cantidad de tela real con el paso del tiempo.</VFEC_TyrianFarm.description>
+  <VFEC_Turret_Scorpion.label>torreta escorpión</VFEC_Turret_Scorpion.label>
+  <VFEC_Turret_Scorpion.description>Un torreta similar a una balista capaz de disparar rápidamente cuando está instalada y tripulada. Lo suficientemente ligero para poder ser usado como arma a mano, pero esto a costa de sacrificar la velocidad de disparo, muy efectivo contra la infantería enemiga.</VFEC_Turret_Scorpion.description>
+  <VFEC_Turret_Scorpion.comps.CompRefuelable.fuelGizmoLabel>Durabilidad</VFEC_Turret_Scorpion.comps.CompRefuelable.fuelGizmoLabel>
+  <VFEC_Turret_Scorpion.comps.CompRefuelable.fuelLabel>Disparos ante de recargar</VFEC_Turret_Scorpion.comps.CompRefuelable.fuelLabel>
+  <VFEC_Turret_Scorpion.comps.CompRefuelable.outOfFuelMessage>No se puede disparar: Necesita recargarse</VFEC_Turret_Scorpion.comps.CompRefuelable.outOfFuelMessage>
+  <VFEC_TurretGun_Scorpion.label>escorpión</VFEC_TurretGun_Scorpion.label>
+  <VFEC_TurretGun_Scorpion.description>Un torreta similar a una balista capaz de disparar rápidamente cuando está instalada y tripulada. Lo suficientemente ligero para poder ser usado como arma a mano, pero esto a costa de sacrificar la velocidad de disparo, muy efectivo contra la infantería enemiga.</VFEC_TurretGun_Scorpion.description>
+  <VFEC_TurretGun_Scorpion.verbs.Verb_Shoot.label>escorpión</VFEC_TurretGun_Scorpion.verbs.Verb_Shoot.label>
+  <VFEC_LargePassiveCooler.label>enfriador pasivo grande</VFEC_LargePassiveCooler.label>
+  <VFEC_LargePassiveCooler.description>Un enfriador grande sin energía notablemente más grande que el tradicional, puede enfriar los cuartos hasta congelarlo a través de la evaporación del agua. Al drenarse por completo se auto-destruirá después de unos días.</VFEC_LargePassiveCooler.description>
+  <VFEC_HeatStones.label>piedras calientes</VFEC_HeatStones.label>
+  <VFEC_HeatStones.description>Una pequeña caja hecha de piedras, perforados con unos pequeños agujeros en la parte superior e inferior. En su interior se puede prender y mantener un pequeño fuego. El recipiente de piedra disipara el calor, generando calor.</VFEC_HeatStones.description>
+  <VFEC_Jerky.label>jerky</VFEC_Jerky.label>
+  <VFEC_Jerky.description>Carne salada cortada muy finamente que puede durar de forma indefinida y tiene un sabor bastante agradable para lo que es.</VFEC_Jerky.description>
+  <VFEC_Bronze.label>bronce</VFEC_Bronze.label>
+  <VFEC_Bronze.description>Una aleación metálica hecho con aceros y trozos de cobre que se encuentran en las piedras. Se puede usar para crear armaduras o muebles cuando hay una escasez de acero.</VFEC_Bronze.description>
+  <VFEC_BlocksConcrete.label>bloques de concreto</VFEC_BlocksConcrete.label>
+  <VFEC_BlocksConcrete.description>Bloque de cementos resistentes y útiles para crear cualquier tipo de infraestructura. Si bien no es tan duro como el granito ni tan bello como el mármol, es una clara mejora con respeto a otros materiales más débiles como la pizarra o la arenisca.</VFEC_BlocksConcrete.description>
+  <VFEC_Tyrian.label>tiro</VFEC_Tyrian.label>
+  <VFEC_Tyrian.description>un rollo de tela violeta muy hermoso y lujoso, perfecto para vestir a los distinguidos.</VFEC_Tyrian.description>
+  <VFEC_Wreath.label>guirnalda</VFEC_Wreath.label>
+  <VFEC_Wreath.description>Una pieza metálica pulida para ser usado en la cabeza que se asemeja a los laureles y que simbolizan la riqueza y el estatus, lo suelen llevar tanto los senadores como los nobles.</VFEC_Wreath.description>
+  <VFEC_Apparel_LegionnaireHelmet.label>casco de legionario</VFEC_Apparel_LegionnaireHelmet.label>
+  <VFEC_Apparel_LegionnaireHelmet.description>Un casco diseñado de forma cuidadosa y hecho a partir de una pieza de madera o metal. Hay un gran espacio abierto cerca de la boca y de los ojos permitiéndoles tener una visión periférica completa y una buena comunicación.</VFEC_Apparel_LegionnaireHelmet.description>
+  <VFEC_Apparel_CenturionHelmet.label>casco de centurión</VFEC_Apparel_CenturionHelmet.label>
+  <VFEC_Apparel_CenturionHelmet.description>Un casco diseñado y decorado con cuidado, hecho a partir de una sola pieza de madera o metal. Hay una gran abertura en el frente permitiéndoles tener un visión periférica completa y una buena comunicación. Este casco incluye un accesorio para inspirar tanto a quien lo usa como a sus aliados, cuando lucha junto a un centurión da tal impulso que reduce el dolor.</VFEC_Apparel_CenturionHelmet.description>
+  <VFEC_Toga.label>toga</VFEC_Toga.label>
+  <VFEC_Toga.description>Prenda semicircular, esta abierto en la parte inferior, fue diseñado para cubrir todo el cuerpo y los hombros. Si bien es similar a la ropa tribal, la toga se suele hacer con más delicadeza y se considera una ropa cotidiana más digna.</VFEC_Toga.description>
+  <VFEC_Apparel_LegionnaireArmor.label>armadura de legionario</VFEC_Apparel_LegionnaireArmor.label>
+  <VFEC_Apparel_LegionnaireArmor.description>Una armadura diseñada con cuidado hecho con una serie de metales reforzados o laminas de metal, formando un tipo de caparazón sin sacrificar demasiado la movilidad. Se sabe que esta armadura ayuda a fortalecer la mente.</VFEC_Apparel_LegionnaireArmor.description>
+  <VFEC_Apparel_CenturionArmor.label>armadura de centurión</VFEC_Apparel_CenturionArmor.label>
+  <VFEC_Apparel_CenturionArmor.description>Una armadura diseñada con cuidado hecho con una serie de metales reforzados o laminas de metal, formando un tipo de caparazón sin sacrificar demasiado la movilidad. Se sabe que esta armadura ayuda a fortalecer la mente.</VFEC_Apparel_CenturionArmor.description>
+  <VFEC_Apparel_CenturionArmor.comps.CompToggleHediff.label>Alternar mejora</VFEC_Apparel_CenturionArmor.comps.CompToggleHediff.label>
+  <VFEC_Apparel_CenturionArmor.comps.CompToggleHediff.description>Alternar la mejora de los aliados cercanos, desactivarlo cuando no estas en combate si el rendimiento es un problema</VFEC_Apparel_CenturionArmor.comps.CompToggleHediff.description>
+  <VFEC_MoteCenturionLink.label>link centurión</VFEC_MoteCenturionLink.label>
+  <VFEC_Shield_Heavy.label>escudo pesado</VFEC_Shield_Heavy.label>
+  <VFEC_Shield_Heavy.description>Un escudo robusto y fortificado, tiene una forma cuadrada que cubre el cuerpo desde los tobillos hasta el hombro, es demasiado pesado haciendo que el que lo porte sea mucho más lento, esto a cambio de una increíble protección.</VFEC_Shield_Heavy.description>
+  <VFEC_Shield_Heavy.tools.base.label>base</VFEC_Shield_Heavy.tools.base.label>
+  <VFEC_Shield_Heavy.tools.centre.label>centro</VFEC_Shield_Heavy.tools.centre.label>
+  <VFEC_MeleeWeapon_Spatha.label>spatha</VFEC_MeleeWeapon_Spatha.label>
+  <VFEC_MeleeWeapon_Spatha.description>Una espada corta y pesada destinada a realizar cortes penetrantes y cortantes. Muchos estudiosos consideran que esta arma es el precursor de la espada larga. Y es ligeramente menos eficaz que la espada larga.</VFEC_MeleeWeapon_Spatha.description>
+  <VFEC_MeleeWeapon_Spatha.tools.handle.label>mango</VFEC_MeleeWeapon_Spatha.tools.handle.label>
+  <VFEC_MeleeWeapon_Spatha.tools.point.label>punta</VFEC_MeleeWeapon_Spatha.tools.point.label>
+  <VFEC_MeleeWeapon_Spatha.tools.edge.label>filo</VFEC_MeleeWeapon_Spatha.tools.edge.label>
+  <VFEC_MeleeWeapon_Dagger.label>daga</VFEC_MeleeWeapon_Dagger.label>
+  <VFEC_MeleeWeapon_Dagger.description>Un cuchillo afilado y alargado capaz de blandirse con bastante rapidez. Generalmente es usada por los asesinos o usados como arma de respaldo en cazo de que uno sea separado de su lanza o de su spatha.</VFEC_MeleeWeapon_Dagger.description>
+  <VFEC_MeleeWeapon_Dagger.tools.handle.label>mango</VFEC_MeleeWeapon_Dagger.tools.handle.label>
+  <VFEC_MeleeWeapon_Dagger.tools.blade.label>hoja</VFEC_MeleeWeapon_Dagger.tools.blade.label>
+  <VFEC_MeleeWeapon_Dagger.tools.point.label>punta</VFEC_MeleeWeapon_Dagger.tools.point.label>
+  <VFEC_Javelin.label>jabalina</VFEC_Javelin.label>
+  <VFEC_Javelin.description>Una lanza arrojadiza de punta larga diseñado específicamente para romper armaduras y escudos.</VFEC_Javelin.description>
+  <VFEC_Javelin.tools.shaft.label>eje</VFEC_Javelin.tools.shaft.label>
+  <VFEC_Javelin.tools.point.label>punta</VFEC_Javelin.tools.point.label>
+  <VFEC_Javelin.verbs.Verb_Shoot.label>jabalina</VFEC_Javelin.verbs.Verb_Shoot.label>
+  <VFEC_Javelin_Thrown.label>jabalina</VFEC_Javelin_Thrown.label>
+  <VFEC_Weapon_Scorpion.label>escorpión</VFEC_Weapon_Scorpion.label>
+  <VFEC_Weapon_Scorpion.description>Un torreta similar a una balista capaz de disparar rápidamente cuando está instalada y tripulada. Lo suficientemente ligero para poder ser usado como arma a mano, pero esto a costa de sacrificar la velocidad de disparo, muy efectivo contra la infantería enemiga.</VFEC_Weapon_Scorpion.description>
+  <VFEC_Weapon_Scorpion.tools.limb.label>arco</VFEC_Weapon_Scorpion.tools.limb.label>
+  <VFEC_Weapon_Scorpion.verbs.Verb_Shoot.label>escorpión</VFEC_Weapon_Scorpion.verbs.Verb_Shoot.label>
+  <VFEC_Arrow_Scorpion.label>flecha de escorpión</VFEC_Arrow_Scorpion.label>
+  <VFEC_Plant_Poppy.label>amapola</VFEC_Plant_Poppy.label>
+  <VFEC_Plant_Poppy.description>Un pequeña flor de color carmesí que se puede cosechar para obtener opio, un potente analgésico.</VFEC_Plant_Poppy.description>
+</LanguageData>

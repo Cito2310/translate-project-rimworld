@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEC_NewEmpire.label>Nuevo Imperio</VFEC_NewEmpire.label>
+  <VFEC_NewEmpire.description>Las disputas en el Senado y la política despiadada te dejo con disgusto por cualquier cosa relacionada con "la voluntad del pueblo". Mereces mucho más, ya que tu sangre es real y tu corona es dorada. Reuniste a algunos de los senadores que estaban de tu lado y abandonaste las comodidades de la República. Es hora de que los unas según tus propias reglas. Gloria al imperio. ¡Gloria al Emperador! \nNota: Dado que empiezas a ser hostil a las facciones de la República, este es un escenario difícil.</VFEC_NewEmpire.description>
+  <VFEC_NewEmpire.scenario.description>Las disputas en el Senado y la política despiadada te dejo con disgusto por cualquier cosa relacionada con "la voluntad del pueblo". Mereces mucho más, ya que tu sangre es real y tu corona es dorada. Reuniste a algunos de los senadores que estaban de tu lado y abandonaste las comodidades de la República. Es hora de que los unas según tus propias reglas. Gloria al imperio. ¡Gloria al Emperador! \nNota: Dado que empiezas a ser hostil a las facciones de la República, este es un escenario difícil.</VFEC_NewEmpire.scenario.description>
+  <VFEC_NewEmpire.scenario.name>Nuevo Imperio</VFEC_NewEmpire.scenario.name>
+  <VFEC_NewEmpire.scenario.parts.GameStartDialog.text>Las disputas en el Senado y la política despiadada te dejo con disgusto por cualquier cosa relacionada con "la voluntad del pueblo". Mereces mucho más, ya que tu sangre es real y tu corona es dorada. Reuniste a algunos de los senadores que estaban de tu lado y abandonaste las comodidades de la República. Es hora de que los unas según tus propias reglas.</VFEC_NewEmpire.scenario.parts.GameStartDialog.text>
+  <VFEC_NewEmpire.scenario.parts.VFEC_AddStartingStructure.structureLabel>Un pequeño campamento</VFEC_NewEmpire.scenario.parts.VFEC_AddStartingStructure.structureLabel>
+  <VFEC_NewEmpire.scenario.summary>Un grupo de nobles con un gran proposito. La experiencia por defecto de VFE Classical.</VFEC_NewEmpire.scenario.summary>
+</LanguageData>

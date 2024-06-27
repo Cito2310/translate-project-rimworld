@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VanillaFactionsExpanded.ConcretePress.InsertFirstItemDesc>Trozo a insertar</VanillaFactionsExpanded.ConcretePress.InsertFirstItemDesc>
+  <VanillaFactionsExpanded.ConcretePress.bringIngredientsText>Llevar trozo</VanillaFactionsExpanded.ConcretePress.bringIngredientsText>
+  <VanillaFactionsExpanded.ConcretePress.bringIngredientsDesc>Llevar trozo a la prensa de concreto para empezar a prensar.</VanillaFactionsExpanded.ConcretePress.bringIngredientsDesc>
+  <VanillaFactionsExpanded.ConcretePress.cancelIngredientsText>Cancelar llevado de trozo</VanillaFactionsExpanded.ConcretePress.cancelIngredientsText>
+  <VanillaFactionsExpanded.ConcretePress.cancelIngredientsDesc>Cancelar llevado de trozo a la prensa de concreto.</VanillaFactionsExpanded.ConcretePress.cancelIngredientsDesc>
+  <VanillaFactionsExpanded.DryingRack.InsertFirstItemDesc>Carne a insertar</VanillaFactionsExpanded.DryingRack.InsertFirstItemDesc>
+  <VanillaFactionsExpanded.DryingRack.bringIngredientsText>Llevar carne</VanillaFactionsExpanded.DryingRack.bringIngredientsText>
+  <VanillaFactionsExpanded.DryingRack.bringIngredientsDesc>Llevar carne al estante de secado para empezar a secado</VanillaFactionsExpanded.DryingRack.bringIngredientsDesc>
+  <VanillaFactionsExpanded.DryingRack.cancelIngredientsText>Cancelar llevado de carne</VanillaFactionsExpanded.DryingRack.cancelIngredientsText>
+  <VanillaFactionsExpanded.DryingRack.cancelIngredientsDesc>Cancelar llevado de carne al estante de secado.</VanillaFactionsExpanded.DryingRack.cancelIngredientsDesc>
+  <VanillaFactionsExpanded.TyrianFarm.InsertFirstItemDesc>Tela a insertar</VanillaFactionsExpanded.TyrianFarm.InsertFirstItemDesc>
+  <VanillaFactionsExpanded.TyrianFarm.bringIngredientsText>Llevar tela</VanillaFactionsExpanded.TyrianFarm.bringIngredientsText>
+  <VanillaFactionsExpanded.TyrianFarm.bringIngredientsDesc>Llevar tela a la granja de tiro para empezar el proceso</VanillaFactionsExpanded.TyrianFarm.bringIngredientsDesc>
+  <VanillaFactionsExpanded.TyrianFarm.cancelIngredientsText>Cancelar llevado de tela</VanillaFactionsExpanded.TyrianFarm.cancelIngredientsText>
+  <VanillaFactionsExpanded.TyrianFarm.cancelIngredientsDesc>Cancelar llevado de tela a la granja de tiro.</VanillaFactionsExpanded.TyrianFarm.cancelIngredientsDesc>
+  <VFEC.Letters.SenatorJoins>Senador se unió: {0}</VFEC.Letters.SenatorJoins>
+  <VFEC.Letters.SenatorJoins.Desc>{0}, un senado de {1}, aceptó unirse a ti. Esto ha desbloqueado el beneficio {2}.</VFEC.Letters.SenatorJoins.Desc>
+  <VFEC.Letters.SenatorJoins.Desc.Research>También han compartido algunos conocimientos contigo, investigando automáticamente {0}.</VFEC.Letters.SenatorJoins.Desc.Research>
+  <VFEC.Letters.SenatorJoins.Desc.All>Como ahora tienes a todos los senadores de {0}, haz desbloqueado el beneficio {1}. Adicionalmente, los beneficios no se perderán si el senador muere.</VFEC.Letters.SenatorJoins.Desc.All>
+  <VFEC.Letters.SenatorJoins.Desc.All.Research>Finalmente, combinando el conocimiento de todos los senadores {0} significa que automáticamente has investigado {1}.</VFEC.Letters.SenatorJoins.Desc.All.Research>
+  <VFEC.Letters.SenatorLost>Senador Perdido: {0}</VFEC.Letters.SenatorLost>
+  <VFEC.Letters.SenatorLost.Desc>{0}, un senador de {1}, ha muerto bajo tus cuidados. {1} eligió un nuevo senador, del cual tendrás que ganarte su favor. Como tal, has perdido el beneficio {2}.</VFEC.Letters.SenatorLost.Desc>
+  <VFEC.Letters.Donation>Tributos Recibidos de {0}</VFEC.Letters.Donation>
+  <VFEC.Letters.Donation.Desc>{0} dio un tributo a {1}.</VFEC.Letters.Donation.Desc>
+  <VFEC.Letters.Researched>Tecnología Ganada: {0}</VFEC.Letters.Researched>
+  <VFEC.Letters.Researched.Desc>{1} recientemente logró un gran avance en su tecnología, y compartirá la tecnología contigo.\n\nTecnología desbloqueada:\n{0}
+ has recently made a breakthrough in their technological advancements, and they have shared the technology with you.\nTechnology unlocked:\n{0}</VFEC.Letters.Researched.Desc>
+  <VFEC.Senators.Open>Abrir pantalla del senado</VFEC.Senators.Open>
+  <VFEC.Senators.GainFavor>Ganaste el favor del Senador {0} de {1}.</VFEC.Senators.GainFavor>
+  <VFEC.Senators.FavorOf>Favor of {0}</VFEC.Senators.FavorOf>
+  <VFEC.Senators.FavorTip>Serás favorecido por {0}, y se unirá a tu colonia. Esto activará su beneficio asociado, además de investigar automáticamente su proyecto asociado.</VFEC.Senators.FavorTip>
+  <VFEC.TransferToColony>Transferencia a la Colonia</VFEC.TransferToColony>
+  <VFEC.PerkUnlocked>El beneficio {0} se ha desbloqueado.</VFEC.PerkUnlocked>
+  <VFEC.Scorpion.PickUp>Recoger Escorpión</VFEC.Scorpion.PickUp>
+  <VFEC.Scorpion.SetUp>Establecer Escorpión</VFEC.Scorpion.SetUp>
+  <VFEC.LightTheBeacon>Prender la Baliza</VFEC.LightTheBeacon>
+  <VFEC.Cooldown>Aún en enfriamiento.</VFEC.Cooldown>
+  <VFEC.NoAllies>Sin Aliados.</VFEC.NoAllies>
+  <VFEC.NoReinforce>Sin refuerzos disponible.</VFEC.NoReinforce>
+  <VFEC.LightTheBeacon.Desc>Prender esta baliza para llamar a los refuerzos.</VFEC.LightTheBeacon.Desc>
+  <VFEC.BuildingRoad>Construyendo camino: {0}, progreso: {1}, ({2}/{3})</VFEC.BuildingRoad>
+  <VFEC.RoadFinished>{0} ha terminado de construir {1}</VFEC.RoadFinished>
+  <VFEC.Unknown>Desconocido</VFEC.Unknown>
+  <Outposts.MustBeMade>Debe colocarse en {0}</Outposts.MustBeMade>
+  <Outposts.MustBeMade.Hill>Debe colocarse en una montaña o colina</Outposts.MustBeMade.Hill>
+  <Outposts.SkillTooLow>Habilidad total es muy baja, necesita {0}</Outposts.SkillTooLow>
+  <Outposts.Settings.Shooting>Importancia de Disparo</Outposts.Settings.Shooting>
+  <Outposts.Settings.Animals>Importancia de Animal</Outposts.Settings.Animals>
+  <Outposts.Settings.NeedPods>¿Necesitas la tecnología de Cápsulas de Transporte para desplegar a los refuerzos?</Outposts.Settings.NeedPods>
+  <Outposts.Settings.Leather>Multiplicador de Cuero</Outposts.Settings.Leather>
+  <Outposts.Settings.Meat>Multiplicador de Carne</Outposts.Settings.Meat>
+  <VFEC.UI.SenatorsOf>Senadores de {0}</VFEC.UI.SenatorsOf>
+  <VFEC.UI.GainingFavor>Ganar el favor de estos senador desbloquea:</VFEC.UI.GainingFavor>
+  <VFEC.UI.Perk>beneficio {0}</VFEC.UI.Perk>
+  <VFEC.UI.Research>proyecto de investigación {0}</VFEC.UI.Research>
+  <VFEC.UI.ReQuest>Solicitar una misión</VFEC.UI.ReQuest>
+  <VFEC.UI.Bribe>Sobornar ({0} de plata)</VFEC.UI.Bribe>
+  <VFEC.UI.GainingFavorAll>Ganar el favor de todos los senadores desbloquea:</VFEC.UI.GainingFavorAll>
+  <VFEC.UI.SenatorsInFavor>Favores de los Senadores: {0}/{1}</VFEC.UI.SenatorsInFavor>
+  <VFEC.UI.Info>Ganar el favor de un senador hará que ese senador se una a tu colonia. Perder al senador te obligará a impresionar a un nuevo senador. Como tal, debes intentar mantenerlos con vida.\n\nObtener el apoyo de todos los senadores desbloquea ventajas únicas y, finalmente podrás unir a las Repúblicas bajo tu gobierno. Una vez que ganes el favor de los 5 senadores de cualquier República, los beneficios serán tuyos para siempre, sin importar lo que les pase a los senadores.</VFEC.UI.Info>
+  <VFEC.UI.NotEnoughMoney>No tienes suficiente dinero para hacer esto.</VFEC.UI.NotEnoughMoney>
+  <VFEC.UI.BribeReject>{0} ha rechazado tu soborno y ya no puede ser sobornado.</VFEC.UI.BribeReject>
+  <VFEC.UI.AlreadyQuest>Ya tienes una misión con este senador.</VFEC.UI.AlreadyQuest>
+</LanguageData>

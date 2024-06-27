@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEC_OpiumHigh.label>subidón de opio</VFEC_OpiumHigh.label>
+  <VFEC_OpiumHigh.description>Tiene opio en el torrente sanguíneo. Alivia completamente el dolor</VFEC_OpiumHigh.description>
+  <VFEC_OpiumHigh.labelNoun>Un subidón de opio</VFEC_OpiumHigh.labelNoun>
+  <VFEC_OpiumTolerance.label>tolerancia al opio</VFEC_OpiumTolerance.label>
+  <VFEC_OpiumTolerance.description>Una tolerancia desarrollada al opio. Cuanto más grave sea la tolerancia, necesitara más opio para provocar el mismo efecto.</VFEC_OpiumTolerance.description>
+  <VFEC_OpiumTolerance.stages.small.label>pequeño</VFEC_OpiumTolerance.stages.small.label>
+  <VFEC_OpiumTolerance.stages.large.label>grande</VFEC_OpiumTolerance.stages.large.label>
+  <VFEC_OpiumTolerance.stages.massive.label>masivo</VFEC_OpiumTolerance.stages.massive.label>
+  <VFEC_OpiumAddiction.label>adicción al opio</VFEC_OpiumAddiction.label>
+  <VFEC_OpiumAddiction.description>Una adicción química al opio. La larga exposición al opio causo una adaptación neurológica a nivel celular, haciendo que el cerebro no funcione de forma apropiada sin la droga.\n\nSin una dosis regular del opio, empezaran los síntomas de la abstinencia. Sin embargo, si la abstinencia se prolonga, forzara al cerebro a que se adapte al estado normal, eliminando la adicción.</VFEC_OpiumAddiction.description>
+  <VFEC_OpiumAddiction.stages.withdrawal.label>abstinencia</VFEC_OpiumAddiction.stages.withdrawal.label>
+  <VFEC_CenturionArmor.label>armadura centurión</VFEC_CenturionArmor.label>
+  <VFEC_CenturionArmor.description>La presencia de una armadura de centurión anima a los combatientes aliados a luchar a pesar del dolor.</VFEC_CenturionArmor.description>
+  <VFEC_CenturionArmorBuff.label>aumento por armadura centurión</VFEC_CenturionArmorBuff.label>
+  <VFEC_CenturionArmorBuff.description>La habilidad de resistir el dolor incrementa gracias a que esta cerca de alguien con la armadura centurión.</VFEC_CenturionArmorBuff.description>
+</LanguageData>

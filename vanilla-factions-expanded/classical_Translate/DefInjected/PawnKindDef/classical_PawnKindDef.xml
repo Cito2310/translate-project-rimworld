@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEC_Plebeian.label>miembro</VFEC_Plebeian.label>
+  <VFEC_RepublicVillager.label>aldeano</VFEC_RepublicVillager.label>
+  <VFEC_RepublicTrader.label>vendedor</VFEC_RepublicTrader.label>
+  <VFEC_TownGuard.label>guardia de la ciudad</VFEC_TownGuard.label>
+  <VFEC_RepublicArcher.label>arquero</VFEC_RepublicArcher.label>
+  <VFEC_RepublicAuxilia.label>auxiliar</VFEC_RepublicAuxilia.label>
+  <VFEC_RepublicSenator.label>senador</VFEC_RepublicSenator.label>
+  <VFEC_Legionnaire.label>legionario</VFEC_Legionnaire.label>
+  <VFEC_ScorpionOperator.label>operador del escorpión</VFEC_ScorpionOperator.label>
+  <VFEC_Centurion.label>centurión</VFEC_Centurion.label>
+  <VFEC_Praetorian.label>pretoriano</VFEC_Praetorian.label>
+</LanguageData>

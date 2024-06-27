@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BuildPath.label>Construir Sendero</BuildPath.label>
+  <BuildPath.description>Ordena a los colonos de la carava a que limpien el follaje para crear un simple sendero.</BuildPath.description>
+  <BuildDirtRoad.label>Construir Camino de tierra</BuildDirtRoad.label>
+  <BuildDirtRoad.description>Ordena a los colonos de la carava a que limpien el follaje y apisonen la tierra para hacer el camino de tierra para poder viajar con mayor facilidad.</BuildDirtRoad.description>
+  <BuildStoneRoad.label>Construir Camino de piedra</BuildStoneRoad.label>
+  <BuildStoneRoad.description>Ordena a los colonos de la carava a que limpien el follaje, luego que corten y coloquen bloques para hacer un camino de piedra para poder viajar con mayor facilidad.</BuildStoneRoad.description>
+</LanguageData>

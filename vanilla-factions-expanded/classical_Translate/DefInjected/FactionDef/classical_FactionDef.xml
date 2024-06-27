@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEC_CentralRepublic.label>república central</VFEC_CentralRepublic.label>
+  <VFEC_CentralRepublic.description>Esta gente lleva mucho tiempo aquí. Su civilización comenzó como un grupo de tribus unidas, pero rápidamente desarrollaron habilidades como la escritura, la albañilería y el servicio civil.\n\nA pesar de su menor tecnología, la República puede ser un enemigo muy peligroso y un amigo muy valioso debido a su habilidad en la guerra de baja tecnología, sus números y su resistencia.\n\nEsta parte de la República tiene en gran valor la producción y el desarrollo urbano. Obtener su apoyo desbloquea varios beneficios centrados en mejorar el bienestar de las personas.</VFEC_CentralRepublic.description>
+  <VFEC_CentralRepublic.leaderTitle>patricio</VFEC_CentralRepublic.leaderTitle>
+  <VFEC_CentralRepublic.pawnSingular>plebeyo</VFEC_CentralRepublic.pawnSingular>
+  <VFEC_CentralRepublic.pawnsPlural>plebeyos</VFEC_CentralRepublic.pawnsPlural>
+  <VFEC_WesternRepublic.label>república del oeste</VFEC_WesternRepublic.label>
+  <VFEC_WesternRepublic.description>Esta gente lleva mucho tiempo aquí. Su civilización comenzó como un grupo de tribus unidas, pero rápidamente desarrollaron habilidades como la escritura, la albañilería y el servicio civil.\n\nA pesar de su menor tecnología, la República puede ser un enemigo muy peligroso y un amigo muy valioso debido a su habilidad en la guerra de baja tecnología, sus números y su resistencia.\n\nEsta parte de la República considera que el honor y la superioridad en la guerra es muy valiosa. Obtener su apoyo desbloquea varios beneficios centrados en la guerra y en lo militar.</VFEC_WesternRepublic.description>
+  <VFEC_WesternRepublic.leaderTitle>patricio</VFEC_WesternRepublic.leaderTitle>
+  <VFEC_WesternRepublic.pawnSingular>plebeyo</VFEC_WesternRepublic.pawnSingular>
+  <VFEC_WesternRepublic.pawnsPlural>plebeyos</VFEC_WesternRepublic.pawnsPlural>
+  <VFEC_EasternRepublic.label>república del este</VFEC_EasternRepublic.label>
+  <VFEC_EasternRepublic.description>Esta gente lleva mucho tiempo aquí. Su civilización comenzó como un grupo de tribus unidas, pero rápidamente desarrollaron habilidades como la escritura, la albañilería y el servicio civil.\n\nA pesar de su menor tecnología, la República puede ser un enemigo muy peligroso y un amigo muy valioso debido a su habilidad en la guerra de baja tecnología, sus números y su resistencia.\n\nEsta parte de la República valora el trabajo duro y la producción por encima de la lucha y de lo intelectual. Obtener el apoyo desbloquea varios beneficios centrados en la investigación y en el progreso.</VFEC_EasternRepublic.description>
+  <VFEC_EasternRepublic.leaderTitle>patricio</VFEC_EasternRepublic.leaderTitle>
+  <VFEC_EasternRepublic.pawnSingular>plebeyo</VFEC_EasternRepublic.pawnSingular>
+  <VFEC_EasternRepublic.pawnsPlural>plebeyos</VFEC_EasternRepublic.pawnsPlural>
+  <VFEC_NewEmpire.label>Nuevo Imperio</VFEC_NewEmpire.label>
+  <VFEC_NewEmpire.description>Un nuevo imperio.</VFEC_NewEmpire.description>
+  <VFEC_NewEmpire.leaderTitle>líder</VFEC_NewEmpire.leaderTitle>
+  <VFEC_NewEmpire.pawnSingular>plebeyo</VFEC_NewEmpire.pawnSingular>
+  <VFEC_NewEmpire.pawnsPlural>plebeyos</VFEC_NewEmpire.pawnsPlural>
+</LanguageData>
