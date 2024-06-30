@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEE_RoyalAddress.label>discurso real</VFEE_RoyalAddress.label>
+  <VFEE_RoyalAddress.description>dar un discurso real en el trono. Si va todo bien, cada participante con titulo puede ganar un poco de honor, y obtendrá honor por cada participante con titulo. Si sale mal, el discurso dañara algo las relaciones sociales y perderá honor por cada participante con titulo. El resultado depende de la habilidad social. La nobleza imperial que esta en la zona se unirá al discurso y contará como participante con titulo.</VFEE_RoyalAddress.description>
+  <VFEE_BestowFreeholder.label>otorgar: Terrateniente</VFEE_BestowFreeholder.label>
+  <VFEE_BestowFreeholder.description>Otorga el título de Terrateniente al colono seleccionado. Ese peón recibe 1 de Honor. No se puede lanzar a un colono con el título Terrateniente o superior. Se puede volver a utilizar después de 3 días.</VFEE_BestowFreeholder.description>
+  <VFEE_BestowYeoman.label>otorgar: Vasallo</VFEE_BestowYeoman.label>
+  <VFEE_BestowYeoman.description>Otorga el título de Vasallo/Vasalla al colono seleccionado. Ese peón recibe 1 de Honor. No se puede lanzar a un colono con el título Vasallo/Vasalla o superior. Se puede volver a utilizar después de 3 días.</VFEE_BestowYeoman.description>
+  <VFEE_BestowAcolyte.label>otorgar: Acólito</VFEE_BestowAcolyte.label>
+  <VFEE_BestowAcolyte.description>Otorga el título de Acólito/Acólita al colono seleccionado. Ese peón recibe 1 de Honor. No se puede lanzar a un colono con el título Acólito/Acólita o superior. Se puede volver a utilizar después de 3 días.</VFEE_BestowAcolyte.description>
+  <VFEE_BestowKnight.label>otorgar: Caballero</VFEE_BestowKnight.label>
+  <VFEE_BestowKnight.description>Otorga el título de Caballero/Dama al colono seleccionado. Ese peón recibe 1 de Honor. No se puede lanzar a un colono con el título Caballero/Dama o superior. Se puede volver a utilizar después de 3 días.</VFEE_BestowKnight.description>
+  <VFEE_BestowPraetor.label>otorgar: Pretor</VFEE_BestowPraetor.label>
+  <VFEE_BestowPraetor.description>Otorga el título de Pretor al colono seleccionado. Ese peón recibe 1 de Honor. No se puede lanzar a un colono con el título Pretor o superior. Se puede volver a utilizar después de 3 días.</VFEE_BestowPraetor.description>
+  <VFEE_BestowBaron.label>otorgar: Barón</VFEE_BestowBaron.label>
+  <VFEE_BestowBaron.description>Otorga el título de Barón/Baronesa al colono seleccionado. Ese peón recibe 1 de Honor. No se puede lanzar a un colono con el título Barón/Baronesa o superior. Se puede volver a utilizar después de 3 días.</VFEE_BestowBaron.description>
+  <VFEE_BestowCount.label>otorgar: Conde</VFEE_BestowCount.label>
+  <VFEE_BestowCount.description>Otorga el título de Conde/Condesa al colono seleccionado. Ese peón recibe 1 de Honor. No se puede lanzar a un colono con el título Conde/Condesa o superior. Se puede volver a utilizar después de 3 días.</VFEE_BestowCount.description>
+</LanguageData>

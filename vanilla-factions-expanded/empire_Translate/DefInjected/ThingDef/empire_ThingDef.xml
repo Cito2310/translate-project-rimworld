@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEE_OrbitalSlicer.label>cortador orbital</VFEE_OrbitalSlicer.label>
+  <VFEE_Poison.label>poción</VFEE_Poison.label>
+  <VFEE_Poison.description>text_todo</VFEE_Poison.description>
+  <VFEE_Aperitif.label>Aperitif</VFEE_Aperitif.label>
+  <VFEE_Aperitif.description>Una bebida sin alcohol, ligero, cítrico y ligeramente amargo que debe sus sabores y aromas a las naranjas dulces y amargas, al ruibarbo y a los artesanos imperiales. Beberlo induce el vomito, limpiando completamente el estomago y las papilas gustativas. La receta del Aperitif se mantiene en secreto por los gremios de Hospitalidad del Imperio, y nadie es capaz de recrear esta fina delicadez de la superficie de Rimworld.\n\nLa nobleza imperial ama el aperitif por su habilidad de limpiar tu sistema digestivo, permitiéndoles consumir aún más comida que lo normal..</VFEE_Aperitif.description>
+  <VFEE_Aperitif.ingestible.ingestCommandString>Beber {0}</VFEE_Aperitif.ingestible.ingestCommandString>
+  <VFEE_Aperitif.ingestible.ingestReportString>Bebiendo {0}.</VFEE_Aperitif.ingestible.ingestReportString>
+  <VFEE_RoyalSculptureSmall.label>pequeña escultura imperial</VFEE_RoyalSculptureSmall.label>
+  <VFEE_RoyalSculptureSmall.description>Una escultura del tamaño del torso.</VFEE_RoyalSculptureSmall.description>
+  <VFEE_RoyalSculptureLarge.label>escultura imperial mediana</VFEE_RoyalSculptureLarge.label>
+  <VFEE_RoyalSculptureLarge.description>Una escultura del tamaño de una persona.</VFEE_RoyalSculptureLarge.description>
+  <VFEE_RoyalSculptureGrand.label>escultura imperial grande</VFEE_RoyalSculptureGrand.label>
+  <VFEE_RoyalSculptureGrand.description>Una escultura gigante.</VFEE_RoyalSculptureGrand.description>
+  <VFEI_ArmoredShuttle.label>transbordador blindado</VFEI_ArmoredShuttle.label>
+  <VFEI_ArmoredShuttle.description>Una nave armada imperial diseñador para el transito entre la superficie y la orbita, o entre las lunas de un sistema planetario. Equipado con dos cañones automáticos gemelos para dar apoyo terrestre, estas lanzaderas blindadas a menudo es utilizado para para extraer a las tropas varadas de un campo de batalla.</VFEI_ArmoredShuttle.description>
+  <VFEI_TurretArmoredShuttle.label>cañón automático doble</VFEI_TurretArmoredShuttle.label>
+  <VFEI_TurretArmoredShuttle.description>Un cañón automático gemelo poderoso.</VFEI_TurretArmoredShuttle.description>
+  <VFEI_TurretArmoredShuttle.verbs.Verb_Shoot.label>cañón automático doble</VFEI_TurretArmoredShuttle.verbs.Verb_Shoot.label>
+  <VFEE_GrandTable.label>mesa real</VFEE_GrandTable.label>
+  <VFEE_GrandTable.description>Una mesa lujosa y hermosa con incrustaciones de oro, digna de la nobleza, por si misma es una obra de arte. Las personas pueden comer en la mesa si hay sillas colocadas a su alrededor.</VFEE_GrandTable.description>
+  <VFEE_GrandChair.label>asiento real</VFEE_GrandChair.label>
+  <VFEE_GrandChair.description>Una silla elegante y cómoda, por si misma es una obra de arte. Puede ser utilizadas en las mesas, estaciones de trabajo y otros lugares.</VFEE_GrandChair.description>
+  <VFEE_ImperialBanner.label>estandarte imperial</VFEE_ImperialBanner.label>
+  <VFEE_ImperialBanner.description>Una tira de tela decorativa que cuelga de un marco de madera vertical. Apropiado para las habitaciones reales.</VFEE_ImperialBanner.description>
+  <VFEE_RoyalStool.label>taburete real</VFEE_RoyalStool.label>
+  <VFEE_RoyalStool.description>Un taburete lujoso con incrustaciones de oro, es digno para los nobles. Puede ser utilizadas en las mesas, estaciones de trabajo y otros lugares.</VFEE_RoyalStool.description>
+  <VFEE_StellicThrone.label>trono de meditación estelar</VFEE_StellicThrone.label>
+  <VFEE_StellicThrone.description>Un silla titánica y ornamentada, diseñado para que los psíquicos centrados en la dignidad se sienten y mediten. Reinar en un trono es una forma de meditación que desarrolla la concentración psíquica. Los psíquicos dignos, les afecta la impresión del trono de la meditación y la sala del trono al momento de mejorar el ratio de ganancia de la concentración psíquica.</VFEE_StellicThrone.description>
+  <VFEE_Candelabra.label>candelabro</VFEE_Candelabra.label>
+  <VFEE_Candelabra.description>Un estante de lampara eléctrico y artístico que ilumina el área. Las personas necesitan la luz para moverse y trabajar a máxima velocidad.</VFEE_Candelabra.description>
+  <VFEE_RoyalMirror.label>espejo real</VFEE_RoyalMirror.label>
+  <VFEE_RoyalMirror.description>Un espejo hermoso y elegante. Otorga un pequeño bono de confort a todas las camas cercanas. Colocar más de un espejo cerca de la misma cama no otorga ningún efecto.</VFEE_RoyalMirror.description>
+  <VFEE_SteleSmall.label>pequeña estela</VFEE_SteleSmall.label>
+  <VFEE_SteleSmall.description>Una losa esbelta y modesta con grabados en sus lados. Las estelas se han utilizado desde la antigüedad para conmemorar a las personas, las batallas u otros eventos importantes.</VFEE_SteleSmall.description>
+  <VFEE_Bomb.label>bomba</VFEE_Bomb.label>
+  <VFEE_Bomb.description>Una pequeña bomba casera. Se puede desarmar fácilmente si es encontrado a tiempo.</VFEE_Bomb.description>
+  <VFEE_UnfinishedOrgan.label>órgano sin terminar</VFEE_UnfinishedOrgan.label>
+  <VFEE_UnfinishedOrgan.description>Un órgano sin terminar</VFEE_UnfinishedOrgan.description>
+  <VFEE_PipeOrgan.label>órgano</VFEE_PipeOrgan.label>
+  <VFEE_PipeOrgan.description>Un instrumento musical sumamente complejo hecho en una forja. Se toca un teclado que libera una serie de tubos afinados que liberan aire presurizado para producir el tono deseado. Su diseño complejo e intrincado y sus sonidos únicos, lo convierten en un aparato ideal para instiga conciertos de la nobleza, y hacer que la música llegue a todos lados.</VFEE_PipeOrgan.description>
+  <VFEE_Turret_StrikerTurret.label>torreta golpeadora</VFEE_Turret_StrikerTurret.label>
+  <VFEE_Turret_StrikerTurret.description>Una cápsula de transporte rediseñado para enterrar patas estabilizados en caso de impacto y despliega una torreta poderosa. Tiene una batería y munición limitada, y se autodestruirá si se agota o si se lo daña demasiado.</VFEE_Turret_StrikerTurret.description>
+  <VFEE_Turret_StrikerTurret.comps.CompRefuelable.fuelGizmoLabel>Munición</VFEE_Turret_StrikerTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <VFEE_Turret_StrikerTurret.comps.CompRefuelable.fuelLabel>Disparos restantes</VFEE_Turret_StrikerTurret.comps.CompRefuelable.fuelLabel>
+  <VFEE_Turret_StrikerTurret.comps.CompRefuelable.outOfFuelMessage>No puede disparar: Sin munición</VFEE_Turret_StrikerTurret.comps.CompRefuelable.outOfFuelMessage>
+  <VFEE_Turret_StrikerTurret.comps.CompDestroyAfterDelay.countdownLabel>se desactiva después:</VFEE_Turret_StrikerTurret.comps.CompDestroyAfterDelay.countdownLabel>
+  <VFEE_Gun_StrikerTurret.label>torreta golpeadora</VFEE_Gun_StrikerTurret.label>
+  <VFEE_Gun_StrikerTurret.description>Una torreta poderosa montada en una cápsula de transporte golpeadora.</VFEE_Gun_StrikerTurret.description>
+  <VFEE_Gun_StrikerTurret.verbs.Verb_Shoot.label>torreta golpeadora</VFEE_Gun_StrikerTurret.verbs.Verb_Shoot.label>
+  <VFEE_Apparel_TechfriarCrown.label>corona techfriar</VFEE_Apparel_TechfriarCrown.label>
+  <VFEE_Apparel_TechfriarCrown.description>Una máscara extremadamente compleja equipada con tecnología avanzada que sólo lo conocen los tecno-sacerdotes Sophianos de alto-rango. Diseñado para ser usados por los investigadores del imperio para que continúen con sus investigaciones sin descanso.\n\nLa tecnología incrustrada sincronizará y estimulará el cerebro del usuario cuando esté realizando una investigación, duplicando la velocidad de investigación y restaura la necesidad de descansar y de recreación.</VFEE_Apparel_TechfriarCrown.description>
+  <VFEE_Apparel_AbsolverHelmet.label>casco absolvedor</VFEE_Apparel_AbsolverHelmet.label>
+  <VFEE_Apparel_AbsolverHelmet.description>Un casco de alta-tecnología con una coraza de plastiacero y sensores multiespectro, que envían datos de telemetría al usuario y a la carcasa exterior. Si bien proporciona una excelente protección, su objetivo principal es ocultar al usuario usando un intrincado sistema de camuflaje óptico, a la vez que proporciona soluciones de disparo utilizando la información recopilada en tiempo real. Armaduras como esta solo esta disponible para los asesinos de elite del Imperio Sophia debido a su escasa producción.</VFEE_Apparel_AbsolverHelmet.description>
+  <VFEE_Apparel_DeserterHelmet.label>casco de desertor</VFEE_Apparel_DeserterHelmet.label>
+  <VFEE_Apparel_DeserterHelmet.description>Un casco blindado de alta tecnología, con una coraza de plastiacero y con un sistema visual indirecto para poder ver más ángulos. Protege contra la mayoría de los disparos a excepción de los más poderosos.\n\nOriginalmente era un casco de catafracto estandar, que fue modificado incluyéndole un enlace-armado a costo de remover la careta-frontal, sacrificando la defensa a cambio de mejorar la ofensiva.</VFEE_Apparel_DeserterHelmet.description>
+  <VFEE_Apparel_JanissaryHelmet.label>casco de jenízaro</VFEE_Apparel_JanissaryHelmet.label>
+  <VFEE_Apparel_JanissaryHelmet.description>Un casco blindado de alta-tecnología con una computadora interna y una coraza de plastiacero.\n\nIncluye una mascara de gas reforzada con plastiacero, otorgando una protección contra los ataques con gas.</VFEE_Apparel_JanissaryHelmet.description>
+  <VFE_Apparel_StellicRobe.label>túnica estelar</VFE_Apparel_StellicRobe.label>
+  <VFE_Apparel_StellicRobe.description>Una túnica gloriosa y larga bordado con diseños decorativos complejos.</VFE_Apparel_StellicRobe.description>
+  <VFEE_Apparel_ArmorDeserter.label>armadura de desertor</VFEE_Apparel_ArmorDeserter.label>
+  <VFEE_Apparel_ArmorDeserter.description>Una servoarmadura pesada, construido para otorgar la máxima protección a costo de la movilidad. Una placas de plastiacero y un revestimiento solido puede detener la mayoría de ataques. Los asistentes neurométicos evitan que el enorme peso del traje inmovilice al usuario, pero el traje sigue siendo engorroso.\n\nOriginalmente fue elaborado con una armadura de prestigio, que fue modificado con el uso de tejido eltex para mejorar la actuación de los psíquicos. Esto obliga a eliminar las placas de armadura que interfieren con las habilidades psíquicas, pero mejora la sensibilidad psíquica y la disipación del calor neuronal.</VFEE_Apparel_ArmorDeserter.description>
+  <VFEE_Apparel_ArmorAbsolver.label>armadura de absolvedor</VFEE_Apparel_ArmorAbsolver.label>
+  <VFEE_Apparel_ArmorAbsolver.description>Una servoarmadura de alta-tecnología recubiertas con placas de plastiacero y sensores multiespectro, que envían datos de telemetría al usuario y a la carcasa exterior. Si bien proporciona una excelente protección, su objetivo principal es ocultar al usuario usando un intrincado sistema de camuflaje óptico, a la vez que proporciona soluciones de disparo utilizando la información recopilada en tiempo real. Armaduras como esta solo esta disponible para los asesinos de elite del Imperio Sophia debido a su escasa producción.</VFEE_Apparel_ArmorAbsolver.description>
+  <VFEE_Apparel_JanissaryCuirass.label>coraza de jenízaro</VFEE_Apparel_JanissaryCuirass.label>
+  <VFEE_Apparel_JanissaryCuirass.description>Un conjunto de hombreras y de protecciones que se extienden hasta el pecho del usuario formado por placas de plastiacero. Si bien la protección otorgada es muy alta para esas áreas, es más un símbolo de estatus, diseñado para ser usado sobre la ropa y bajo la armadura para no afectar la movilidad.</VFEE_Apparel_JanissaryCuirass.description>
+  <VFEI_ArmoredShuttleIncoming.label>transbordador blindado (llegando)</VFEI_ArmoredShuttleIncoming.label>
+  <VFEI_ArmoredShuttleLeaving.label>transbordador blindado (yendose)</VFEI_ArmoredShuttleLeaving.label>
+  <VFEE_DropPodIncoming_Building.label>cápsula de transporte (llegando)</VFEE_DropPodIncoming_Building.label>
+  <VFEE_ImperialSlab.label>losa imperial</VFEE_ImperialSlab.label>
+  <VFEE_ImperialSlab.description>Un relieve de piedra con imágenes imperiales para decorar el suelo.</VFEE_ImperialSlab.description>
+  <VFEE_LargeRoyalRug.label>alfombra real grande</VFEE_LargeRoyalRug.label>
+  <VFEE_LargeRoyalRug.description>Una alfombra intrincada con diseños imperiales, para decorar el piso.</VFEE_LargeRoyalRug.description>
+  <VFEE_GrandRoyalRug.label>gran alfombra real</VFEE_GrandRoyalRug.label>
+  <VFEE_GrandRoyalRug.description>Una alfombra intrincada con diseños imperiales, para decorar el piso.</VFEE_GrandRoyalRug.description>
+  <VFEE_MeleeWeapon_ToxbladeBladelink.label>filotoxico persona</VFEE_MeleeWeapon_ToxbladeBladelink.label>
+  <VFEE_MeleeWeapon_ToxbladeBladelink.description>Un arma defensiva cuerpo a cuerpo persona usualmente asignada para todos los nobles de rango Yeoman o superior. Si bien su penetración del blindaje es similar a una hoja de plastiacero, su principal objetivo es inyectar fluidos acidificantes y vapores tóxicos al realizar los cortes. El efecto sólo dura unos segundos y dura la mitad de tiempo debido al tamaño del arma.</VFEE_MeleeWeapon_ToxbladeBladelink.description>
+  <VFEE_MeleeWeapon_ToxbladeBladelink.tools.handle.label>mango</VFEE_MeleeWeapon_ToxbladeBladelink.tools.handle.label>
+  <VFEE_MeleeWeapon_ToxbladeBladelink.tools.point.label>punta</VFEE_MeleeWeapon_ToxbladeBladelink.tools.point.label>
+  <VFEE_MeleeWeapon_ToxbladeBladelink.tools.edge.label>filo</VFEE_MeleeWeapon_ToxbladeBladelink.tools.edge.label>
+  <VFEE_MeleeWeapon_Toxblade.label>filotoxico</VFEE_MeleeWeapon_Toxblade.label>
+  <VFEE_MeleeWeapon_Toxblade.description>Un arma defensiva cuerpo a cuerpo persona usualmente asignada para todos los nobles de rango Yeoman o superior. Si bien su penetración del blindaje es similar a una hoja de plastiacero, su principal objetivo es inyectar fluidos acidificantes y vapores tóxicos al realizar los cortes. El efecto sólo dura unos segundos y dura la mitad de tiempo debido al tamaño del arma.</VFEE_MeleeWeapon_Toxblade.description>
+  <VFEE_MeleeWeapon_Toxblade.tools.handle.label>mango</VFEE_MeleeWeapon_Toxblade.tools.handle.label>
+  <VFEE_MeleeWeapon_Toxblade.tools.point.label>punta</VFEE_MeleeWeapon_Toxblade.tools.point.label>
+  <VFEE_MeleeWeapon_Toxblade.tools.edge.label>filo</VFEE_MeleeWeapon_Toxblade.tools.edge.label>
+  <VEE_Gun_Fletcher.label>fletcher</VEE_Gun_Fletcher.label>
+  <VEE_Gun_Fletcher.description>Un rifle de rango ultra-largo que dispara unos dardos con acidificantes. Debido a su letalidad y al peligro de caer en manos enemigas, siempre están biocodificados y se destruirán si su dueño muere o es desarmado. Es letal contra los seres orgánicos y casi inútil contra los no orgánicos, como los mecanoides.\n\nLos objetivos alcanzados por estos dardos serán inyectados por unos fluidos acidificantes, diseñados para disolver a los objetivos desde su interior en lugar de destruir su equipo. El ácido arrasará el cuerpo del objetivo y normalmente disolverá sus órganos, aunque la letalidad no está garantizada.</VEE_Gun_Fletcher.description>
+  <VEE_Gun_Fletcher.tools.barrel.label>cañón</VEE_Gun_Fletcher.tools.barrel.label>
+  <VEE_Gun_Fletcher.verbs.Verb_Shoot.label>fletcher</VEE_Gun_Fletcher.verbs.Verb_Shoot.label>
+  <VFEE_Bullet_FletcherDart.label>dardo del fletcher</VFEE_Bullet_FletcherDart.label>
+  <VFEE_Gun_ChargeThumper.label>golpeador de carga</VFEE_Gun_ChargeThumper.label>
+  <VFEE_Gun_ChargeThumper.description>Una escopeta de asalto cargada modificada con tecnología mecanoide. Los cañones de impacto recuperados fueron sometidos a ingeniería inversa para producir un arma a distancia portátil capaz de disparar proyectiles contundentes. Es muy potente pero tiene muy poco rango, es muy eficaz contra estructuras y objetivos blindados.</VFEE_Gun_ChargeThumper.description>
+  <VFEE_Gun_ChargeThumper.tools.stock.label>empuñadura</VFEE_Gun_ChargeThumper.tools.stock.label>
+  <VFEE_Gun_ChargeThumper.tools.barrel.label>cañón</VFEE_Gun_ChargeThumper.tools.barrel.label>
+  <VFEE_Gun_ChargeThumper.verbs.Verb_Shoot.label>golpeador de carga</VFEE_Gun_ChargeThumper.verbs.Verb_Shoot.label>
+  <VFEE_Bullet_ChargeThumper.label>carga de golpeador</VFEE_Bullet_ChargeThumper.label>
+</LanguageData>

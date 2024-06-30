@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEE_CutToxblade.label>corte</VFEE_CutToxblade.label>
+  <VFEE_CutToxblade.deathMessage>{0} fue cortado hasta la muerte.</VFEE_CutToxblade.deathMessage>
+  <VFEE_StabToxblade.label>puñalada</VFEE_StabToxblade.label>
+  <VFEE_StabToxblade.deathMessage>{0} fue apuñalado hasta la muerte.</VFEE_StabToxblade.deathMessage>
+  <VFEE_Fletcher.label>impacto de dardo</VFEE_Fletcher.label>
+  <VFEE_Fletcher.deathMessage>{0} fue disparado hasta la muerte.</VFEE_Fletcher.deathMessage>
+</LanguageData>

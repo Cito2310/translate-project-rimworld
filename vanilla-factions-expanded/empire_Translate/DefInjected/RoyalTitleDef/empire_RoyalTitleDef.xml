@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEE_Archcount.label>archiconde</VFEE_Archcount.label>
+  <VFEE_Archcount.description>El título imperial de archiconde es otorgado a los condes con propiedades muy impresionantes, que con capaces de apoyar y entretener a los invitados importantes.</VFEE_Archcount.description>
+  <VFEE_Archcount.labelFemale>archicondesa</VFEE_Archcount.labelFemale>
+  <VFEE_Marquess.label>marqués</VFEE_Marquess.label>
+  <VFEE_Marquess.description>El titulo imperial de marqués es el segundo título más alto de la nobleza mediana. En el Imperio, controlan las colonias del borde del espacio Imperial. Durante los tiempos de guerra, despliegan tropas para evitar que el enemigo penetre los bordes.</VFEE_Marquess.description>
+  <VFEE_Marquess.labelFemale>marquesa</VFEE_Marquess.labelFemale>
+  <VFEE_Archduke.label>archiduque</VFEE_Archduke.label>
+  <VFEE_Archduke.description>El titulo imperial de archiduque es entregado a los duques cuyo territorio requiere tener varios miembros para mantener el orden. Se espera que tengan a sus propias tropas y su entrenamiento, y en tiempos de paz pueden establecer una casa Menor.</VFEE_Archduke.description>
+  <VFEE_Archduke.labelFemale>archiduquesa</VFEE_Archduke.labelFemale>
+  <VFEE_Magister.label>maestro</VFEE_Magister.label>
+  <VFEE_Magister.description>El título imperial de magisterio es el rango medio de la alta nobleza. En el Imperio, el maestro es el encargado de coordinar las capacidades militares del Imperio, tanto en la paz como en la guerra, comanda al ejercito y representa al Emperador.</VFEE_Magister.description>
+  <VFEE_Magister.labelFemale>maestra</VFEE_Magister.labelFemale>
+  <VFEE_Despot.label>señor</VFEE_Despot.label>
+  <VFEE_Despot.description>El título imperial de señor mantiene el dominio sobre un pequeño sistema estelar de importancia estratégica. En el Imperio, los señores permite que los recursos sigan fluyendo hacia las arcas  y las fabricas del Imperio. su Casa mayor ocupa importante cargos administrativos en todo el sistema de gobierno.</VFEE_Despot.description>
+  <VFEE_Despot.labelFemale>señora</VFEE_Despot.labelFemale>
+  <VFEE_HighStellarch.label>alto estelarca</VFEE_HighStellarch.label>
+  <VFEE_HighStellarch.description>El título imperial de alto estelarca representa el dominio de múltiples sistemas solares, y el control de una de las Casas más poderosas en el Imperio. No responden a nadie a excepción del Emperador y se espera que ellos no solo mantengan su influencia, si no que expandan la influencia a través del espacio. Muy pocos son capaces de recibir este título y aún menos desean asumir estas responsabilidades.</VFEE_HighStellarch.description>
+</LanguageData>

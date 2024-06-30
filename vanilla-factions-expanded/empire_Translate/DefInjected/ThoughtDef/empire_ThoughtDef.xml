@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Expectations.stages.stellar_expectations.label>expectación estelar</Expectations.stages.stellar_expectations.label>
+  <Expectations.stages.stellar_expectations.description>Absolutamente imposible. Como puede me puede pasar esto? No debería permitirse ninguna inconformidad. Ni ahora ni nunca.</Expectations.stages.stellar_expectations.description>
+  <VFEE_FirstOfName.stages.First_of_Name.label>Primero de {OTHERPAWN_possessive} Nombre</VFEE_FirstOfName.stages.First_of_Name.label>
+  <VFEE_FirstOfName.stages.First_of_Name.description>{OTHERPAWN_name} es el primero de {OTHERPAWN_possessive} nombre.</VFEE_FirstOfName.stages.First_of_Name.description>
+  <VFEE_TheGreat.stages.Great_honor.label>Gran honor</VFEE_TheGreat.stages.Great_honor.label>
+  <VFEE_TheGreat.stages.Great_honor.description>Soy el destinatario del Gran honor.</VFEE_TheGreat.stages.Great_honor.description>
+  <VFEE_Chosen.stages.Chosen.label>Elegido</VFEE_Chosen.stages.Chosen.label>
+  <VFEE_TerribleBall.stages.terrible_ball.label>baile terrible</VFEE_TerribleBall.stages.terrible_ball.label>
+  <VFEE_TerribleBall.stages.terrible_ball.description>Estoy avergonzado de haber formado parte de este esperpento. Sólo espero que nadie cotillee sobre esto.</VFEE_TerribleBall.stages.terrible_ball.description>
+  <VFEE_BoringBall.stages.boring_ball.label>baile aburrido</VFEE_BoringBall.stages.boring_ball.label>
+  <VFEE_BoringBall.stages.boring_ball.description>Me esperaba pasar un buen rato. Lo que obtuve fue muy aburrido.</VFEE_BoringBall.stages.boring_ball.description>
+  <VFEE_EnjoyableBall.stages.enjoyable_ball.label>baile disfrutable</VFEE_EnjoyableBall.stages.enjoyable_ball.label>
+  <VFEE_EnjoyableBall.stages.enjoyable_ball.description>He pasado un buen momento bailando en ese baile!</VFEE_EnjoyableBall.stages.enjoyable_ball.description>
+  <VFEE_AmazingBall.stages.amazing_ball.label>baile asombroso</VFEE_AmazingBall.stages.amazing_ball.label>
+  <VFEE_AmazingBall.stages.amazing_ball.description>Me lo pasé genial en el baile. ¡Era todo lo que imaginaba y más!</VFEE_AmazingBall.stages.amazing_ball.description>
+  <VFEE_TerribleExhibit.stages.terrible_exhibit.label>exhibición terrible</VFEE_TerribleExhibit.stages.terrible_exhibit.label>
+  <VFEE_TerribleExhibit.stages.terrible_exhibit.description>Estoy avergonzado de haber organizado una exhibición de arte tan terrible. Ahora mi arte jamás será respetado en el imperio!</VFEE_TerribleExhibit.stages.terrible_exhibit.description>
+  <VFEE_BoringExhibit.stages.boring_exhibit.label>exhibición aburrida</VFEE_BoringExhibit.stages.boring_exhibit.label>
+  <VFEE_BoringExhibit.stages.boring_exhibit.description>Esperaba unas piezas de arte más interesantes y una mejor exhibición.</VFEE_BoringExhibit.stages.boring_exhibit.description>
+  <VFEE_EnjoyableExhibit.stages.enjoyable_exhibit.label>exhibición disfrutable</VFEE_EnjoyableExhibit.stages.enjoyable_exhibit.label>
+  <VFEE_EnjoyableExhibit.stages.enjoyable_exhibit.description>Fue realmente interesante ver la colección de arte expuesta. ¡Pase un gran momento!</VFEE_EnjoyableExhibit.stages.enjoyable_exhibit.description>
+  <VFEE_AmazingExhibit.stages.amazing_exhibit.label>exhibición asombrosa</VFEE_AmazingExhibit.stages.amazing_exhibit.label>
+  <VFEE_AmazingExhibit.stages.amazing_exhibit.description>No puedo creer que el arte que he visto tantas veces pueda ser tan fascinante, y que la realeza fuera tan interesante.</VFEE_AmazingExhibit.stages.amazing_exhibit.description>
+  <VFEE_TitleNoBallroom.stages.no_ballroom.label>sin salón de baile</VFEE_TitleNoBallroom.stages.no_ballroom.label>
+  <VFEE_TitleNoBallroom.stages.no_ballroom.description>¿Que es la realeza sin su salón de baile?</VFEE_TitleNoBallroom.stages.no_ballroom.description>
+  <VFEE_TitleNoGallery.stages.no_gallery.label>sin galería</VFEE_TitleNoGallery.stages.no_gallery.label>
+  <VFEE_TitleNoGallery.stages.no_gallery.description>¿Que es la realeza sin su galería?</VFEE_TitleNoGallery.stages.no_gallery.description>
+  <VFEE_TitleBallroomRequirementsNotMet.stages.undignified_ballroom.label>salón de baile indigno</VFEE_TitleBallroomRequirementsNotMet.stages.undignified_ballroom.label>
+  <VFEE_TitleBallroomRequirementsNotMet.stages.undignified_ballroom.description>Soy {TITLE_indefinite} y debería tener estos artículos en el salón de baile:\n\n{0}</VFEE_TitleBallroomRequirementsNotMet.stages.undignified_ballroom.description>
+  <VFEE_TitleGalleryRequirementsNotMet.stages.undignified_gallery.label>galería indigna</VFEE_TitleGalleryRequirementsNotMet.stages.undignified_gallery.label>
+  <VFEE_TitleGalleryRequirementsNotMet.stages.undignified_gallery.description>Soy {TITLE_indefinite} y debería tener estos artículos en la galería:\n\n{0}</VFEE_TitleGalleryRequirementsNotMet.stages.undignified_gallery.description>
+  <VFEE_LackingNobleCourt.stages.lacking_noble_court.label>faltante de noble en mi corte</VFEE_LackingNobleCourt.stages.lacking_noble_court.label>
+  <VFEE_LackingNobleCourt.stages.lacking_noble_court.description>Un noble de mi corte desapareció. Siempre se deben respetar los requisitos de mi titulo. Exijo estar rodeado de:\n\n{0}</VFEE_LackingNobleCourt.stages.lacking_noble_court.description>
+  <VFEE_BadVisit.stages.terrible_visit.label>visita terrible</VFEE_BadVisit.stages.terrible_visit.label>
+  <VFEE_BadVisit.stages.terrible_visit.description>Lo pasé fatal.</VFEE_BadVisit.stages.terrible_visit.description>
+</LanguageData>

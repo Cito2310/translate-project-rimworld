@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEE.OR>O</VFEE.OR>
+  <VFEE.StartBestower.NoThrone>No se puede empezar debido a que {0} no tiene un trono digno.</VFEE.StartBestower.NoThrone>
+  <VFEE.StartBestower.NoTarget>No se puede empezar debido a que no hay un salón de trono valido para otorgar el título.</VFEE.StartBestower.NoTarget>
+  <VFEE.StartBestower.HigherTitle>No se puede empezar debido a que el objetivo tiene un título superior.</VFEE.StartBestower.HigherTitle>
+  <VFEE.StartBestower.DisabledExistingRitual>No se puede empezar si hay un ritual en curso.</VFEE.StartBestower.DisabledExistingRitual>
+  <VFEE.GalleryRequirements>Requisitos de Galería</VFEE.GalleryRequirements>
+  <VFEE.GalleryRequirements.Unmet>Requisitos de galería faltantes: {0}</VFEE.GalleryRequirements.Unmet>
+  <VFEE.BallroomRequirements>Requisitos de Salón de Baile</VFEE.BallroomRequirements>
+  <VFEE.BallroomRequirements.Unmet>Requisitos de salón de baile faltantes: {0}</VFEE.BallroomRequirements.Unmet>
+  <VFEE.BallroomRequirements.DanceFloorToSmall>El salón de baile no tiene una pista de baile suficientemente grande! Le gustaría un espacio abierto de {0} frente a los instrumentos</VFEE.BallroomRequirements.DanceFloorToSmall>
+  <VFEE.CourtRequirements>Requisitos de la corte noble</VFEE.CourtRequirements>
+  <VFEE.GrandBall.Begin>Hospedar Gran Baile</VFEE.GrandBall.Begin>
+  <VFEE.GrandBall.Label>Gran Baile</VFEE.GrandBall.Label>
+  <VFEE.GrandBall.Leave.label>Dejar Gran Baile</VFEE.GrandBall.Leave.label>
+  <VFEE.GrandBall.Leave.Desc>Este colono abandonara el gran baile, no podrá volver a unirse a la festividad.</VFEE.GrandBall.Leave.Desc>
+  <VFEE.GrandBall.Cancel.Label>Cancelar Gran Baile</VFEE.GrandBall.Cancel.Label>
+  <VFEE.GrandBall.Cancel.Desc>Cancelar el gran baile enviando a todos a sus casas y fallando la misión</VFEE.GrandBall.Cancel.Desc>
+  <VFEE.GrandBall.Cancel.Confirm>No habrá oportunidad de reiniciar este ritual, los invitados volverán a sus casas molestos y la misión fallará.</VFEE.GrandBall.Cancel.Confirm>
+  <VFEE.GrandBall.Waiting>Los invitados están esperando que comience el gran baile. No esperarán demasiado.</VFEE.GrandBall.Waiting>
+  <VFEE.GrandBall.Description>Un baile exclusivo al que solo asistirán personas con títulos reales, y algunos pueden tocar los instrumentos.</VFEE.GrandBall.Description>
+  <VFEE.GrandBall.ChooseParticipants>Participantes</VFEE.GrandBall.ChooseParticipants>
+  <VFEE.ArtExhibit.Begin>Hospedar Exhibición de Arte</VFEE.ArtExhibit.Begin>
+  <VFEE.ArtExhibit.Label>Exhibición de Arte</VFEE.ArtExhibit.Label>
+  <VFEE.ArtExhibit.Leave.label>Dejar exhibición</VFEE.ArtExhibit.Leave.label>
+  <VFEE.ArtExhibit.Leave.Desc>Este colono abandonara la exhibición, no podrá volver a unirse a la festividad.</VFEE.ArtExhibit.Leave.Desc>
+  <VFEE.ArtExhibit.Cancel.Label>Cancelar exhibición</VFEE.ArtExhibit.Cancel.Label>
+  <VFEE.ArtExhibit.Cancel.Desc>Cancelar la exhibición enviando a todos a sus casas y fallando la misión.</VFEE.ArtExhibit.Cancel.Desc>
+  <VFEE.ArtExhibit.Cancel.Confirm>No habrá oportunidad de reiniciar este ritual, los invitados volverán a sus casas molestos y la misión fallará.</VFEE.ArtExhibit.Cancel.Confirm>
+  <VFEE.ArtExhibit.Waiting>Los invitados están esperando que comience la exhibición de arte. No esperarán demasiado.</VFEE.ArtExhibit.Waiting>
+  <VFEE.ArtExhibit.Description>Una exhibición de arte al que solo asistirán personas con títulos reales, donde miraran las galerías y cotillearan entre ellos.</VFEE.ArtExhibit.Description>
+  <VFEE.ArtExhibit.ChooseParticipants>Participantes</VFEE.ArtExhibit.ChooseParticipants>
+  <VFEE.Parade.Begin>Hospedar Desfile</VFEE.Parade.Begin>
+  <VFEE.Parade.Murder>Impulsado por sus celos, {0} intentará asesinar al estelarca!</VFEE.Parade.Murder>
+  <VFEE.Parade.Label>Desfile</VFEE.Parade.Label>
+  <VFEE.Parade.Leave.label>Abandonar Desfile</VFEE.Parade.Leave.label>
+  <VFEE.Parade.Leave.Desc>Este colono abandonara el desfile, no podrá volver a unirse a la festividad.</VFEE.Parade.Leave.Desc>
+  <VFEE.Parade.Cancel.Label>Cancelar Desfile</VFEE.Parade.Cancel.Label>
+  <VFEE.Parade.Cancel.Desc>Cancelar el desfile enviando a todos a sus casas y fallando la misión.</VFEE.Parade.Cancel.Desc>
+  <VFEE.Parade.Cancel.Confirm>No habrá oportunidad de reiniciar este ritual, los invitados volverán a sus casas molestos y la misión fallará.</VFEE.Parade.Cancel.Confirm>
+  <VFEE.Parade.Waiting>Los invitados están esperando que comience el desfile No esperarán demasiado.</VFEE.Parade.Waiting>
+  <VFEE.Parade.Description>Un desfile de ascensión tradicional para el estelarca!</VFEE.Parade.Description>
+  <VFEE.Parade.InvalidGuard>El estelarca no confía lo suficiente en {0}.</VFEE.Parade.InvalidGuard>
+  <VFEE.Parade.ChooseParticipants>Participantes</VFEE.Parade.ChooseParticipants>
+  <VFEE.Parade.LandingAreaUnmet>No se pudo encontrar una baliza de aterrizaje adecuada para el aterrizaje del transbordador de los invitados.</VFEE.Parade.LandingAreaUnmet>
+  <VFEE.Parade.Reward.Label>Ascensión Estelarca</VFEE.Parade.Reward.Label>
+  <VFEE.Parade.Reward.Description>Tu Estelarca logrará la ascensión, y su pasaje hacia fuera de este planeta, para poder progresar en la gran jerarquía, sirviendo directamente a su emperador.</VFEE.Parade.Reward.Description>
+  <VFEE.DefuseBomb>Desarmar bomba</VFEE.DefuseBomb>
+  <VFEE.AssassinationSuccess>Los desertores están abandonando el área porque lograron eliminar a su objetivo.</VFEE.AssassinationSuccess>
+  <VFEE.Discard>Descartar</VFEE.Discard>
+  <VFEE.RoyaltyDead>Los desertores están abandonando el área porque lograron matar a todos los poseedores de algún título en el área.</VFEE.RoyaltyDead>
+  <VFEE.GotDrug>{0} te ha enviado un paquete de aperitif para la celebración!</VFEE.GotDrug>
+  <VFEE.TitheArrived>El diezmo de {0} llego desde {1}.</VFEE.TitheArrived>
+  <VFEE.HonorGainedTitle>1 de Honor ganado por {0} debido a {1}</VFEE.HonorGainedTitle>
+  <VFEE>VFE - Empire</VFEE>
+  <VFEE.DeserterChance>Multiplicador de Posibilidad de Terrorismo</VFEE.DeserterChance>
+  <VFEE.SeeAlso>Ver también:</VFEE.SeeAlso>
+  <VFEE.ChangeCharacter>Cambiar personaje</VFEE.ChangeCharacter>
+  <VFEE.CurrentTitle>Título actual: {0}</VFEE.CurrentTitle>
+  <VFEE.CurrentHonor>Honor: {0}</VFEE.CurrentHonor>
+  <VFEE.PermitPoints>Pts. de permiso sin usar: {0}</VFEE.PermitPoints>
+  <VFEE.DevMode>Modo desarrollador</VFEE.DevMode>
+  <VFEE.VassalPoints>Pts. de vasallaje sin usar: {0}</VFEE.VassalPoints>
+  <VFEE.ReleaseAllVassals>Liberar a todos los vasallos</VFEE.ReleaseAllVassals>
+  <VFEE.ReleaseAllVassals.Confirm>Liberar a los vasallos provocara que los recursos se pierdan. ¿Estas seguro?</VFEE.ReleaseAllVassals.Confirm>
+  <VFEE.VassalsOf>Vasallo de {0}, {1}</VFEE.VassalsOf>
+  <VFEE.TitheDesc>Los diezmos se entregarán mediante cápsulas de transporte una que pase el tiempo designado.</VFEE.TitheDesc>
+  <VFEE.Deliver>Entregar</VFEE.Deliver>
+  <VFEE.Deliver.EveryWeek>Cada 7 días</VFEE.Deliver.EveryWeek>
+  <VFEE.Deliver.EveryQuadrum>Cada 15 días</VFEE.Deliver.EveryQuadrum>
+  <VFEE.Deliver.EveryYear>Cada año</VFEE.Deliver.EveryYear>
+  <VFEE.Deliver.Never>Jamás (pausa)</VFEE.Deliver.Never>
+  <VFEE.Created>{0} {1} creado todos los días.</VFEE.Created>
+  <VFEE.CreatedSpecial>{0} {1} creado cada {2} días.</VFEE.CreatedSpecial>
+  <VFEE.InStockpile>{0} en el almacén: {1}</VFEE.InStockpile>
+  <VFEE.VassalDesc>Solo puedes avasallar bases que estén a menos de 100 casillas de ti o de tus vasallos.\nVasallar más ciudades incrementa tu rango y desbloqueas más vasallos potenciales.</VFEE.VassalDesc>
+  <VFEE.NoVassalize>No puedes avasallar: Esta muy lejos</VFEE.NoVassalize>
+  <VFEE.Vassalize>Avasallar</VFEE.Vassalize>
+  <VFEE.RoomRequirementInstrumentSpace>baile espacial con todos los instrumentos</VFEE.RoomRequirementInstrumentSpace>
+  <VFEE.OfThe>{0} de el {1}</VFEE.OfThe>
+  <VFEE.Invite>Invitar visitante</VFEE.Invite>
+  <VFEE.InviteAs>Invitar a {0} (Cuesta: {1} de honor)</VFEE.InviteAs>
+  <VFEE.Skip.Title.Previous>Pasar al título previo</VFEE.Skip.Title.Previous>
+  <VFEE.Skip.Title.Next>Pasar al siguiente título</VFEE.Skip.Title.Next>
+  <VFEE.Skip.Colonist.Previous>Saltar al colono anterior</VFEE.Skip.Colonist.Previous>
+  <VFEE.Skip.Colonist.Next>Saltar al siguiente colono</VFEE.Skip.Colonist.Next>
+  <VFEE.Honors.RemoveAll>Remover todos los honores</VFEE.Honors.RemoveAll>
+  <VFEE.Honors.Active>Estos honores están activos en tus colonos. Arrástralos hacia la derecha para eliminarlo de este personaje.</VFEE.Honors.Active>
+  <VFEE.Honors.Available>Estos honores están disponibles para ser equipados en tus colonos. Arrástralos hacia la izquierda para activarlos en un noble elegido.</VFEE.Honors.Available>
+  <VFEE.HonorsOf>Honores de {0}, {1}</VFEE.HonorsOf>
+  <VFEE.Honors.Reward>obtendrá {0} de honor el colono seleccionado</VFEE.Honors.Reward>
+  <VFEE.Honors>Honores</VFEE.Honors>
+  <VFEE.MustBeLordOf>Debe ser el señor de {0}</VFEE.MustBeLordOf>
+  <VFEE.MustWield>Debe empuñar {0}</VFEE.MustWield>
+  <VFEE.MustHaveParent>Debe tener un familiar</VFEE.MustHaveParent>
+  <VFEE.Honor.Pending>Esto debe otorgarse en una ceremonia antes de que se active.</VFEE.Honor.Pending>
+  <VFEE.Honor.Bestow>Otorgar Honor</VFEE.Honor.Bestow>
+  <VFEE.Honor.BestowPlural>Otorgar Honores</VFEE.Honor.BestowPlural>
+  <VFEE.Honor.Bestow.Desc>Otorgar honores pendientes a este noble. Dará los siguientes honores:\n{0}</VFEE.Honor.Bestow.Desc>
+  <VFEE.Successful>Exitoso</VFEE.Successful>
+  <VFEE.Honor.Bestow.Success>{0} ha recibido los honores pendientes. Ha ganado:\n{0}</VFEE.Honor.Bestow.Success>
+  <VFEE.Honor.NoHonors>Debe tener honores pendientes para poder otorgar.</VFEE.Honor.NoHonors>
+  <VFEEmpire.RitualRoleTitled.NotTitled>Debe tener un título.</VFEEmpire.RitualRoleTitled.NotTitled>
+  <VFEEmpire.RitualRoleTitled.NotColonist>Debe ser un colono.</VFEEmpire.RitualRoleTitled.NotColonist>
+</LanguageData>

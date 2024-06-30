@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEE_Deserters.label>desertores</VFEE_Deserters.label>
+  <VFEE_Deserters.description>Un grupo organizado de desertores imperiales que decidieron enfrentarse y sabotear al Imperio.</VFEE_Deserters.description>
+  <VFEE_Deserters.fixedName>Desertores</VFEE_Deserters.fixedName>
+  <VFEE_Deserters.leaderTitle>líder</VFEE_Deserters.leaderTitle>
+  <VFEE_Deserters.pawnSingular>desertor</VFEE_Deserters.pawnSingular>
+  <VFEE_Deserters.pawnsPlural>desertores</VFEE_Deserters.pawnsPlural>
+  <VFEE_NewFamily.label>Nueva Familia</VFEE_NewFamily.label>
+  <VFEE_NewFamily.description>Una colonia de una familia real</VFEE_NewFamily.description>
+  <VFEE_NewFamily.leaderTitle>líder</VFEE_NewFamily.leaderTitle>
+  <VFEE_NewFamily.pawnSingular>imperial</VFEE_NewFamily.pawnSingular>
+  <VFEE_NewFamily.pawnsPlural>imperiales</VFEE_NewFamily.pawnsPlural>
+</LanguageData>

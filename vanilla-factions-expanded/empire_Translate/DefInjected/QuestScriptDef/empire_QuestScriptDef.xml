@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEE_Permit_CallTechfriar.questDescriptionAndNameRules.rulesStrings.0>questName-&gt;Techfriar</VFEE_Permit_CallTechfriar.questDescriptionAndNameRules.rulesStrings.0>
+  <VFEE_Permit_CallTechfriar.questDescriptionAndNameRules.rulesStrings.1>questDescription-&gt;</VFEE_Permit_CallTechfriar.questDescriptionAndNameRules.rulesStrings.1>
+  <VFEE_Permit_CallTechfriar.root.nodes.Letter.label.slateRef>Llegando techfriar</VFEE_Permit_CallTechfriar.root.nodes.Letter.label.slateRef>
+  <VFEE_Permit_CallTechfriar.root.nodes.Letter.text.slateRef>El techfriar de [permitFaction_name] ha llegado. Un transbordador vendrá a recogerlos en [techfriarDurationDays] días.</VFEE_Permit_CallTechfriar.root.nodes.Letter.text.slateRef>
+  <VFEE_Permit_CallTechfriar.root.nodes.ShuttleDelay.node.nodes.InspectString.inspectString.slateRef>Debería partir en el transbordador</VFEE_Permit_CallTechfriar.root.nodes.ShuttleDelay.node.nodes.InspectString.inspectString.slateRef>
+  <VFEE_Permit_CallTechfriar.root.nodes.ShuttleDelay.node.nodes.Letter.label.slateRef>Llegando transbordador</VFEE_Permit_CallTechfriar.root.nodes.ShuttleDelay.node.nodes.Letter.label.slateRef>
+  <VFEE_Permit_CallTechfriar.root.nodes.ShuttleDelay.node.nodes.Letter.text.slateRef>Un transbordador a llegado para recoger al techfriar de [permitFaction_name].</VFEE_Permit_CallTechfriar.root.nodes.ShuttleDelay.node.nodes.Letter.text.slateRef>
+  <VFEE_Permit_CallTechfriar.root.nodes.techfriarDestroyed.node.nodes.Letter.label.slateRef>Trabajador muerto: {SUBJECT_definite}</VFEE_Permit_CallTechfriar.root.nodes.techfriarDestroyed.node.nodes.Letter.label.slateRef>
+  <VFEE_Permit_CallTechfriar.root.nodes.techfriarDestroyed.node.nodes.Letter.text.slateRef>Un trabajador enviado de [permitFaction_name] ha muerto. Las relaciones con [permitFaction_name] se ha empeorado en [goodwillPenaltyPawn].</VFEE_Permit_CallTechfriar.root.nodes.techfriarDestroyed.node.nodes.Letter.text.slateRef>
+  <VFEE_Permit_CallAbsolver.questDescriptionAndNameRules.rulesStrings.0>questName-&gt;Absolvedor</VFEE_Permit_CallAbsolver.questDescriptionAndNameRules.rulesStrings.0>
+  <VFEE_Permit_CallAbsolver.questDescriptionAndNameRules.rulesStrings.1>questDescription-&gt;</VFEE_Permit_CallAbsolver.questDescriptionAndNameRules.rulesStrings.1>
+  <VFEE_Permit_CallAbsolver.root.nodes.Letter.label.slateRef>Llegando absolvedor</VFEE_Permit_CallAbsolver.root.nodes.Letter.label.slateRef>
+  <VFEE_Permit_CallAbsolver.root.nodes.Letter.text.slateRef>El absolvedor de [permitFaction_name] ha llegado. Un transbordador vendrá a recogerlos en [techfriarDurationDays] días.</VFEE_Permit_CallAbsolver.root.nodes.Letter.text.slateRef>
+  <VFEE_Permit_CallAbsolver.root.nodes.ShuttleDelay.node.nodes.InspectString.inspectString.slateRef>Debería partir en el transbordador</VFEE_Permit_CallAbsolver.root.nodes.ShuttleDelay.node.nodes.InspectString.inspectString.slateRef>
+  <VFEE_Permit_CallAbsolver.root.nodes.ShuttleDelay.node.nodes.Letter.label.slateRef>Llegando transbordador</VFEE_Permit_CallAbsolver.root.nodes.ShuttleDelay.node.nodes.Letter.label.slateRef>
+  <VFEE_Permit_CallAbsolver.root.nodes.ShuttleDelay.node.nodes.Letter.text.slateRef>Un transbordador a llegado para recoger al absolvedor de [permitFaction_name].</VFEE_Permit_CallAbsolver.root.nodes.ShuttleDelay.node.nodes.Letter.text.slateRef>
+  <VFEE_Permit_CallAbsolver.root.nodes.absolverDestroyed.node.nodes.Letter.label.slateRef>Absolvedor muerto: {SUBJECT_definite}</VFEE_Permit_CallAbsolver.root.nodes.absolverDestroyed.node.nodes.Letter.label.slateRef>
+  <VFEE_Permit_CallAbsolver.root.nodes.absolverDestroyed.node.nodes.Letter.text.slateRef>Un absolvedor enviado de [permitFaction_name] ha muerto. Se ha enviado un reemplazo.</VFEE_Permit_CallAbsolver.root.nodes.absolverDestroyed.node.nodes.Letter.text.slateRef>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.0>decidedToLeave-&gt;¡Se están yendo de forma inmediata y no recordarán este evento con cariño!</VFEE_ArtExhibit.questContentRules.rulesStrings.0>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.1>oneOfThe-&gt;uno de los nobles que invitaste a la exposición de arte</VFEE_ArtExhibit.questContentRules.rulesStrings.1>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.2>questOver-&gt;La misión '[resolvedQuestName]' ha terminado.</VFEE_ArtExhibit.questContentRules.rulesStrings.2>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.3>CeremonyFailedLetterLabel-&gt;Exposición de Arte fallido</VFEE_ArtExhibit.questContentRules.rulesStrings.3>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.4>CeremonyFailedLetterText-&gt;[asker_nameFull] está decepcionado por no haber hecho una exhibición agradable. [asker_pronoun] se esta yendo con [asker_possessive] invitados.</VFEE_ArtExhibit.questContentRules.rulesStrings.4>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.5>CeremonyTimeoutLetterLabel-&gt;Exposición de Arte fallido</VFEE_ArtExhibit.questContentRules.rulesStrings.5>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.6>CeremonyTimeoutLetterText-&gt;[asker_nameFull] se ha cansado de esperar a que empiece la exhibición. [asker_pronoun] se esta yendo con [asker_possessive] invitados.</VFEE_ArtExhibit.questContentRules.rulesStrings.6>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.7>letterIntroArrested-&gt;Has arrestado a {SUBJECT_definite}, [oneOfThe].</VFEE_ArtExhibit.questContentRules.rulesStrings.7>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.8>lodgerArrestedLeaveMapLetterLabel-&gt;[lodgersLabel] arrestado</VFEE_ArtExhibit.questContentRules.rulesStrings.8>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.9>lodgerArrestedLeaveMapLetterText-&gt;[letterIntroArrested]\n\n[decidedToLeave]</VFEE_ArtExhibit.questContentRules.rulesStrings.9>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.10>letterIntroDeath-&gt;{SUBJECT_definite}, [oneOfThe] ha muerto.</VFEE_ArtExhibit.questContentRules.rulesStrings.10>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.11>lodgerDiedLeaveMapLetterLabel-&gt;[lodgersLabel] Muerte: Partiendo</VFEE_ArtExhibit.questContentRules.rulesStrings.11>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.12>lodgerDiedLeaveMapLetterText-&gt;[letterIntroDeath]\n\n[decidedToLeave]</VFEE_ArtExhibit.questContentRules.rulesStrings.12>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.13>letterIntroViolated-&gt;{SUBJECT_definite}, [oneOfThe], fue violado por una cirugía.</VFEE_ArtExhibit.questContentRules.rulesStrings.13>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.14>lodgerSurgeryVioLeaveMapLetterLabel-&gt;[lodgersLabel] Operación: Partiendo</VFEE_ArtExhibit.questContentRules.rulesStrings.14>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.15>lodgerSurgeryVioLeaveMapLetterText-&gt;[letterIntroViolated]\n\n[decidedToLeave]</VFEE_ArtExhibit.questContentRules.rulesStrings.15>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.16>letterIntroKidnapped-&gt;{SUBJECT_definite}, [oneOfThe], fue secuestrado.</VFEE_ArtExhibit.questContentRules.rulesStrings.16>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.17>lodgerKidnappedLeaveMapLetterLabel-&gt;[lodgersLabel] Secuestro: Partiendo</VFEE_ArtExhibit.questContentRules.rulesStrings.17>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.18>lodgerKidnappedLeaveMapLetterText-&gt;[letterIntroKidnapped]\n\n[decidedToLeave]</VFEE_ArtExhibit.questContentRules.rulesStrings.18>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.19>letterIntroBanished-&gt;{SUBJECT_definite}, [oneOfThe], fue desterrado.</VFEE_ArtExhibit.questContentRules.rulesStrings.19>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.20>lodgerBanishedLeaveMapLetterLabel-&gt;[lodgersLabel] Destierro: Partiendo</VFEE_ArtExhibit.questContentRules.rulesStrings.20>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.21>lodgerBanishedLeaveMapLetterText-&gt;[letterIntroBanished]\n\n[decidedToLeave]</VFEE_ArtExhibit.questContentRules.rulesStrings.21>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.22>ShuttleDestroyedIntro-&gt;{SUBJECT_definite}, ha sido destruido</VFEE_ArtExhibit.questContentRules.rulesStrings.22>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.23>ShuttleDestroyedLabel-&gt;Transbordador destruido: Exhibición de Arte Cancelada</VFEE_ArtExhibit.questContentRules.rulesStrings.23>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.24>ShuttleDestroyedText-&gt;[ShuttleDestroyedIntro]\n\n[decidedToLeave]</VFEE_ArtExhibit.questContentRules.rulesStrings.24>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.25>raidArrivedLetterLabel-&gt;Intento de asesinato por desertor</VFEE_ArtExhibit.questContentRules.rulesStrings.25>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.26>raidArrivedLetterText-&gt;Un grupo de desertores han llegado llegado para intentar interrumpir la exhibición de arte y asesinar a la realeza\n\n[asker_nameFull] no le importa la amenaza y exige la exhibición continúe. [asker_possessive] quiere que los mantengas a salvo y que acabes con los "campesinos".</VFEE_ArtExhibit.questContentRules.rulesStrings.26>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.27>ArtExhibitSuccessLetterLabel-&gt;Exhibición Exitosa</VFEE_ArtExhibit.questContentRules.rulesStrings.27>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.28>ArtExhibitSuccessLetterText-&gt;El transbordador partió con [asker_nameFull] y [asker_possessive] invitados. En general, el evento fue un éxito, y todos regresaron sanos y salvos.</VFEE_ArtExhibit.questContentRules.rulesStrings.28>
+  <VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.0>lodgersLabel-&gt;noble</VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.0>
+  <VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.1>lodgersLabelPlural-&gt;nobles</VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.1>
+  <VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.2>lodgersDef(nobleCount==1)-&gt;[lodgers0_nameDef]</VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.2>
+  <VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.3>lodgersDef(nobleCount&gt;=2)-&gt;los [lodgersLabelPlural]</VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.3>
+  <VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.4>joinerEnding-&gt;Podrás dirigir a [lodgersDef] de igual forma que a tus propios colonos. [specialNeedsExplanation]</VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.4>
+  <VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.5>theirHisHer(nobleCount==1)-&gt;[lodgers0_possessive]</VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.5>
+  <VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.6>theirHisHer(nobleCount&gt;=2)-&gt;su</VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.6>
+  <VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.7>lodgersPronoun(nobleCount==1)-&gt;[lodgers0_pronoun]</VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.7>
+  <VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.8>lodgersPronoun(nobleCount&gt;=2)-&gt;ellos</VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.8>
+  <VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.9>lodgersWasWere(nobleCount==1)-&gt;era</VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.9>
+  <VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.10>lodgersWasWere(nobleCount&gt;=2)-&gt;eran</VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.10>
+  <VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.11>appreciateAppreciates(nobleCount==1)-&gt;apreciado</VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.11>
+  <VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.12>appreciateAppreciates(nobleCount&gt;=2)-&gt;apreciados</VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.12>
+  <VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.13>questDescription-&gt;[asker_nameFull], un [asker_royalTitleInCurrentFaction] de [asker_faction_name] quiere venir con otros nobles a contemplar tu galería de arte. [asker_pronoun] te solicita [colonyHost_nameFull] que sea el huesped de la ocasión. Esta es una gran oportunidad para cotillear con los nobles y construir relaciones con los otros miembros de la nobleza imperial.\nDebes tener una galería en tu colonia. Si cualquier punto de la galería es destruido, la exhibición del arte se cancelará.\n[asker_nameFull] te ha enviado una lista de los nobles que fueron invitados a la exhibición y llegaran en un transbordador:\n[noblesDetailList]\n\nDebes proteger a los invitados durante la exhibición. Si algo le sucede a alguno de los invitados, la exhibición de arte se cancelará.\nLos desertores pueden aprovechar para ejecutar un intento de asesinato.</VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.13>
+  <VFEE_ArtExhibit.questNameRules.rulesStrings.0>questName-&gt;[lodgerIndef] desea una Exposición de Arte</VFEE_ArtExhibit.questNameRules.rulesStrings.0>
+  <VFEE_ArtExhibit.questNameRules.rulesStrings.1>lodgerIndef-&gt;una realeza</VFEE_ArtExhibit.questNameRules.rulesStrings.1>
+  <VFEE_ArtExhibit.questNameRules.rulesStrings.2>lodgerIndef-&gt;un noble</VFEE_ArtExhibit.questNameRules.rulesStrings.2>
+  <VFEE_DelayedGrandBallOutcome.questContentRules.rulesStrings.0>rewardLetterLabel-&gt;Regalo de Noble</VFEE_DelayedGrandBallOutcome.questContentRules.rulesStrings.0>
+  <VFEE_DelayedGrandBallOutcome.questContentRules.rulesStrings.1>rewardLetterText-&gt;[rewardGiver_nameDef] ha contactado contigo. Hace [rewardDelayTicks_duration] organizaste [rewardGiver_possessive] gran baile [outcome]\n\n[rewardGiver_pronoun] logro llegar a su hogar sano y salvo, por lo que [rewardGiver_pronoun] quiere enviarte un regalo. [rewardGiver_pronoun] te enviara lo siguiente a través de una cápsula:\n\n[listOfRewards]</VFEE_DelayedGrandBallOutcome.questContentRules.rulesStrings.1>
+  <VFEE_DelayedGrandBallOutcome.questDescriptionAndNameRules.rulesStrings.0>questDescription-&gt;una recompensa atrasada por el gran baile</VFEE_DelayedGrandBallOutcome.questDescriptionAndNameRules.rulesStrings.0>
+  <VFEE_DelayedGrandBallOutcome.questNameRules.rulesStrings.0>questName-&gt;Regalo atrasado por Gran baile</VFEE_DelayedGrandBallOutcome.questNameRules.rulesStrings.0>
+  <VFEE_DelayedArtExhibitOutcome.questContentRules.rulesStrings.0>rewardLetterLabel-&gt;Regalo de Noble</VFEE_DelayedArtExhibitOutcome.questContentRules.rulesStrings.0>
+  <VFEE_DelayedArtExhibitOutcome.questContentRules.rulesStrings.1>rewardLetterText-&gt;[rewardGiver_nameDef] ha contactado contigo. Hace [rewardDelayTicks_duration] organizaste [rewardGiver_possessive] exhibición de arte [outcome]\n\n[rewardGiver_pronoun] logro llegar a su hogar sano y salvo, por lo que [rewardGiver_pronoun] quiere enviarte un regalo. [rewardGiver_pronoun] te enviara lo siguiente a través de una cápsula:\n\n[listOfRewards]</VFEE_DelayedArtExhibitOutcome.questContentRules.rulesStrings.1>
+  <VFEE_DelayedArtExhibitOutcome.questDescriptionAndNameRules.rulesStrings.0>questDescription-&gt;una recompensa atrasada por la exhibición de arte</VFEE_DelayedArtExhibitOutcome.questDescriptionAndNameRules.rulesStrings.0>
+  <VFEE_DelayedArtExhibitOutcome.questNameRules.rulesStrings.0>questName-&gt;Regalo atrasado por Exhibición de Arte</VFEE_DelayedArtExhibitOutcome.questNameRules.rulesStrings.0>
+  <VFEE_DeserterHideout.questDescriptionRules.rulesStrings.0>questDescription-&gt;[asker_nameFull], un [asker_royalTitleInCurrentFaction] de [asker_faction_name] te ha informado acerca de [colonyName], un escondite de los desertores.\nLos desertores son un grupo de soldados y nobles ex-imperiales que han decido separarse de la Gran Jerarquía y han adaptado un nuevo estilo de vida. Son considerados como el enemigo publico numero uno.\nAparentemente, [siteFaction_pawnsPlural] han estado asaltando las caravanas imperiales.\n[asker_nameDef] esta planeando un asalto aéreo a su escondite, este esta custodiado por [enemiesCount] [enemiesLabel]. [asker_pronoun] quiere que le proporciones [requiredPawnCount] soldados para realizar el ataque.\n\n[asker_pronoun] te enviará un transbordador para recoger a tus soldados. Serán alimentados y atendidos.\n\nUna vez que comience el ataque, debes derrotar a los enemigos y sus torretas dentro de [timeoutTime_duration].\n\n[asker_nameDef] te dará [alliesCount] de sus guardias personales para la misión, no se entristecerá si estos mueren.</VFEE_DeserterHideout.questDescriptionRules.rulesStrings.0>
+  <VFEE_DeserterHideout.questNameRules.rulesStrings.0>questName-&gt;El [camp] [bandit]</VFEE_DeserterHideout.questNameRules.rulesStrings.0>
+  <VFEE_DeserterHideout.questNameRules.rulesStrings.1>questName-&gt;[camp] [bandit]</VFEE_DeserterHideout.questNameRules.rulesStrings.1>
+  <VFEE_DeserterHideout.questNameRules.rulesStrings.2>questName-&gt;[asker_nameDef] and the [camp]</VFEE_DeserterHideout.questNameRules.rulesStrings.2>
+  <VFEE_DeserterHideout.questNameRules.rulesStrings.3>camp-&gt;Campamento</VFEE_DeserterHideout.questNameRules.rulesStrings.3>
+  <VFEE_DeserterHideout.questNameRules.rulesStrings.4>camp-&gt;Puesto de Avanzada</VFEE_DeserterHideout.questNameRules.rulesStrings.4>
+  <VFEE_DeserterHideout.questNameRules.rulesStrings.5>camp-&gt;Guarida</VFEE_DeserterHideout.questNameRules.rulesStrings.5>
+  <VFEE_DeserterHideout.questNameRules.rulesStrings.6>camp-&gt;Campamento</VFEE_DeserterHideout.questNameRules.rulesStrings.6>
+  <VFEE_DeserterHideout.questNameRules.rulesStrings.7>bandit-&gt;de Bandidos</VFEE_DeserterHideout.questNameRules.rulesStrings.7>
+  <VFEE_DeserterHideout.questNameRules.rulesStrings.8>bandit-&gt;de Asaltantes</VFEE_DeserterHideout.questNameRules.rulesStrings.8>
+  <VFEE_DeserterHideout.questNameRules.rulesStrings.9>bandit-&gt;de Criminales</VFEE_DeserterHideout.questNameRules.rulesStrings.9>
+  <VFEE_DeserterHideout.questNameRules.rulesStrings.10>bandit-&gt;de Desesperados</VFEE_DeserterHideout.questNameRules.rulesStrings.10>
+  <VFEE_DeserterHideout.questNameRules.rulesStrings.11>bandit-&gt;de Fugitivos</VFEE_DeserterHideout.questNameRules.rulesStrings.11>
+  <VFEE_DeserterHideout.questNameRules.rulesStrings.12>bandit-&gt;de Merodeadores</VFEE_DeserterHideout.questNameRules.rulesStrings.12>
+  <VFEE_DeserterHideout.questNameRules.rulesStrings.13>bandit-&gt;de Ladrones</VFEE_DeserterHideout.questNameRules.rulesStrings.13>
+  <VFEE_DeserterHideout.questNameRules.rulesStrings.14>bandit-&gt;de Bandoleros</VFEE_DeserterHideout.questNameRules.rulesStrings.14>
+  <VFEE_GrandBall.questContentRules.rulesStrings.0>lastOrNot(nobleCount==1)-&gt;</VFEE_GrandBall.questContentRules.rulesStrings.0>
+  <VFEE_GrandBall.questContentRules.rulesStrings.1>lastOrNot(nobleCount&gt;=2)-&gt;ultimo</VFEE_GrandBall.questContentRules.rulesStrings.1>
+  <VFEE_GrandBall.questContentRules.rulesStrings.2>lodgersLabelSingularOrPlural(nobleCount==1)-&gt;[lodgersLabel]</VFEE_GrandBall.questContentRules.rulesStrings.2>
+  <VFEE_GrandBall.questContentRules.rulesStrings.3>lodgersLabelSingularOrPlural(nobleCount&gt;=2)-&gt;[lodgersLabelPlural]</VFEE_GrandBall.questContentRules.rulesStrings.3>
+  <VFEE_GrandBall.questContentRules.rulesStrings.4>decidedToLeave-&gt;Se están yendo, y no recordarán este evento con cariño!</VFEE_GrandBall.questContentRules.rulesStrings.4>
+  <VFEE_GrandBall.questContentRules.rulesStrings.5>oneOfThe-&gt;uno de los nobles invitados a tu gran baile</VFEE_GrandBall.questContentRules.rulesStrings.5>
+  <VFEE_GrandBall.questContentRules.rulesStrings.6>questOver-&gt;La misión '[resolvedQuestName]' ha terminado.</VFEE_GrandBall.questContentRules.rulesStrings.6>
+  <VFEE_GrandBall.questContentRules.rulesStrings.7>CeremonyFailedLetterLabel-&gt;Gran Baile fallido</VFEE_GrandBall.questContentRules.rulesStrings.7>
+  <VFEE_GrandBall.questContentRules.rulesStrings.8>CeremonyFailedLetterText-&gt;[asker_nameFull] esta muy decepcionado contigo por haber fallado al hacer un baile disfrutable. [asker_pronoun] se esta yendo junto con [asker_possessive] invitados.</VFEE_GrandBall.questContentRules.rulesStrings.8>
+  <VFEE_GrandBall.questContentRules.rulesStrings.9>CeremonyTimeoutLetterLabel-&gt;Gran Baile fallido</VFEE_GrandBall.questContentRules.rulesStrings.9>
+  <VFEE_GrandBall.questContentRules.rulesStrings.10>CeremonyTimeoutLetterText-&gt;[asker_nameFull] se ha cansado de esperar a que comience el gran baile. [asker_pronoun] se esta yendo junto con [asker_possessive] invitados.</VFEE_GrandBall.questContentRules.rulesStrings.10>
+  <VFEE_GrandBall.questContentRules.rulesStrings.11>letterIntroArrested-&gt;Has a arrestado a{SUBJECT_definite}, [oneOfThe].</VFEE_GrandBall.questContentRules.rulesStrings.11>
+  <VFEE_GrandBall.questContentRules.rulesStrings.12>lodgerArrestedLeaveMapLetterLabel-&gt;[lodgersLabel] arrestado</VFEE_GrandBall.questContentRules.rulesStrings.12>
+  <VFEE_GrandBall.questContentRules.rulesStrings.13>lodgerArrestedLeaveMapLetterText-&gt;[letterIntroArrested]\n\n[decidedToLeave]</VFEE_GrandBall.questContentRules.rulesStrings.13>
+  <VFEE_GrandBall.questContentRules.rulesStrings.14>letterIntroDeath-&gt;{SUBJECT_definite}, [oneOfThe] ha muerto.</VFEE_GrandBall.questContentRules.rulesStrings.14>
+  <VFEE_GrandBall.questContentRules.rulesStrings.15>lodgerDiedLeaveMapLetterLabel-&gt;[lodgersLabel] Muerte: Partiendo</VFEE_GrandBall.questContentRules.rulesStrings.15>
+  <VFEE_GrandBall.questContentRules.rulesStrings.16>lodgerDiedLeaveMapLetterText-&gt;[letterIntroDeath]\n\n[decidedToLeave]</VFEE_GrandBall.questContentRules.rulesStrings.16>
+  <VFEE_GrandBall.questContentRules.rulesStrings.17>letterIntroViolated-&gt;{SUBJECT_definite}, [oneOfThe], ha sido violado por una cirugía.</VFEE_GrandBall.questContentRules.rulesStrings.17>
+  <VFEE_GrandBall.questContentRules.rulesStrings.18>lodgerSurgeryVioLeaveMapLetterLabel-&gt;[lodgersLabel] Operación: Partiendo</VFEE_GrandBall.questContentRules.rulesStrings.18>
+  <VFEE_GrandBall.questContentRules.rulesStrings.19>lodgerSurgeryVioLeaveMapLetterText-&gt;[letterIntroViolated]\n\n[decidedToLeave]</VFEE_GrandBall.questContentRules.rulesStrings.19>
+  <VFEE_GrandBall.questContentRules.rulesStrings.20>letterIntroKidnapped-&gt;{SUBJECT_definite}, [oneOfThe], fue secuestrado.</VFEE_GrandBall.questContentRules.rulesStrings.20>
+  <VFEE_GrandBall.questContentRules.rulesStrings.21>lodgerKidnappedLeaveMapLetterLabel-&gt;[lodgersLabel] Secuestro: Partiendo</VFEE_GrandBall.questContentRules.rulesStrings.21>
+  <VFEE_GrandBall.questContentRules.rulesStrings.22>lodgerKidnappedLeaveMapLetterText-&gt;[letterIntroKidnapped]\n\n[decidedToLeave]</VFEE_GrandBall.questContentRules.rulesStrings.22>
+  <VFEE_GrandBall.questContentRules.rulesStrings.23>letterIntroBanished-&gt;{SUBJECT_definite}, [oneOfThe], fue desterrado</VFEE_GrandBall.questContentRules.rulesStrings.23>
+  <VFEE_GrandBall.questContentRules.rulesStrings.24>lodgerBanishedLeaveMapLetterLabel-&gt;[lodgersLabel] Destierro: Partiendo</VFEE_GrandBall.questContentRules.rulesStrings.24>
+  <VFEE_GrandBall.questContentRules.rulesStrings.25>lodgerBanishedLeaveMapLetterText-&gt;[letterIntroBanished]\n\n[decidedToLeave]</VFEE_GrandBall.questContentRules.rulesStrings.25>
+  <VFEE_GrandBall.questContentRules.rulesStrings.26>ShuttleDestroyedIntro-&gt;{SUBJECT_definite}, ha sido destruido</VFEE_GrandBall.questContentRules.rulesStrings.26>
+  <VFEE_GrandBall.questContentRules.rulesStrings.27>ShuttleDestroyedLabel-&gt;Transbordador destruido: Baile cancelado</VFEE_GrandBall.questContentRules.rulesStrings.27>
+  <VFEE_GrandBall.questContentRules.rulesStrings.28>ShuttleDestroyedText-&gt;[ShuttleDestroyedIntro]\n\n[decidedToLeave]</VFEE_GrandBall.questContentRules.rulesStrings.28>
+  <VFEE_GrandBall.questContentRules.rulesStrings.29>raidArrivedLetterLabel-&gt;Intento de asesinato de desertores</VFEE_GrandBall.questContentRules.rulesStrings.29>
+  <VFEE_GrandBall.questContentRules.rulesStrings.30>raidArrivedLetterText-&gt;Un grupo de desertores han llegado para interrumpir el gran baile e intentar asesinar a la realeza\n\n[asker_nameFull] no le importa esta amenaza y exige que el baile continue! Quiere que los protejas y que te encargues de los "campesinos".</VFEE_GrandBall.questContentRules.rulesStrings.30>
+  <VFEE_GrandBall.questContentRules.rulesStrings.31>BallSuccessLetterLetterLabel-&gt;Gran Baile Exitoso </VFEE_GrandBall.questContentRules.rulesStrings.31>
+  <VFEE_GrandBall.questContentRules.rulesStrings.32>BallSuccessLetterText-&gt;El transbordador partió con [asker_nameFull] y [asker_possessive] invitados. En general, el evento fue un éxito, y todos regresaron sanos y salvos.</VFEE_GrandBall.questContentRules.rulesStrings.32>
+  <VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.0>lodgersLabel-&gt;noble</VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.0>
+  <VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.1>lodgersLabelPlural-&gt;nobles</VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.1>
+  <VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.2>lodgersDef(nobleCount==1)-&gt;[lodgers0_nameDef]</VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.2>
+  <VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.3>lodgersDef(nobleCount&gt;=2)-&gt;los [lodgersLabelPlural]</VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.3>
+  <VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.4>joinerEnding-&gt;Podrás dirigir a [lodgersDef] de igual forma que a tus propios colonos. [specialNeedsExplanation]</VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.4>
+  <VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.5>theirHisHer(nobleCount==1)-&gt;[lodgers0_possessive]</VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.5>
+  <VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.6>theirHisHer(nobleCount&gt;=2)-&gt;su</VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.6>
+  <VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.7>lodgersPronoun(nobleCount==1)-&gt;[lodgers0_pronoun]</VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.7>
+  <VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.8>lodgersPronoun(nobleCount&gt;=2)-&gt;ellos</VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.8>
+  <VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.9>lodgersWasWere(nobleCount==1)-&gt;era</VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.9>
+  <VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.10>lodgersWasWere(nobleCount&gt;=2)-&gt;eran</VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.10>
+  <VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.11>appreciateAppreciates(nobleCount==1)-&gt;apreciado</VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.11>
+  <VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.12>appreciateAppreciates(nobleCount&gt;=2)-&gt;apreciados</VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.12>
+  <VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.13>questDescription-&gt;[asker_nameFull], un [asker_royalTitleInCurrentFaction] de [asker_faction_name] quiere que organices un gran baile. Esta es una gran oportunidad para cotillear con los nobles y construir relaciones con los otros miembros de la nobleza imperial.\nDebes tener una salón de baile en tu colonia. Si cualquier punto del salón de baile es destruido o los instrumentos son inutilizables, el gran baile se cancelará.\n[asker_nameFull] te ha enviado una lista de los nobles que serán invitados al gran baile y llegaran en un transbordador:\n[noblesDetailList]\n\nDebes proteger a los invitados durante el baile. Si algo le sucede a alguno de los invitados, el baile se se cancelará.\nLos desertores pueden aprovechar para ejecutar un intento de asesinato.</VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.13>
+  <VFEE_GrandBall.questNameRules.rulesStrings.0>questName-&gt;[lodgerIndef] desea una gran baile</VFEE_GrandBall.questNameRules.rulesStrings.0>
+  <VFEE_GrandBall.questNameRules.rulesStrings.1>lodgerIndef-&gt;una realeza</VFEE_GrandBall.questNameRules.rulesStrings.1>
+  <VFEE_GrandBall.questNameRules.rulesStrings.2>lodgerIndef-&gt;un noble</VFEE_GrandBall.questNameRules.rulesStrings.2>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.0>lastOrNot(nobleCount==1)-&gt;</VFEE_NobleVisit.questContentRules.rulesStrings.0>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.1>lastOrNot(nobleCount&gt;=2)-&gt;últimos</VFEE_NobleVisit.questContentRules.rulesStrings.1>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.2>lodgersLabelSingularOrPlural(nobleCount==1)-&gt;[lodgersLabel]</VFEE_NobleVisit.questContentRules.rulesStrings.2>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.3>lodgersLabelSingularOrPlural(nobleCount&gt;=2)-&gt;[lodgersLabelPlural]</VFEE_NobleVisit.questContentRules.rulesStrings.3>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.4>decidedToLeave-&gt;[othersWillNotAccept], y {PAWNSALIVECOUNT_multiple ? han : ha } decidido retirarse.</VFEE_NobleVisit.questContentRules.rulesStrings.4>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.5>othersWillNotAccept-&gt;Los {PAWNSALIVECOUNT_multiple ? otros : último [lodgersLabel]} no esta dispuesto a aceptar esto</VFEE_NobleVisit.questContentRules.rulesStrings.5>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.6>oneOfThe-&gt;uno de los nobles  que invitaste a quedarse contigo</VFEE_NobleVisit.questContentRules.rulesStrings.6>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.7>questOver-&gt;La misión '[resolvedQuestName]' ha terminado.</VFEE_NobleVisit.questContentRules.rulesStrings.7>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.8>letterIntroArrested-&gt;Arrestaste ha{SUBJECT_definite}, [oneOfThe].</VFEE_NobleVisit.questContentRules.rulesStrings.8>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.9>lodgerArrestedLeaveMapLetterLabel-&gt;[lodgersLabel] arrestado: Partiendo</VFEE_NobleVisit.questContentRules.rulesStrings.9>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.10>lodgerArrestedLeaveMapLetterText-&gt;[letterIntroArrested]\n\n[decidedToLeave]</VFEE_NobleVisit.questContentRules.rulesStrings.10>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.11>letterIntroDeath-&gt;{SUBJECT_definite}, [oneOfThe] ha muerto.</VFEE_NobleVisit.questContentRules.rulesStrings.11>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.12>lodgerDiedLeaveMapLetterLabel-&gt;[lodgersLabel] muerto: Partiendo</VFEE_NobleVisit.questContentRules.rulesStrings.12>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.13>lodgerDiedLeaveMapLetterText-&gt;[letterIntroDeath]\n\n[decidedToLeave]</VFEE_NobleVisit.questContentRules.rulesStrings.13>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.14>letterIntroViolated-&gt;{SUBJECT_definite}, [oneOfThe], ha sido violado por una operación.</VFEE_NobleVisit.questContentRules.rulesStrings.14>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.15>lodgerSurgeryVioLeaveMapLetterLabel-&gt;[lodgersLabel] Cirugía: Partiendo</VFEE_NobleVisit.questContentRules.rulesStrings.15>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.16>lodgerSurgeryVioLeaveMapLetterText-&gt;[letterIntroViolated]\n\n[decidedToLeave]</VFEE_NobleVisit.questContentRules.rulesStrings.16>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.17>letterIntroKidnapped-&gt;{SUBJECT_definite}, [oneOfThe], fue secuestrado.</VFEE_NobleVisit.questContentRules.rulesStrings.17>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.18>lodgerKidnappedLeaveMapLetterLabel-&gt;[lodgersLabel] Secuestro: Partiendo</VFEE_NobleVisit.questContentRules.rulesStrings.18>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.19>lodgerKidnappedLeaveMapLetterText-&gt;[letterIntroKidnapped]\n\n[decidedToLeave]</VFEE_NobleVisit.questContentRules.rulesStrings.19>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.20>letterIntroBanished-&gt;{SUBJECT_definite}, [oneOfThe], ha sido desterrado</VFEE_NobleVisit.questContentRules.rulesStrings.20>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.21>lodgerBanishedLeaveMapLetterLabel-&gt;[lodgersLabel] Desterrado: Partiendo</VFEE_NobleVisit.questContentRules.rulesStrings.21>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.22>lodgerBanishedLeaveMapLetterText-&gt;[letterIntroBanished]\n\n[decidedToLeave]</VFEE_NobleVisit.questContentRules.rulesStrings.22>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.23>ShuttleDestroyedIntro-&gt;{SUBJECT_definite}, fue destruido</VFEE_NobleVisit.questContentRules.rulesStrings.23>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.24>ShuttleDestroyedLabel-&gt;[lodgersLabel] Transportador destruido: Partiendo</VFEE_NobleVisit.questContentRules.rulesStrings.24>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.25>ShuttleDestroyedText-&gt;[ShuttleDestroyedIntro]\n\n[decidedToLeave]</VFEE_NobleVisit.questContentRules.rulesStrings.25>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.26>letterIntroBadMood-&gt;{SUBJECT_definite}, [oneOfThe], se te encargó protegerlo y mantener feliz, ha por debajo del estado de ánimo mínimo de [lodgersMoodThreshold] por demasiado tiempo.</VFEE_NobleVisit.questContentRules.rulesStrings.26>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.27>nobleUnhappyLetterLabel-&gt;[lodgersLabel] infeliz</VFEE_NobleVisit.questContentRules.rulesStrings.27>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.28>nobleUnhappyLetterText-&gt;[letterIntroBadMood]\n\n[decidedToLeave]</VFEE_NobleVisit.questContentRules.rulesStrings.28>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.29>lodgerLeftNotAllHealthyLetterLabel-&gt;[lodgersLabel] : sin tratar</VFEE_NobleVisit.questContentRules.rulesStrings.29>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.30>lodgerLeftNotAllHealthyLetterText-&gt;[lodgersLabel] dejó el mapa con lesiones y no tendrá buenos recuerdos de su visita</VFEE_NobleVisit.questContentRules.rulesStrings.30>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.31>LetterLabelShuttleArrived-&gt;Llego transbordador</VFEE_NobleVisit.questContentRules.rulesStrings.31>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.32>LetterTextShuttleArrived-&gt;El transbordador ha llegado para recoger a [asker_nameFull] y su corte</VFEE_NobleVisit.questContentRules.rulesStrings.32>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.33>lodgersLeavingLetterLabel-&gt;[lodgersLabelSingularOrPlural] fue curado</VFEE_NobleVisit.questContentRules.rulesStrings.33>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.34>lodgersLeavingLetterText-&gt;[asker_nameFull] te agradeció por la invitación y por quedarse en [map_definite] por [questDurationTicks_duration].</VFEE_NobleVisit.questContentRules.rulesStrings.34>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.0>lodgersLabel-&gt;noble</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.0>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.1>lodgersLabelPlural-&gt;nobles</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.1>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.2>lodgersDef(nobleCount==1)-&gt;[lodgers0_nameDef]</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.2>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.3>lodgersDef(nobleCount&gt;=2)-&gt;los [lodgersLabelPlural]</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.3>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.4>joinerEnding-&gt;Podrás dirigir a [lodgersDef] de igual forma que a tus propios colonos. [specialNeedsExplanation]</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.4>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.5>specialNeedsExplanation(asker_royalInCurrentFaction==True,priority=1)-&gt; Tendrás que satisfacer cualquier necesidad real que tengan [lodgersLabelPlural].</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.5>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.6>specialNeedsExplanation-&gt;</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.6>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.7>theirHisHer(nobleCount==1)-&gt;[lodgers0_possessive]</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.7>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.8>theirHisHer(nobleCount&gt;=2)-&gt;su</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.8>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.9>lodgersPronoun(nobleCount==1)-&gt;[lodgers0_pronoun]</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.9>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.10>lodgersPronoun(nobleCount&gt;=2)-&gt;ellos</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.10>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.11>lodgersWasWere(nobleCount==1)-&gt;era</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.11>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.12>lodgersWasWere(nobleCount&gt;=2)-&gt;eran</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.12>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.13>appreciateAppreciates(nobleCount==1)-&gt;apreciado</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.13>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.14>appreciateAppreciates(nobleCount&gt;=2)-&gt;apreciados</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.14>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.15>questDescription-&gt;[asker_nameFull], un [asker_royalTitleInCurrentFaction] de [asker_faction_name] desea realizar una visita. Debes satisfacer [asker_possessive] necesidades reales durante [shuttleDelayTicks_duration], y obtendrás una gran cantidad de honor. Durante la visita, debes mantener el estado de ánimo por encima de [lodgersMoodThreshold_percent]. Esto significa proporcionar las necesidades reales, como un dormitorio lujoso.\n El [asker_royalTitleInCurrentFaction] lleva a dos de [asker_possessive] guardias personales que estarán bajo tu mando. Deberás albergar a estos guardias, pero el [asker_royalTitleInCurrentFaction] no se se quejará si estos guardias muere.\nDebes mantener a los visitantes en [map_definite] y no puedes enviarlo a ningún otro lugar. Fallar la misión afecta tu relación con [asker_nameFull] y perderás honor.</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.15>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.16>questDescription(nobleCount&gt;=2)-&gt;[asker_nameFull], un [asker_royalTitleInCurrentFaction] de [asker_faction_name] desea realizar una visita. El llegará con [asker_possessive] corte real de [nobleCountLessOne] nobles, debes satisfacer sus necesidades reales durante [shuttleDelayTicks_duration], y obtendrás una gran cantidad de horno. Esto significa proporcionar las necesidades reales, como un dormitorio lujoso.\nEl [asker_royalTitleInCurrentFaction] lleva a dos de [asker_possessive] guardias personales que estarán bajo tu mando. Deberás albergar a estos guardias, pero el [asker_royalTitleInCurrentFaction] no se se quejará si estos guardias muere.\nDebes mantener a los visitantes en [map_definite] y no puedes enviarlo a ningún otro lugar. Fallar la misión afecta tu relación con [asker_nameFull] y perderás honor.</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.16>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.17>allyAllies(lodgersCountMinusOne==1)-&gt;aliado</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.17>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.18>allyAllies(lodgersCountMinusOne&gt;=2)-&gt;aliados</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.18>
+  <VFEE_NobleVisit.questNameRules.rulesStrings.0>questName(sameQuestsCount==0)-&gt;[asker_nameDef] y su visita</VFEE_NobleVisit.questNameRules.rulesStrings.0>
+  <VFEE_NobleVisit.questNameRules.rulesStrings.1>questName-&gt;huesped [lodgerIndef]</VFEE_NobleVisit.questNameRules.rulesStrings.1>
+  <VFEE_NobleVisit.questNameRules.rulesStrings.2>questName-&gt;la visita [lodgerIndef] </VFEE_NobleVisit.questNameRules.rulesStrings.2>
+  <VFEE_NobleVisit.questNameRules.rulesStrings.3>lodgerIndef(nobleCount==1)-&gt;de la realeza</VFEE_NobleVisit.questNameRules.rulesStrings.3>
+  <VFEE_NobleVisit.questNameRules.rulesStrings.4>lodgerIndef(nobleCount==1)-&gt;de un noble</VFEE_NobleVisit.questNameRules.rulesStrings.4>
+  <VFEE_NobleVisit.questNameRules.rulesStrings.5>lodgerIndef(nobleCount&gt;=2)-&gt;de la realeza</VFEE_NobleVisit.questNameRules.rulesStrings.5>
+  <VFEE_NobleVisit.questNameRules.rulesStrings.6>lodgerIndef(nobleCount&gt;=2)-&gt;de nobles</VFEE_NobleVisit.questNameRules.rulesStrings.6>
+  <VFEE_Parade.questContentRules.rulesStrings.0>lastOrNot(nobleCount==1)-&gt;</VFEE_Parade.questContentRules.rulesStrings.0>
+  <VFEE_Parade.questContentRules.rulesStrings.1>lastOrNot(nobleCount&gt;=2)-&gt;último</VFEE_Parade.questContentRules.rulesStrings.1>
+  <VFEE_Parade.questContentRules.rulesStrings.2>lodgersLabelSingularOrPlural(nobleCount==1)-&gt;[lodgersLabel]</VFEE_Parade.questContentRules.rulesStrings.2>
+  <VFEE_Parade.questContentRules.rulesStrings.3>lodgersLabelSingularOrPlural(nobleCount&gt;=2)-&gt;[lodgersLabelPlural]</VFEE_Parade.questContentRules.rulesStrings.3>
+  <VFEE_Parade.questContentRules.rulesStrings.4>decidedToLeave-&gt;Se están yendo, y no recordarán este evento con cariño!</VFEE_Parade.questContentRules.rulesStrings.4>
+  <VFEE_Parade.questContentRules.rulesStrings.5>oneOfThe-&gt;uno de los nobles visitantes por la desfile</VFEE_Parade.questContentRules.rulesStrings.5>
+  <VFEE_Parade.questContentRules.rulesStrings.6>questOver-&gt;La misión '[resolvedQuestName]' termino.</VFEE_Parade.questContentRules.rulesStrings.6>
+  <VFEE_Parade.questContentRules.rulesStrings.7>CeremonyFailedLetterLabel-&gt;Desfile fallida</VFEE_Parade.questContentRules.rulesStrings.7>
+  <VFEE_Parade.questContentRules.rulesStrings.8>CeremonyFailedLetterText-&gt;[asker_nameFull] esta muy decepcionado contigo por haber fallado al hacer una Desfile disfrutable. [asker_pronoun] se esta yendo junto con [asker_possessive] invitados.</VFEE_Parade.questContentRules.rulesStrings.8>
+  <VFEE_Parade.questContentRules.rulesStrings.9>CeremonyTimeoutLetterLabel-&gt;Parada fallida</VFEE_Parade.questContentRules.rulesStrings.9>
+  <VFEE_Parade.questContentRules.rulesStrings.10>CeremonyTimeoutLetterText-&gt;[asker_nameFull] se ha cansado de esperar el comienzo del Desfile. [asker_pronoun] se esta yendo junto con [asker_possessive] invitados.</VFEE_Parade.questContentRules.rulesStrings.10>
+  <VFEE_Parade.questContentRules.rulesStrings.11>letterIntroArrested-&gt;Arrestaste {SUBJECT_definite}, [oneOfThe].</VFEE_Parade.questContentRules.rulesStrings.11>
+  <VFEE_Parade.questContentRules.rulesStrings.12>lodgerArrestedLeaveMapLetterLabel-&gt;[lodgersLabel] arrestado</VFEE_Parade.questContentRules.rulesStrings.12>
+  <VFEE_Parade.questContentRules.rulesStrings.13>lodgerArrestedLeaveMapLetterText-&gt;[letterIntroArrested]\n\n[decidedToLeave]</VFEE_Parade.questContentRules.rulesStrings.13>
+  <VFEE_Parade.questContentRules.rulesStrings.14>letterIntroDeath-&gt;{SUBJECT_definite}, [oneOfThe] ha muerto.</VFEE_Parade.questContentRules.rulesStrings.14>
+  <VFEE_Parade.questContentRules.rulesStrings.15>lodgerDiedLeaveMapLetterLabel-&gt;[lodgersLabel] muerto: Partiendo</VFEE_Parade.questContentRules.rulesStrings.15>
+  <VFEE_Parade.questContentRules.rulesStrings.16>lodgerDiedLeaveMapLetterText-&gt;[letterIntroDeath]\n\n[decidedToLeave]</VFEE_Parade.questContentRules.rulesStrings.16>
+  <VFEE_Parade.questContentRules.rulesStrings.17>letterIntroViolated-&gt;{SUBJECT_definite}, [oneOfThe], ha sido violado por una cirugía.</VFEE_Parade.questContentRules.rulesStrings.17>
+  <VFEE_Parade.questContentRules.rulesStrings.18>lodgerSurgeryVioLeaveMapLetterLabel-&gt;[lodgersLabel] Cirugía: Partiendo</VFEE_Parade.questContentRules.rulesStrings.18>
+  <VFEE_Parade.questContentRules.rulesStrings.19>lodgerSurgeryVioLeaveMapLetterText-&gt;[letterIntroViolated]\n\n[decidedToLeave]</VFEE_Parade.questContentRules.rulesStrings.19>
+  <VFEE_Parade.questContentRules.rulesStrings.20>letterIntroKidnapped-&gt;{SUBJECT_definite}, [oneOfThe], fue secuestrado.</VFEE_Parade.questContentRules.rulesStrings.20>
+  <VFEE_Parade.questContentRules.rulesStrings.21>lodgerKidnappedLeaveMapLetterLabel-&gt;[lodgersLabel] Secuestro: Partiendo</VFEE_Parade.questContentRules.rulesStrings.21>
+  <VFEE_Parade.questContentRules.rulesStrings.22>lodgerKidnappedLeaveMapLetterText-&gt;[letterIntroKidnapped]\n\n[decidedToLeave]</VFEE_Parade.questContentRules.rulesStrings.22>
+  <VFEE_Parade.questContentRules.rulesStrings.23>letterIntroBanished-&gt;{SUBJECT_definite}, [oneOfThe], fue despojado.</VFEE_Parade.questContentRules.rulesStrings.23>
+  <VFEE_Parade.questContentRules.rulesStrings.24>lodgerBanishedLeaveMapLetterLabel-&gt;[lodgersLabel] Despojado: Partiendo</VFEE_Parade.questContentRules.rulesStrings.24>
+  <VFEE_Parade.questContentRules.rulesStrings.25>lodgerBanishedLeaveMapLetterText-&gt;[letterIntroBanished]\n\n[decidedToLeave]</VFEE_Parade.questContentRules.rulesStrings.25>
+  <VFEE_Parade.questContentRules.rulesStrings.26>ShuttleDestroyedIntro-&gt;{SUBJECT_definite}, ha sido destruido</VFEE_Parade.questContentRules.rulesStrings.26>
+  <VFEE_Parade.questContentRules.rulesStrings.27>ShuttleDestroyedLabel-&gt;Transbordador destruid: Desfile fallida</VFEE_Parade.questContentRules.rulesStrings.27>
+  <VFEE_Parade.questContentRules.rulesStrings.28>ShuttleDestroyedText-&gt;[ShuttleDestroyedIntro]\n\n[decidedToLeave]</VFEE_Parade.questContentRules.rulesStrings.28>
+  <VFEE_Parade.questContentRules.rulesStrings.29>raidArrivedLetterLabel-&gt;Intento de asesinato de desertores</VFEE_Parade.questContentRules.rulesStrings.29>
+  <VFEE_Parade.questContentRules.rulesStrings.30>raidArrivedLetterText-&gt;Un grupo de desertores han llegado para interrumpir el desfile e intentar asesinar a [stellarch_nameFull]\n\nEl desfile no puede ser interrumpido por ninguna razon!</VFEE_Parade.questContentRules.rulesStrings.30>
+  <VFEE_Parade.questContentRules.rulesStrings.31>ParadeSuccessLetterLetterLabel-&gt;Desfile Exitoso</VFEE_Parade.questContentRules.rulesStrings.31>
+  <VFEE_Parade.questContentRules.rulesStrings.32>ParadeSuccessLetterText-&gt;El transbordador está listo para partir con todos que asciendan con [stellarch_nameFull]. ¡Partirá cuando usted lo ordene!</VFEE_Parade.questContentRules.rulesStrings.32>
+  <VFEE_Parade.questDescriptionAndNameRules.rulesStrings.0>lodgersLabel-&gt;noble</VFEE_Parade.questDescriptionAndNameRules.rulesStrings.0>
+  <VFEE_Parade.questDescriptionAndNameRules.rulesStrings.1>lodgersLabelPlural-&gt;nobles</VFEE_Parade.questDescriptionAndNameRules.rulesStrings.1>
+  <VFEE_Parade.questDescriptionAndNameRules.rulesStrings.2>lodgersDef(nobleCount==1)-&gt;[lodgers0_nameDef]</VFEE_Parade.questDescriptionAndNameRules.rulesStrings.2>
+  <VFEE_Parade.questDescriptionAndNameRules.rulesStrings.3>lodgersDef(nobleCount&gt;=2)-&gt;los [lodgersLabelPlural]</VFEE_Parade.questDescriptionAndNameRules.rulesStrings.3>
+  <VFEE_Parade.questDescriptionAndNameRules.rulesStrings.4>theirHisHer(nobleCount==1)-&gt;[lodgers0_possessive]</VFEE_Parade.questDescriptionAndNameRules.rulesStrings.4>
+  <VFEE_Parade.questDescriptionAndNameRules.rulesStrings.5>theirHisHer(nobleCount&gt;=2)-&gt;su</VFEE_Parade.questDescriptionAndNameRules.rulesStrings.5>
+  <VFEE_Parade.questDescriptionAndNameRules.rulesStrings.6>lodgersPronoun(nobleCount==1)-&gt;[lodgers0_pronoun]</VFEE_Parade.questDescriptionAndNameRules.rulesStrings.6>
+  <VFEE_Parade.questDescriptionAndNameRules.rulesStrings.7>lodgersPronoun(nobleCount&gt;=2)-&gt;ellos</VFEE_Parade.questDescriptionAndNameRules.rulesStrings.7>
+  <VFEE_Parade.questDescriptionAndNameRules.rulesStrings.8>lodgersWasWere(nobleCount==1)-&gt;era</VFEE_Parade.questDescriptionAndNameRules.rulesStrings.8>
+  <VFEE_Parade.questDescriptionAndNameRules.rulesStrings.9>lodgersWasWere(nobleCount&gt;=2)-&gt;eras</VFEE_Parade.questDescriptionAndNameRules.rulesStrings.9>
+  <VFEE_Parade.questDescriptionAndNameRules.rulesStrings.10>appreciateAppreciates(nobleCount==1)-&gt;apreciado</VFEE_Parade.questDescriptionAndNameRules.rulesStrings.10>
+  <VFEE_Parade.questDescriptionAndNameRules.rulesStrings.11>appreciateAppreciates(nobleCount&gt;=2)-&gt;apreciados</VFEE_Parade.questDescriptionAndNameRules.rulesStrings.11>
+  <VFEE_Parade.questDescriptionAndNameRules.rulesStrings.12>questDescription-&gt;[stellarch_nameFull] ha llegado al pico de lo que puede conseguir en la superficie de Rimworld. Para progresar más en la gran jerarquía y convertirse en la mano derecha del Emperador [emperor_nameFull], [stellarch_nameFull] necesita hacer un desfile de ascensión tradicional, después partirá en un transbordador para reunirse con el Emperador.\nUn desfile de esta magnitud seguramente llame la atención de los desertores.\nUna vez que aceptes esta misión, tendrás 5 días para preparar el desfile. Considera mejorar tus defensas y en desarrollar un plan de contención, ya que es difícil decir como se desarrollara el desfile. Deberás mantener el desfile a salvo de cualquier peligro.\nDebes estar atento a los rivales y enemigos de [stellarch_nameFull], ya que podrían aprovechar este momento para hacer un movimiento y reclamar el poder.\nUn transbordador llegará trayendo a la nobleza de más alto rango para el desfile. Usted será responsable de brindar la seguridad al evento. Después de que comience el desfile, este se ira moviendo por el mapa durante 12 horas, después todos incluido [stellarch_nameFull] abordarán el transboradador y partirán.</VFEE_Parade.questDescriptionAndNameRules.rulesStrings.12>
+  <VFEE_Parade.questNameRules.rulesStrings.0>questName-&gt;Ascensión de Alto Archiestrella</VFEE_Parade.questNameRules.rulesStrings.0>
+</LanguageData>

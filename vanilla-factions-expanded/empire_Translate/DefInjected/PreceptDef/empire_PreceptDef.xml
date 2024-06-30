@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEE_BestowHonor.label>dar honor</VFEE_BestowHonor.label>
+  <VFEE_BestowHonor.description>Otorga honores a un peón digno</VFEE_BestowHonor.description>
+  <VFEE_BestowTitle.label>dar título</VFEE_BestowTitle.label>
+  <VFEE_BestowTitle.description>Otorga un título real a un peón digno</VFEE_BestowTitle.description>
+  <VFEE_ParadePrecept.label>Parada</VFEE_ParadePrecept.label>
+  <VFEE_ParadePrecept.description>Parada</VFEE_ParadePrecept.description>
+  <VFEE_RoyalAddress.label>discurso real</VFEE_RoyalAddress.label>
+  <VFEE_RoyalAddress.description>Iniciar un discurso real en el trono. {ORGANIZER_labelShort} dará un discurso real desde el trono. Si todo va bien, cada participante con título obtendrá una pequeña cantidad de honor, y {ORGANIZER_labelShort} obtendrá honor por cada participante con un título. Si sale mal, el discurso causará un daño social y {ORGANIZER_labelShort} perderá honor por cada participante con títulos. El resultado depende de las habilidades sociales de {ORGANIZER_labelShort}. La nobleza imperial que esta en el área se unirá al discurso y contará como participante con títulos.</VFEE_RoyalAddress.description>
+</LanguageData>

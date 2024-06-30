@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEE_BestowHonor_Behavior.roles.0.label>otorgador</VFEE_BestowHonor_Behavior.roles.0.label>
+  <VFEE_BestowHonor_Behavior.roles.1.label>destinatario</VFEE_BestowHonor_Behavior.roles.1.label>
+  <VFEE_BestowTitle_Behavior.roles.0.label>organizador</VFEE_BestowTitle_Behavior.roles.0.label>
+  <VFEE_BestowTitle_Behavior.roles.1.label>destinatario</VFEE_BestowTitle_Behavior.roles.1.label>
+  <VFEE_Parade_Behavior.roles.0.label>estelarca</VFEE_Parade_Behavior.roles.0.label>
+  <VFEE_Parade_Behavior.roles.1.label>guardia</VFEE_Parade_Behavior.roles.1.label>
+  <VFEE_Parade_Behavior.spectatorFilter.description>Nobles Titulados</VFEE_Parade_Behavior.spectatorFilter.description>
+  <VFEE_Parade_Behavior.spectatorGerund>Nobles</VFEE_Parade_Behavior.spectatorGerund>
+  <VFEE_Parade_Behavior.spectatorsLabel>Nobles</VFEE_Parade_Behavior.spectatorsLabel>
+  <VFEE_RoyalAddres_Behavior.letterText>{ORGANIZER_labelShort} está dando un discurso real en su trono.\nSi todo va bien, cada participante con título recibirá un poco de honor, y {ORGANIZER_labelShort} recibirá honor por cada participante con título. Si va mal, el discurso dañará las relaciones sociales y {ORGANIZER_labelShort} perderá honor por cada participante con título. El resultado dependerá de la habilidad social de {ORGANIZER_labelShort}. La nobleza que esté en el área se unirá al discurso y contará como participante con título.</VFEE_RoyalAddres_Behavior.letterText>
+  <VFEE_RoyalAddres_Behavior.letterTitle>Discurso real en el trono</VFEE_RoyalAddres_Behavior.letterTitle>
+  <VFEE_RoyalAddres_Behavior.roles.0.label>organizador</VFEE_RoyalAddres_Behavior.roles.0.label>
+  <VFEE_RoyalAddres_Behavior.roles.1.label>participantes con título</VFEE_RoyalAddres_Behavior.roles.1.label>
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEE_Deserters.label>desertores</VFEE_Deserters.label>
+  <VFEE_Deserters.description>desertores</VFEE_Deserters.description>
+  <VFEE_Deserters.arrivalTextEnemy>Un grupo de desertores del imperio han llegado en cápsulas de transporte. Su objetivo es causar caos y están aterrizando por toda el área.\nLos desertores del imperio utilizan tecnología muy poderosa y poderes psíquicos para enfrentar al Imperio.\nSu objetivo es matar a todos los poseedores del título {0}, incluyendo:\n{1}\n{2}\nAtacarán de forma inmediata.</VFEE_Deserters.arrivalTextEnemy>
+  <VFEE_Deserters.arrivalTextFriendly>Se están moviendo para ayudarte.</VFEE_Deserters.arrivalTextFriendly>
+  <VFEE_Deserters.letterLabelEnemy>Asalto (Desertores)</VFEE_Deserters.letterLabelEnemy>
+  <VFEE_Deserters.letterLabelFriendly>Amigos</VFEE_Deserters.letterLabelFriendly>
+</LanguageData>

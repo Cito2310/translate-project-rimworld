@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEE_IngestedAperitif.label>ingirió aperitivo </VFEE_IngestedAperitif.label>
+  <VFEE_IngestedAperitif.description>Hay una protección contra las infecciones y envenenamiento en el estomago, así como la posibilidad de consumir más alimentos para mejorar su estado de ánimo.</VFEE_IngestedAperitif.description>
+  <VFEE_IngestedAperitif.labelNoun>ingirió aperitivo </VFEE_IngestedAperitif.labelNoun>
+  <VFEE_AcidifierFletcher.label>acidificante</VFEE_AcidifierFletcher.label>
+  <VFEE_AcidifierFletcher.description>Tiene una mezcla de ácidos en la vena a causa de unos dardos. Causan un dolor extremo y una muerte casi instantánea debido a las quemaduras por el ácido.</VFEE_AcidifierFletcher.description>
+  <VFEE_AcidifierToxblade.label>acidificante</VFEE_AcidifierToxblade.label>
+  <VFEE_AcidifierToxblade.description>Tiene una mezcla de ácidos en la vena a causa de unos dardos. Causan un dolor extremo y una muerte casi instantánea debido a las quemaduras por el ácido.</VFEE_AcidifierToxblade.description>
+</LanguageData>

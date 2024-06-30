@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEI_GoldDrop.label>solicitar oro</VFEI_GoldDrop.label>
+  <VFEI_GoldDrop.description>Solicita un pedido de transporte aéreo de 50 de oro.</VFEI_GoldDrop.description>
+  <VFEI_PlasteelDrop.label>solicitar plastiacero</VFEI_PlasteelDrop.label>
+  <VFEI_PlasteelDrop.description>Solicita un pedido de transporte aéreo de 55 de plastiacero.</VFEI_PlasteelDrop.description>
+  <VFEI_JadeDrop.label>solicitar jade</VFEI_JadeDrop.label>
+  <VFEI_JadeDrop.description>Solicita un pedido de transporte aéreo de 100 de jade.</VFEI_JadeDrop.description>
+  <VFEI_UraniumDrop.label>solicitar uranio</VFEI_UraniumDrop.label>
+  <VFEI_UraniumDrop.description>Solicita un pedido de transporte aéreo de 80 de uranio.</VFEI_UraniumDrop.description>
+  <VFEI_ClothDrop.label>solicitar tela</VFEI_ClothDrop.label>
+  <VFEI_ClothDrop.description>Solicita un pedido de transporte aéreo de 330 de tela.</VFEI_ClothDrop.description>
+  <VFEI_WoodDrop.label>solicitar madera</VFEI_WoodDrop.label>
+  <VFEI_WoodDrop.description>Solicita un pedido de transporte aéreo de 400 de madera.</VFEI_WoodDrop.description>
+  <VFEI_SynthreadDrop.label>solicitar tela sintética</VFEI_SynthreadDrop.label>
+  <VFEI_SynthreadDrop.description>Solicita un pedido de transporte aéreo de 125 de tela sintética.</VFEI_SynthreadDrop.description>
+  <VFEI_HerbalMedDrop.label>solicitar hierbas medicinales</VFEI_HerbalMedDrop.label>
+  <VFEI_HerbalMedDrop.description>Solicita un pedido de transporte aéreo de 40 de hierbas medicinales.</VFEI_HerbalMedDrop.description>
+  <VFEI_MedDrop.label>solicitar medicina</VFEI_MedDrop.label>
+  <VFEI_MedDrop.description>Solicita un pedido de transporte aéreo de 25 de medicina.</VFEI_MedDrop.description>
+  <VFEI_DevilstrandDrop.label>solicitar hilodiablo</VFEI_DevilstrandDrop.label>
+  <VFEI_DevilstrandDrop.description>Solicita un pedido de transporte aéreo de 90 de hilodiablo.</VFEI_DevilstrandDrop.description>
+  <VFEI_HyperweaveDrop.label>solicitar hipertejido</VFEI_HyperweaveDrop.label>
+  <VFEI_HyperweaveDrop.description>Solicita un pedido de transporte aéreo de 55 de hipertejido.</VFEI_HyperweaveDrop.description>
+  <VFEI_ChemfuelDrop.label>solicitar quimicombustible</VFEI_ChemfuelDrop.label>
+  <VFEI_ChemfuelDrop.description>Solicita un pedido de transporte aéreo de 220 de quimicombustible.</VFEI_ChemfuelDrop.description>
+  <VFEI_ComponentDrop.label>solicitar componentes</VFEI_ComponentDrop.label>
+  <VFEI_ComponentDrop.description>Solicita un pedido de transporte aéreo de 15 componentes.</VFEI_ComponentDrop.description>
+  <VFEI_ComponentSpacerDrop.label>solicitar componente avanzado</VFEI_ComponentSpacerDrop.label>
+  <VFEI_ComponentSpacerDrop.description>Solicita un pedido de transporte aéreo de 3 componentes avanzados</VFEI_ComponentSpacerDrop.description>
+  <VFEI_HEShellsDrop.label>solicitar obús</VFEI_HEShellsDrop.label>
+  <VFEI_HEShellsDrop.description>Solicita un pedido de transporte aéreo de 10 obuses explosivos.</VFEI_HEShellsDrop.description>
+  <VFEI_NobleFoodDrop.label>solicitar comida noble</VFEI_NobleFoodDrop.label>
+  <VFEI_NobleFoodDrop.description>Solicita un pedido de transporte aéreo de 15 comidas de lujo.</VFEI_NobleFoodDrop.description>
+  <VFEI_CallTrooperPlatoon.label>solicitar un pelotón de soldados</VFEI_CallTrooperPlatoon.label>
+  <VFEI_CallTrooperPlatoon.description>Llama a un grupo de 8 tropas ligeras para ayudarte en el combate.</VFEI_CallTrooperPlatoon.description>
+  <VFEI_CallJanissaryPlatoon.label>solicitar un pelotón de jenízaros</VFEI_CallJanissaryPlatoon.label>
+  <VFEI_CallJanissaryPlatoon.description>Llama un grupo de 8 jenízaros profesionales para ayudarte en el combate.</VFEI_CallJanissaryPlatoon.description>
+  <VFEI_CallCataphractPlatoon.label>solicitar un pelotón catafracto</VFEI_CallCataphractPlatoon.label>
+  <VFEI_CallCataphractPlatoon.description>Llama un grupo de 8 catafractos pesados para ayudarte en el combate.</VFEI_CallCataphractPlatoon.description>
+  <VFEI_CallTechfriar.label>solicitar techfriar</VFEI_CallTechfriar.label>
+  <VFEI_CallTechfriar.description>Llamar a un techfriar para que te ayude por 4 días. Este miembro del gremio solo puede hacer tareas relacionadas a la investigación. Puedes controlarlo como si fueran tus colonos. Estás obligado a mantenerlo a salvo.</VFEI_CallTechfriar.description>
+  <VFEI_CallLaborerUnion.label>solicitar sindicato de trabajadores</VFEI_CallLaborerUnion.label>
+  <VFEI_CallLaborerUnion.description>Puedes llamar a un grupo de 12 trabajadores para que te ayuden durante 4 días. Estos trabajadores sólo pueden realizar tareas generales. Puedes controlarlos como si fueran tus colonos. Estás obligado a mantenerlos a salvo.</VFEI_CallLaborerUnion.description>
+  <VFEI_StrikerTurretDrop.label>solicitar torretas golpeadoras</VFEI_StrikerTurretDrop.label>
+  <VFEI_StrikerTurretDrop.description> Llamar a 3 torretas golpeadoras para una batalla. Después de quedarse sin munición, las torretas se auto-destruirán.</VFEI_StrikerTurretDrop.description>
+  <VFEI_BurnoutShieldDrop.label>solicitar escudo de quemadura</VFEI_BurnoutShieldDrop.label>
+  <VFEI_BurnoutShieldDrop.description>Llama un escudo bajo para quemaduras para que te ayude en batalla. Se activa donde aterriza y durará 30 segundos antes de desactivarse.</VFEI_BurnoutShieldDrop.description>
+  <VFEI_CallEvacShuttle.label>solicitar transbordador de evacuación</VFEI_CallEvacShuttle.label>
+  <VFEI_CallEvacShuttle.description>Llamar un transbordador blindado. Puede transportar colonos, artículos y animales a cualquier casilla dentro de un radio de 40 segundos. Permanecerá en la zona durante un breve momento.</VFEI_CallEvacShuttle.description>
+  <VFEI_StoneDrop.label>solicitar piedra</VFEI_StoneDrop.label>
+  <VFEI_StoneDrop.description>Solicita un pedido de transporte aéreo de 500 de ladrillos de piedra aleatoria.</VFEI_StoneDrop.description>
+  <VFEI_CallStellicGuards.label>solicitar guardias estelares</VFEI_CallStellicGuards.label>
+  <VFEI_CallStellicGuards.description>Llama a un grupo de 6 guardias estelares, de distancia y de cuerpo a cuerpo, para ayudarte en el combate.</VFEI_CallStellicGuards.description>
+  <VFEI_CallImperialRegiment.label>solicitar regimiento imperial</VFEI_CallImperialRegiment.label>
+  <VFEI_CallImperialRegiment.description>Llama a un grupo de 10 jenízaros y 6 catafractos pesados que llegarán en un transbordador blindado, para ayudarte en batalla. No puedes controlarlos, pero te ayudarán a eliminar cualquier amenaza en la zona. Se retirarán después de que se eliminen todas las amenazas.</VFEI_CallImperialRegiment.description>
+  <VFEI_CallOrbitalSlicingBeam.label>solicitar haz de corte orbital</VFEI_CallOrbitalSlicingBeam.label>
+  <VFEI_CallOrbitalSlicingBeam.description>Llama a un haz de corte orbital, desde un buque insignia imperial en órbita. Este haz viajará en una dirección seleccionada por ti, quemando todo lo que toque.</VFEI_CallOrbitalSlicingBeam.description>
+  <VFEI_CallAbsolver.label>solicitar absolvedor</VFEI_CallAbsolver.label>
+  <VFEI_CallAbsolver.description>Llama a un absolvedor que te ayudara durante 4 días. Este miembro del gremio es un maestro asesino y no hará otra tarea que no sea matar. Puedes controlarlos como si fuera uno de tus colonos. Si el absolvedor muere, se reemplazara por uno nuevo, completando el tiempo del contrato.</VFEI_CallAbsolver.description>
+</LanguageData>

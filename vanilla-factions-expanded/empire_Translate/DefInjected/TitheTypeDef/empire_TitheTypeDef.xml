@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEE_Steel.label>minería de acero</VFEE_Steel.label>
+  <VFEE_Steel.description>Este asentamiento extrae acero para el señor supremo.</VFEE_Steel.description>
+  <VFEE_Wood.label>corte de madera</VFEE_Wood.label>
+  <VFEE_Wood.description>Este asentamiento corta madera para el señor supremo.</VFEE_Wood.description>
+  <VFEE_Gold.label>impuesto de oro</VFEE_Gold.label>
+  <VFEE_Gold.description>Este asentamiento paga oro al señor supremo.</VFEE_Gold.description>
+  <VFEE_Silver.label>impuesto de plata</VFEE_Silver.label>
+  <VFEE_Silver.description>Este asentamiento paga plata al señor supremo.</VFEE_Silver.description>
+  <VFEE_Farming.label>agricultura</VFEE_Farming.label>
+  <VFEE_Farming.description>Este asentamiento produce raciones de supervivencia para el señor supremo.</VFEE_Farming.description>
+  <VFEE_Honor.label>impuesto de honor</VFEE_Honor.label>
+  <VFEE_Honor.description>Este asentamiento brinda honor a su señor supremo.</VFEE_Honor.description>
+  <VFEE_Slavery.label>esclavo</VFEE_Slavery.label>
+  <VFEE_Slavery.description>Este asentamiento captura esclavos para el señor supremo.</VFEE_Slavery.description>
+</LanguageData>
