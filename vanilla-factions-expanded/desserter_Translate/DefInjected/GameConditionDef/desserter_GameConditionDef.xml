@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFED_MissileRain.label>lluvia de misiles</VFED_MissileRain.label>
+  <VFED_MissileRain.description>Hay un ataque con drones aéreos. A cubierto!</VFED_MissileRain.description>
+  <VFED_DivineInferno.label>Infierno Divino</VFED_DivineInferno.label>
+  <VFED_DivineInferno.description>El Imperio inicio el protocolo de Infierno Divino a tu colonia, moviendo todos los satelites de haz cortante hacia tu posición. Una vez que encuentren a tu colonia, lo cubrirán de rayos de fuegos. Puedes prevenir esto reduciendo tu visibilidad al nivel Oculto.</VFED_DivineInferno.description>
+</LanguageData>

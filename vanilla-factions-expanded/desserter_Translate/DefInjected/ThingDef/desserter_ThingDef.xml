@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFED_DeserterShuttleIncoming.label>transbordador desertor (llegando)</VFED_DeserterShuttleIncoming.label>
+  <VFED_DeserterShuttleLeaving.label>transbordador desertor (yendose)</VFED_DeserterShuttleLeaving.label>
+  <VFED_DeserterShuttle.label>transbordador desertor</VFED_DeserterShuttle.label>
+  <VFED_DeserterShuttle.description>Un transbordador de tecnología espacial diseñado para moverse entre la orbita y la superficie, o entre las lunas de un sistema planetario.</VFED_DeserterShuttle.description>
+  <VFED_FlagshipChunk.label>trozos de la nave insignia</VFED_FlagshipChunk.label>
+  <VFED_FlagshipChunk.description>Un trozo de la nave insignia imperial. Parece haber sido arrancada por algún tipo de arma muy poderosa.\n\nHabiendo aterrizado no hace mucho, aún contiene recursos útiles que se pueden obtener al descontruirlo.</VFED_FlagshipChunk.description>
+  <VFED_RemoteTrapIED_HighExplosive.label>carga remota</VFED_RemoteTrapIED_HighExplosive.label>
+  <VFED_RemoteTrapIED_HighExplosive.description>Un par de obuses explosivos conectado a un mecanismo de activación remota. Puede detonarse a voluntad, pero el tiempo de la mecha puede variar. Como está oculto en el terreno no puede ser colocada adyacente a otra trampa. Los animales pueden sentirlos cuando están tranquilos.</VFED_RemoteTrapIED_HighExplosive.description>
+  <VFED_RemoteTrapIED_Incendiary.label>carga remota incendiaria</VFED_RemoteTrapIED_Incendiary.label>
+  <VFED_RemoteTrapIED_Incendiary.description>Un par de obuses incendiarios conectado a un mecanismo de activación remota. Puede detonarse a voluntad, pero el tiempo de la mecha puede variar. Como está oculto en el terreno no puede ser colocada adyacente a otra trampa. Los animales pueden sentirlos cuando están tranquilos.</VFED_RemoteTrapIED_Incendiary.description>
+  <VFED_RemoteTrapIED_EMP.label>carga remota EMP</VFED_RemoteTrapIED_EMP.label>
+  <VFED_RemoteTrapIED_EMP.description>Un par de obuses EMP conectado a un mecanismo de activación remota. Puede detonarse a voluntad, pero el tiempo de la mecha puede variar. Como está oculto en el terreno no puede ser colocada adyacente a otra trampa. Los animales pueden sentirlos cuando están tranquilos.</VFED_RemoteTrapIED_EMP.description>
+  <VFED_RemoteTrapIED_Smoke.label>carga remota de humo</VFED_RemoteTrapIED_Smoke.label>
+  <VFED_RemoteTrapIED_Smoke.description>Un par de obuses de humo conectado a un mecanismo de activación remota. Puede detonarse a voluntad, pero el tiempo de la mecha puede variar. Como está oculto en el terreno no puede ser colocada adyacente a otra trampa. Los animales pueden sentirlos cuando están tranquilos.</VFED_RemoteTrapIED_Smoke.description>
+  <VFED_RemoteTrapIED_Firefoam.label>cargar remota de espuma anti-fuego</VFED_RemoteTrapIED_Firefoam.label>
+  <VFED_RemoteTrapIED_Firefoam.description>Un par de obuses de espuma anti-fuego conectado a un mecanismo de activación remota. Puede detonarse a voluntad, pero el tiempo de la mecha puede variar. Como está oculto en el terreno no puede ser colocada adyacente a otra trampa. Los animales pueden sentirlos cuando están tranquilos.</VFED_RemoteTrapIED_Firefoam.description>
+  <VFED_RemoteTrapIED_AntigrainWarhead.label>carga remota antimateria</VFED_RemoteTrapIED_AntigrainWarhead.label>
+  <VFED_RemoteTrapIED_AntigrainWarhead.description>Un par de obuses de antimateria conectado a un mecanismo de activación remota. Puede detonarse a voluntad, pero el tiempo de la mecha puede variar. Como está oculto en el terreno no puede ser colocada adyacente a otra trampa. Los animales pueden sentirlos cuando están tranquilos.</VFED_RemoteTrapIED_AntigrainWarhead.description>
+  <VFED_BombPack_Deployed.label>paquete de bomba desplegado</VFED_BombPack_Deployed.label>
+  <VFED_BombPack_Deployed.description>Una bomba desplegada. Esta armada y puede ser detonada presionando un botón.</VFED_BombPack_Deployed.description>
+  <VFED_TrapIED_Shrapnel.label>Trampa de IED de metralla</VFED_TrapIED_Shrapnel.label>
+  <VFED_TrapIED_Shrapnel.description>Un par de obuses de metralla conectado a un mecanismo de activación que se activara al contacto o por un impacto. Como está oculto en el terreno no puede ser colocada adyacente a otra trampa. Los animales pueden sentirlos cuando están tranquilos.</VFED_TrapIED_Shrapnel.description>
+  <VFED_TrapIED_ArmorPiercing.label>Trampa de IED de perforación de blindaje </VFED_TrapIED_ArmorPiercing.label>
+  <VFED_TrapIED_ArmorPiercing.description>Un par de obuses de perforación de blindaje conectado a un mecanismo de activación que se activara al contacto o por un impacto. Como está oculto en el terreno no puede ser colocada adyacente a otra trampa. Los animales pueden sentirlos cuando están tranquilos.</VFED_TrapIED_ArmorPiercing.description>
+  <VFED_TrapIED_Cluster.label>Trampa de IED de racimo</VFED_TrapIED_Cluster.label>
+  <VFED_TrapIED_Cluster.description>Un par de obuses de racimo conectado a un mecanismo de activación que se activara al contacto o por un impacto. Como está oculto en el terreno no puede ser colocada adyacente a otra trampa. Los animales pueden sentirlos cuando están tranquilos.</VFED_TrapIED_Cluster.description>
+  <VFED_RemoteTrapIED_Shrapnel.label>carga remota de metralla</VFED_RemoteTrapIED_Shrapnel.label>
+  <VFED_RemoteTrapIED_Shrapnel.description>Un par de obuses de metralla conectado a un mecanismo de activación remota. Puede detonarse a voluntad, pero el tiempo de la mecha puede variar. Como está oculto en el terreno no puede ser colocada adyacente a otra trampa. Los animales pueden sentirlos cuando están tranquilos.</VFED_RemoteTrapIED_Shrapnel.description>
+  <VFED_RemoteTrapIED_ArmorPiercing.label>carga remota de perforación de blindaje</VFED_RemoteTrapIED_ArmorPiercing.label>
+  <VFED_RemoteTrapIED_ArmorPiercing.description>Un par de obuses de perforación de blindaje conectado a un mecanismo de activación remota. Puede detonarse a voluntad, pero el tiempo de la mecha puede variar. Como está oculto en el terreno no puede ser colocada adyacente a otra trampa. Los animales pueden sentirlos cuando están tranquilos.</VFED_RemoteTrapIED_ArmorPiercing.description>
+  <VFED_RemoteTrapIED_Cluster.label>carga remota de racimo</VFED_RemoteTrapIED_Cluster.label>
+  <VFED_RemoteTrapIED_Cluster.description>Un par de obuses de racimo conectado a un mecanismo de activación remota. Puede detonarse a voluntad, pero el tiempo de la mecha puede variar. Como está oculto en el terreno no puede ser colocada adyacente a otra trampa. Los animales pueden sentirlos cuando están tranquilos.</VFED_RemoteTrapIED_Cluster.description>
+  <VFED_Turret_Kontarion.label>kontarion</VFED_Turret_Kontarion.label>
+  <VFED_Turret_Kontarion.description>Una poderosa arma de gran distancia usado por el Imperio para derribar a sus enemigos desde la distancia. Las torretas Kontarion disparan balas de uranio ultra-denso ha unas velocidades increíbles, penetrando cualquier blindaje. Por su ratio de disparo, su gran precisión y rango de fuego, es un arma a considerar. Tiene una mejor precisión a larga distancia, y no puede disparar ha objetivos cercanos. Explota al ser dañado.\n\nConsume una gran cantidad de munición, y requiere tener adyacente una caja de munición para poder recargar de forma automática. No puede ser recargada a mano.</VFED_Turret_Kontarion.description>
+  <VFED_Turret_Kontarion.comps.CompRefuelable.fuelGizmoLabel>Balas de uranio</VFED_Turret_Kontarion.comps.CompRefuelable.fuelGizmoLabel>
+  <VFED_Turret_Kontarion.comps.CompRefuelable.fuelLabel>Disparos antes de recargar</VFED_Turret_Kontarion.comps.CompRefuelable.fuelLabel>
+  <VFED_Turret_Kontarion.comps.CompRefuelable.outOfFuelMessage>Sin balas</VFED_Turret_Kontarion.comps.CompRefuelable.outOfFuelMessage>
+  <VFED_Gun_Kontarion.label>cañón kontarion</VFED_Gun_Kontarion.label>
+  <VFED_Gun_Kontarion.description>Un cañón de uranio auto-recargable diseñado para ser montado en una torreta.</VFED_Gun_Kontarion.description>
+  <VFED_Gun_Kontarion.verbs.Verb_Shoot.label>cañón kontarion</VFED_Gun_Kontarion.verbs.Verb_Shoot.label>
+  <VFED_Turret_Palintone.label>palintone</VFED_Turret_Palintone.label>
+  <VFED_Turret_Palintone.description>Un arma poderosa y anti-infantería usado por el Imperio para defender los puestos de avanzas desprotegidos. Las torretas Palintone dispara balas de gran calibre a una gran velocidad, generando una gran cantidad de daño a largas distancias. Dispara enormes ráfagas de proyectiles proporcionando fuego de supresión y capaz de destruir rápidamente cualquier objetivo con armadura ligera. Con su poder de fuego devastador, la torreta Palintone es capaz de mantener a raya incluso a las fuerzas enemigas más grandes. Explota al ser dañada.\n\nConsume una gran cantidad de munición, y requiere tener adyacente una caja de munición para poder recargar de forma automática. No puede ser recargada a mano.</VFED_Turret_Palintone.description>
+  <VFED_Turret_Palintone.comps.CompRefuelable.fuelGizmoLabel>Munición de cañón automático</VFED_Turret_Palintone.comps.CompRefuelable.fuelGizmoLabel>
+  <VFED_Turret_Palintone.comps.CompRefuelable.fuelLabel>Disparos antes de recargar</VFED_Turret_Palintone.comps.CompRefuelable.fuelLabel>
+  <VFED_Turret_Palintone.comps.CompRefuelable.outOfFuelMessage>Sin munición</VFED_Turret_Palintone.comps.CompRefuelable.outOfFuelMessage>
+  <VFED_Gun_Palintone.label>cañón palintone</VFED_Gun_Palintone.label>
+  <VFED_Gun_Palintone.description>Un cañón auto-recargable diseñado para ser montado en una torreta.</VFED_Gun_Palintone.description>
+  <VFED_Gun_Palintone.verbs.Verb_Shoot.label>cañón palintone</VFED_Gun_Palintone.verbs.Verb_Shoot.label>
+  <VFED_Turret_Onager.label>onager</VFED_Turret_Onager.label>
+  <VFED_Turret_Onager.description>Una arma poderosa, anti-blindaje usado por el Imperio para destruir a los objetivos más blindados con facilidad. Es capaz de lanzar misiles en una ráfaga de 6, el Onager causa un daño devastador a las fuerzas enemigas en muy poco tiempo. La torreta Onager es muy efectiva a corta distancia, donde sus misiles pueden ser apuntados con precisión hacia los enemigos. Sin embargo, no puede disparar a los enemigos que están muy cercas, ya que los misiles requieren cierta distancia para armarse y rastrear a sus objetivos. Adicionalmente, debido a la cantidad de misiles disparados, el Onager no es tan preciso como las otras torretas, y a veces falla los disparos. Explota al ser dañado.\n\nConsume una gran cantidad de munición, y requiere tener adyacente una caja de munición para poder recargar de forma automática. No puede ser recargada a mano.</VFED_Turret_Onager.description>
+  <VFED_Turret_Onager.comps.CompRefuelable.fuelGizmoLabel>misiles Onager</VFED_Turret_Onager.comps.CompRefuelable.fuelGizmoLabel>
+  <VFED_Turret_Onager.comps.CompRefuelable.fuelLabel>Disparos antes de recargar</VFED_Turret_Onager.comps.CompRefuelable.fuelLabel>
+  <VFED_Turret_Onager.comps.CompRefuelable.outOfFuelMessage>Sin misiles</VFED_Turret_Onager.comps.CompRefuelable.outOfFuelMessage>
+  <VFED_Gun_Onager.label>cañón onager</VFED_Gun_Onager.label>
+  <VFED_Gun_Onager.description>Un lanza-cohetes auto-recargable diseñado para ser montado en una torreta.</VFED_Gun_Onager.description>
+  <VFED_Gun_Onager.verbs.Verb_Shoot.label>cañón onager</VFED_Gun_Onager.verbs.Verb_Shoot.label>
+  <VFFED_Bullet_Onager.label>onager</VFFED_Bullet_Onager.label>
+  <VFED_Turret_StrikerTurret.label>torreta striker</VFED_Turret_StrikerTurret.label>
+  <VFED_Turret_StrikerTurret.description>Un torreta estacionaria y poderosa. Se auto-destruirá si es muy dañada.</VFED_Turret_StrikerTurret.description>
+  <VFED_AmmoBox_UraniumSlug.label>caja de munición de balas de uranio</VFED_AmmoBox_UraniumSlug.label>
+  <VFED_AmmoBox_UraniumSlug.description>Una pequeña caja que contiene munición. Usado por la torreta Kontarion. Explota si es dañada.</VFED_AmmoBox_UraniumSlug.description>
+  <VFED_AmmoBox_Autocannon.label>caja de munición de cañón automático</VFED_AmmoBox_Autocannon.label>
+  <VFED_AmmoBox_Autocannon.description>Una pequeña caja que contiene munición. Usado por la torreta Palintone. Explota si es dañada.</VFED_AmmoBox_Autocannon.description>
+  <VFED_AmmoBox_Missile.label>caja de munición de misiles</VFED_AmmoBox_Missile.label>
+  <VFED_AmmoBox_Missile.description>Una pequeña caja que contiene munición. Usado por la torreta Onager. Explota si es dañada.</VFED_AmmoBox_Missile.description>
+  <VFED_SupplyCrate.label>caja de suministros</VFED_SupplyCrate.label>
+  <VFED_SupplyCrate.description>Una pequeña caja imperial que contiene objetos de valor. Puede contener información. Abrirla requiere derivar un complejo protocolo de seguridad y esto lleva un poco de tiempo.\n\nCualquier intento de destruirlo, también destruirá los artículos que contiene.</VFED_SupplyCrate.description>
+  <VFED_BiosecuredCrate.label>caja bioasegurada</VFED_BiosecuredCrate.label>
+  <VFED_BiosecuredCrate.description>Una pequeña caja imperial que contiene objetos de un valor extremo. Puede contener información critica. Tiene una protección especial, solo los nobles imperiales son capaces de abrirla.\n\nCualquier intento de destruirlo, también destruirá los artículos que contiene.</VFED_BiosecuredCrate.description>
+  <VFED_SurveillancePillar.label>pilar de vigilancia</VFED_SurveillancePillar.label>
+  <VFED_SurveillancePillar.description>Un gran pilar con una serie de sensores, cámaras y detectores de movimiento. Gracias a un avanzado sistema de reconocimiento facial, este pilar de supervivencia es capaz de detectar a los desertores presentes en un cierto radio, y aumentara la visibilidad de la facción a la que pertenecen. Puede ser desactivada por un pulso electromagnético o cortando su suministro eléctrico.</VFED_SurveillancePillar.description>
+  <VFED_AerodroneMunitionsCrate.label>caja de munición de dron aéreo</VFED_AerodroneMunitionsCrate.label>
+  <VFED_AerodroneMunitionsCrate.description>Una gran caja militar de municiones de dron aéreo. Explota al ser dañado, enviando fragmentos a toda las direcciones.</VFED_AerodroneMunitionsCrate.description>
+  <VFED_AerodroneBatteryPack.label>pack de batería de dron aéreo</VFED_AerodroneBatteryPack.label>
+  <VFED_AerodroneBatteryPack.description>Una gran batería cargada para dron aéreo. Suelta un gran pulso electromagnético al ser dañado, capaz de desactivar las defensas cercanas.</VFED_AerodroneBatteryPack.description>
+  <VFED_Aerodrone.label>drones aéreos</VFED_Aerodrone.label>
+  <VFED_Aerodrone.description>Un dron aéreo, un vehículo no tripulado de tecnología espacial equipado con sensores avanzados y con una carga de misiles. Diseñados para hacer operaciones autónomas de larga-distancia, comúnmente usada por el Imperio para reconocimiento y bombardear. Tiene la capacidad de lanzar misiles muy potentes haciéndolos muy efectivos contra varios objetivos. Estos drones aéreos pueden ser temporalmente desactivados debido a un ciclo de recarga.</VFED_Aerodrone.description>
+  <VFED_ImperialMaxpack.label>maxpack imperial</VFED_ImperialMaxpack.label>
+  <VFED_ImperialMaxpack.description>Un maxpack imperial es un camión de transporte blindado, conocido por su asombrosa capacidad de carga. Su blindaje es impenetrable, garantizando la seguridad de su contenido. Una vez en movimiento, las puertas del Maxpack se sellan herméticamente hasta que lleguen hasta el destino. Si bien el intento de robar su cargamento es inútil debido al su protocolo de auto-destrucción, su blindaje lo hace un escudo excelente durante el combate.</VFED_ImperialMaxpack.description>
+  <VFED_StrikeBuoy.label>boya de vigilancia</VFED_StrikeBuoy.label>
+  <VFED_StrikeBuoy.description>Una pequeña boya de vigilancia que usualmente se despliega durante las paradas del convoy. Están conectadas directamente a las patrullas de drones aéreos, una vez activado, enviarán una ráfaga de misiles hacia la ubicación.</VFED_StrikeBuoy.description>
+  <VFED_FuelTank.label>tanque de combustible</VFED_FuelTank.label>
+  <VFED_FuelTank.description>Un gran tanque de combustible usado para repostar los transbordadores Imperiales. Explotara al ser dañado después de cierto punto, potencialmente activando una reacción en cadena.</VFED_FuelTank.description>
+  <VFED_SurveillanceStation.label>consola de vigilancia</VFED_SurveillanceStation.label>
+  <VFED_SurveillanceStation.description>Una gran consola conectada a los pilares de vigilancia. Provee a los usuarios de todos los datos necesarios relacionados con el movimiento de los enemigos en el sector seleccionado.</VFED_SurveillanceStation.description>
+  <VFED_SurveillanceDisplayBank.label>banco de vigilancia</VFED_SurveillanceDisplayBank.label>
+  <VFED_SurveillanceDisplayBank.description>Una computadora imperial. Conectado a la consola de vigilancia, el banco muestra en vivo las imágenes de todos los pilares de vigilancia en el sector.</VFED_SurveillanceDisplayBank.description>
+  <VFED_Techprinter.label>techprinter</VFED_Techprinter.label>
+  <VFED_Techprinter.description>El Techprinter es una maravilla de la innovación tecnológica, diseñados para capturar y preservar los intrincado conocimientos que reside en la mente de un tecfriar. Estas máquinas avanzadas imprimen esta información invaluable en discos techitas. Los TechPrints proporcionan conocimientos fundamentales a los investigadores, arrojando luz a las innovaciones de las sociedades más avanzadas.</VFED_Techprinter.description>
+  <VFED_TechiteDiscStack.label>pila de disco techita</VFED_TechiteDiscStack.label>
+  <VFED_TechiteDiscStack.description>Una pila compacta de discos creados con un elemento enigmatico conocido como techita, producido exclusivamente por el Imperio para transcribir sus conocimientos. Esta diseñado principalmente para preservar la información. Cuando se prende fuego, esta libera una densa nube y chispas, capas de incendiar bastas áreas.</VFED_TechiteDiscStack.description>
+  <VFED_ImperialUnderfarm.label>granja subterráneas imperial</VFED_ImperialUnderfarm.label>
+  <VFED_ImperialUnderfarm.description>Una granja subterráneas de hidroponía usada por el Imperio para alimentar a sus súbditos. Esta completamente automatizada y conectada a una fuente de agua, esta granja no requiere trabajadores para funcionar.</VFED_ImperialUnderfarm.description>
+  <VFED_WaterMain.label>fuente de agua</VFED_WaterMain.label>
+  <VFED_WaterMain.description>Un gran nodo conectados a todas las fuentes de agua cercana. Es requerida para el funcionamiento de las granjas subterráneas.</VFED_WaterMain.description>
+  <VFED_CrashedAerodrone.label>dron aéreo estrellado</VFED_CrashedAerodrone.label>
+  <VFED_CrashedAerodrone.description>Un dron aéreo imperial estrellado.</VFED_CrashedAerodrone.description>
+  <VFED_ImperialMegaHighShield.label>mega escudo-alto imperial</VFED_ImperialMegaHighShield.label>
+  <VFED_ImperialMegaHighShield.description>Un avanzado aparato protector, el mega escudo-alto imperial es un proyecto que genera un campo repulsor de momentum, permitiendo que los disparos salgan pero previniendo que entre. Este esta calibrado para los ángulos altos, desvía las rondas de morteros, los ataques de los drones aéreos y los haces de cortes orbitales. Esta unidad se puede desactivar temporalmente con un ataque EMP, dandole un shock eléctrico o usando munición EMP en el escudo. Consume una gran cantidad de energía.</VFED_ImperialMegaHighShield.description>
+  <VFED_ZeusCannonControlStation.label>estación de control del cañón Zeus</VFED_ZeusCannonControlStation.label>
+  <VFED_ZeusCannonControlStation.description>Esta terminal sirve principalmente para controlar las baterías del cañón Zeus. Equipado con sofisticados controles y sistemas de seguimiento, La Estación de Control del Cañón Zeus asegura la precisión y la coordinación cuando se despliega el formidable poder de fuego de los cañones Zeus. Los operadores deben estar cerca de su radio para poder controlarlos.</VFED_ZeusCannonControlStation.description>
+  <VFED_ZeusCannonCapacitorBank.label>capacitor del cañón zeus</VFED_ZeusCannonCapacitorBank.label>
+  <VFED_ZeusCannonCapacitorBank.description>Un capacitor que transforma la electricidad para ser usada por el cañón Zeus. Despliega una gran onda EMP al ser destruida, potencialmente desactivando el cañón Zeus.</VFED_ZeusCannonCapacitorBank.description>
+  <VFED_ZeusCannon.label>cañón zeus</VFED_ZeusCannon.label>
+  <VFED_ZeusCannon.description>Una reliquia antigua de la tecnología Sophiana, el cañón Zeus es un secreto muy resguardado por el Imperio. Esta pieza de artillería tiene la habilidad única de convertir una basta cantidad de energía en un potente laser. Con un rango incomparable, puede perforar la atmósfera y destruir objetos en órbita. Un testimonio de la brillantez de la ingeniería ya perdida, esta es un arma y a la vez un símbolo del poder del Imperio.\n\nTarda mucho tiempo en recargarse, después apuntara hacia el objetivo y descargara una gran explosión de energía.</VFED_ZeusCannon.description>
+  <VFED_BurnoutIntelScraper.label>recopilador de información quemada</VFED_BurnoutIntelScraper.label>
+  <VFED_BurnoutIntelScraper.description>Un dispositivo de los desertores capaz de interceptar las comunicaciones del Imperio. Cuando esta activo, esta empieza a recopilar información, emitiendo un pulso cada intervalo. Cada pulso tiene la posibilidad de generar una pequeña cantidad de información, pero esto aumenta tu visibilidad y alertara a las fuerzas de choque imperiales. Después de 10 pulsos, la máquina se quemara y explotara.</VFED_BurnoutIntelScraper.description>
+  <VFED_Biodecoder.label>biodescodificador</VFED_Biodecoder.label>
+  <VFED_Biodecoder.description>Un biodescodificador, es una dispositivo de un solo-uso de tecnología ultra, diseñado para biodescodificar, cualquier artículo. Este usa un complejo proceso para desbloquear el biodescodificador del artículo original, transfiere la biocodificación al biodescodificador, rompiéndolo en el proceso. Se puede usar este artículo para desbloquear las cajas bioaseguradas. Este dispositivo se utiliza a menudo en operaciones sensibles donde la presencia de biocodificación puede comprometer la misión.</VFED_Biodecoder.description>
+  <VFED_Biodecoder.comps.CompUsable.useLabel>Usar {0_label}</VFED_Biodecoder.comps.CompUsable.useLabel>
+  <VFED_PsychicAmplifier.label>amplificador psíquico</VFED_PsychicAmplifier.label>
+  <VFED_PsychicAmplifier.description>Una tecnología imperial en desuso luego de la invención de los neuroformadores psíquicos, los amplificadores psíquicos mejoran la conexión psíquica de las mentes de los usuarios. No puede ser formar una conexión psíquica por si mismo, solo puede ser usada por colonos que ya tengan presente conexión psíquica. El usuario presiona al dispositivo sobre los ojos, donde se conecta directamente al cerebro y reestructura una parte de este. Después, el dispositivo se desintegra y se convierte en una ceniza sin valor.</VFED_PsychicAmplifier.description>
+  <VFED_PsychicAmplifier.comps.CompUsable.useLabel>Usar {0_label}</VFED_PsychicAmplifier.comps.CompUsable.useLabel>
+  <VFED_Intel.label>información</VFED_Intel.label>
+  <VFED_Intel.description>Un dossier que contiene información acerca del Imperio en Ruina. Para proteger la información de la contrainteligencia imperial, la información necesita almacenarse de forma física. Puede usarse para obtener objetos de contrabando de los Desertores, o para obtener el acceso a misiones de asesinato contra la nobleza Imperial.</VFED_Intel.description>
+  <VFED_CriticalIntel.label>información critica</VFED_CriticalIntel.label>
+  <VFED_CriticalIntel.description>Un dossier que contiene información acerca del Imperio en Ruina. Para proteger la información de la contrainteligencia imperial, la información necesita almacenarse de forma física. Puede ser usado para planear asesinatos de altos-perfiles, pero también puede intercambiarse por información estándar a través del sistema de contrabando.</VFED_CriticalIntel.description>
+  <VFED_Shell_Shrapnel.label>obús de metralla</VFED_Shell_Shrapnel.label>
+  <VFED_Shell_Shrapnel.description>Obús de mortero diseñado para explotar en el aire y lanzar una gran cantidad de metralla. Este proyectil esta diseñado especificamente para cortar a los enemigos con armadura ligera, infligiendo heridas muy serias y mortales. Esta metralla es lanzada en el mismo vector que el obús de mortero, y pueden ser detenidos por obstáculos.</VFED_Shell_Shrapnel.description>
+  <VFED_Bullet_Shell_Shrapnel.label>obús de metralla</VFED_Bullet_Shell_Shrapnel.label>
+  <VFED_Bullet_Shrapnel.label>metralla</VFED_Bullet_Shrapnel.label>
+  <VFED_Shell_ArmorPiercing.label>obús de perforación-blindaje</VFED_Shell_ArmorPiercing.label>
+  <VFED_Shell_ArmorPiercing.description>Obús de perforación de blindaje diseñado para explotar al impacto y destruir todo a su paso, atravesando completamente la armadura del objetivo. El radio de explosión es casi inexistente, y la armadura del objetivo debe ser impactado directamente por el obús para destruirlo. Es muy preciso y viaja a unas velocidades extremas.</VFED_Shell_ArmorPiercing.description>
+  <VFED_Bullet_Shell_ArmorPiercing.label>obús de perforación-blindaje</VFED_Bullet_Shell_ArmorPiercing.label>
+  <VFED_Shell_Cluster.label>obús de racimo</VFED_Shell_Cluster.label>
+  <VFED_Shell_Cluster.description>Obús de mortero diseñado para dividirse en el aire y liberar tres obuses altamente explosivos. Lanza los obuses en direcciones aleatorias, siguiendo el mismo vector que el obús de racimo. La explosión cubre un gran área pero la precisión de los obuses deja mucho que desear.</VFED_Shell_Cluster.description>
+  <VFED_Bullet_Shell_Cluster.label>obús de racimo</VFED_Bullet_Shell_Cluster.label>
+  <VFED_Apparel_BombPack.label>pack de bomba</VFED_Apparel_BombPack.label>
+  <VFED_Apparel_BombPack.description>Un dispositivo explosivo portable de un solo uso. Se debe desplegar en el suelo, se necesita armar y se puede detonar al presionar un botón. Genera una gran explosión gracias a sus ojivas antimateria, capaz de destruir infraestructura y personal.</VFED_Apparel_BombPack.description>
+  <VFED_Apparel_InvisibilityEngulfer.label>dispositivo de invisibilidad</VFED_Apparel_InvisibilityEngulfer.label>
+  <VFED_Apparel_InvisibilityEngulfer.description>Un dispositivo de invisibilidad multi-uso fue diseñado en base a unos experimentos con tecnología imperial. Permite al usuario volverse completamente invisible durante un periodo de tiempo, después el dispositivo requiere una pequeña cantidad de tiempo para recargarse.</VFED_Apparel_InvisibilityEngulfer.description>
+  <VFED_DeserterDeclassifier.label>desclasificador desertor</VFED_DeserterDeclassifier.label>
+  <VFED_DeserterDeclassifier.description>Un desclasificador desertor es un dispositivo de un solo uso, de ultra tecnología, que consiste en un escaneador-cerebral y una aguja gruesa. Es usada por los desertores imperiales para extraer información. Al insertar la aguja en el cráneo de los nobles con títulos, extrae las memorias de sus cerebros, formando información valiosa para los desertores. La cantidad de información obtenida es determinada por el rango del noble. La persona afectada por un Desclasificador Desertor muere durante el proceso, cuando es usada por un visitante neutral, es considerado como un acto de guerra.</VFED_DeserterDeclassifier.description>
+  <VFED_Mote_AerodroneStrike.label>Mote</VFED_Mote_AerodroneStrike.label>
+  <VFED_Filth_Propaganda.label>propaganda imperial</VFED_Filth_Propaganda.label>
+  <VFED_Mote_ProximityScannerRadius_Orange.label>Mote</VFED_Mote_ProximityScannerRadius_Orange.label>
+  <VFED_Mote_ActivatorProximityGlow_Orange.label>Mote</VFED_Mote_ActivatorProximityGlow_Orange.label>
+  <VFED_Mote_ProximityScannerRadius_Green.label>Mote</VFED_Mote_ProximityScannerRadius_Green.label>
+  <VFED_Mote_ActivatorProximityGlow_Green.label>Mote</VFED_Mote_ActivatorProximityGlow_Green.label>
+  <VFED_AerodroneStrikeIncoming.label>ataque de dron aéreo</VFED_AerodroneStrikeIncoming.label>
+  <VFED_Spark.label>chispa</VFED_Spark.label>
+  <VFED_Gun_ChargeCycler.label>ciclador de carga</VFED_Gun_ChargeCycler.label>
+  <VFED_Gun_ChargeCycler.description>Un revolver de carga modificado con tecnología mecanoide. Los cañones de impacto recuperados fueron sometidos a un proceso de ingeniería inversa permitiendo crear un poderoso revolver de carga con dos modos de disparo. El modo de disparo Cargado puede eliminar a los objetivos cercanos con un poderoso disparo penetrante, en cambio, el modo de disparo Thump permite al usuario incapacitar a los enemigos y romper cualquier cobertura. Los modos pueden cambiarse presionando un botón.</VFED_Gun_ChargeCycler.description>
+  <VFED_Gun_ChargeCycler.comps.Comp_VerbProps.verbProps.0.label>Disparo único (Disparo Cargado)</VFED_Gun_ChargeCycler.comps.Comp_VerbProps.verbProps.0.label>
+  <VFED_Gun_ChargeCycler.comps.Comp_VerbProps.verbProps.1.label>Disparo único (Disparo Thump)</VFED_Gun_ChargeCycler.comps.Comp_VerbProps.verbProps.1.label>
+  <VFED_Gun_ChargeCycler.tools.handle.label>empuñadura</VFED_Gun_ChargeCycler.tools.handle.label>
+  <VFED_Gun_ChargeCycler.tools.barrel.label>cañón</VFED_Gun_ChargeCycler.tools.barrel.label>
+  <VFED_Gun_ChargeCycler.verbs.Single_shot_Charged_shot.label>Disparo único (Disparo Cargado)</VFED_Gun_ChargeCycler.verbs.Single_shot_Charged_shot.label>
+  <VFED_Gun_ChargeCycler.verbs.Single_shot_Thump_shot.label>Disparo único (Disparo Thump)</VFED_Gun_ChargeCycler.verbs.Single_shot_Thump_shot.label>
+  <VFED_Bullet_ChargedShot.label>disparo cargado</VFED_Bullet_ChargedShot.label>
+  <VFEE_Bullet_ThumpShot.label>disparo thump</VFEE_Bullet_ThumpShot.label>
+  <VFED_Gun_Fletchling.label>fletchlung</VFED_Gun_Fletchling.label>
+  <VFED_Gun_Fletchling.description>Una modificación extremadamente rara del rifle de dardos, flechlung es una escopeta comúnmente usada por los desertores imperiales. Su mera posesión puede verse como un acto de guerra contra el Imperio en Ruina. Cada disparo de la flechlung libera un cantidad de unos pequeños dardos acidificantes capaz de impactar a varios objetivos, causando una cantidad extrema de dolor y de quemaduras por acido. Es letal para los seres orgánicos y son casi inútil contra los no-orgánicos, como los mecanoides.\n\nLos objetivos golpeados por los dardos recibirán una variedad de ácidos inestables, diseñados para disolver a los objetivos desde adentro, y destruir sus equipamientos. El ácido arrasará el cuerpo del objetivo y usualmente provocara que los órganos vitales sean disueltos, sin embargo, la letalidad no esta garantizada.</VFED_Gun_Fletchling.description>
+  <VFED_Gun_Fletchling.tools.barrel.label>cañón</VFED_Gun_Fletchling.tools.barrel.label>
+  <VFED_Gun_Fletchling.verbs.Verb_Shoot.label>fletchlung</VFED_Gun_Fletchling.verbs.Verb_Shoot.label>
+  <VFEE_Bullet_FletchlingDart.label>dardo</VFEE_Bullet_FletchlingDart.label>
+  <VFED_DropPodIncoming_Propaganda.label>cápsula de transporte (llegando)</VFED_DropPodIncoming_Propaganda.label>
+  <VFED_RemoteTrapIED_ToxGas.label>carga toxica remota</VFED_RemoteTrapIED_ToxGas.label>
+  <VFED_RemoteTrapIED_ToxGas.description>Un par de obuses de toxicos conectado a un mecanismo de activación remota. Puede detonarse a voluntad, pero el tiempo de la mecha puede variar. Como está oculto en el terreno no puede ser colocada adyacente a otra trampa. Los animales pueden sentirlos cuando están tranquilos.</VFED_RemoteTrapIED_ToxGas.description>
+</LanguageData>

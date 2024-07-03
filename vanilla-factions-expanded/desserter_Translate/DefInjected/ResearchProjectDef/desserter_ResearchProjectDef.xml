@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFED_ImperialDefenses.label>defensas imperiales</VFED_ImperialDefenses.label>
+  <VFED_ImperialDefenses.description>Crear megatorretas imperiales: Kontarion, Onager y Palintone, así como sus municiones.</VFED_ImperialDefenses.description>
+  <VFED_ImperialDefenses.generalRules.rulesStrings.0>subject-&gt;fortress engineering</VFED_ImperialDefenses.generalRules.rulesStrings.0>
+  <VFED_ImperialDefenses.generalRules.rulesStrings.1>subject_story-&gt;engineered the mightiest defenses, deterring would-be conquerors with mere rumors of their power</VFED_ImperialDefenses.generalRules.rulesStrings.1>
+  <VFED_ImperialDefenses.generalRules.rulesStrings.2>subject_story-&gt;crafted turrets that combined ancient design principles with futuristic weaponry</VFED_ImperialDefenses.generalRules.rulesStrings.2>
+  <VFED_ImperialDefenses.generalRules.rulesStrings.3>subject_story-&gt;ensured the empire's borders were impregnable, standing as a testament to imperial ingenuity</VFED_ImperialDefenses.generalRules.rulesStrings.3>
+  <VFED_ImperialDefenses.generalRules.rulesStrings.4>subject_gerund-&gt;redefining the art of defense</VFED_ImperialDefenses.generalRules.rulesStrings.4>
+  <VFED_ImperialWarSolutions.label>soluciones de guerra imperial - mortero</VFED_ImperialWarSolutions.label>
+  <VFED_ImperialWarSolutions.description>Crear potentes obuses imperiales, como con metralla, perforación de armaduras y de racimo.</VFED_ImperialWarSolutions.description>
+  <VFED_ImperialWarSolutions.generalRules.rulesStrings.0>subject-&gt;advanced ordnance</VFED_ImperialWarSolutions.generalRules.rulesStrings.0>
+  <VFED_ImperialWarSolutions.generalRules.rulesStrings.1>subject_story-&gt;innovated artillery ammunition that turned battlefields to their advantage with a single salvo</VFED_ImperialWarSolutions.generalRules.rulesStrings.1>
+  <VFED_ImperialWarSolutions.generalRules.rulesStrings.2>subject_story-&gt;developed shells that could pierce the toughest armors or scatter enemies with relentless shrapnel</VFED_ImperialWarSolutions.generalRules.rulesStrings.2>
+  <VFED_ImperialWarSolutions.generalRules.rulesStrings.3>subject_story-&gt;transformed the empire's artillery into a force capable of dictating the terms of engagement</VFED_ImperialWarSolutions.generalRules.rulesStrings.3>
+  <VFED_ImperialWarSolutions.generalRules.rulesStrings.4>subject_gerund-&gt;mastering the science of destruction</VFED_ImperialWarSolutions.generalRules.rulesStrings.4>
+  <VFED_RemoteDemolition.label>soluciones de guerra imperial - trampas</VFED_RemoteDemolition.label>
+  <VFED_RemoteDemolition.description>Construir trampas explosivas avanzadas con un mecanismo de detonación remota.</VFED_RemoteDemolition.description>
+  <VFED_RemoteDemolition.generalRules.rulesStrings.0>subject-&gt;tactical demolitions</VFED_RemoteDemolition.generalRules.rulesStrings.0>
+  <VFED_RemoteDemolition.generalRules.rulesStrings.1>subject_story-&gt;pioneered the use of remotely controlled explosives, changing the dynamics of siege warfare</VFED_RemoteDemolition.generalRules.rulesStrings.1>
+  <VFED_RemoteDemolition.generalRules.rulesStrings.2>subject_story-&gt;crafted traps that could be detonated at the perfect moment, creating chaos among enemy ranks</VFED_RemoteDemolition.generalRules.rulesStrings.2>
+  <VFED_RemoteDemolition.generalRules.rulesStrings.3>subject_story-&gt;turned the battlefield into a meticulously controlled environment, where every step could be the last</VFED_RemoteDemolition.generalRules.rulesStrings.3>
+  <VFED_RemoteDemolition.generalRules.rulesStrings.4>subject_gerund-&gt;elevating the element of surprise to an art form</VFED_RemoteDemolition.generalRules.rulesStrings.4>
+</LanguageData>

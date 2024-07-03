@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFED_Hidden.label>oculto</VFED_Hidden.label>
+  <VFED_Hidden.description>Estas operando en secreto, y el Imperio no tiene conocimiento de tu alianza con los desertores. No responderán ante vuestros ataques a las instalaciones, y por lo general, no os buscarán por el planeta.</VFED_Hidden.description>
+  <VFED_Whispers.label>susurros</VFED_Whispers.label>
+  <VFED_Whispers.description>Empiezan a esparcirse entre la nobleza, sobre tus actividades, pero el Imperio solo te ve como una molestia insignificante. Puedes esperar que el Imperio mande alguna patrulla a las instalaciones imperiales bajo ataque, pero aún tendrás suficiente tiempo para entrar y salir antes de que lleguen. la verificación de inventario ahora es parte de los informes, haciendo que sea un poco más difícil de adquirir el contrabando.</VFED_Whispers.description>
+  <VFED_Rumors.label>rumores</VFED_Rumors.label>
+  <VFED_Rumors.description>Los rumores acerca de tu actividad desertora empiezan a circular entre los oficiales de bajo-rango y de los soldados del Imperio. Si bien el Imperio aún no tiene evidencia concreta de tu participación, empiezan a tomarse más enserio los rumores y han aumentando sus medidas de seguridad. Puedes esperar que más seguridad en las instalaciones imperiales, y que las fuerzas de reacción jenízara lleguen rápido a las instalaciones si se alerta de tu presencia. Ahora hay más patrullas imperiales e inspeccionaran cada caravana con la que se crucen.</VFED_Rumors.description>
+  <VFED_Rumors.specialEffects.0.label>Los eventos de caravana de las patrullas imperiales están activas</VFED_Rumors.specialEffects.0.label>
+  <VFED_Rumors.specialEffects.1.label>Todos los ejércitos imperiales en las misiones contra el Imperio son un 20% más grande</VFED_Rumors.specialEffects.1.label>
+  <VFED_News.label>noticias</VFED_News.label>
+  <VFED_News.description>Tus acciones se han vuelto de publico conocimiento y han golpeado a las estaciones de noticias imperiales como una tormenta. El Imperio empieza a considerarte como una seria amenaza y ha puesto en alta-prioridad localizarte. La seguridad de todas sus instalaciones ha sido aumentada en gran medida. Además, el Imperio ha empezado a enviar más grupo de asaltante a cualquier asentamiento con sospecha de colaborar con los desertores. será más difícil obtener contrabando y apoyo de los locales debido al aumento en la propaganda Imperial</VFED_News.description>
+  <VFED_News.specialEffects.0.label>Los asaltos perteneciente al Imperio ocurren el doble de veces</VFED_News.specialEffects.0.label>
+  <VFED_News.specialEffects.1.label>Todos los ejércitos imperiales en las misiones contra el Imperio son un 50% más grande</VFED_News.specialEffects.1.label>
+  <VFED_News.specialEffects.2.label>Empezara a caer Propaganda Imperial</VFED_News.specialEffects.2.label>
+  <VFED_News.specialEffects.3.label>La misión de Desertor Perseguido ya no ocurrirá</VFED_News.specialEffects.3.label>
+  <VFED_PublicEnemy.label>enemigo publico</VFED_PublicEnemy.label>
+  <VFED_PublicEnemy.description>Tu nombre es muy conocido, y el Imperio te considera como su enemigo numero uno. Están usando todos sus recursos para localizarte y eliminarte a ti y a tus seguidores. El Imperio también puede utilizar tácticas de tierra arrasada, como bombardear áreas enteras en la que sospechan que apoyan a los desertores. Están dispuestos a sacrificar sus propias instalaciones si eso significa eliminar a los desertores, además responderán a cualquier agresión con bombardeos indiscriminados de drones aéreos. La mayoría de las operaciones de contrabando cesarán y el contrabando será increíblemente difícil de encontrar. Los espías imperiales difundirán desinformación a las otras facciones para ponerlas a tu contra, haciendo difícil distinguir entre amigos y enemigos. Es una guerra en toda regla y el resultado determinará tu destino y el destino del Imperio. Prepárate para una lucha difícil, ya que la supervivencia es la única opción disponible.</VFED_PublicEnemy.description>
+  <VFED_PublicEnemy.specialEffects.0.label>Los asaltos perteneciente al Imperio ocurren el triple de veces</VFED_PublicEnemy.specialEffects.0.label>
+  <VFED_PublicEnemy.specialEffects.1.label>Todos los ejércitos imperiales en las misiones contra el Imperio son un 100% más grande</VFED_PublicEnemy.specialEffects.1.label>
+  <VFED_PublicEnemy.specialEffects.2.label>Los eventos de bombardeo de dron aéreo esta disponible</VFED_PublicEnemy.specialEffects.2.label>
+  <VFED_PublicEnemy.specialEffects.3.label>Empezaran los asaltos de absolvedores</VFED_PublicEnemy.specialEffects.3.label>
+  <VFED_PublicEnemy.specialEffects.4.label>Las relaciones con una facción aleatoria caerá en -10 cada día</VFED_PublicEnemy.specialEffects.4.label>
+  <VFED_DivineInferno.label>infierno divino</VFED_DivineInferno.label>
+  <VFED_DivineInferno.description>El Imperio inicio el protocolo de Infierno Divino en tu posición. Esperan que encuentres consuelo en las llamas limpiadoras. Tienes 30 días antes de que el Imperio mueva todos los satélites de haz cortante hacia tu posición. A menos que consigas reducir tu visibilidad a Oculto en este tiempo, tu colonia quedará cubierta de numerosos pilares de fuego.</VFED_DivineInferno.description>
+  <VFED_DivineInferno.specialEffects.0.label>Tan pronto como el jugador llegue al 100 de Visibilidad, se activara la cuenta regresiva del Infierno Divino.</VFED_DivineInferno.specialEffects.0.label>
+</LanguageData>

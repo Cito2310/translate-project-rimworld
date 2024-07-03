@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFED_GiveQuest_ChasedDeserter.label>desertor imperial</VFED_GiveQuest_ChasedDeserter.label>
+  <VFED_ImperialPatrol.label>patrulla imperial</VFED_ImperialPatrol.label>
+  <VFED_PropagandaDrop.label>caída de propaganda imperial</VFED_PropagandaDrop.label>
+  <VFED_PropagandaDrop.letterLabel>Propaganda drop</VFED_PropagandaDrop.letterLabel>
+  <VFED_PropagandaDrop.letterText>Una cápsula de carga se estrello cerca. Contiene propaganda imperial, anunciando como la vida bajo las reglas imperiales esta lleno de maravillas. Los folletos hablan acerca de un nuevo sistema para reportar a los desertores y recibir una gran recompensa. Lleva bastante tiempo limpiarlo, y quien lo limpie, los panfletos afectara a su humor y perderá su certeza.</VFED_PropagandaDrop.letterText>
+  <VFED_Raid_Absolver.label>asalto de absolvedor</VFED_Raid_Absolver.label>
+</LanguageData>

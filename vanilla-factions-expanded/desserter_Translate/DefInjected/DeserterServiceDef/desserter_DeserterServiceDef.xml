@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFED_LowerVisibility.label>bajar visibilidad</VFED_LowerVisibility.label>
+  <VFED_LowerVisibility.description>Usar la información para convencer a la red de los desertores para limpiar tu nombre y reducir tu visibilidad a 1.</VFED_LowerVisibility.description>
+  <VFED_CallShuttle.label>llamar transbordador</VFED_CallShuttle.label>
+  <VFED_CallShuttle.description>Llamar a un transbordador unidireccional para tu propio uso, para transportar colonos, artículos y animales a unas 70 casillas de distancia.</VFED_CallShuttle.description>
+  <VFED_IncreaseGoodwill.label>mejorar relación</VFED_IncreaseGoodwill.label>
+  <VFED_IncreaseGoodwill.description>Intercambiar información para convencer a la red de los desertores para incrementar tus relaciones con una facción aleatoria en 5.</VFED_IncreaseGoodwill.description>
+  <VFED_DelayResponse.label>retrasar respuesta</VFED_DelayResponse.label>
+  <VFED_DelayResponse.description>Intercambiar información para convencer a la red de desertores que creen una distracción, aumentando el tiempo de respuesta de las operaciones actuales con el reloj contando. Este retrasa la respuesta en 1 minuto. Puede usarse varias veces.</VFED_DelayResponse.description>
+  <VFED_TauntImperials.label>tantear a las fuerzas imperiales</VFED_TauntImperials.label>
+  <VFED_TauntImperials.description>Gasta información para provocar a las fuerzas de choque imperiales haciendo que ataquen tu colonia.</VFED_TauntImperials.description>
+  <VFED_ChangeCritical.label>cambiar información critica</VFED_ChangeCritical.label>
+  <VFED_ChangeCritical.description>Intercambiar información critica por 10 información estándar.</VFED_ChangeCritical.description>
+</LanguageData>

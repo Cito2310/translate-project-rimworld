@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFED_AerodroneStation.label>estación de drones aéreos</VFED_AerodroneStation.label>
+  <VFED_AerodroneStation.description>Una Estación de Drones Aéreos Imperial.</VFED_AerodroneStation.description>
+  <VFED_ControlStation.label>estación de control</VFED_ControlStation.label>
+  <VFED_ControlStation.description>Una Estación de Control Imperial.</VFED_ControlStation.description>
+  <VFED_DeadDrop.label>punto muerto</VFED_DeadDrop.label>
+  <VFED_DeadDrop.description>Un punto muerto de un contacto desertor.</VFED_DeadDrop.description>
+  <VFED_EmpireRuins.label>Nave insignia imperial estrellada</VFED_EmpireRuins.label>
+  <VFED_EmpireRuins.description>La nave insignia del Imperio, ahora estrellada.</VFED_EmpireRuins.description>
+  <VFED_ImperialConvoy.label>convoy imperial</VFED_ImperialConvoy.label>
+  <VFED_ImperialConvoy.description>Un convoy imperial.</VFED_ImperialConvoy.description>
+  <VFED_PlotMission_Raid.label>mansión de noble</VFED_PlotMission_Raid.label>
+  <VFED_PlotMission_Raid.description>Un mansión de un noble.</VFED_PlotMission_Raid.description>
+  <VFED_PlotMission_DownedShuttle.label>transbordador caído</VFED_PlotMission_DownedShuttle.label>
+  <VFED_PlotMission_DownedShuttle.description>Un transbordador que llevaba a un noble estrellado.</VFED_PlotMission_DownedShuttle.description>
+  <VFED_ShuttleStagingPost.label>puesto de preparación de transbordador</VFED_ShuttleStagingPost.label>
+  <VFED_ShuttleStagingPost.description>Un Puesto de Preparación de Transbordador Imperial.</VFED_ShuttleStagingPost.description>
+  <VFED_SupplyDepot.label>deposito de suministros</VFED_SupplyDepot.label>
+  <VFED_SupplyDepot.description>Un Deposito de Suministros Imperial.</VFED_SupplyDepot.description>
+  <VFED_TechPrinter.label>centro de techprinter</VFED_TechPrinter.label>
+  <VFED_TechPrinter.description>Un Centro TechPrinter Imperial.</VFED_TechPrinter.description>
+  <VFED_Underfarm.label>granjas subterráneas imperial</VFED_Underfarm.label>
+  <VFED_Underfarm.description>Una Granja Subterránea Imperial.</VFED_Underfarm.description>
+  <VFED_ZeusCannonComplex.label>complejo cañón zeus</VFED_ZeusCannonComplex.label>
+  <VFED_ZeusCannonComplex.description>Una instalación secreta del Imperio equipado con un gran numero de potentes cañones Zeus, capaz de derribar grandes objetos en orbita.</VFED_ZeusCannonComplex.description>
+</LanguageData>
